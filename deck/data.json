@@ -1,0 +1,3084 @@
+{
+  "snapshotDate": "2026-11-15",
+  "macro": {
+    "2025": {
+      "NE.EXP.GNFS.ZS": 25.3335332319508,
+      "NE.IMP.GNFS.ZS": 51.8467407605299,
+      "NV.AGR.TOTL.ZS": 7.57270528442222,
+      "NV.IND.MANF.ZS": 8.31869736566018,
+      "NV.IND.TOTL.ZS": 17.8706564878112,
+      "NV.SRV.TOTL.ZS": 60.9882284496339,
+      "NY.GDP.MKTP.CD": 214233312784.397,
+      "NY.GDP.MKTP.KD.ZG": 1.82152376756284,
+      "NY.GDP.MKTP.KD": 80225421017.1528,
+      "NY.GDP.PCAP.KD": 2196.63818359375,
+      "SP.POP.TOTL": 38980376.0
+    },
+    "2024": {
+      "NE.EXP.GNFS.ZS": 29.6719973021423,
+      "NE.IMP.GNFS.ZS": 50.0164700870853,
+      "NV.AGR.TOTL.ZS": 7.29453892630693,
+      "NV.IND.MANF.ZS": 8.4204821063336,
+      "NV.IND.TOTL.ZS": 19.0494567220403,
+      "NV.SRV.TOTL.ZS": 60.3904324193958,
+      "NY.GDP.MKTP.CD": 190833835445.1,
+      "NY.GDP.MKTP.KD.ZG": 3.24811808426423,
+      "NY.GDP.MKTP.KD": 78790238103.5768,
+      "NY.GDP.PCAP.KD": 2226.05810546875,
+      "SP.POP.TOTL": 37860221.0
+    },
+    "2023": {
+      "NE.EXP.GNFS.ZS": 28.300468273727,
+      "NE.IMP.GNFS.ZS": 49.2091459198387,
+      "NV.AGR.TOTL.ZS": 7.55194546256383,
+      "NV.IND.MANF.ZS": 8.31267715667005,
+      "NV.IND.TOTL.ZS": 19.0867598647608,
+      "NV.SRV.TOTL.ZS": 61.211871946742,
+      "NY.GDP.MKTP.CD": 181221517868.744,
+      "NY.GDP.MKTP.KD.ZG": 5.53473354963334,
+      "NY.GDP.MKTP.KD": 76311548883.8968,
+      "NY.GDP.PCAP.KD": 2164.26123046875,
+      "SP.POP.TOTL": 37732836.0
+    },
+    "2022": {
+      "NE.EXP.GNFS.ZS": 35.4451153382041,
+      "NE.IMP.GNFS.ZS": 51.9513986525203,
+      "NV.AGR.TOTL.ZS": 8.57297627041519,
+      "NV.IND.MANF.ZS": 7.6035757191006,
+      "NV.IND.TOTL.ZS": 18.0108316024427,
+      "NV.SRV.TOTL.ZS": 61.7172292872421,
+      "NY.GDP.MKTP.CD": 161989520721.19,
+      "NY.GDP.MKTP.KD.ZG": -28.7585842155085,
+      "NY.GDP.MKTP.KD": 72309415409.6738,
+      "NY.GDP.PCAP.KD": 1874.66296386719,
+      "SP.POP.TOTL": 41048766.0
+    },
+    "2021": {
+      "NE.EXP.GNFS.ZS": 40.6883404768688,
+      "NE.IMP.GNFS.ZS": 42.0096208865812,
+      "NV.AGR.TOTL.ZS": 10.8857721063269,
+      "NV.IND.MANF.ZS": 10.2832971524252,
+      "NV.IND.TOTL.ZS": 23.1537142195647,
+      "NV.SRV.TOTL.ZS": 51.9054004247779,
+      "NY.GDP.MKTP.CD": 199765859570.935,
+      "NY.GDP.MKTP.KD.ZG": 3.44562065945944,
+      "NY.GDP.MKTP.KD": 101499127457.564,
+      "NY.GDP.PCAP.KD": 2426.6123046875,
+      "SP.POP.TOTL": 44298640.0
+    },
+    "2020": {
+      "NE.EXP.GNFS.ZS": 38.8216462901934,
+      "NE.IMP.GNFS.ZS": 40.3348060859881,
+      "NV.AGR.TOTL.ZS": 9.31015109807472,
+      "NV.IND.MANF.ZS": 10.1013826063601,
+      "NV.IND.TOTL.ZS": 20.7999429657705,
+      "NV.SRV.TOTL.ZS": 55.7900164518172,
+      "NY.GDP.MKTP.CD": 156617722013.342,
+      "NY.GDP.MKTP.KD.ZG": -3.75281793983162,
+      "NY.GDP.MKTP.KD": 98118341608.386,
+      "NY.GDP.PCAP.KD": 2324.107421875,
+      "SP.POP.TOTL": 44680014.0
+    },
+    "2019": {
+      "NE.EXP.GNFS.ZS": 41.2316912560049,
+      "NE.IMP.GNFS.ZS": 49.2795430350714,
+      "NV.AGR.TOTL.ZS": 8.96518101437243,
+      "NV.IND.MANF.ZS": 10.7886004166753,
+      "NV.IND.TOTL.ZS": 22.5804196823995,
+      "NV.SRV.TOTL.ZS": 54.4855197050788,
+      "NY.GDP.MKTP.CD": 153883047509.577,
+      "NY.GDP.MKTP.KD.ZG": 3.19950386354134,
+      "NY.GDP.MKTP.KD": 101944118786.821,
+      "NY.GDP.PCAP.KD": 2398.07836914063,
+      "SP.POP.TOTL": 44957458.0
+    },
+    "2018": {
+      "NE.EXP.GNFS.ZS": 45.2352356625927,
+      "NE.IMP.GNFS.ZS": 53.9645794092748,
+      "NV.AGR.TOTL.ZS": 10.1395331070229,
+      "NV.IND.MANF.ZS": 11.5340215521043,
+      "NV.IND.TOTL.ZS": 23.2933329813033,
+      "NV.SRV.TOTL.ZS": 51.3323027091522,
+      "NY.GDP.MKTP.CD": 130891088293.55,
+      "NY.GDP.MKTP.KD.ZG": 3.48836234022659,
+      "NY.GDP.MKTP.KD": 98783535744.1445,
+      "NY.GDP.PCAP.KD": 2308.6669921875,
+      "SP.POP.TOTL": 45208907.0
+    },
+    "2017": {
+      "NE.EXP.GNFS.ZS": 48.1249163515559,
+      "NE.IMP.GNFS.ZS": 55.9100665598426,
+      "NV.AGR.TOTL.ZS": 10.1776550393512,
+      "NV.IND.MANF.ZS": 11.980302070255,
+      "NV.IND.TOTL.ZS": 23.2888002154817,
+      "NV.SRV.TOTL.ZS": 50.9587159917712,
+      "NY.GDP.MKTP.CD": 112090505081.739,
+      "NY.GDP.MKTP.KD.ZG": 2.35997228099491,
+      "NY.GDP.MKTP.KD": 95453762636.0202,
+      "NY.GDP.PCAP.KD": 2217.7529296875,
+      "SP.POP.TOTL": 45436041.0
+    },
+    "2016": {
+      "NE.EXP.GNFS.ZS": 49.2986194577187,
+      "NE.IMP.GNFS.ZS": 56.2225854554037,
+      "NV.AGR.TOTL.ZS": 11.7257009089167,
+      "NV.IND.MANF.ZS": 12.2191260296634,
+      "NV.IND.TOTL.ZS": 23.1783620717483,
+      "NV.SRV.TOTL.ZS": 49.9142479962203,
+      "NY.GDP.MKTP.CD": 93355869403.9223,
+      "NY.GDP.MKTP.KD.ZG": 2.44098194492067,
+      "NY.GDP.MKTP.KD": 93253017277.0895,
+      "NY.GDP.PCAP.KD": 2156.0830078125,
+      "SP.POP.TOTL": 45616832.0
+    },
+    "2015": {
+      "NE.EXP.GNFS.ZS": 52.5976795082231,
+      "NE.IMP.GNFS.ZS": 55.2089367899327,
+      "NV.AGR.TOTL.ZS": 12.0593761063371,
+      "NV.IND.MANF.ZS": 11.9027791187924,
+      "NV.IND.TOTL.ZS": 21.7279577419459,
+      "NV.SRV.TOTL.ZS": 51.1686439927907,
+      "NY.GDP.MKTP.CD": 91030967789.0717,
+      "NY.GDP.MKTP.KD.ZG": -9.7729872128676,
+      "NY.GDP.MKTP.KD": 91030967789.0717,
+      "NY.GDP.PCAP.KD": 2094.47387695313,
+      "SP.POP.TOTL": 45784896.0
+    },
+    "2014": {
+      "NE.EXP.GNFS.ZS": 48.5929618158503,
+      "NE.IMP.GNFS.ZS": 52.0988206677736,
+      "NV.AGR.TOTL.ZS": 10.1546081548161,
+      "NV.IND.MANF.ZS": 12.2281281606135,
+      "NV.IND.TOTL.ZS": 22.8189915653958,
+      "NV.SRV.TOTL.ZS": 54.1589184045774,
+      "NY.GDP.MKTP.CD": 133503871861.723,
+      "NY.GDP.MKTP.KD.ZG": -10.0788949840953,
+      "NY.GDP.MKTP.KD": 100891035818.548,
+      "NY.GDP.PCAP.KD": 2308.6435546875,
+      "SP.POP.TOTL": 45972380.0
+    },
+    "2013": {
+      "NE.EXP.GNFS.ZS": 42.8973826672717,
+      "NE.IMP.GNFS.ZS": 51.1042867829065,
+      "NV.AGR.TOTL.ZS": 8.69230562102956,
+      "NV.IND.MANF.ZS": 11.1405917419353,
+      "NV.IND.TOTL.ZS": 22.4302649907366,
+      "NV.SRV.TOTL.ZS": 56.6426976003131,
+      "NY.GDP.MKTP.CD": 190498811460.028,
+      "NY.GDP.MKTP.KD.ZG": 0.045439094492707,
+      "NY.GDP.MKTP.KD": 112199506223.487,
+      "NY.GDP.PCAP.KD": 2432.41625976563,
+      "SP.POP.TOTL": 46126770.0
+    },
+    "2012": {
+      "NE.EXP.GNFS.ZS": 47.38283156146,
+      "NE.IMP.GNFS.ZS": 55.2399567951663,
+      "NV.AGR.TOTL.ZS": 7.76131248389414,
+      "NV.IND.MANF.ZS": 12.2296271115814,
+      "NV.IND.TOTL.ZS": 24.2660524050508,
+      "NV.SRV.TOTL.ZS": 54.4753052575019,
+      "NY.GDP.MKTP.CD": 182591753827.949,
+      "NY.GDP.MKTP.KD.ZG": 0.152314967200653,
+      "NY.GDP.MKTP.KD": 112148546939.271,
+      "NY.GDP.PCAP.KD": 2426.92944335938,
+      "SP.POP.TOTL": 46210056.0
+    },
+    "2011": {
+      "NE.EXP.GNFS.ZS": 49.4061569340739,
+      "NE.IMP.GNFS.ZS": 55.3989169701848,
+      "NV.AGR.TOTL.ZS": 8.15022183877887,
+      "NV.IND.MANF.ZS": 11.7655342734613,
+      "NV.IND.TOTL.ZS": 24.8391242667758,
+      "NV.SRV.TOTL.ZS": 53.5003535486051,
+      "NY.GDP.MKTP.CD": 169333835201.554,
+      "NY.GDP.MKTP.KD.ZG": 5.44528081048476,
+      "NY.GDP.MKTP.KD": 111977987704.028,
+      "NY.GDP.PCAP.KD": 2418.12084960938,
+      "SP.POP.TOTL": 46307853.0
+    },
+    "2010": {
+      "NE.EXP.GNFS.ZS": 46.4565383259637,
+      "NE.IMP.GNFS.ZS": 49.2731921273264,
+      "NV.AGR.TOTL.ZS": 7.40220509822994,
+      "NV.IND.MANF.ZS": 13.0957490953386,
+      "NV.IND.TOTL.ZS": 25.6492814021248,
+      "NV.SRV.TOTL.ZS": 55.4893203103736,
+      "NY.GDP.MKTP.CD": 141209170427.233,
+      "NY.GDP.MKTP.KD.ZG": 4.09200436668087,
+      "NY.GDP.MKTP.KD": 106195352549.996,
+      "NY.GDP.PCAP.KD": 2285.93383789063,
+      "SP.POP.TOTL": 46456003.0
+    },
+    "2009": {
+      "NE.EXP.GNFS.ZS": 42.9288246983766,
+      "NE.IMP.GNFS.ZS": 44.547337921655,
+      "NV.AGR.TOTL.ZS": 6.90539595920772,
+      "NV.IND.MANF.ZS": 14.3166828926278,
+      "NV.IND.TOTL.ZS": 24.759831137373,
+      "NV.SRV.TOTL.ZS": 55.9948766791758,
+      "NY.GDP.MKTP.CD": 121552153444.124,
+      "NY.GDP.MKTP.KD.ZG": -15.1364679101502,
+      "NY.GDP.MKTP.KD": 102020662582.215,
+      "NY.GDP.PCAP.KD": 2188.17016601563,
+      "SP.POP.TOTL": 46623731.0
+    },
+    "2008": {
+      "NE.EXP.GNFS.ZS": 43.2598688559666,
+      "NE.IMP.GNFS.ZS": 50.9120232857868,
+      "NV.AGR.TOTL.ZS": 6.53540152136768,
+      "NV.IND.MANF.ZS": 15.8865544564648,
+      "NV.IND.TOTL.ZS": 28.083434007624,
+      "NV.SRV.TOTL.ZS": 52.878376373485,
+      "NY.GDP.MKTP.CD": 188110390659.515,
+      "NY.GDP.MKTP.KD.ZG": 2.24349159628288,
+      "NY.GDP.MKTP.KD": 120217318405.036,
+      "NY.GDP.PCAP.KD": 2567.69409179688,
+      "SP.POP.TOTL": 46819175.0
+    },
+    "2007": {
+      "NE.EXP.GNFS.ZS": 41.2899111443658,
+      "NE.IMP.GNFS.ZS": 46.7566495274968,
+      "NV.AGR.TOTL.ZS": 6.28300133403275,
+      "NV.IND.MANF.ZS": 18.4044595569733,
+      "NV.IND.TOTL.ZS": 30.6585222325477,
+      "NV.SRV.TOTL.ZS": 51.6170820097297,
+      "NY.GDP.MKTP.CD": 148733861386.139,
+      "NY.GDP.MKTP.KD.ZG": 8.21584445165715,
+      "NY.GDP.MKTP.KD": 117579433691.217,
+      "NY.GDP.PCAP.KD": 2498.35205078125,
+      "SP.POP.TOTL": 47062798.0
+    },
+    "2006": {
+      "NE.EXP.GNFS.ZS": 43.2186231235111,
+      "NE.IMP.GNFS.ZS": 45.9624295155199,
+      "NV.AGR.TOTL.ZS": 7.23906141043294,
+      "NV.IND.MANF.ZS": 18.7489602101172,
+      "NV.IND.TOTL.ZS": 30.5434517130428,
+      "NV.SRV.TOTL.ZS": 49.823191473546,
+      "NY.GDP.MKTP.CD": 111884752475.248,
+      "NY.GDP.MKTP.KD.ZG": 7.57142076322967,
+      "NY.GDP.MKTP.KD": 108652697104.575,
+      "NY.GDP.PCAP.KD": 2298.13232421875,
+      "SP.POP.TOTL": 47278694.0
+    },
+    "2005": {
+      "NE.EXP.GNFS.ZS": 47.7297326846335,
+      "NE.IMP.GNFS.ZS": 46.9178374241513,
+      "NV.AGR.TOTL.ZS": 8.87530749467009,
+      "NV.IND.MANF.ZS": 18.5082818564478,
+      "NV.IND.TOTL.ZS": 30.1861914393484,
+      "NV.SRV.TOTL.ZS": 49.3819493795441,
+      "NY.GDP.MKTP.CD": 89238865118.5263,
+      "NY.GDP.MKTP.KD.ZG": 3.07123039245209,
+      "NY.GDP.MKTP.KD": 101005170642.605,
+      "NY.GDP.PCAP.KD": 2122.6015625,
+      "SP.POP.TOTL": 47585556.0
+    },
+    "2004": {
+      "NE.EXP.GNFS.ZS": 58.6968317186137,
+      "NE.IMP.GNFS.ZS": 51.2848768263486,
+      "NV.AGR.TOTL.ZS": 10.4370371199069,
+      "NV.IND.MANF.ZS": 17.5116908688161,
+      "NV.IND.TOTL.ZS": 29.3717696283534,
+      "NV.SRV.TOTL.ZS": 51.2225068802721,
+      "NY.GDP.MKTP.CD": 67220154164.3166,
+      "NY.GDP.MKTP.KD.ZG": 11.7953525281136,
+      "NY.GDP.MKTP.KD": 97995502972.09,
+      "NY.GDP.PCAP.KD": 2042.44494628906,
+      "SP.POP.TOTL": 47979507.0
+    },
+    "2003": {
+      "NE.EXP.GNFS.ZS": 52.5431306448415,
+      "NE.IMP.GNFS.ZS": 50.0470516125543,
+      "NV.AGR.TOTL.ZS": 10.4995403003371,
+      "NV.IND.MANF.ZS": 17.5439418795407,
+      "NV.IND.TOTL.ZS": 30.4267094517856,
+      "NV.SRV.TOTL.ZS": 49.2931441654198,
+      "NY.GDP.MKTP.CD": 52010355753.0461,
+      "NY.GDP.MKTP.KD.ZG": 9.51660986436364,
+      "NY.GDP.MKTP.KD": 87656150954.4385,
+      "NY.GDP.PCAP.KD": 1814.25854492188,
+      "SP.POP.TOTL": 48315136.0
+    },
+    "2002": {
+      "NE.EXP.GNFS.ZS": 50.1187333965439,
+      "NE.IMP.GNFS.ZS": 45.8759364135681,
+      "NV.AGR.TOTL.ZS": 12.6032510741528,
+      "NV.IND.MANF.ZS": 16.9289051755802,
+      "NV.IND.TOTL.ZS": 30.2155139276837,
+      "NV.SRV.TOTL.ZS": 46.6677771228933,
+      "NY.GDP.MKTP.CD": 43956163612.0433,
+      "NY.GDP.MKTP.KD.ZG": 5.33964720719075,
+      "NY.GDP.MKTP.KD": 80039138412.8861,
+      "NY.GDP.PCAP.KD": 1644.28125,
+      "SP.POP.TOTL": 48677281.0
+    },
+    "2001": {
+      "NE.EXP.GNFS.ZS": 50.6489878063218,
+      "NE.IMP.GNFS.ZS": 49.2771398129513,
+      "NV.AGR.TOTL.ZS": 13.9760861844442,
+      "NV.IND.MANF.ZS": 16.3347934177815,
+      "NV.IND.TOTL.ZS": 29.9078962945424,
+      "NV.SRV.TOTL.ZS": 44.893098141352,
+      "NY.GDP.MKTP.CD": 39309580983.2282,
+      "NY.GDP.MKTP.KD.ZG": 8.80000000367222,
+      "NY.GDP.MKTP.KD": 75981969310.6229,
+      "NY.GDP.PCAP.KD": 1547.2783203125,
+      "SP.POP.TOTL": 49106855.0
+    },
+    "2000": {
+      "NE.EXP.GNFS.ZS": 60.2970566860465,
+      "NE.IMP.GNFS.ZS": 55.4386582485465,
+      "NV.AGR.TOTL.ZS": 13.951785065407,
+      "NV.IND.MANF.ZS": 17.3873546511628,
+      "NV.IND.TOTL.ZS": 31.6502770712209,
+      "NV.SRV.TOTL.ZS": 39.7449582122093,
+      "NY.GDP.MKTP.CD": 32375083934.8241,
+      "NY.GDP.MKTP.KD.ZG": 5.90000000024899,
+      "NY.GDP.MKTP.KD": 69836368849.3183,
+      "NY.GDP.PCAP.KD": 1409.22265625,
+      "SP.POP.TOTL": 49556660.0
+    },
+    "1999": {
+      "NE.EXP.GNFS.ZS": 53.7037907269131,
+      "NE.IMP.GNFS.ZS": 48.2479162386348,
+      "NV.AGR.TOTL.ZS": 11.8750095828031,
+      "NV.IND.MANF.ZS": 27.2320255745849,
+      "NV.IND.TOTL.ZS": 32.0180616672544,
+      "NV.SRV.TOTL.ZS": 39.2588276782018,
+      "NY.GDP.MKTP.CD": 31580639553.8298,
+      "NY.GDP.MKTP.KD.ZG": -0.200000000106499,
+      "NY.GDP.MKTP.KD": 65945579649.8151,
+      "NY.GDP.PCAP.KD": 1319.533203125,
+      "SP.POP.TOTL": 49976446.0
+    },
+    "1998": {
+      "NE.EXP.GNFS.ZS": 41.8878472215453,
+      "NE.IMP.GNFS.ZS": 44.1618812199663,
+      "NV.AGR.TOTL.ZS": 12.0680748199195,
+      "NV.IND.MANF.ZS": 25.2570843039974,
+      "NV.IND.TOTL.ZS": 30.6287953369138,
+      "NV.SRV.TOTL.ZS": 42.0730459193122,
+      "NY.GDP.MKTP.CD": 41882523345.1804,
+      "NY.GDP.MKTP.KD.ZG": -1.90000000214164,
+      "NY.GDP.MKTP.KD": 66077735120.1257,
+      "NY.GDP.PCAP.KD": 1311.59362792969,
+      "SP.POP.TOTL": 50379731.0
+    },
+    "1997": {
+      "NE.EXP.GNFS.ZS": 40.5912261554116,
+      "NE.IMP.GNFS.ZS": 43.6501900069619,
+      "NV.AGR.TOTL.ZS": 12.5153965618808,
+      "NV.IND.MANF.ZS": 24.6291429336475,
+      "NV.IND.TOTL.ZS": 30.4803727306807,
+      "NV.SRV.TOTL.ZS": 43.8322711937021,
+      "NY.GDP.MKTP.CD": 50151531591.7317,
+      "NY.GDP.MKTP.KD.ZG": -2.99999999842365,
+      "NY.GDP.MKTP.KD": 67357528156.5426,
+      "NY.GDP.PCAP.KD": 1326.27795410156,
+      "SP.POP.TOTL": 50786885.0
+    },
+    "1996": {
+      "NE.EXP.GNFS.ZS": 45.6519320649174,
+      "NE.IMP.GNFS.ZS": 48.2047130116905,
+      "NV.AGR.TOTL.ZS": 12.2290508961101,
+      "NV.IND.MANF.ZS": 27.4549500116537,
+      "NV.IND.TOTL.ZS": 33.7810817110122,
+      "NV.SRV.TOTL.ZS": 42.4220120462714,
+      "NY.GDP.MKTP.CD": 44558831005.0621,
+      "NY.GDP.MKTP.KD.ZG": -10.0,
+      "NY.GDP.MKTP.KD": 69440750675.7195,
+      "NY.GDP.PCAP.KD": 1355.57336425781,
+      "SP.POP.TOTL": 51226109.0
+    },
+    "1995": {
+      "NE.EXP.GNFS.ZS": 47.0732494907039,
+      "NE.IMP.GNFS.ZS": 50.1564469934012,
+      "NV.AGR.TOTL.ZS": 13.769759643058,
+      "NV.IND.MANF.ZS": 30.950362477947,
+      "NV.IND.TOTL.ZS": 38.1638229362823,
+      "NV.SRV.TOTL.ZS": 37.4760485006169,
+      "NY.GDP.MKTP.CD": 48213856468.5718,
+      "NY.GDP.MKTP.KD.ZG": -12.2000000007385,
+      "NY.GDP.MKTP.KD": 77156389639.6884,
+      "NY.GDP.PCAP.KD": 1493.38208007813,
+      "SP.POP.TOTL": 51665539.0
+    },
+    "1994": {
+      "NE.EXP.GNFS.ZS": 35.3888495217936,
+      "NE.IMP.GNFS.ZS": 38.5551546849935,
+      "NV.AGR.TOTL.ZS": 14.5723971958075,
+      "NV.IND.MANF.ZS": 35.0129468361455,
+      "NV.IND.TOTL.ZS": 42.6291921456691,
+      "NV.SRV.TOTL.ZS": 32.5122178756888,
+      "NY.GDP.MKTP.CD": 52549580264.8064,
+      "NY.GDP.MKTP.KD.ZG": -22.8999999992283,
+      "NY.GDP.MKTP.KD": 87877436947.9924,
+      "NY.GDP.PCAP.KD": 1687.48449707031,
+      "SP.POP.TOTL": 52075998.0
+    },
+    "1993": {
+      "NE.EXP.GNFS.ZS": 25.8779413649147,
+      "NE.IMP.GNFS.ZS": 26.1908776378707,
+      "NV.AGR.TOTL.ZS": 21.5406715990099,
+      "NV.IND.MANF.ZS": 29.7033175291523,
+      "NV.IND.TOTL.ZS": 37.460630054022,
+      "NV.SRV.TOTL.ZS": 40.4031752240799,
+      "NY.GDP.MKTP.CD": 65648559903.0571,
+      "NY.GDP.MKTP.KD.ZG": -14.1999999993643,
+      "NY.GDP.MKTP.KD": 113978517441.132,
+      "NY.GDP.PCAP.KD": 2177.23486328125,
+      "SP.POP.TOTL": 52350126.0
+    },
+    "1992": {
+      "NE.EXP.GNFS.ZS": 23.9797337572025,
+      "NE.IMP.GNFS.ZS": 21.9888734353268,
+      "NV.AGR.TOTL.ZS": 20.851976952116,
+      "NV.IND.MANF.ZS": 44.5966620305981,
+      "NV.IND.TOTL.ZS": 52.1492151798132,
+      "NV.SRV.TOTL.ZS": 29.4329425789787,
+      "NY.GDP.MKTP.CD": 73945908383.7046,
+      "NY.GDP.MKTP.KD.ZG": -9.90000000204168,
+      "NY.GDP.MKTP.KD": 132842094918.75,
+      "NY.GDP.PCAP.KD": 2538.85278320313,
+      "SP.POP.TOTL": 52323671.0
+    },
+    "1991": {
+      "NE.EXP.GNFS.ZS": 26.1538461538462,
+      "NE.IMP.GNFS.ZS": 23.9799331103679,
+      "NV.AGR.TOTL.ZS": 24.6488294314381,
+      "NV.IND.MANF.ZS": null,
+      "NV.IND.TOTL.ZS": 54.6254180602007,
+      "NV.SRV.TOTL.ZS": 28.9197324414716,
+      "NY.GDP.MKTP.CD": 77350733982.4458,
+      "NY.GDP.MKTP.KD.ZG": -8.6999999997216,
+      "NY.GDP.MKTP.KD": 147438507127.37,
+      "NY.GDP.PCAP.KD": 2826.06469726563,
+      "SP.POP.TOTL": 52170961.0
+    }
+  },
+  "countries": [
+    {
+      "id": 1,
+      "country": "Armenia",
+      "year": 1995,
+      "gdppc": 2173.36283
+    },
+    {
+      "id": 1,
+      "country": "Armenia",
+      "year": 1996,
+      "gdppc": 2336.516562
+    },
+    {
+      "id": 1,
+      "country": "Armenia",
+      "year": 1997,
+      "gdppc": 2441.181834
+    },
+    {
+      "id": 1,
+      "country": "Armenia",
+      "year": 1998,
+      "gdppc": 2639.949318
+    },
+    {
+      "id": 1,
+      "country": "Armenia",
+      "year": 1999,
+      "gdppc": 2744.430205
+    },
+    {
+      "id": 1,
+      "country": "Armenia",
+      "year": 2000,
+      "gdppc": 2924.74738
+    },
+    {
+      "id": 1,
+      "country": "Armenia",
+      "year": 2001,
+      "gdppc": 3224.141275
+    },
+    {
+      "id": 1,
+      "country": "Armenia",
+      "year": 2002,
+      "gdppc": 3669.44339
+    },
+    {
+      "id": 1,
+      "country": "Armenia",
+      "year": 2003,
+      "gdppc": 4206.975118
+    },
+    {
+      "id": 1,
+      "country": "Armenia",
+      "year": 2004,
+      "gdppc": 4673.984726
+    },
+    {
+      "id": 1,
+      "country": "Armenia",
+      "year": 2005,
+      "gdppc": 5356.614424
+    },
+    {
+      "id": 1,
+      "country": "Armenia",
+      "year": 2006,
+      "gdppc": 6110.226191
+    },
+    {
+      "id": 1,
+      "country": "Armenia",
+      "year": 2007,
+      "gdppc": 7010.627056
+    },
+    {
+      "id": 1,
+      "country": "Armenia",
+      "year": 2008,
+      "gdppc": 7558.361648
+    },
+    {
+      "id": 1,
+      "country": "Armenia",
+      "year": 2009,
+      "gdppc": 6532.964231
+    },
+    {
+      "id": 1,
+      "country": "Armenia",
+      "year": 2010,
+      "gdppc": 6702.848006
+    },
+    {
+      "id": 1,
+      "country": "Armenia",
+      "year": 2011,
+      "gdppc": 7022.103943
+    },
+    {
+      "id": 1,
+      "country": "Armenia",
+      "year": 2012,
+      "gdppc": 7511.132482
+    },
+    {
+      "id": 1,
+      "country": "Armenia",
+      "year": 2013,
+      "gdppc": 7727.929092
+    },
+    {
+      "id": 1,
+      "country": "Armenia",
+      "year": 2014,
+      "gdppc": 7971.117928
+    },
+    {
+      "id": 1,
+      "country": "Armenia",
+      "year": 2015,
+      "gdppc": 8195.93365
+    },
+    {
+      "id": 1,
+      "country": "Armenia",
+      "year": 2016,
+      "gdppc": 8190.239289
+    },
+    {
+      "id": 1,
+      "country": "Armenia",
+      "year": 2017,
+      "gdppc": 8787.57994
+    },
+    {
+      "id": 2,
+      "country": "Azerbaijan",
+      "year": 1995,
+      "gdppc": 3319.767349
+    },
+    {
+      "id": 2,
+      "country": "Azerbaijan",
+      "year": 1996,
+      "gdppc": 3329.134804
+    },
+    {
+      "id": 2,
+      "country": "Azerbaijan",
+      "year": 1997,
+      "gdppc": 3488.410025
+    },
+    {
+      "id": 2,
+      "country": "Azerbaijan",
+      "year": 1998,
+      "gdppc": 3801.002521
+    },
+    {
+      "id": 2,
+      "country": "Azerbaijan",
+      "year": 1999,
+      "gdppc": 4046.607467
+    },
+    {
+      "id": 2,
+      "country": "Azerbaijan",
+      "year": 2000,
+      "gdppc": 4458.998423
+    },
+    {
+      "id": 2,
+      "country": "Azerbaijan",
+      "year": 2001,
+      "gdppc": 4862.619031
+    },
+    {
+      "id": 2,
+      "country": "Azerbaijan",
+      "year": 2002,
+      "gdppc": 5338.076318
+    },
+    {
+      "id": 2,
+      "country": "Azerbaijan",
+      "year": 2003,
+      "gdppc": 5891.137108
+    },
+    {
+      "id": 2,
+      "country": "Azerbaijan",
+      "year": 2004,
+      "gdppc": 6435.448129
+    },
+    {
+      "id": 2,
+      "country": "Azerbaijan",
+      "year": 2005,
+      "gdppc": 8051.674838
+    },
+    {
+      "id": 2,
+      "country": "Azerbaijan",
+      "year": 2006,
+      "gdppc": 10711.18227
+    },
+    {
+      "id": 2,
+      "country": "Azerbaijan",
+      "year": 2007,
+      "gdppc": 13243.21286
+    },
+    {
+      "id": 2,
+      "country": "Azerbaijan",
+      "year": 2008,
+      "gdppc": 14364.99423
+    },
+    {
+      "id": 2,
+      "country": "Azerbaijan",
+      "year": 2009,
+      "gdppc": 15393.89329
+    },
+    {
+      "id": 2,
+      "country": "Azerbaijan",
+      "year": 2010,
+      "gdppc": 15950.25746
+    },
+    {
+      "id": 2,
+      "country": "Azerbaijan",
+      "year": 2011,
+      "gdppc": 15754.15236
+    },
+    {
+      "id": 2,
+      "country": "Azerbaijan",
+      "year": 2012,
+      "gdppc": 15888.218
+    },
+    {
+      "id": 2,
+      "country": "Azerbaijan",
+      "year": 2013,
+      "gdppc": 16593.18876
+    },
+    {
+      "id": 2,
+      "country": "Azerbaijan",
+      "year": 2014,
+      "gdppc": 16715.10552
+    },
+    {
+      "id": 2,
+      "country": "Azerbaijan",
+      "year": 2015,
+      "gdppc": 16698.86365
+    },
+    {
+      "id": 2,
+      "country": "Azerbaijan",
+      "year": 2016,
+      "gdppc": 16001.3234
+    },
+    {
+      "id": 2,
+      "country": "Azerbaijan",
+      "year": 2017,
+      "gdppc": 15847.41883
+    },
+    {
+      "id": 3,
+      "country": "Belarus",
+      "year": 1995,
+      "gdppc": 5451.833288
+    },
+    {
+      "id": 3,
+      "country": "Belarus",
+      "year": 1996,
+      "gdppc": 5623.240042
+    },
+    {
+      "id": 3,
+      "country": "Belarus",
+      "year": 1997,
+      "gdppc": 6290.914649
+    },
+    {
+      "id": 3,
+      "country": "Belarus",
+      "year": 1998,
+      "gdppc": 6851.859525
+    },
+    {
+      "id": 3,
+      "country": "Belarus",
+      "year": 1999,
+      "gdppc": 7114.684723
+    },
+    {
+      "id": 3,
+      "country": "Belarus",
+      "year": 2000,
+      "gdppc": 7562.883999
+    },
+    {
+      "id": 3,
+      "country": "Belarus",
+      "year": 2001,
+      "gdppc": 7960.986055
+    },
+    {
+      "id": 3,
+      "country": "Belarus",
+      "year": 2002,
+      "gdppc": 8416.042566
+    },
+    {
+      "id": 3,
+      "country": "Belarus",
+      "year": 2003,
+      "gdppc": 9072.066185
+    },
+    {
+      "id": 3,
+      "country": "Belarus",
+      "year": 2004,
+      "gdppc": 10180.00299
+    },
+    {
+      "id": 3,
+      "country": "Belarus",
+      "year": 2005,
+      "gdppc": 11213.2496
+    },
+    {
+      "id": 3,
+      "country": "Belarus",
+      "year": 2006,
+      "gdppc": 12410.32978
+    },
+    {
+      "id": 3,
+      "country": "Belarus",
+      "year": 2007,
+      "gdppc": 13539.60277
+    },
+    {
+      "id": 3,
+      "country": "Belarus",
+      "year": 2008,
+      "gdppc": 14972.26946
+    },
+    {
+      "id": 3,
+      "country": "Belarus",
+      "year": 2009,
+      "gdppc": 15035.69965
+    },
+    {
+      "id": 3,
+      "country": "Belarus",
+      "year": 2010,
+      "gdppc": 16235.17145
+    },
+    {
+      "id": 3,
+      "country": "Belarus",
+      "year": 2011,
+      "gdppc": 17166.69564
+    },
+    {
+      "id": 3,
+      "country": "Belarus",
+      "year": 2012,
+      "gdppc": 17479.9294
+    },
+    {
+      "id": 3,
+      "country": "Belarus",
+      "year": 2013,
+      "gdppc": 17656.11934
+    },
+    {
+      "id": 3,
+      "country": "Belarus",
+      "year": 2014,
+      "gdppc": 17944.20985
+    },
+    {
+      "id": 3,
+      "country": "Belarus",
+      "year": 2015,
+      "gdppc": 17229.55519
+    },
+    {
+      "id": 3,
+      "country": "Belarus",
+      "year": 2016,
+      "gdppc": 16773.19355
+    },
+    {
+      "id": 3,
+      "country": "Belarus",
+      "year": 2017,
+      "gdppc": 17157.57043
+    },
+    {
+      "id": 4,
+      "country": "Bulgaria",
+      "year": 1995,
+      "gdppc": 8446.248528
+    },
+    {
+      "id": 4,
+      "country": "Bulgaria",
+      "year": 1996,
+      "gdppc": 8549.747706
+    },
+    {
+      "id": 4,
+      "country": "Bulgaria",
+      "year": 1997,
+      "gdppc": 8508.297257
+    },
+    {
+      "id": 4,
+      "country": "Bulgaria",
+      "year": 1998,
+      "gdppc": 8861.855123
+    },
+    {
+      "id": 4,
+      "country": "Bulgaria",
+      "year": 1999,
+      "gdppc": 8376.100312
+    },
+    {
+      "id": 4,
+      "country": "Bulgaria",
+      "year": 2000,
+      "gdppc": 8833.446566
+    },
+    {
+      "id": 4,
+      "country": "Bulgaria",
+      "year": 2001,
+      "gdppc": 9350.786052
+    },
+    {
+      "id": 4,
+      "country": "Bulgaria",
+      "year": 2002,
+      "gdppc": 10123.37052
+    },
+    {
+      "id": 4,
+      "country": "Bulgaria",
+      "year": 2003,
+      "gdppc": 10730.01177
+    },
+    {
+      "id": 4,
+      "country": "Bulgaria",
+      "year": 2004,
+      "gdppc": 11507.0544
+    },
+    {
+      "id": 4,
+      "country": "Bulgaria",
+      "year": 2005,
+      "gdppc": 12419.92875
+    },
+    {
+      "id": 4,
+      "country": "Bulgaria",
+      "year": 2006,
+      "gdppc": 13374.91767
+    },
+    {
+      "id": 4,
+      "country": "Bulgaria",
+      "year": 2007,
+      "gdppc": 14463.18326
+    },
+    {
+      "id": 4,
+      "country": "Bulgaria",
+      "year": 2008,
+      "gdppc": 15442.15174
+    },
+    {
+      "id": 4,
+      "country": "Bulgaria",
+      "year": 2009,
+      "gdppc": 14984.60638
+    },
+    {
+      "id": 4,
+      "country": "Bulgaria",
+      "year": 2010,
+      "gdppc": 15283.29148
+    },
+    {
+      "id": 4,
+      "country": "Bulgaria",
+      "year": 2011,
+      "gdppc": 15676.15054
+    },
+    {
+      "id": 4,
+      "country": "Bulgaria",
+      "year": 2012,
+      "gdppc": 15772.09659
+    },
+    {
+      "id": 4,
+      "country": "Bulgaria",
+      "year": 2013,
+      "gdppc": 15997.3568
+    },
+    {
+      "id": 4,
+      "country": "Bulgaria",
+      "year": 2014,
+      "gdppc": 16302.32056
+    },
+    {
+      "id": 4,
+      "country": "Bulgaria",
+      "year": 2015,
+      "gdppc": 17000.17804
+    },
+    {
+      "id": 4,
+      "country": "Bulgaria",
+      "year": 2016,
+      "gdppc": 17794.54276
+    },
+    {
+      "id": 4,
+      "country": "Bulgaria",
+      "year": 2017,
+      "gdppc": 18606.03211
+    },
+    {
+      "id": 5,
+      "country": "Czech",
+      "year": 1995,
+      "gdppc": 19270.69939
+    },
+    {
+      "id": 5,
+      "country": "Czech",
+      "year": 1996,
+      "gdppc": 20107.85346
+    },
+    {
+      "id": 5,
+      "country": "Czech",
+      "year": 1997,
+      "gdppc": 20009.83181
+    },
+    {
+      "id": 5,
+      "country": "Czech",
+      "year": 1998,
+      "gdppc": 19962.96129
+    },
+    {
+      "id": 5,
+      "country": "Czech",
+      "year": 1999,
+      "gdppc": 20269.69866
+    },
+    {
+      "id": 5,
+      "country": "Czech",
+      "year": 2000,
+      "gdppc": 21193.90171
+    },
+    {
+      "id": 5,
+      "country": "Czech",
+      "year": 2001,
+      "gdppc": 21892.48253
+    },
+    {
+      "id": 5,
+      "country": "Czech",
+      "year": 2002,
+      "gdppc": 22297.22475
+    },
+    {
+      "id": 5,
+      "country": "Czech",
+      "year": 2003,
+      "gdppc": 23107.20388
+    },
+    {
+      "id": 5,
+      "country": "Czech",
+      "year": 2004,
+      "gdppc": 24233.59699
+    },
+    {
+      "id": 5,
+      "country": "Czech",
+      "year": 2005,
+      "gdppc": 25781.20471
+    },
+    {
+      "id": 5,
+      "country": "Czech",
+      "year": 2006,
+      "gdppc": 27473.62712
+    },
+    {
+      "id": 5,
+      "country": "Czech",
+      "year": 2007,
+      "gdppc": 28844.06719
+    },
+    {
+      "id": 5,
+      "country": "Czech",
+      "year": 2008,
+      "gdppc": 29373.10923
+    },
+    {
+      "id": 5,
+      "country": "Czech",
+      "year": 2009,
+      "gdppc": 27803.58716
+    },
+    {
+      "id": 5,
+      "country": "Czech",
+      "year": 2010,
+      "gdppc": 28352.9494
+    },
+    {
+      "id": 5,
+      "country": "Czech",
+      "year": 2011,
+      "gdppc": 28797.41796
+    },
+    {
+      "id": 5,
+      "country": "Czech",
+      "year": 2012,
+      "gdppc": 28527.13873
+    },
+    {
+      "id": 5,
+      "country": "Czech",
+      "year": 2013,
+      "gdppc": 28379.74612
+    },
+    {
+      "id": 5,
+      "country": "Czech",
+      "year": 2014,
+      "gdppc": 29119.61661
+    },
+    {
+      "id": 5,
+      "country": "Czech",
+      "year": 2015,
+      "gdppc": 30605.42052
+    },
+    {
+      "id": 5,
+      "country": "Czech",
+      "year": 2016,
+      "gdppc": 31338.87521
+    },
+    {
+      "id": 5,
+      "country": "Czech",
+      "year": 2017,
+      "gdppc": 32605.90633
+    },
+    {
+      "id": 6,
+      "country": "Estonia",
+      "year": 1995,
+      "gdppc": 11361.84624
+    },
+    {
+      "id": 6,
+      "country": "Estonia",
+      "year": 1996,
+      "gdppc": 12144.59509
+    },
+    {
+      "id": 6,
+      "country": "Estonia",
+      "year": 1997,
+      "gdppc": 13733.28481
+    },
+    {
+      "id": 6,
+      "country": "Estonia",
+      "year": 1998,
+      "gdppc": 14436.72895
+    },
+    {
+      "id": 6,
+      "country": "Estonia",
+      "year": 1999,
+      "gdppc": 14270.99834
+    },
+    {
+      "id": 6,
+      "country": "Estonia",
+      "year": 2000,
+      "gdppc": 15703.02747
+    },
+    {
+      "id": 6,
+      "country": "Estonia",
+      "year": 2001,
+      "gdppc": 16803.51868
+    },
+    {
+      "id": 6,
+      "country": "Estonia",
+      "year": 2002,
+      "gdppc": 17937.83198
+    },
+    {
+      "id": 6,
+      "country": "Estonia",
+      "year": 2003,
+      "gdppc": 19389.44231
+    },
+    {
+      "id": 6,
+      "country": "Estonia",
+      "year": 2004,
+      "gdppc": 20733.53808
+    },
+    {
+      "id": 6,
+      "country": "Estonia",
+      "year": 2005,
+      "gdppc": 22807.18275
+    },
+    {
+      "id": 6,
+      "country": "Estonia",
+      "year": 2006,
+      "gdppc": 25298.64605
+    },
+    {
+      "id": 6,
+      "country": "Estonia",
+      "year": 2007,
+      "gdppc": 27383.46956
+    },
+    {
+      "id": 6,
+      "country": "Estonia",
+      "year": 2008,
+      "gdppc": 25968.97281
+    },
+    {
+      "id": 6,
+      "country": "Estonia",
+      "year": 2009,
+      "gdppc": 22187.9264
+    },
+    {
+      "id": 6,
+      "country": "Estonia",
+      "year": 2010,
+      "gdppc": 22740.972
+    },
+    {
+      "id": 6,
+      "country": "Estonia",
+      "year": 2011,
+      "gdppc": 24543.06747
+    },
+    {
+      "id": 6,
+      "country": "Estonia",
+      "year": 2012,
+      "gdppc": 25691.99964
+    },
+    {
+      "id": 6,
+      "country": "Estonia",
+      "year": 2013,
+      "gdppc": 26282.90884
+    },
+    {
+      "id": 6,
+      "country": "Estonia",
+      "year": 2014,
+      "gdppc": 27113.68592
+    },
+    {
+      "id": 6,
+      "country": "Estonia",
+      "year": 2015,
+      "gdppc": 27549.58137
+    },
+    {
+      "id": 6,
+      "country": "Estonia",
+      "year": 2016,
+      "gdppc": 28109.81704
+    },
+    {
+      "id": 6,
+      "country": "Estonia",
+      "year": 2017,
+      "gdppc": 29481.25181
+    },
+    {
+      "id": 7,
+      "country": "Hungary",
+      "year": 1995,
+      "gdppc": 15319.2828
+    },
+    {
+      "id": 7,
+      "country": "Hungary",
+      "year": 1996,
+      "gdppc": 15347.79173
+    },
+    {
+      "id": 7,
+      "country": "Hungary",
+      "year": 1997,
+      "gdppc": 15892.41754
+    },
+    {
+      "id": 7,
+      "country": "Hungary",
+      "year": 1998,
+      "gdppc": 16604.18575
+    },
+    {
+      "id": 7,
+      "country": "Hungary",
+      "year": 1999,
+      "gdppc": 17181.94475
+    },
+    {
+      "id": 7,
+      "country": "Hungary",
+      "year": 2000,
+      "gdppc": 17951.73552
+    },
+    {
+      "id": 7,
+      "country": "Hungary",
+      "year": 2001,
+      "gdppc": 18683.98185
+    },
+    {
+      "id": 7,
+      "country": "Hungary",
+      "year": 2002,
+      "gdppc": 19585.7223
+    },
+    {
+      "id": 7,
+      "country": "Hungary",
+      "year": 2003,
+      "gdppc": 20397.84488
+    },
+    {
+      "id": 7,
+      "country": "Hungary",
+      "year": 2004,
+      "gdppc": 21466.22237
+    },
+    {
+      "id": 7,
+      "country": "Hungary",
+      "year": 2005,
+      "gdppc": 22452.81593
+    },
+    {
+      "id": 7,
+      "country": "Hungary",
+      "year": 2006,
+      "gdppc": 23353.8502
+    },
+    {
+      "id": 7,
+      "country": "Hungary",
+      "year": 2007,
+      "gdppc": 23491.74789
+    },
+    {
+      "id": 7,
+      "country": "Hungary",
+      "year": 2008,
+      "gdppc": 23734.24453
+    },
+    {
+      "id": 7,
+      "country": "Hungary",
+      "year": 2009,
+      "gdppc": 22202.15702
+    },
+    {
+      "id": 7,
+      "country": "Hungary",
+      "year": 2010,
+      "gdppc": 22404.2392
+    },
+    {
+      "id": 7,
+      "country": "Hungary",
+      "year": 2011,
+      "gdppc": 22841.21034
+    },
+    {
+      "id": 7,
+      "country": "Hungary",
+      "year": 2012,
+      "gdppc": 22582.07281
+    },
+    {
+      "id": 7,
+      "country": "Hungary",
+      "year": 2013,
+      "gdppc": 23119.01697
+    },
+    {
+      "id": 7,
+      "country": "Hungary",
+      "year": 2014,
+      "gdppc": 24161.42552
+    },
+    {
+      "id": 7,
+      "country": "Hungary",
+      "year": 2015,
+      "gdppc": 25034.45073
+    },
+    {
+      "id": 7,
+      "country": "Hungary",
+      "year": 2016,
+      "gdppc": 25664.136
+    },
+    {
+      "id": 7,
+      "country": "Hungary",
+      "year": 2017,
+      "gdppc": 26777.56079
+    },
+    {
+      "id": 8,
+      "country": "Kazakhstan",
+      "year": 1995,
+      "gdppc": 8282.94719
+    },
+    {
+      "id": 8,
+      "country": "Kazakhstan",
+      "year": 1996,
+      "gdppc": 8451.398817
+    },
+    {
+      "id": 8,
+      "country": "Kazakhstan",
+      "year": 1997,
+      "gdppc": 8731.950125
+    },
+    {
+      "id": 8,
+      "country": "Kazakhstan",
+      "year": 1998,
+      "gdppc": 8715.184514
+    },
+    {
+      "id": 8,
+      "country": "Kazakhstan",
+      "year": 1999,
+      "gdppc": 9036.156102
+    },
+    {
+      "id": 8,
+      "country": "Kazakhstan",
+      "year": 2000,
+      "gdppc": 9951.563906
+    },
+    {
+      "id": 8,
+      "country": "Kazakhstan",
+      "year": 2001,
+      "gdppc": 11314.25077
+    },
+    {
+      "id": 8,
+      "country": "Kazakhstan",
+      "year": 2002,
+      "gdppc": 12422.53484
+    },
+    {
+      "id": 8,
+      "country": "Kazakhstan",
+      "year": 2003,
+      "gdppc": 13532.2312
+    },
+    {
+      "id": 8,
+      "country": "Kazakhstan",
+      "year": 2004,
+      "gdppc": 14728.61641
+    },
+    {
+      "id": 8,
+      "country": "Kazakhstan",
+      "year": 2005,
+      "gdppc": 16014.30786
+    },
+    {
+      "id": 8,
+      "country": "Kazakhstan",
+      "year": 2006,
+      "gdppc": 17541.32577
+    },
+    {
+      "id": 8,
+      "country": "Kazakhstan",
+      "year": 2007,
+      "gdppc": 18885.24324
+    },
+    {
+      "id": 8,
+      "country": "Kazakhstan",
+      "year": 2008,
+      "gdppc": 19272.21401
+    },
+    {
+      "id": 8,
+      "country": "Kazakhstan",
+      "year": 2009,
+      "gdppc": 18995.89485
+    },
+    {
+      "id": 8,
+      "country": "Kazakhstan",
+      "year": 2010,
+      "gdppc": 20096.55976
+    },
+    {
+      "id": 8,
+      "country": "Kazakhstan",
+      "year": 2011,
+      "gdppc": 21276.93402
+    },
+    {
+      "id": 8,
+      "country": "Kazakhstan",
+      "year": 2012,
+      "gdppc": 21986.31892
+    },
+    {
+      "id": 8,
+      "country": "Kazakhstan",
+      "year": 2013,
+      "gdppc": 22972.43103
+    },
+    {
+      "id": 8,
+      "country": "Kazakhstan",
+      "year": 2014,
+      "gdppc": 23587.33752
+    },
+    {
+      "id": 8,
+      "country": "Kazakhstan",
+      "year": 2015,
+      "gdppc": 23524.06044
+    },
+    {
+      "id": 8,
+      "country": "Kazakhstan",
+      "year": 2016,
+      "gdppc": 23447.0157
+    },
+    {
+      "id": 8,
+      "country": "Kazakhstan",
+      "year": 2017,
+      "gdppc": 24078.7187
+    },
+    {
+      "id": 9,
+      "country": "Latvia",
+      "year": 1995,
+      "gdppc": 8283.847935
+    },
+    {
+      "id": 9,
+      "country": "Latvia",
+      "year": 1996,
+      "gdppc": 8575.313751
+    },
+    {
+      "id": 9,
+      "country": "Latvia",
+      "year": 1997,
+      "gdppc": 9438.485481
+    },
+    {
+      "id": 9,
+      "country": "Latvia",
+      "year": 1998,
+      "gdppc": 10149.29153
+    },
+    {
+      "id": 9,
+      "country": "Latvia",
+      "year": 1999,
+      "gdppc": 10500.21764
+    },
+    {
+      "id": 9,
+      "country": "Latvia",
+      "year": 2000,
+      "gdppc": 11175.15329
+    },
+    {
+      "id": 9,
+      "country": "Latvia",
+      "year": 2001,
+      "gdppc": 12051.86206
+    },
+    {
+      "id": 9,
+      "country": "Latvia",
+      "year": 2002,
+      "gdppc": 13058.75304
+    },
+    {
+      "id": 9,
+      "country": "Latvia",
+      "year": 2003,
+      "gdppc": 14297.19894
+    },
+    {
+      "id": 9,
+      "country": "Latvia",
+      "year": 2004,
+      "gdppc": 15658.90726
+    },
+    {
+      "id": 9,
+      "country": "Latvia",
+      "year": 2005,
+      "gdppc": 17522.26769
+    },
+    {
+      "id": 9,
+      "country": "Latvia",
+      "year": 2006,
+      "gdppc": 19786.22142
+    },
+    {
+      "id": 9,
+      "country": "Latvia",
+      "year": 2007,
+      "gdppc": 21939.07435
+    },
+    {
+      "id": 9,
+      "country": "Latvia",
+      "year": 2008,
+      "gdppc": 21384.31346
+    },
+    {
+      "id": 9,
+      "country": "Latvia",
+      "year": 2009,
+      "gdppc": 18609.33284
+    },
+    {
+      "id": 9,
+      "country": "Latvia",
+      "year": 2010,
+      "gdppc": 18251.95328
+    },
+    {
+      "id": 9,
+      "country": "Latvia",
+      "year": 2011,
+      "gdppc": 19773.38372
+    },
+    {
+      "id": 9,
+      "country": "Latvia",
+      "year": 2012,
+      "gdppc": 20827.9116
+    },
+    {
+      "id": 9,
+      "country": "Latvia",
+      "year": 2013,
+      "gdppc": 21563.72143
+    },
+    {
+      "id": 9,
+      "country": "Latvia",
+      "year": 2014,
+      "gdppc": 22172.25351
+    },
+    {
+      "id": 9,
+      "country": "Latvia",
+      "year": 2015,
+      "gdppc": 23018.81611
+    },
+    {
+      "id": 9,
+      "country": "Latvia",
+      "year": 2016,
+      "gdppc": 23743.25782
+    },
+    {
+      "id": 9,
+      "country": "Latvia",
+      "year": 2017,
+      "gdppc": 25063.71085
+    },
+    {
+      "id": 10,
+      "country": "Lithuania",
+      "year": 1995,
+      "gdppc": 9357.362154
+    },
+    {
+      "id": 10,
+      "country": "Lithuania",
+      "year": 1996,
+      "gdppc": 9914.359734
+    },
+    {
+      "id": 10,
+      "country": "Lithuania",
+      "year": 1997,
+      "gdppc": 10816.09098
+    },
+    {
+      "id": 10,
+      "country": "Lithuania",
+      "year": 1998,
+      "gdppc": 11708.25991
+    },
+    {
+      "id": 10,
+      "country": "Lithuania",
+      "year": 1999,
+      "gdppc": 11657.83131
+    },
+    {
+      "id": 10,
+      "country": "Lithuania",
+      "year": 2000,
+      "gdppc": 12189.96218
+    },
+    {
+      "id": 10,
+      "country": "Lithuania",
+      "year": 2001,
+      "gdppc": 13092.7298
+    },
+    {
+      "id": 10,
+      "country": "Lithuania",
+      "year": 2002,
+      "gdppc": 14090.55782
+    },
+    {
+      "id": 10,
+      "country": "Lithuania",
+      "year": 2003,
+      "gdppc": 15702.53199
+    },
+    {
+      "id": 10,
+      "country": "Lithuania",
+      "year": 2004,
+      "gdppc": 16920.00817
+    },
+    {
+      "id": 10,
+      "country": "Lithuania",
+      "year": 2005,
+      "gdppc": 18526.73267
+    },
+    {
+      "id": 10,
+      "country": "Lithuania",
+      "year": 2006,
+      "gdppc": 20219.11571
+    },
+    {
+      "id": 10,
+      "country": "Lithuania",
+      "year": 2007,
+      "gdppc": 22729.21361
+    },
+    {
+      "id": 10,
+      "country": "Lithuania",
+      "year": 2008,
+      "gdppc": 23567.70271
+    },
+    {
+      "id": 10,
+      "country": "Lithuania",
+      "year": 2009,
+      "gdppc": 20300.50375
+    },
+    {
+      "id": 10,
+      "country": "Lithuania",
+      "year": 2010,
+      "gdppc": 21070.63433
+    },
+    {
+      "id": 10,
+      "country": "Lithuania",
+      "year": 2011,
+      "gdppc": 22854.33217
+    },
+    {
+      "id": 10,
+      "country": "Lithuania",
+      "year": 2012,
+      "gdppc": 24049.35398
+    },
+    {
+      "id": 10,
+      "country": "Lithuania",
+      "year": 2013,
+      "gdppc": 25143.91511
+    },
+    {
+      "id": 10,
+      "country": "Lithuania",
+      "year": 2014,
+      "gdppc": 26258.2101
+    },
+    {
+      "id": 10,
+      "country": "Lithuania",
+      "year": 2015,
+      "gdppc": 27045.71302
+    },
+    {
+      "id": 10,
+      "country": "Lithuania",
+      "year": 2016,
+      "gdppc": 28033.87393
+    },
+    {
+      "id": 10,
+      "country": "Lithuania",
+      "year": 2017,
+      "gdppc": 29524.13765
+    },
+    {
+      "id": 11,
+      "country": "Poland",
+      "year": 1995,
+      "gdppc": 11300.27108
+    },
+    {
+      "id": 11,
+      "country": "Poland",
+      "year": 1996,
+      "gdppc": 11975.5672
+    },
+    {
+      "id": 11,
+      "country": "Poland",
+      "year": 1997,
+      "gdppc": 12740.79267
+    },
+    {
+      "id": 11,
+      "country": "Poland",
+      "year": 1998,
+      "gdppc": 13323.97073
+    },
+    {
+      "id": 11,
+      "country": "Poland",
+      "year": 1999,
+      "gdppc": 13943.65519
+    },
+    {
+      "id": 11,
+      "country": "Poland",
+      "year": 2000,
+      "gdppc": 14732.482
+    },
+    {
+      "id": 11,
+      "country": "Poland",
+      "year": 2001,
+      "gdppc": 14920.45973
+    },
+    {
+      "id": 11,
+      "country": "Poland",
+      "year": 2002,
+      "gdppc": 15232.13015
+    },
+    {
+      "id": 11,
+      "country": "Poland",
+      "year": 2003,
+      "gdppc": 15785.42086
+    },
+    {
+      "id": 11,
+      "country": "Poland",
+      "year": 2004,
+      "gdppc": 16605.81843
+    },
+    {
+      "id": 11,
+      "country": "Poland",
+      "year": 2005,
+      "gdppc": 17193.52373
+    },
+    {
+      "id": 11,
+      "country": "Poland",
+      "year": 2006,
+      "gdppc": 18267.58802
+    },
+    {
+      "id": 11,
+      "country": "Poland",
+      "year": 2007,
+      "gdppc": 19563.29763
+    },
+    {
+      "id": 11,
+      "country": "Poland",
+      "year": 2008,
+      "gdppc": 20391.90022
+    },
+    {
+      "id": 11,
+      "country": "Poland",
+      "year": 2009,
+      "gdppc": 20952.80167
+    },
+    {
+      "id": 11,
+      "country": "Poland",
+      "year": 2010,
+      "gdppc": 21770.64444
+    },
+    {
+      "id": 11,
+      "country": "Poland",
+      "year": 2011,
+      "gdppc": 22850.63885
+    },
+    {
+      "id": 11,
+      "country": "Poland",
+      "year": 2012,
+      "gdppc": 23218.1113
+    },
+    {
+      "id": 11,
+      "country": "Poland",
+      "year": 2013,
+      "gdppc": 23555.49621
+    },
+    {
+      "id": 11,
+      "country": "Poland",
+      "year": 2014,
+      "gdppc": 24347.07366
+    },
+    {
+      "id": 11,
+      "country": "Poland",
+      "year": 2015,
+      "gdppc": 25299.97435
+    },
+    {
+      "id": 11,
+      "country": "Poland",
+      "year": 2016,
+      "gdppc": 26035.8379
+    },
+    {
+      "id": 11,
+      "country": "Poland",
+      "year": 2017,
+      "gdppc": 27343.36384
+    },
+    {
+      "id": 12,
+      "country": "Romania",
+      "year": 1995,
+      "gdppc": 10493.45747
+    },
+    {
+      "id": 12,
+      "country": "Romania",
+      "year": 1996,
+      "gdppc": 10930.98373
+    },
+    {
+      "id": 12,
+      "country": "Romania",
+      "year": 1997,
+      "gdppc": 10434.52908
+    },
+    {
+      "id": 12,
+      "country": "Romania",
+      "year": 1998,
+      "gdppc": 10237.90319
+    },
+    {
+      "id": 12,
+      "country": "Romania",
+      "year": 1999,
+      "gdppc": 10212.81455
+    },
+    {
+      "id": 12,
+      "country": "Romania",
+      "year": 2000,
+      "gdppc": 10470.96597
+    },
+    {
+      "id": 12,
+      "country": "Romania",
+      "year": 2001,
+      "gdppc": 11211.86988
+    },
+    {
+      "id": 12,
+      "country": "Romania",
+      "year": 2002,
+      "gdppc": 12010.99424
+    },
+    {
+      "id": 12,
+      "country": "Romania",
+      "year": 2003,
+      "gdppc": 12766.2619
+    },
+    {
+      "id": 12,
+      "country": "Romania",
+      "year": 2004,
+      "gdppc": 13912.38702
+    },
+    {
+      "id": 12,
+      "country": "Romania",
+      "year": 2005,
+      "gdppc": 14582.57431
+    },
+    {
+      "id": 12,
+      "country": "Romania",
+      "year": 2006,
+      "gdppc": 15850.90594
+    },
+    {
+      "id": 12,
+      "country": "Romania",
+      "year": 2007,
+      "gdppc": 17190.95593
+    },
+    {
+      "id": 12,
+      "country": "Romania",
+      "year": 2008,
+      "gdppc": 18923.63362
+    },
+    {
+      "id": 12,
+      "country": "Romania",
+      "year": 2009,
+      "gdppc": 17954.13124
+    },
+    {
+      "id": 12,
+      "country": "Romania",
+      "year": 2010,
+      "gdppc": 17553.2833
+    },
+    {
+      "id": 12,
+      "country": "Romania",
+      "year": 2011,
+      "gdppc": 17997.88413
+    },
+    {
+      "id": 12,
+      "country": "Romania",
+      "year": 2012,
+      "gdppc": 18302.02629
+    },
+    {
+      "id": 12,
+      "country": "Romania",
+      "year": 2013,
+      "gdppc": 19018.87078
+    },
+    {
+      "id": 12,
+      "country": "Romania",
+      "year": 2014,
+      "gdppc": 19677.52025
+    },
+    {
+      "id": 12,
+      "country": "Romania",
+      "year": 2015,
+      "gdppc": 20556.00364
+    },
+    {
+      "id": 12,
+      "country": "Romania",
+      "year": 2016,
+      "gdppc": 21670.70479
+    },
+    {
+      "id": 12,
+      "country": "Romania",
+      "year": 2017,
+      "gdppc": 23501.55226
+    },
+    {
+      "id": 13,
+      "country": "Slovakia",
+      "year": 1995,
+      "gdppc": 13183.57921
+    },
+    {
+      "id": 13,
+      "country": "Slovakia",
+      "year": 1996,
+      "gdppc": 14044.65265
+    },
+    {
+      "id": 13,
+      "country": "Slovakia",
+      "year": 1997,
+      "gdppc": 14869.33937
+    },
+    {
+      "id": 13,
+      "country": "Slovakia",
+      "year": 1998,
+      "gdppc": 15445.1404
+    },
+    {
+      "id": 13,
+      "country": "Slovakia",
+      "year": 1999,
+      "gdppc": 15397.74523
+    },
+    {
+      "id": 13,
+      "country": "Slovakia",
+      "year": 2000,
+      "gdppc": 15605.19611
+    },
+    {
+      "id": 13,
+      "country": "Slovakia",
+      "year": 2001,
+      "gdppc": 16152.27108
+    },
+    {
+      "id": 13,
+      "country": "Slovakia",
+      "year": 2002,
+      "gdppc": 16888.94319
+    },
+    {
+      "id": 13,
+      "country": "Slovakia",
+      "year": 2003,
+      "gdppc": 17815.82984
+    },
+    {
+      "id": 13,
+      "country": "Slovakia",
+      "year": 2004,
+      "gdppc": 18756.55395
+    },
+    {
+      "id": 13,
+      "country": "Slovakia",
+      "year": 2005,
+      "gdppc": 20020.83759
+    },
+    {
+      "id": 13,
+      "country": "Slovakia",
+      "year": 2006,
+      "gdppc": 21712.17836
+    },
+    {
+      "id": 13,
+      "country": "Slovakia",
+      "year": 2007,
+      "gdppc": 24049.98337
+    },
+    {
+      "id": 13,
+      "country": "Slovakia",
+      "year": 2008,
+      "gdppc": 25382.1684
+    },
+    {
+      "id": 13,
+      "country": "Slovakia",
+      "year": 2009,
+      "gdppc": 23973.84139
+    },
+    {
+      "id": 13,
+      "country": "Slovakia",
+      "year": 2010,
+      "gdppc": 25159.07755
+    },
+    {
+      "id": 13,
+      "country": "Slovakia",
+      "year": 2011,
+      "gdppc": 25835.00476
+    },
+    {
+      "id": 13,
+      "country": "Slovakia",
+      "year": 2012,
+      "gdppc": 26218.4716
+    },
+    {
+      "id": 13,
+      "country": "Slovakia",
+      "year": 2013,
+      "gdppc": 26580.71785
+    },
+    {
+      "id": 13,
+      "country": "Slovakia",
+      "year": 2014,
+      "gdppc": 27285.28467
+    },
+    {
+      "id": 13,
+      "country": "Slovakia",
+      "year": 2015,
+      "gdppc": 28308.87977
+    },
+    {
+      "id": 13,
+      "country": "Slovakia",
+      "year": 2016,
+      "gdppc": 29212.3782
+    },
+    {
+      "id": 13,
+      "country": "Slovakia",
+      "year": 2017,
+      "gdppc": 30155.15212
+    },
+    {
+      "id": 14,
+      "country": "Slovenia",
+      "year": 1995,
+      "gdppc": 18431.04519
+    },
+    {
+      "id": 14,
+      "country": "Slovenia",
+      "year": 1996,
+      "gdppc": 19091.06757
+    },
+    {
+      "id": 14,
+      "country": "Slovenia",
+      "year": 1997,
+      "gdppc": 20094.45711
+    },
+    {
+      "id": 14,
+      "country": "Slovenia",
+      "year": 1998,
+      "gdppc": 20800.00597
+    },
+    {
+      "id": 14,
+      "country": "Slovenia",
+      "year": 1999,
+      "gdppc": 21881.43619
+    },
+    {
+      "id": 14,
+      "country": "Slovenia",
+      "year": 2000,
+      "gdppc": 22723.32704
+    },
+    {
+      "id": 14,
+      "country": "Slovenia",
+      "year": 2001,
+      "gdppc": 23356.70552
+    },
+    {
+      "id": 14,
+      "country": "Slovenia",
+      "year": 2002,
+      "gdppc": 24222.70577
+    },
+    {
+      "id": 14,
+      "country": "Slovenia",
+      "year": 2003,
+      "gdppc": 24896.11909
+    },
+    {
+      "id": 14,
+      "country": "Slovenia",
+      "year": 2004,
+      "gdppc": 25962.90851
+    },
+    {
+      "id": 14,
+      "country": "Slovenia",
+      "year": 2005,
+      "gdppc": 26955.47591
+    },
+    {
+      "id": 14,
+      "country": "Slovenia",
+      "year": 2006,
+      "gdppc": 28389.3382
+    },
+    {
+      "id": 14,
+      "country": "Slovenia",
+      "year": 2007,
+      "gdppc": 30190.72365
+    },
+    {
+      "id": 14,
+      "country": "Slovenia",
+      "year": 2008,
+      "gdppc": 31137.77637
+    },
+    {
+      "id": 14,
+      "country": "Slovenia",
+      "year": 2009,
+      "gdppc": 28451.54552
+    },
+    {
+      "id": 14,
+      "country": "Slovenia",
+      "year": 2010,
+      "gdppc": 28678.37263
+    },
+    {
+      "id": 14,
+      "country": "Slovenia",
+      "year": 2011,
+      "gdppc": 28804.70152
+    },
+    {
+      "id": 14,
+      "country": "Slovenia",
+      "year": 2012,
+      "gdppc": 27976.91631
+    },
+    {
+      "id": 14,
+      "country": "Slovenia",
+      "year": 2013,
+      "gdppc": 27622.68555
+    },
+    {
+      "id": 14,
+      "country": "Slovenia",
+      "year": 2014,
+      "gdppc": 28417.65644
+    },
+    {
+      "id": 14,
+      "country": "Slovenia",
+      "year": 2015,
+      "gdppc": 29037.74168
+    },
+    {
+      "id": 14,
+      "country": "Slovenia",
+      "year": 2016,
+      "gdppc": 29930.03704
+    },
+    {
+      "id": 14,
+      "country": "Slovenia",
+      "year": 2017,
+      "gdppc": 31400.83951
+    },
+    {
+      "id": 15,
+      "country": "Tajikistan",
+      "year": 1995,
+      "gdppc": 1269.930252
+    },
+    {
+      "id": 15,
+      "country": "Tajikistan",
+      "year": 1996,
+      "gdppc": 1042.511314
+    },
+    {
+      "id": 15,
+      "country": "Tajikistan",
+      "year": 1997,
+      "gdppc": 1045.093741
+    },
+    {
+      "id": 15,
+      "country": "Tajikistan",
+      "year": 1998,
+      "gdppc": 1084.509437
+    },
+    {
+      "id": 15,
+      "country": "Tajikistan",
+      "year": 1999,
+      "gdppc": 1107.496064
+    },
+    {
+      "id": 15,
+      "country": "Tajikistan",
+      "year": 2000,
+      "gdppc": 1179.868723
+    },
+    {
+      "id": 15,
+      "country": "Tajikistan",
+      "year": 2001,
+      "gdppc": 1277.421441
+    },
+    {
+      "id": 15,
+      "country": "Tajikistan",
+      "year": 2002,
+      "gdppc": 1388.917218
+    },
+    {
+      "id": 15,
+      "country": "Tajikistan",
+      "year": 2003,
+      "gdppc": 1511.414636
+    },
+    {
+      "id": 15,
+      "country": "Tajikistan",
+      "year": 2004,
+      "gdppc": 1633.324595
+    },
+    {
+      "id": 15,
+      "country": "Tajikistan",
+      "year": 2005,
+      "gdppc": 1706.821159
+    },
+    {
+      "id": 15,
+      "country": "Tajikistan",
+      "year": 2006,
+      "gdppc": 1788.110936
+    },
+    {
+      "id": 15,
+      "country": "Tajikistan",
+      "year": 2007,
+      "gdppc": 1886.66563
+    },
+    {
+      "id": 15,
+      "country": "Tajikistan",
+      "year": 2008,
+      "gdppc": 1991.893162
+    },
+    {
+      "id": 15,
+      "country": "Tajikistan",
+      "year": 2009,
+      "gdppc": 2022.460983
+    },
+    {
+      "id": 15,
+      "country": "Tajikistan",
+      "year": 2010,
+      "gdppc": 2106.338756
+    },
+    {
+      "id": 15,
+      "country": "Tajikistan",
+      "year": 2011,
+      "gdppc": 2211.753822
+    },
+    {
+      "id": 15,
+      "country": "Tajikistan",
+      "year": 2012,
+      "gdppc": 2324.369287
+    },
+    {
+      "id": 15,
+      "country": "Tajikistan",
+      "year": 2013,
+      "gdppc": 2440.586951
+    },
+    {
+      "id": 15,
+      "country": "Tajikistan",
+      "year": 2014,
+      "gdppc": 2546.500484
+    },
+    {
+      "id": 15,
+      "country": "Tajikistan",
+      "year": 2015,
+      "gdppc": 2640.58952
+    },
+    {
+      "id": 15,
+      "country": "Tajikistan",
+      "year": 2016,
+      "gdppc": 2762.585453
+    },
+    {
+      "id": 15,
+      "country": "Tajikistan",
+      "year": 2017,
+      "gdppc": 2910.212748
+    },
+    {
+      "id": 16,
+      "country": "Kyrgyz Republic",
+      "year": 1995,
+      "gdppc": 1696.363515
+    },
+    {
+      "id": 16,
+      "country": "Kyrgyz Republic",
+      "year": 1996,
+      "gdppc": 1789.853966
+    },
+    {
+      "id": 16,
+      "country": "Kyrgyz Republic",
+      "year": 1997,
+      "gdppc": 1938.83581
+    },
+    {
+      "id": 16,
+      "country": "Kyrgyz Republic",
+      "year": 1998,
+      "gdppc": 1949.832931
+    },
+    {
+      "id": 16,
+      "country": "Kyrgyz Republic",
+      "year": 1999,
+      "gdppc": 1991.301566
+    },
+    {
+      "id": 16,
+      "country": "Kyrgyz Republic",
+      "year": 2000,
+      "gdppc": 2074.505287
+    },
+    {
+      "id": 16,
+      "country": "Kyrgyz Republic",
+      "year": 2001,
+      "gdppc": 2164.268295
+    },
+    {
+      "id": 16,
+      "country": "Kyrgyz Republic",
+      "year": 2002,
+      "gdppc": 2144.12125
+    },
+    {
+      "id": 16,
+      "country": "Kyrgyz Republic",
+      "year": 2003,
+      "gdppc": 2270.924677
+    },
+    {
+      "id": 16,
+      "country": "Kyrgyz Republic",
+      "year": 2004,
+      "gdppc": 2401.265004
+    },
+    {
+      "id": 16,
+      "country": "Kyrgyz Republic",
+      "year": 2005,
+      "gdppc": 2370.166045
+    },
+    {
+      "id": 16,
+      "country": "Kyrgyz Republic",
+      "year": 2006,
+      "gdppc": 2417.579471
+    },
+    {
+      "id": 16,
+      "country": "Kyrgyz Republic",
+      "year": 2007,
+      "gdppc": 2599.206018
+    },
+    {
+      "id": 16,
+      "country": "Kyrgyz Republic",
+      "year": 2008,
+      "gdppc": 2790.9349
+    },
+    {
+      "id": 16,
+      "country": "Kyrgyz Republic",
+      "year": 2009,
+      "gdppc": 2837.031419
+    },
+    {
+      "id": 16,
+      "country": "Kyrgyz Republic",
+      "year": 2010,
+      "gdppc": 2790.170664
+    },
+    {
+      "id": 16,
+      "country": "Kyrgyz Republic",
+      "year": 2011,
+      "gdppc": 2920.60321
+    },
+    {
+      "id": 16,
+      "country": "Kyrgyz Republic",
+      "year": 2012,
+      "gdppc": 2869.838962
+    },
+    {
+      "id": 16,
+      "country": "Kyrgyz Republic",
+      "year": 2013,
+      "gdppc": 3120.542044
+    },
+    {
+      "id": 16,
+      "country": "Kyrgyz Republic",
+      "year": 2014,
+      "gdppc": 3181.642163
+    },
+    {
+      "id": 16,
+      "country": "Kyrgyz Republic",
+      "year": 2015,
+      "gdppc": 3237.602937
+    },
+    {
+      "id": 16,
+      "country": "Kyrgyz Republic",
+      "year": 2016,
+      "gdppc": 3309.859929
+    },
+    {
+      "id": 16,
+      "country": "Kyrgyz Republic",
+      "year": 2017,
+      "gdppc": 3393.473613
+    },
+    {
+      "id": 17,
+      "country": "Moldova",
+      "year": 1995,
+      "gdppc": 2605.431736
+    },
+    {
+      "id": 17,
+      "country": "Moldova",
+      "year": 1996,
+      "gdppc": 2457.22393
+    },
+    {
+      "id": 17,
+      "country": "Moldova",
+      "year": 1997,
+      "gdppc": 2506.950748
+    },
+    {
+      "id": 17,
+      "country": "Moldova",
+      "year": 1998,
+      "gdppc": 2343.887954
+    },
+    {
+      "id": 17,
+      "country": "Moldova",
+      "year": 1999,
+      "gdppc": 2268.499035
+    },
+    {
+      "id": 17,
+      "country": "Moldova",
+      "year": 2000,
+      "gdppc": 2321.027796
+    },
+    {
+      "id": 17,
+      "country": "Moldova",
+      "year": 2001,
+      "gdppc": 2468.123711
+    },
+    {
+      "id": 17,
+      "country": "Moldova",
+      "year": 2002,
+      "gdppc": 2666.805992
+    },
+    {
+      "id": 17,
+      "country": "Moldova",
+      "year": 2003,
+      "gdppc": 2850.831684
+    },
+    {
+      "id": 17,
+      "country": "Moldova",
+      "year": 2004,
+      "gdppc": 3069.379009
+    },
+    {
+      "id": 17,
+      "country": "Moldova",
+      "year": 2005,
+      "gdppc": 3307.620334
+    },
+    {
+      "id": 17,
+      "country": "Moldova",
+      "year": 2006,
+      "gdppc": 3476.03341
+    },
+    {
+      "id": 17,
+      "country": "Moldova",
+      "year": 2007,
+      "gdppc": 3588.621318
+    },
+    {
+      "id": 17,
+      "country": "Moldova",
+      "year": 2008,
+      "gdppc": 3875.904364
+    },
+    {
+      "id": 17,
+      "country": "Moldova",
+      "year": 2009,
+      "gdppc": 3647.9523
+    },
+    {
+      "id": 17,
+      "country": "Moldova",
+      "year": 2010,
+      "gdppc": 3910.860533
+    },
+    {
+      "id": 17,
+      "country": "Moldova",
+      "year": 2011,
+      "gdppc": 4179.214809
+    },
+    {
+      "id": 17,
+      "country": "Moldova",
+      "year": 2012,
+      "gdppc": 4150.504763
+    },
+    {
+      "id": 17,
+      "country": "Moldova",
+      "year": 2013,
+      "gdppc": 4541.868222
+    },
+    {
+      "id": 17,
+      "country": "Moldova",
+      "year": 2014,
+      "gdppc": 4762.780873
+    },
+    {
+      "id": 17,
+      "country": "Moldova",
+      "year": 2015,
+      "gdppc": 4746.784911
+    },
+    {
+      "id": 17,
+      "country": "Moldova",
+      "year": 2016,
+      "gdppc": 4963.398344
+    },
+    {
+      "id": 17,
+      "country": "Moldova",
+      "year": 2017,
+      "gdppc": 5189.97166
+    },
+    {
+      "id": 18,
+      "country": "Ukraine",
+      "year": 1995,
+      "gdppc": 5059.822915
+    },
+    {
+      "id": 18,
+      "country": "Ukraine",
+      "year": 1996,
+      "gdppc": 4594.432331
+    },
+    {
+      "id": 18,
+      "country": "Ukraine",
+      "year": 1997,
+      "gdppc": 4497.390275
+    },
+    {
+      "id": 18,
+      "country": "Ukraine",
+      "year": 1998,
+      "gdppc": 4451.547944
+    },
+    {
+      "id": 18,
+      "country": "Ukraine",
+      "year": 1999,
+      "gdppc": 4484.733006
+    },
+    {
+      "id": 18,
+      "country": "Ukraine",
+      "year": 2000,
+      "gdppc": 4797.380277
+    },
+    {
+      "id": 18,
+      "country": "Ukraine",
+      "year": 2001,
+      "gdppc": 5291.680225
+    },
+    {
+      "id": 18,
+      "country": "Ukraine",
+      "year": 2002,
+      "gdppc": 5622.439849
+    },
+    {
+      "id": 18,
+      "country": "Ukraine",
+      "year": 2003,
+      "gdppc": 6201.06328
+    },
+    {
+      "id": 18,
+      "country": "Ukraine",
+      "year": 2004,
+      "gdppc": 7004.327676
+    },
+    {
+      "id": 18,
+      "country": "Ukraine",
+      "year": 2005,
+      "gdppc": 7246.351027
+    },
+    {
+      "id": 18,
+      "country": "Ukraine",
+      "year": 2006,
+      "gdppc": 7828.081179
+    },
+    {
+      "id": 18,
+      "country": "Ukraine",
+      "year": 2007,
+      "gdppc": 8497.059496
+    },
+    {
+      "id": 18,
+      "country": "Ukraine",
+      "year": 2008,
+      "gdppc": 8739.686077
+    },
+    {
+      "id": 18,
+      "country": "Ukraine",
+      "year": 2009,
+      "gdppc": 7479.34217
+    },
+    {
+      "id": 18,
+      "country": "Ukraine",
+      "year": 2010,
+      "gdppc": 7824.498452
+    },
+    {
+      "id": 18,
+      "country": "Ukraine",
+      "year": 2011,
+      "gdppc": 8281.867126
+    },
+    {
+      "id": 18,
+      "country": "Ukraine",
+      "year": 2012,
+      "gdppc": 8322.173034
+    },
+    {
+      "id": 18,
+      "country": "Ukraine",
+      "year": 2013,
+      "gdppc": 8338.91505
+    },
+    {
+      "id": 18,
+      "country": "Ukraine",
+      "year": 2014,
+      "gdppc": 8243.473515
+    },
+    {
+      "id": 18,
+      "country": "Ukraine",
+      "year": 2015,
+      "gdppc": 7464.939834
+    },
+    {
+      "id": 18,
+      "country": "Ukraine",
+      "year": 2016,
+      "gdppc": 7668.055776
+    },
+    {
+      "id": 18,
+      "country": "Ukraine",
+      "year": 2017,
+      "gdppc": 7894.392926
+    }
+  ],
+  "weights": [
+    {
+      "country": "Moldova",
+      "iso3": "MDA",
+      "weight": 0.452
+    },
+    {
+      "country": "Armenia",
+      "iso3": "ARM",
+      "weight": 0.333
+    },
+    {
+      "country": "Bulgaria",
+      "iso3": "BGR",
+      "weight": 0.152
+    },
+    {
+      "country": "Slovenia",
+      "iso3": "SVN",
+      "weight": 0.063
+    }
+  ],
+  "donors": {
+    "Armenia": "ARM",
+    "Azerbaijan": "AZE",
+    "Belarus": "BLR",
+    "Bulgaria": "BGR",
+    "Czech": "CZE",
+    "Estonia": "EST",
+    "Hungary": "HUN",
+    "Kazakhstan": "KAZ",
+    "Kyrgyz Republic": "KGZ",
+    "Latvia": "LVA",
+    "Lithuania": "LTU",
+    "Moldova": "MDA",
+    "Poland": "POL",
+    "Romania": "ROU",
+    "Slovakia": "SVK",
+    "Slovenia": "SVN",
+    "Tajikistan": "TJK"
+  },
+  "published": [
+    {
+      "year": 2013,
+      "synthetic": 8799.18,
+      "shortfall": 460.26,
+      "percent": 5.23
+    },
+    {
+      "year": 2014,
+      "synthetic": 9076.43,
+      "shortfall": 832.96,
+      "percent": 9.18
+    },
+    {
+      "year": 2015,
+      "synthetic": 9280.71,
+      "shortfall": 1823.78,
+      "percent": 19.63
+    },
+    {
+      "year": 2016,
+      "synthetic": 9561.48,
+      "shortfall": 1893.38,
+      "percent": 19.8
+    },
+    {
+      "year": 2017,
+      "synthetic": 10078.52,
+      "shortfall": 2184.13,
+      "percent": 21.67
+    }
+  ],
+  "leaveOneOut": [
+    {
+      "label": "Original comparison",
+      "loss": 1438.9
+    },
+    {
+      "label": "Without Slovenia",
+      "loss": 1501.0
+    },
+    {
+      "label": "Without Bulgaria",
+      "loss": 1666.4
+    },
+    {
+      "label": "Without Armenia",
+      "loss": 1737.9
+    },
+    {
+      "label": "Without Moldova",
+      "loss": 1587.4
+    }
+  ],
+  "replicationStatus": {
+    "estimatorRun": false,
+    "mode": "published-weight reconstruction",
+    "note": "Rounded published weights and author observations; no weights were re-estimated. Published table results are labeled separately."
+  },
+  "sources": {
+    "wdi": {
+      "label": "World Bank WDI, saved 15 Nov 2026",
+      "url": "https://data.worldbank.org/country/ukraine"
+    },
+    "independence": {
+      "label": "Verkhovna Rada: independence and the 1991 referendum",
+      "url": "https://www.rada.gov.ua/en/news/News/top_news/230954.html"
+    },
+    "transition": {
+      "label": "World Bank: Ukraine Country Private Sector Diagnostic, 2021",
+      "url": "https://documents1.worldbank.org/curated/en/791871621302772828/pdf/Main-Report.pdf"
+    },
+    "gfc": {
+      "label": "IMF: Ukraine's 2008 financial crisis",
+      "url": "https://www.imf.org/en/news/articles/2015/09/28/04/53/socar081110a"
+    },
+    "conflict2014": {
+      "label": "World Bank: Ukraine Country Partnership Framework, 2017",
+      "url": "https://documents1.worldbank.org/curated/en/847421498183265026/pdf/Ukraine-Country-Partnership-Framework-FY2017-21-05262017.pdf"
+    },
+    "invasion": {
+      "label": "World Bank: recovery during war, 2023",
+      "url": "https://www.worldbank.org/en/results/2023/11/30/the-world-bank-and-ukraine-laying-the-groundwork-for-reconstruction-in-the-midst-of-war"
+    },
+    "paper": {
+      "label": "Bluszcz & Valente, Defence and Peace Economics, 2022",
+      "url": "https://doi.org/10.1080/10242694.2020.1791616"
+    },
+    "package": {
+      "label": "Author replication package, version 1, CC BY 4.0",
+      "url": "https://data.mendeley.com/datasets/9bwk589xz6/1"
+    },
+    "gisco": {
+      "label": "GISCO 2024. © EuroGeographics for the administrative boundaries",
+      "url": "https://ec.europa.eu/eurostat/web/gisco/geodata/administrative-units"
+    }
+  }
+}

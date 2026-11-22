@@ -1,0 +1,36 @@
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const frame = document.querySelector('#timeline .history-frame');
+  const expand = document.querySelector('#timeline .history-expand');
+  if (!frame || !expand) return;
+
+  if (document.fullscreenEnabled && frame.requestFullscreen) {
+    expand.hidden = false;
+    expand.addEventListener('click', async () => {
+      try {
+        await frame.requestFullscreen();
+        frame.focus();
+      } catch (error) {
+        console.warn('Could not expand the timeline:', error);
+      }
+    });
+  }
+
+  function focusDeck() {
+    const returnTarget = expand.hidden ? document.querySelector('.reveal .navigate-right') : expand;
+    returnTarget?.focus({ preventScroll: true });
+  }
+
+  frame.addEventListener('fullscreenchange', () => {
+    const isExpanded = document.fullscreenElement === frame;
+    frame.contentDocument?.documentElement.toggleAttribute('data-expanded', isExpanded);
+    if (!isExpanded) focusDeck();
+  });
+
+  window.addEventListener('message', event => {
+    if (event.source !== frame.contentWindow || event.data !== 'ukraine-history-exit') return;
+    if (document.fullscreenElement === frame) document.exitFullscreen();
+    else focusDeck();
+  });
+});
+</script>

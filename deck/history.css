@@ -1,0 +1,116 @@
+@font-face { font-family: Source; src: url('../prototype/fonts/source-sans-3-400.woff2'); }
+@font-face { font-family: Barlow; src: url('../prototype/fonts/barlow-condensed-600.woff2'); font-weight: 600; }
+
+:root {
+  --ink: #163c55;
+  --blue: #1675ae;
+  --paper: #edf4f7;
+  --rule: #d6e2e9;
+  --gold: #f5cc41;
+  --index-height: 4rem;
+}
+
+html { overscroll-behavior-y: contain; }
+body { background: var(--paper); color: var(--ink); font: 1.125rem/1.45 Source, sans-serif; }
+#quarto-content, main#quarto-document-content { margin: 0; padding: 0; }
+.history-index:not([hidden]) {
+  grid-column: screen-start / screen-end;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  display: flex;
+  height: var(--index-height);
+  background: white;
+  border-bottom: 1px solid var(--rule);
+}
+.history-index button {
+  flex: 1;
+  position: relative;
+  padding: .5em .15em .35em;
+  border: 0;
+  border-top: .25rem solid transparent;
+  background: none;
+  color: var(--ink);
+  font: 600 clamp(.94rem, 2.6vw, 1.4rem)/1.05 Barlow, sans-serif;
+}
+.history-index button:hover { background: var(--paper); }
+.history-index button[aria-current='step'] {
+  border-top-color: var(--gold);
+  background: var(--paper);
+  color: #0d5d8f;
+}
+.history-index button:focus-visible { outline: 2px solid var(--blue); outline-offset: -3px; }
+.history-index button span { display: block; font: .55em/1.1 Source, sans-serif; letter-spacing: .12em; margin-bottom: .3em; }
+.history-index .history-exit { display: none; }
+[data-expanded] .history-index .history-exit { display: block; flex: 0 0 auto; padding-inline: .65em; border-left: 1px solid var(--rule); }
+
+.history-story.cr-section.sidebar-left {
+  grid-template-columns: minmax(0, 4fr) minmax(0, 6fr);
+  background: var(--paper);
+}
+.history-story.sidebar-left .narrative-col { background: transparent; }
+.history-story .narrative-col .trigger {
+  min-height: 76dvh;
+  display: flex;
+  align-items: center;
+  padding: 1.5rem clamp(1rem, 3.2vw, 3.25rem);
+}
+.history-story .narrative-col .trigger:first-child { min-height: calc(100dvh - var(--index-height)); }
+.history-story .narrative-col .trigger .narrative {
+  border-left: .25rem solid var(--gold);
+  padding: .2rem 0 .45rem 1rem;
+  color: var(--ink);
+  font: clamp(1rem, 2vw, 1.5rem)/1.4 Source, sans-serif;
+}
+.history-story h2 {
+  margin: 0 0 .3em;
+  padding: 0;
+  border: 0;
+  font: 600 clamp(1.7rem, 3vw, 2.7rem)/1.02 Barlow, sans-serif;
+  color: var(--ink);
+}
+.history-story .sticky-col .sticky-col-stack {
+  top: var(--index-height);
+  height: calc(100dvh - var(--index-height));
+}
+.history-story .sticky-col .sticky-col-stack .sticky {
+  width: 100%;
+  padding: 0 clamp(.75rem, 3vw, 3rem) 0 0;
+  visibility: hidden;
+  transition: opacity 180ms ease-out;
+}
+.history-story .sticky-col .sticky-col-stack .sticky.cr-active { visibility: visible; }
+.history-photo { margin: 0; }
+.history-photo img {
+  display: block;
+  width: 100%;
+  height: min(54dvh, 36rem);
+  object-fit: contain;
+  background: #142e40;
+}
+.history-photo figcaption {
+  margin: 0;
+  padding: .65em .8em;
+  background: white;
+  color: var(--ink);
+  font-size: clamp(.75rem, 1.2vw, 1rem);
+  line-height: 1.25;
+}
+.history-photo a { color: #0d5d8f; text-underline-offset: .12em; }
+
+/* In a narrow viewport, reserve the upper half for the pinned photo. */
+@media (max-width: 620px) {
+  :root { --index-height: 3.25rem; }
+  .history-index button { font-size: clamp(.68rem, 3.2vw, .94rem); white-space: nowrap; }
+  .history-story.cr-section.sidebar-left { grid-template-columns: minmax(0, 1fr); }
+  .history-story.sidebar-left .narrative-col { grid-column: 1; z-index: 0; margin: 0; }
+  .history-story.sidebar-left .sticky-col { grid-column: 1; z-index: 1; pointer-events: none; }
+  .history-story .sticky-col .sticky-col-stack .sticky { margin: 0; padding: .65rem; }
+  .history-story .sticky-col .sticky-col-stack .sticky.cr-active { pointer-events: auto; align-self: start; }
+  .history-photo img { height: 30dvh; }
+  .history-story .narrative-col .trigger { min-height: 100dvh; padding: 49dvh .9rem 1.5rem; align-items: flex-start; }
+  .history-story .narrative-col .trigger .narrative { background: var(--paper); border-radius: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .history-story .sticky-col .sticky-col-stack .sticky { transition: none; }
+}

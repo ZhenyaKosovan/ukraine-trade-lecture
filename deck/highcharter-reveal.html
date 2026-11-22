@@ -1,0 +1,23 @@
+<script>
+// Reveal hides slides at startup. Reflow native widgets when a slide becomes visible.
+(function () {
+  function reflowCharts() {
+    requestAnimationFrame(function () {
+      if (window.Highcharts) {
+        Highcharts.charts.forEach(function (chart) {
+          if (chart && chart.renderTo.closest('section.present')) chart.reflow();
+        });
+      }
+    });
+  }
+  window.addEventListener('load', function () {
+    if (window.Reveal) {
+      Reveal.on('ready', reflowCharts);
+      Reveal.on('slidechanged', reflowCharts);
+      Reveal.on('resize', reflowCharts);
+    }
+    reflowCharts();
+
+  });
+})();
+</script>

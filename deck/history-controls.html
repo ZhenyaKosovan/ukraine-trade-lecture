@@ -1,0 +1,76 @@
+<script>
+// Closeread owns the photo changes. The index follows its active sticky.
+document.addEventListener('DOMContentLoaded', () => {
+  const story = document.querySelector('.history-story');
+  const index = document.querySelector('.history-index');
+  const triggers = [...story.querySelectorAll('.new-trigger')];
+  const stickies = triggers.map(step => document.getElementById(step.dataset.focusOn));
+  let current = 0;
+
+  function jump(i) {
+    const step = triggers[i];
+    if (!step) return;
+    const top = window.scrollY + step.getBoundingClientRect().top;
+    // Keep Closeread's 50% activation line inside the target trigger.
+    let y = top + (step.offsetHeight - innerHeight) / 2;
+    if (matchMedia('(max-width: 620px)').matches) {
+      const narrative = step.querySelector('.narrative');
+      y = window.scrollY + narrative.getBoundingClientRect().top - innerHeight * .55;
+    }
+    window.scrollTo(0, y);
+  }
+
+  const buttons = triggers.map((step, i) => {
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.setAttribute('aria-label', `${i + 1} of ${triggers.length}: ${step.querySelector('h2').textContent}`);
+    const number = document.createElement('span');
+    number.textContent = String(i + 1).padStart(2, '0');
+    button.append(number, document.createTextNode(step.dataset.period));
+    button.addEventListener('click', () => jump(i));
+    return button;
+  });
+  const exit = document.createElement('button');
+  exit.type = 'button';
+  exit.className = 'history-exit';
+  exit.textContent = 'Close';
+  exit.setAttribute('aria-label', 'Close expanded timeline');
+  exit.addEventListener('click', () => window.parent.postMessage('ukraine-history-exit', '*'));
+  index.replaceChildren(...buttons, exit);
+  index.hidden = false;
+  if (window.parent !== window) document.getElementById('quarto-skip-link')?.remove();
+  story.querySelectorAll('.history-photo a').forEach(link => {
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+  });
+
+  function sync() {
+    const active = stickies.findIndex(sticky => sticky.classList.contains('cr-active'));
+    current = active < 0 ? 0 : active;
+    buttons.forEach((button, i) => {
+      if (i === current) button.setAttribute('aria-current', 'step');
+      else button.removeAttribute('aria-current');
+      stickies[i].inert = i !== current;
+    });
+  }
+  const observer = new MutationObserver(sync);
+  stickies.forEach(sticky => observer.observe(sticky, { attributes: true, attributeFilter: ['class'] }));
+  sync();
+
+  // Replace Closeread's independent hotkey counter so mixing keys and
+  // scrolling starts from the photo that is actually on screen.
+  document.addEventListener('keydown', event => {
+    if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return;
+    if (event.key === 'Escape' && window.parent !== window) {
+      window.parent.postMessage('ukraine-history-exit', '*');
+      return;
+    }
+    const delta = event.key === 'ArrowRight' ? 1 : event.key === 'ArrowLeft' ? -1 : 0;
+    if (!delta && event.key !== 'p') return;
+    event.stopImmediatePropagation();
+    if (!delta) return;
+    event.preventDefault();
+    jump(current + delta);
+  }, true);
+});
+</script>
