@@ -11,6 +11,33 @@
     });
   }
   window.addEventListener('load', function () {
+    var root = document.documentElement;
+    var button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'theme-toggle';
+    button.setAttribute('aria-label', 'Toggle dark mode');
+    var dark = false;
+    try { dark = localStorage.getItem('lecture-theme') === 'dark'; } catch (e) { /* storage may be unavailable for local files */ }
+    var frame = document.querySelector('#timeline .history-frame');
+    function syncFrame() {
+      if (frame && frame.contentDocument) {
+        frame.contentDocument.documentElement.classList.toggle('lecture-dark', dark);
+      }
+    }
+    if (frame) frame.addEventListener('load', syncFrame);
+    function applyTheme() {
+      root.classList.toggle('lecture-dark', dark);
+      syncFrame();
+      button.textContent = dark ? 'Light mode' : 'Dark mode';
+      button.setAttribute('aria-pressed', String(dark));
+    }
+    button.addEventListener('click', function () {
+      dark = !dark;
+      applyTheme();
+      try { localStorage.setItem('lecture-theme', dark ? 'dark' : 'light'); } catch (e) { /* optional persistence */ }
+    });
+    document.body.appendChild(button);
+    applyTheme();
     if (window.Reveal) {
       Reveal.on('ready', reflowCharts);
       Reveal.on('slidechanged', reflowCharts);

@@ -81,3 +81,48 @@
   .reveal .history-print { display: block; }
   .reveal .history-print li { margin-block: .45em; }
 }
+
+/* The switch sits outside Reveal so it remains fixed while slides scale. */
+
+.theme-toggle { position: fixed; top: 12px; right: 14px; z-index: 1000; padding: 8px 12px; border: 1px solid #587181; border-radius: 4px; background: #fff; color: #163c55; font: 16px Source, sans-serif; cursor: pointer; }
+
+.theme-toggle:focus-visible { outline: 3px solid #1675ae; outline-offset: 3px; }
+
+.lecture-dark { --r-background-color: #101e29; --r-main-color: #e2edf3; --r-heading-color: #f0f6f9; --r-link-color: #79c9f5; }
+
+.lecture-dark .reveal, .lecture-dark .reveal .slides { color: #e2edf3; }
+
+.lecture-dark .reveal .backgrounds, .lecture-dark .reveal .slide-background { background-color: #101e29; }
+
+.lecture-dark .reveal .chapter, .lecture-dark .reveal #about-me h2, .lecture-dark .reveal #agenda h2, .lecture-dark .reveal #agenda li::before, .lecture-dark .reveal .bio-contact, .lecture-dark .reveal .timeline-card h3, .lecture-dark .reveal .method-steps article > span, .lecture-dark .reveal a { color: #79c9f5; }
+
+.lecture-dark .reveal .kicker, .lecture-dark .reveal .source-links, .lecture-dark .reveal .source-links a, .lecture-dark .reveal .stat-caption, .lecture-dark .reveal .population-fact p, .lecture-dark .reveal .warning, .lecture-dark .reveal .unit-note, .lecture-dark .reveal .status-label, .lecture-dark .reveal .bio-affiliation { color: #b3c9d6; }
+
+.lecture-dark .reveal .timeline-card, .lecture-dark .reveal .period-strip, .lecture-dark .reveal .weight-bar { background: #243b4b; }
+
+.lecture-dark .reveal .negative, .lecture-dark .reveal .two-stats b { color: #ff9ba3; }
+
+.lecture-dark .reveal .positive { color: #64d6c8 !important; }
+
+.lecture-dark .theme-toggle { background: #243b4b; color: #f0f6f9; border-color: #b3c9d6; }
+
+.lecture-dark .highcharts-axis-labels text, .lecture-dark .highcharts-axis-title, .lecture-dark .highcharts-legend-item text, .lecture-dark .highcharts-data-label text { fill: #e2edf3 !important; }
+
+.lecture-dark .highcharts-map-series .highcharts-data-label text { fill: #163c55 !important; }
+
+.lecture-dark .highcharts-series [stroke="#163c55"] { stroke: #a6d8f2; }
+
+.lecture-dark .highcharts-series [fill="#163c55"] { fill: #a6d8f2; }
+
+.lecture-dark .highcharts-grid-line { stroke: #415767; }
+
+@media print { .theme-toggle { display: none; } }
+
+@font-face { font-family: 'JetBrains Mono'; src: url('fonts/JetBrainsMonoNerdFont-Regular.ttf'); font-weight: 400; }
+@font-face { font-family: 'JetBrains Mono'; src: url('fonts/JetBrainsMonoNerdFont-Bold.ttf'); font-weight: 700; }
+:root { --r-main-font: 'JetBrains Mono', monospace; --r-heading-font: 'JetBrains Mono', monospace; }
+.reveal .population-fact strong, .reveal .population-fact b, .reveal .date-fact,
+.reveal .big-stat, .reveal .two-stats b, .reveal .design-number,
+.reveal .bio-name, .reveal #agenda li, .axis text, #tooltip, .theme-toggle {
+  font-family: 'JetBrains Mono', monospace;
+}

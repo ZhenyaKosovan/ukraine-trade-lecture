@@ -24,7 +24,7 @@ synthetic_values <- function() {
 base_chart <- function(height = 430, type = "chart") {
   highchart(type = type, height = height) |>
     hc_chart(backgroundColor = "transparent", animation = FALSE,
-             style = list(fontFamily = "Source, sans-serif", fontSize = "18px")) |>
+             style = list(fontFamily = "JetBrains Mono, monospace", fontSize = "18px")) |>
     hc_title(text = NULL) |>
     hc_credits(enabled = FALSE) |>
     hc_exporting(enabled = FALSE) |>

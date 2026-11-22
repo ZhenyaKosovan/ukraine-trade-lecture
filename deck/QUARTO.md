@@ -18,7 +18,7 @@ The wrapper exposes `.R-library` to R and renders `deck/history.qmd` before `dec
 
 Send **`deck/lecture.html` alone**. Open it directly from disk in a browser. Quarto's `embed-resources: true` bundles the chart libraries, widget data, fonts, CSS, and Reveal navigation in that file. Students need neither an internet connection nor R, Quarto, a server, or the source folders. Source hyperlinks still require internet when clicked.
 
-Use arrow keys to navigate the deck and S for presenter notes. On the history slide, scroll or select a date to change the pinned photo. Left and right arrows move between events when the timeline has focus; press Escape to return focus to the deck. The print view substitutes a static chronology for the interactive timeline. Highcharts tooltips, legends, and map zoom buttons work offline. Mouse-wheel map zoom is disabled to avoid accidental zooming while presenting. Online exporting is disabled. To make a PDF, use Reveal's `?print-pdf` view and browser printing.
+Use arrow keys to navigate the deck and S for presenter notes. The button at the top right switches light and dark mode, saving the choice when browser storage is available. Switch to light mode before printing if you want a light PDF. On the history slide, scroll or select a date to change the pinned photo. Left and right arrows move between events when the timeline has focus; press Escape to return focus to the deck. The print view substitutes a static chronology for the interactive timeline. Highcharts tooltips, legends, and map zoom buttons work offline. Mouse-wheel map zoom is disabled to avoid accidental zooming while presenting. Online exporting is disabled. To make a PDF, use Reveal's `?print-pdf` view and browser printing.
 
 ## Edit
 

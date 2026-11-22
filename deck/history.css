@@ -114,3 +114,13 @@ body { background: var(--paper); color: var(--ink); font: 1.125rem/1.45 Source, 
 @media (prefers-reduced-motion: reduce) {
   .history-story .sticky-col .sticky-col-stack .sticky { transition: none; }
 }
+
+@font-face { font-family: 'JetBrains Mono'; src: url('fonts/JetBrainsMonoNerdFont-Regular.ttf'); font-weight: 400; }
+@font-face { font-family: 'JetBrains Mono'; src: url('fonts/JetBrainsMonoNerdFont-Bold.ttf'); font-weight: 700; }
+body, .history-index button, .history-index button span,
+.history-story .narrative-col .trigger .narrative, .history-story h2 {
+  font-family: 'JetBrains Mono', monospace;
+}
+.lecture-dark { --ink: #e2edf3; --blue: #79c9f5; --paper: #101e29; --rule: #415767; }
+.lecture-dark .history-index, .lecture-dark .history-photo figcaption { background: #243b4b; }
+.lecture-dark .history-index button[aria-current='step'], .lecture-dark .history-photo a { color: #79c9f5; }
