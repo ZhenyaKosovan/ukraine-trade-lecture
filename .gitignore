@@ -1,0 +1,6 @@
+.R-library/
+.venv/
+.ruff_cache/
+__pycache__/
+*.pyc
+.quarto/
