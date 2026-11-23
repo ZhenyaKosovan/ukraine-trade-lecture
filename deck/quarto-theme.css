@@ -5,6 +5,8 @@
 .reveal .slides > section { height: 100%; box-sizing: border-box; padding: 40px 56px 36px; }
 .reveal .slides > section.present { display: flex !important; flex-direction: column; }
 .reveal h2 { font-size: 1.85em; line-height: 1.06; margin: 20px 0 10px; font-weight: 600; letter-spacing: -.015em; }
+.reveal .slides > section#discussion.present { justify-content: center; align-items: center; }
+.reveal #discussion h2 { font-size: 3em; margin: 0; text-align: center; }
 .reveal .chapter { order: -1; color: #1675ae; text-transform: uppercase; letter-spacing: .13em; font-size: 15px; }
 .reveal p { margin: 0; }
 .reveal .chapter p { margin: 0; }

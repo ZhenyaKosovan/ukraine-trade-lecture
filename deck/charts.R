@@ -273,12 +273,13 @@ lecture_chart <- function(name) {
     return(hc_legend(chart, enabled = FALSE))
   }
   if (name == "synthetic-paths") return(time_chart(1995:2017, author_values("Ukraine"),
-    "GDP per person, 2011 international dollars at PPP", 2013, c(0, 11000)) |>
+    NULL, 2013, c(0, 11000)) |>
+    hc_yAxis(labels = list(enabled = FALSE)) |>
     add_path(1995:2017, synthetic_values(), "Published-weight reconstruction", teal, "Dash") |>
     hc_legend(enabled = FALSE))
   if (name == "published-gap") return(base_chart() |>
     hc_xAxis(categories = vapply(lecture_data$published, function(x) as.character(x$year), character(1))) |>
-    hc_yAxis(min = 0, max = 25, title = list(text = "Below the authors' counterfactual, %")) |>
+    hc_yAxis(min = 0, max = 25, title = list(text = NULL), labels = list(enabled = FALSE)) |>
     hc_add_series(type = "column", name = "Published shortfall", color = red,
       data = lapply(lecture_data$published, function(x) x$percent),
       dataLabels = list(enabled = TRUE, format = "{y:.2f}%")) |>

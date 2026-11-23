@@ -47,8 +47,10 @@ Senior Data Scientist, Mastercard
 :::
 
 ::: {.bio-details}
+- Statistics and ML 
 - Quantitative modeling
-- Computers and tech
+- Data Engineering
+- Computers and open-source software
 :::
 
 ::: {.bio-contact}
@@ -571,7 +573,7 @@ Evaluate 2013--2017
 :::
 :::::
 
-Outcome: real GDP **per person**, in 2011 international dollars at PPP.
+Outcome: real GDP **per person**, in 2011 dollars at PPP.
 
 The design covers the broader crisis beginning in 2013, not the isolated effect of fighting in 2014 or the invasion in 2022.
 
@@ -636,7 +638,7 @@ Weights are the rounded values in published Table 2: Moldova 45.2%, Armenia 33.3
 ## A close pre-crisis fit. A post-crisis divergence. {#paths .full-chart}
 
 ::: {.kicker}
-Published-weight reconstruction · national model re-estimated separately
+GDP per person, 2011 international dollars at PPP
 :::
 
 ::: {.slide-content}
@@ -646,9 +648,6 @@ lecture_chart("synthetic-paths")
 ```
 :::
 
-::: under-chart
-Rerun matches the published headline
-:::
 
 :::
 
@@ -663,7 +662,7 @@ This curve is an arithmetic reconstruction using the authors' data and four roun
 ## The paper's headline: a shortfall against the counterfactual. {#gap .split}
 
 ::: {.kicker}
-Published Table 5 · national rerun matches to two decimal places
+Below the authors' counterfactual, %
 :::
 
 ::: {.slide-content}
@@ -696,143 +695,6 @@ Not an estimate of the contribution of lost trade alone.
 Read the bars as the percentage by which observed GDP per person is below the authors' synthetic counterfactual in each year. The paper's Table 5 reports 5.23%, 9.18%, 19.63%, 19.80%, and 21.67%, averaging 15.10%. The blue line graph on the previous slide is a rounded-weight reconstruction; these bars transcribe the published table. The independent rerun matches each annual percentage to two decimal places and gives a mean of 15.103%. The paper's average dollar gap is 1,438.90 international 2011 dollars per person. These are model-based estimates, not observed accounting losses.
 :::
 
-## What happens when an important donor is removed? {#sensitivity .split}
+## Discussion {#discussion}
 
-::: {.kicker}
-Published leave-one-out results · average annual shortfall per person
-:::
-
-::: {.slide-content}
-::: {.chart}
-```{r}
-lecture_chart("sensitivity")
-```
-:::
-
-::: explanation
-The paper refits the model after removing each positive-weight donor.
-
-The shortfall remains, but its size changes.
-
-This does not settle regional spillovers, concurrent shocks, or changing statistical coverage.
-
-Removing both Moldova and Armenia is a further check, not a result shown here.
-:::
-
-:::
-
-::: {.source-links}
-[Bluszcz & Valente, Defence and Peace Economics, 2022](https://doi.org/10.1080/10242694.2020.1791616)
-:::
-
-::: {.notes}
-This chart redraws the paper's published Table 4, not our refitted estimates. Our Armenia exclusion gives 1,754.99 rather than the published 1,737.9; the cause is unresolved. Original average shortfall 1,438.9; removing Slovenia 1,501.0; Bulgaria 1,666.4; Armenia 1,737.9; Moldova 1,587.4, all in 2011 PPP dollars per person. The paper does not show a joint exclusion of Moldova and Armenia in this table. Do not replace a refit by mechanically renormalizing fixed published weights and call it a leave-one-out replication. The numbers here show larger shortfalls after each exclusion, not a disappearance of the result.
-:::
-
-## Would the same method find a crisis in the donor countries? {#placebos .placebos}
-
-::: {.kicker}
-Give each donor the same pretend intervention date
-:::
-
-::: {.slide-content}
-::: {.placebo-countries}
-### 1 treated country + 17 donor comparisons
-
-```{r}
-#| results: asis
-cat("**Ukraine** · ", paste(names(lecture_data$donors), collapse = " · "), "\n\n", sep = "")
-```
-
-Procedure illustration. No new placebo estimates are shown.
-:::
-
-::: explanation
-1.  Build a synthetic comparison for each donor.
-2.  Check its fit before 2013.
-3.  Compare the later divergence with Ukraine\'s.
-
-With few comparisons, inference is coarse. Different pre-fit rules and statistics give different rankings.
-:::
-
-:::
-
-::: {.source-links}
-[Bluszcz & Valente, Defence and Peace Economics, 2022](https://doi.org/10.1080/10242694.2020.1791616)
-:::
-
-::: {.notes}
-The country dots illustrate the placebo procedure; they are not a fresh set of fitted placebo paths or observed test statistics. The paper reports several different summaries: ATT ranking after six pre-fit exclusions gives 1/12, about 8.3%; the post/pre squared-error ranking gives 2/18, about 11.1%; its joint ATT–MPE comparison reports 1/18 while calling it significant at 5%. One over eighteen is about 5.6%, not below 5%. Do not turn these distinct criteria into one interchangeable p-value or present placebo ranks as randomized assignment probabilities without assumptions. We reran placebo fits, but have not verified the paper's inference conventions; no new placebo estimates are shown here.
-:::
-
-## A replication should expose the choices. {#replication .replication}
-
-::: {.kicker}
-What we reproduced, and what still needs checking
-:::
-
-::: {.slide-content}
-::::: replication-columns
-::: {}
-### National model rerun
-
-- Headline shortfall reproduced: 15.103%.
-- Annual gaps and major weights match published rounding.
-- Placebos and donor exclusions refitted.
-- Charts still display published values or rounded-weight reconstruction.
-:::
-
-::: {}
-### Still to check
-
-- Investigate the Armenia exclusion discrepancy.
-- Verify placebo inference conventions.
-- Reproduce regional and remaining robustness results.
-- Test donor-pool and treatment-date choices.
-:::
-:::::
-
-National headline replicated to reported precision. Full paper replication remains incomplete.
-
-:::
-
-::: {.source-links}
-[Bluszcz & Valente, Defence and Peace Economics, 2022](https://doi.org/10.1080/10242694.2020.1791616) · [Author replication package, version 1, CC BY 4.0](https://data.mendeley.com/datasets/9bwk589xz6/1)
-:::
-
-::: {.notes}
-The original R script references two absent columns in unused preprocessing lines, and the implemented trade-dependence measure is GDP-based rather than the paper's verbal trade-share description. The teaching rerun documents these changes. It matches the headline and annual gaps to published precision. Removing Armenia gives 1,754.99 versus the published 1,737.9 international dollars; the difference remains unexplained. Placebo inference and regional results remain unchecked. The national data are frozen historical observations; swapping in today's WDI data is an extension, not an exact reproduction.
-:::
-
-## The economic loss depends on the missing path. {#sources .sources}
-
-::: {.kicker}
-Discussion: what would make you trust that path?
-:::
-
-::: {.slide-content}
-::: closing-questions
-Would you trust the estimate if one donor carried most of the weight?
-
-What if the crisis also affected the donor countries?
-
-What if the border of the measured economy changed?
-:::
-
-::: {.source-directory}
-```{r}
-#| results: asis
-for (s in lecture_data$sources) cat(sprintf("[%s](%s)\n\n", s$label, s$url))
-```
-:::
-
-:::
-
-::: {.source-links}
-[World Bank WDI, saved 15 Nov 2026](https://data.worldbank.org/country/ukraine) · [Bluszcz & Valente, Defence and Peace Economics, 2022](https://doi.org/10.1080/10242694.2020.1791616) · [Author replication package, version 1, CC BY 4.0](https://data.mendeley.com/datasets/9bwk589xz6/1) · [GISCO 2024. © EuroGeographics for the administrative boundaries](https://ec.europa.eu/eurostat/web/gisco/geodata/administrative-units)
-:::
-
-::: {.notes}
-End with the distinction between describing a downturn and estimating a crisis effect. The historical GDP chart and the paper's GDP-per-person counterfactual use different outcomes and vintages, deliberately labeled throughout. Sources are clickable in the browser and on printed PDFs when supported. Data snapshot 15 November 2026. All code, source notes, original replication files, and limitations are saved in the project. The GISCO boundaries have noncommercial-use conditions and require the displayed EuroGeographics credit.
-:::
 
