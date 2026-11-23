@@ -1,0 +1,310 @@
+{
+  "recorded_on": "2026-11-15",
+  "browser": "Chrome via agent_browser",
+  "all_steps_succeeded": true,
+  "steps": [
+    {
+      "command": [
+        "network",
+        "requests",
+        "--clear"
+      ],
+      "success": true,
+      "result": {
+        "cleared": true
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "console",
+        "--clear"
+      ],
+      "success": true,
+      "result": {
+        "cleared": true
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "errors",
+        "--clear"
+      ],
+      "success": true,
+      "result": {
+        "errors": []
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "open",
+        "http://127.0.0.1:8765/prototype/"
+      ],
+      "success": true,
+      "result": {
+        "title": "Where Ukraine trades | Economic atlas",
+        "url": "http://127.0.0.1:8765/prototype/"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "wait",
+        "--load",
+        "networkidle"
+      ],
+      "success": true,
+      "result": {
+        "state": "networkidle"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "wait",
+        "--fn",
+        "(() => {\n  const expected = \"Where Ukraine trades\".replace(/\\s+/g, \" \").trim();\n  if (!expected) return false;\n  const root = document.body || document.documentElement;\n  if (!root) return false;\n  const skipTags = new Set([\"SCRIPT\", \"STYLE\", \"NOSCRIPT\", \"SVG\"]);\n  const normalize = (value) => String(value ?? \"\").replace(/\\s+/g, \" \").trim();\n  const isVisibleElement = (element) => {\n    if (!(element instanceof HTMLElement)) return false;\n    if (skipTags.has(element.tagName)) return false;\n    const style = window.getComputedStyle(element);\n    if (style.display === \"none\" || style.visibility === \"hidden\" || Number(style.opacity) === 0) return false;\n    return element.getClientRects().length > 0;\n  };\n  const hasVisibleAncestors = (node) => {\n    for (let element = node.parentElement; element; element = element.parentElement) {\n      if (!isVisibleElement(element)) return false;\n      if (element === root) break;\n    }\n    return true;\n  };\n  const textWalker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);\n  let visitedText = 0;\n  for (let node = textWalker.nextNode(); node && visitedText < 6000; node = textWalker.nextNode(), visitedText += 1) {\n    if (!hasVisibleAncestors(node)) continue;\n    if (normalize(node.nodeValue).includes(expected)) return true;\n  }\n  const elementWalker = document.createTreeWalker(root, NodeFilter.SHOW_ELEMENT);\n  let visitedElements = 0;\n  for (let node = elementWalker.nextNode(); node && visitedElements < 3000; node = elementWalker.nextNode(), visitedElements += 1) {\n    const element = node;\n    if (!isVisibleElement(element) || !(\"value\" in element)) continue;\n    if (normalize(element.value).includes(expected)) return true;\n  }\n  return false;\n})()",
+        "--timeout",
+        "5000"
+      ],
+      "success": true,
+      "result": {
+        "result": true
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "wait",
+        "--fn",
+        "(() => {\n  const expected = \"All goods\".replace(/\\s+/g, \" \").trim();\n  if (!expected) return false;\n  const root = document.body || document.documentElement;\n  if (!root) return false;\n  const skipTags = new Set([\"SCRIPT\", \"STYLE\", \"NOSCRIPT\", \"SVG\"]);\n  const normalize = (value) => String(value ?? \"\").replace(/\\s+/g, \" \").trim();\n  const isVisibleElement = (element) => {\n    if (!(element instanceof HTMLElement)) return false;\n    if (skipTags.has(element.tagName)) return false;\n    const style = window.getComputedStyle(element);\n    if (style.display === \"none\" || style.visibility === \"hidden\" || Number(style.opacity) === 0) return false;\n    return element.getClientRects().length > 0;\n  };\n  const hasVisibleAncestors = (node) => {\n    for (let element = node.parentElement; element; element = element.parentElement) {\n      if (!isVisibleElement(element)) return false;\n      if (element === root) break;\n    }\n    return true;\n  };\n  const textWalker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);\n  let visitedText = 0;\n  for (let node = textWalker.nextNode(); node && visitedText < 6000; node = textWalker.nextNode(), visitedText += 1) {\n    if (!hasVisibleAncestors(node)) continue;\n    if (normalize(node.nodeValue).includes(expected)) return true;\n  }\n  const elementWalker = document.createTreeWalker(root, NodeFilter.SHOW_ELEMENT);\n  let visitedElements = 0;\n  for (let node = elementWalker.nextNode(); node && visitedElements < 3000; node = elementWalker.nextNode(), visitedElements += 1) {\n    const element = node;\n    if (!isVisibleElement(element) || !(\"value\" in element)) continue;\n    if (normalize(element.value).includes(expected)) return true;\n  }\n  return false;\n})()",
+        "--timeout",
+        "5000"
+      ],
+      "success": true,
+      "result": {
+        "result": true
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "wait",
+        "#map path.country"
+      ],
+      "success": true,
+      "result": {
+        "selector": "#map path.country",
+        "waited": "selector"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "network",
+        "requests"
+      ],
+      "success": true,
+      "result": {
+        "requests": [
+          {
+            "headers": {
+              "Accept-Language": "en-US,en;q=0.9",
+              "Upgrade-Insecure-Requests": "1",
+              "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/150.0.0.0 Safari/537.36",
+              "sec-ch-ua": "\"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"150\"",
+              "sec-ch-ua-mobile": "?0",
+              "sec-ch-ua-platform": "\"Linux\""
+            },
+            "method": "GET",
+            "mimeType": "text/html",
+            "requestId": "DA6748A51EA8AC27B25C3112C1198A4F",
+            "resourceType": "Document",
+            "responseHeaders": {
+              "Content-Length": "15060",
+              "Content-type": "text/html",
+              "Date": "Sun, 15 Nov 2026 12:37:49 GMT",
+              "Last-Modified": "Sun, 15 Nov 2026 12:36:40 GMT",
+              "Server": "SimpleHTTP/0.6 Python/3.13.5"
+            },
+            "status": 200,
+            "timestamp": 1794746269826,
+            "url": "http://127.0.0.1:8765/prototype/"
+          },
+          {
+            "headers": {
+              "Accept-Language": "en-US,en;q=0.9",
+              "If-Modified-Since": "Sun, 15 Nov 2026 12:36:40 GMT",
+              "Referer": "http://127.0.0.1:8765/prototype/",
+              "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/150.0.0.0 Safari/537.36",
+              "sec-ch-ua": "\"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"150\"",
+              "sec-ch-ua-mobile": "?0",
+              "sec-ch-ua-platform": "\"Linux\""
+            },
+            "method": "GET",
+            "mimeType": "text/css",
+            "requestId": "3302160.79",
+            "resourceType": "Stylesheet",
+            "responseHeaders": {
+              "Date": "Sun, 15 Nov 2026 12:37:49 GMT",
+              "Server": "SimpleHTTP/0.6 Python/3.13.5"
+            },
+            "status": 304,
+            "timestamp": 1794746269826,
+            "url": "http://127.0.0.1:8765/prototype/styles.css"
+          },
+          {
+            "headers": {
+              "Referer": "http://127.0.0.1:8765/prototype/"
+            },
+            "method": "GET",
+            "mimeType": "text/javascript",
+            "requestId": "3302160.80",
+            "resourceType": "Script",
+            "responseHeaders": {
+              "Content-Length": "279706",
+              "Content-type": "text/javascript",
+              "Date": "Sun, 15 Nov 2026 12:37:20 GMT",
+              "Last-Modified": "Sun, 15 Nov 2026 12:21:21 GMT",
+              "Server": "SimpleHTTP/0.6 Python/3.13.5"
+            },
+            "status": 200,
+            "timestamp": 1794746269826,
+            "url": "http://127.0.0.1:8765/prototype/vendor/d3.v7.min.js"
+          },
+          {
+            "headers": {
+              "Accept-Language": "en-US,en;q=0.9",
+              "If-Modified-Since": "Sun, 15 Nov 2026 12:36:40 GMT",
+              "Referer": "http://127.0.0.1:8765/prototype/",
+              "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/150.0.0.0 Safari/537.36",
+              "sec-ch-ua": "\"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"150\"",
+              "sec-ch-ua-mobile": "?0",
+              "sec-ch-ua-platform": "\"Linux\""
+            },
+            "method": "GET",
+            "mimeType": "text/javascript",
+            "requestId": "3302160.81",
+            "resourceType": "Script",
+            "responseHeaders": {
+              "Date": "Sun, 15 Nov 2026 12:37:49 GMT",
+              "Server": "SimpleHTTP/0.6 Python/3.13.5"
+            },
+            "status": 304,
+            "timestamp": 1794746269826,
+            "url": "http://127.0.0.1:8765/prototype/app.js"
+          },
+          {
+            "headers": {
+              "Accept-Language": "en-US,en;q=0.9",
+              "Referer": "http://127.0.0.1:8765/prototype/",
+              "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/150.0.0.0 Safari/537.36",
+              "sec-ch-ua": "\"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"150\"",
+              "sec-ch-ua-mobile": "?0",
+              "sec-ch-ua-platform": "\"Linux\""
+            },
+            "method": "GET",
+            "mimeType": "application/json",
+            "requestId": "3302160.85",
+            "resourceType": "Fetch",
+            "responseHeaders": {
+              "Content-Length": "1056797",
+              "Content-type": "application/json",
+              "Date": "Sun, 15 Nov 2026 12:37:20 GMT",
+              "Last-Modified": "Sun, 15 Nov 2026 12:27:56 GMT",
+              "Server": "SimpleHTTP/0.6 Python/3.13.5"
+            },
+            "status": 200,
+            "timestamp": 1794746269826,
+            "url": "http://127.0.0.1:8765/prototype/data/trade.json"
+          },
+          {
+            "headers": {
+              "Accept-Language": "en-US,en;q=0.9",
+              "Referer": "http://127.0.0.1:8765/prototype/",
+              "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/150.0.0.0 Safari/537.36",
+              "sec-ch-ua": "\"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"150\"",
+              "sec-ch-ua-mobile": "?0",
+              "sec-ch-ua-platform": "\"Linux\""
+            },
+            "method": "GET",
+            "mimeType": "application/geo+json",
+            "requestId": "3302160.86",
+            "resourceType": "Fetch",
+            "responseHeaders": {
+              "Content-Length": "1984591",
+              "Content-type": "application/geo+json",
+              "Date": "Sun, 15 Nov 2026 12:30:58 GMT",
+              "Last-Modified": "Sun, 15 Nov 2026 09:09:52 GMT",
+              "Server": "SimpleHTTP/0.6 Python/3.13.5"
+            },
+            "status": 200,
+            "timestamp": 1794746269826,
+            "url": "http://127.0.0.1:8765/raw/geography/CNTR_RG_20M_2024_4326.geojson"
+          },
+          {
+            "headers": {
+              "Referer": ""
+            },
+            "method": "GET",
+            "mimeType": "font/woff2",
+            "requestId": "3302160.87",
+            "resourceType": "Font",
+            "responseHeaders": {
+              "Content-Length": "21352",
+              "Content-type": "font/woff2",
+              "Date": "Sun, 15 Nov 2026 12:37:20 GMT",
+              "Last-Modified": "Sun, 15 Nov 2026 12:21:21 GMT",
+              "Server": "SimpleHTTP/0.6 Python/3.13.5"
+            },
+            "status": 200,
+            "timestamp": 1794746269826,
+            "url": "http://127.0.0.1:8765/prototype/fonts/barlow-condensed-600.woff2"
+          },
+          {
+            "headers": {
+              "Referer": ""
+            },
+            "method": "GET",
+            "mimeType": "font/woff2",
+            "requestId": "3302160.88",
+            "resourceType": "Font",
+            "responseHeaders": {
+              "Content-Length": "15628",
+              "Content-type": "font/woff2",
+              "Date": "Sun, 15 Nov 2026 12:37:20 GMT",
+              "Last-Modified": "Sun, 15 Nov 2026 12:21:21 GMT",
+              "Server": "SimpleHTTP/0.6 Python/3.13.5"
+            },
+            "status": 200,
+            "timestamp": 1794746269826,
+            "url": "http://127.0.0.1:8765/prototype/fonts/source-sans-3-400.woff2"
+          }
+        ]
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "console"
+      ],
+      "success": true,
+      "result": {
+        "messages": []
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "errors"
+      ],
+      "success": true,
+      "result": {
+        "errors": []
+      },
+      "error": null
+    }
+  ]
+}

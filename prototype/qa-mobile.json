@@ -1,0 +1,108 @@
+{
+  "recorded_on": "2026-11-15",
+  "browser": "Chrome via agent_browser",
+  "all_steps_succeeded": true,
+  "steps": [
+    {
+      "command": [
+        "open",
+        "http://127.0.0.1:8765/prototype/"
+      ],
+      "success": true,
+      "result": {
+        "title": "Where Ukraine trades | Economic atlas",
+        "url": "http://127.0.0.1:8765/prototype/"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "wait",
+        "--load",
+        "networkidle"
+      ],
+      "success": true,
+      "result": {
+        "state": "networkidle"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "set",
+        "viewport",
+        "390",
+        "844"
+      ],
+      "success": true,
+      "result": {
+        "deviceScaleFactor": 1,
+        "height": 844,
+        "mobile": false,
+        "width": 390
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "snapshot",
+        "-i"
+      ],
+      "success": true,
+      "result": {
+        "origin": "http://127.0.0.1:8765/prototype/?year=2023&dataset=goods&flow=export&sector=All+goods&measure=value",
+        "snapshot_performed": true
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "eval",
+        "({viewport:innerWidth,documentWidth:document.documentElement.scrollWidth,countryChartDisplay:getComputedStyle(document.querySelector('#country-chart')).display,mapCountries:document.querySelectorAll('path.country').length})"
+      ],
+      "success": true,
+      "result": {
+        "origin": "http://127.0.0.1:8765/prototype/?year=2023&dataset=goods&flow=export&sector=All+goods&measure=value",
+        "result": {
+          "countryChartDisplay": "none",
+          "documentWidth": 390,
+          "mapCountries": 262,
+          "viewport": 390
+        }
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "screenshot",
+        "/home/zhenya/ukraine-trade-lecture/prototype/mobile-preview.png",
+        "--full"
+      ],
+      "success": true,
+      "result": {
+        "path": "/home/zhenya/ukraine-trade-lecture/prototype/mobile-preview.png"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "errors"
+      ],
+      "success": true,
+      "result": {
+        "errors": []
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "console"
+      ],
+      "success": true,
+      "result": {
+        "messages": []
+      },
+      "error": null
+    }
+  ]
+}

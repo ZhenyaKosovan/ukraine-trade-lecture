@@ -1,0 +1,111 @@
+{
+  "recorded_on": "2026-11-15",
+  "browser": "Chrome via agent_browser",
+  "all_steps_succeeded": true,
+  "steps": [
+    {
+      "command": [
+        "open",
+        "http://127.0.0.1:8765/prototype/?year=2023&partner=POL"
+      ],
+      "success": true,
+      "result": {
+        "title": "Where Ukraine trades | Economic atlas",
+        "url": "http://127.0.0.1:8765/prototype/?year=2023&partner=POL"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "wait",
+        "--load",
+        "networkidle"
+      ],
+      "success": true,
+      "result": {
+        "state": "networkidle"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "set",
+        "viewport",
+        "1440",
+        "1000"
+      ],
+      "success": true,
+      "result": {
+        "deviceScaleFactor": 1,
+        "height": 1000,
+        "mobile": false,
+        "width": 1440
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "snapshot",
+        "-i"
+      ],
+      "success": true,
+      "result": {
+        "origin": "http://127.0.0.1:8765/prototype/?year=2023&dataset=goods&flow=export&sector=All+goods&measure=value&partner=POL",
+        "snapshot_performed": true
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "eval",
+        "({year:document.querySelector('#year-value').textContent,partner:document.querySelector('#country-title').textContent,documentWidth:document.documentElement.scrollWidth,viewport:innerWidth,mapCountries:document.querySelectorAll('path.country').length,invalidPaths:[...document.querySelectorAll('svg path[d]')].filter(p=>p.getAttribute('d').includes('NaN')).length,downloadEnabled:document.querySelector('#download').hasAttribute('href')})"
+      ],
+      "success": true,
+      "result": {
+        "origin": "http://127.0.0.1:8765/prototype/?year=2023&dataset=goods&flow=export&sector=All+goods&measure=value&partner=POL",
+        "result": {
+          "documentWidth": 1440,
+          "downloadEnabled": true,
+          "invalidPaths": 0,
+          "mapCountries": 262,
+          "partner": "Poland",
+          "viewport": 1440,
+          "year": "2023"
+        }
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "screenshot",
+        "/home/zhenya/ukraine-trade-lecture/prototype/desktop-preview.png",
+        "--full"
+      ],
+      "success": true,
+      "result": {
+        "path": "/home/zhenya/ukraine-trade-lecture/prototype/desktop-preview.png"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "errors"
+      ],
+      "success": true,
+      "result": {
+        "errors": []
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "console"
+      ],
+      "success": true,
+      "result": {
+        "messages": []
+      },
+      "error": null
+    }
+  ]
+}

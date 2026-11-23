@@ -19,7 +19,7 @@ format:
     include-after-body:
       - highcharter-reveal.html
       - history-slide.html
-    html-math-method: plain
+    html-math-method: mathjax
     preview-links: false
 filters:
   - embed-history.lua
@@ -37,7 +37,6 @@ source("charts.R")
 
 ## About me {#about-me}
 
-<!-- Replace these placeholders with your details. -->
 
 ::: {.bio-name}
 Zhenya Kosovan
@@ -49,8 +48,7 @@ Senior Data Scientist, Mastercard
 
 ::: {.bio-details}
 - Quantitative modeling
-- Computing
-- Causal Inference
+- Computers and tech
 :::
 
 ::: {.bio-contact}
@@ -65,12 +63,8 @@ zhenya.kosovan@proton.me
 
 ## Ukraine, 1991. {#ukraine-1991 .intro}
 
-::: {.chapter}
-Ukraine in context
-:::
-
 ::: {.kicker}
-An independent country with disfunctional economic system.
+Country with disfunctional economy.
 :::
 
 ::: {.slide-content}
@@ -106,10 +100,6 @@ Keep this introduction under a minute. Parliament declared independence on 24 Au
 
 ## Ukraine through seven turning points {#timeline}
 
-::: {.chapter}
-Ukraine in context
-:::
-
 ::: {.kicker .history-hint}
 Scroll the story or select a date. <button type="button" class="history-expand" hidden>Expand timeline</button>
 :::
@@ -131,11 +121,82 @@ Scroll the story or select a date. <button type="button" class="history-expand" 
 Further reading: [Britannica: Ukraine](https://www.britannica.com/place/Ukraine) · [IMF: Ukraine and the financial crisis](https://www.imf.org/en/Countries/UKR) · [UN: Ukraine](https://ukraine.un.org/)
 :::
 
-## An economy repeatedly interrupted. {#output .full-chart}
+## Services overtook industry in Ukraine. {#structure .full-chart}
 
-::: {.chapter}
-Ukraine in context
+::: {.kicker}
+Sector value added as a share of GDP · 1991 and 2023
 :::
+
+::: {.slide-content}
+::: {.chart .large}
+```{r}
+lecture_chart("structure")
+```
+:::
+
+
+:::
+
+::: {.source-links}
+[World Bank WDI, saved 15 Nov 2026](https://data.worldbank.org/country/ukraine)
+:::
+
+::: {.notes}
+Each sector is shown as a separate share, not a stacked bar forced to sum to 100%. GDP includes taxes less subsidies on products, so the three value-added shares need not sum to 100. Industry includes manufacturing. These are domestic economic sectors, not the product categories in our trade atlas. An increase in a share does not itself show an increase in the level of real sector output.
+:::
+
+## GDP and inflation tell different stories. {#nominal-inflation}
+
+::: {.kicker}
+Persistent inflation and massive GDP contractions
+:::
+
+::: {.slide-content .macro-panels}
+::: {.macro-panel}
+::: {.macro-title}
+Nominal GDP · 1991–2025
+:::
+
+::: {.chart}
+```{r}
+lecture_chart("nominal-gdp")
+```
+:::
+:::
+
+::: {.macro-panel}
+::: {.macro-title}
+CPI inflation · 1996–2025
+:::
+
+::: {.chart}
+```{r}
+lecture_chart("cpi-inflation")
+```
+:::
+:::
+:::
+
+::: {.macro-selection}
+<label for="macro-year">Selected year</label> <input type="range" id="macro-year" min="1991" max="2025" value="2022" step="1"> <output id="macro-values" for="macro-year" aria-live="polite">2022</output>
+:::
+
+::: {.takeaway .macro-takeaway}
+Inflation reached **4,735% in 1993**, before the plotted period. Nominal dollar GDP also reflects exchange rates.
+:::
+
+::: {.source-links}
+World Bank WDI: [GDP, current US$](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=UA) · [CPI inflation, annual %](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=UA)
+:::
+
+::: {.notes}
+Nominal GDP is in current US dollars; changes reflect prices and exchange rates as well as output. The CPI series is annual average inflation, not end-of-year inflation. The inflation chart begins in 1996 so that later variation is visible; 1993–95 are omitted from the plot, and the 1993 peak is shown separately. Values are from the saved World Bank API series. The following slide uses constant-price GDP to focus on output.
+:::
+
+
+
+
+## An economy repeatedly interrupted. {#output .full-chart}
 
 ::: {.kicker}
 Real GDP · 1991 = 100 · annual data through 2025
@@ -156,10 +217,6 @@ lecture_chart("overview")
 
 :::
 
-::: {.takeaway}
-A downturn is visible. Its causal effect is not.
-:::
-
 ::: {.source-links}
 [World Bank WDI, saved 15 Nov 2026](https://data.worldbank.org/country/ukraine) · [World Bank: Ukraine Country Private Sector Diagnostic, 2021](https://documents1.worldbank.org/curated/en/791871621302772828/pdf/Main-Report.pdf)
 :::
@@ -168,48 +225,8 @@ A downturn is visible. Its causal effect is not.
 This is aggregate real GDP, not GDP per person. Values are indexed from the saved constant-2015-USD WDI series. The chart is descriptive. Do not treat an event marker as evidence that the whole subsequent change was caused by that event. The 2008 financial crisis hit annual GDP especially in 2009. Population and territorial coverage complicate long-run comparisons; keep that caution visible rather than claiming output on an unchanged geographic footprint.
 :::
 
-## The economic mix changed, too. {#structure .full-chart}
-
-::: {.chapter}
-Ukraine in context
-:::
-
-::: {.kicker}
-Value added as a share of GDP · 1991 and 2023
-:::
-
-::: {.slide-content}
-::: {.chart .large}
-```{r}
-lecture_chart("structure")
-```
-:::
-
-::: under-chart
-Industry\'s share became smaller.
-
-Services became a larger part of measured GDP.
-:::
-
-:::
-
-::: {.takeaway}
-This is structural change, not a causal decomposition of growth.
-:::
-
-::: {.source-links}
-[World Bank WDI, saved 15 Nov 2026](https://data.worldbank.org/country/ukraine)
-:::
-
-::: {.notes}
-Each sector is shown as a separate share, not a stacked bar forced to sum to 100%. GDP includes taxes less subsidies on products, so the three value-added shares need not sum to 100. Industry includes manufacturing. These are domestic economic sectors, not the product categories in our trade atlas. An increase in a share does not itself show an increase in the level of real sector output.
-:::
 
 ## 2008 crisis. 2009 output collapse. {#gfc .split}
-
-::: {.chapter}
-Three downturns
-:::
 
 ::: {.kicker}
 Global financial crisis
@@ -236,10 +253,6 @@ real GDP growth in 2009
 
 :::
 
-::: {.takeaway}
-A global shock met domestic financial vulnerabilities.
-:::
-
 ::: {.source-links}
 [World Bank WDI, saved 15 Nov 2026](https://data.worldbank.org/country/ukraine) · [IMF: Ukraine's 2008 financial crisis](https://www.imf.org/en/news/articles/2015/09/28/04/53/socar081110a)
 :::
@@ -250,11 +263,7 @@ The global crisis arrived in late 2008. Annual real GDP still grew in 2008; the 
 
 ## 2014–2015: war and financial crisis. {#crisis-2014 .split}
 
-::: {.chapter}
-Three downturns
-:::
-
-::: {.kicker}
+::: {.kicker} 
 Multiple shocks arrived together
 :::
 
@@ -289,10 +298,6 @@ Statistical coverage also changed.
 
 :::
 
-::: {.takeaway}
-A before/after difference bundles several changes together.
-:::
-
 ::: {.source-links}
 [World Bank WDI, saved 15 Nov 2026](https://data.worldbank.org/country/ukraine) · [World Bank: Ukraine Country Partnership Framework, 2017](https://documents1.worldbank.org/curated/en/847421498183265026/pdf/Ukraine-Country-Partnership-Framework-FY2017-21-05262017.pdf)
 :::
@@ -302,10 +307,6 @@ Separate the chronology from causal identification. The 2013 political crisis pr
 :::
 
 ## 2022 collapsed. 2023 only partly recovered. {#invasion-2022 .split}
-
-::: {.chapter}
-Three downturns
-:::
 
 ::: {.kicker}
 Russia's full-scale invasion
@@ -346,10 +347,6 @@ In 2023, real GDP was still `r sprintf("%.1f%%", (1 - macro(2023) / macro(2021))
 
 :::
 
-::: {.takeaway}
-Positive growth after a collapse does not restore the previous level.
-:::
-
 ::: {.source-links}
 [World Bank WDI, saved 15 Nov 2026](https://data.worldbank.org/country/ukraine) · [World Bank: recovery during war, 2023](https://www.worldbank.org/en/results/2023/11/30/the-world-bank-and-ukraine-laying-the-groundwork-for-reconstruction-in-the-midst-of-war)
 :::
@@ -359,10 +356,6 @@ Do not describe 2023 as another annual contraction. The saved revised WDI series
 :::
 
 ## What would output have been without the crisis? {#question .full-chart}
-
-::: {.chapter}
-The missing comparison
-:::
 
 ::: {.kicker}
 Now focus on the crisis beginning in 2013. We need an unobserved path.
@@ -383,10 +376,6 @@ We do not observe the same Ukraine without it.
 
 :::
 
-::: {.takeaway}
-The causal effect is a comparison between two histories, not two dates.
-:::
-
 ::: {.source-links}
 [World Bank WDI, saved 15 Nov 2026](https://data.worldbank.org/country/ukraine)
 :::
@@ -397,12 +386,8 @@ Ask students to imagine the missing line before discussing an estimator. The pal
 
 ## Why not just draw a line through the gap? {#interpolation .split}
 
-::: {.chapter}
-The missing comparison
-:::
-
 ::: {.kicker}
-Interpolation fills missing observations. It cannot supply a different history.
+Interpolation works under very restrictive set of assumptions.
 :::
 
 ::: {.slide-content}
@@ -417,14 +402,11 @@ lecture_chart("interpolation")
 - A pre-crisis trend assumes growth would have continued unchanged.
 - Neither uses evidence about shocks Ukraine would still have faced.
 
-These dashed lines are illustrations, not estimates.
+These dashed lines are illustrations.
 :::
 
 :::
 
-::: {.takeaway}
-A straight line is an assumption about the counterfactual, not a solution.
-:::
 
 ::: {.source-links}
 [World Bank WDI, saved 15 Nov 2026](https://data.worldbank.org/country/ukraine)
@@ -435,10 +417,6 @@ Distinguish interpolation from extrapolation. Joining pre- and post-crisis actua
 :::
 
 ## Other countries help describe the world without this crisis. {#comparisons .split}
-
-::: {.chapter}
-The missing comparison
-:::
 
 ::: {.kicker}
 But no single country is automatically a good comparison
@@ -463,10 +441,6 @@ We now switch to the paper\'s GDP-per-person data.
 
 :::
 
-::: {.takeaway}
-Comparison quality matters more than the number of lines on a chart.
-:::
-
 ::: {.source-links}
 [Bluszcz & Valente, Defence and Peace Economics, 2022](https://doi.org/10.1080/10242694.2020.1791616) · [Author replication package, version 1, CC BY 4.0](https://data.mendeley.com/datasets/9bwk589xz6/1)
 :::
@@ -477,44 +451,45 @@ This plot uses actual country observations from the authors' frozen 1995–2017 
 
 ## Build one comparison from pieces of several countries. {#idea .method}
 
-::: {.chapter}
-Synthetic control, without equations
-:::
-
 ::: {.kicker}
 Synthetic control is a weighted comparison
 :::
 
 ::: {.slide-content}
-::: method-steps
-Before the crisis
+::::: {.method-steps}
+::: {.method-step}
+[Before the crisis]{.method-stage}
 
-### Find a blend that tracks Ukraine.
+**Find a blend that tracks Ukraine.**
 
 Use earlier output and relevant characteristics to choose the proportions.
+:::
 
-At the boundary
+::: {.method-step}
+[At the boundary]{.method-stage}
 
-### Freeze the proportions.
+**Freeze the proportions.**
 
 Do not use post-crisis outcomes to choose the blend.
+:::
 
-After the crisis
+::: {.method-step}
+[After the crisis]{.method-stage}
 
-### Compare the paths.
+**Compare the paths.**
 
 Ask whether the divergence is unusual and whether the comparison is credible.
 :::
+:::::
 
 ::: {.method-chart .period-strip}
-1995–2012: choose weights → 2013: freeze weights → 2013–2017: compare outcomes
+1995–2012: choose weights → 
+2013: freeze weights → 
+2013–2017: compare outcomes
 :::
 
 :::
 
-::: {.takeaway}
-More than a trend line. Still not a randomized experiment.
-:::
 
 ::: {.source-links}
 [Bluszcz & Valente, Defence and Peace Economics, 2022](https://doi.org/10.1080/10242694.2020.1791616)
@@ -524,11 +499,39 @@ More than a trend line. Still not a randomized experiment.
 No equations are needed. Weights are nonnegative and add to 100%. They represent a statistical comparison, not ownership, trade shares, or a claim that Ukraine is literally made of these countries. Pre-treatment matching and validation are not a guarantee against post-treatment confounding. Only the method diagram is schematic on this slide; it is not an estimator result.
 :::
 
-## A synthetic Ukraine, 1995 to 2017. {#paper .paper}
+## From regression to synthetic control {#synthetic-formula}
 
-::: {.chapter}
-Taking a paper apart
+::: {.kicker}
+Fit Ukraine using two comparison countries before the crisis
 :::
+
+::: {.slide-content .formula-content}
+::: {.formula-line}
+OLS: $\displaystyle \min_{\beta_1,\beta_2}\; \sum_{t \leq 2012} \left(y_t - \beta_1 x_{1t} - \beta_2 x_{2t}\right)^2$
+:::
+
+::: {.formula-explain}
+$y_t$: Ukraine’s GDP per person; $x_{1t}$ and $x_{2t}$: donor countries’ GDP per person.
+:::
+
+::: {.fragment .formula-step}
+**1. Synthetic-control restrictions:** $\beta_1 \geq 0, \quad \beta_2 \geq 0, \quad \beta_1 + \beta_2 = 1$.
+
+The coefficients become nonnegative weights that sum to one.
+:::
+
+::: {.fragment .formula-step}
+**2. Regularization (optional):** add $\displaystyle \lambda\left(\beta_1^2 + \beta_2^2\right)$, where $\lambda \geq 0$.
+
+This ridge penalty discourages large coefficients.
+:::
+:::
+
+::: {.notes}
+This is a simplified two-donor illustration, without an intercept. The objective fits pre-crisis outcomes only; the fitted weights are then held fixed after 2012. Adding the ridge penalty creates a penalized variant, not a necessary step in standard synthetic control. Actual implementations may match additional predictors and weight them differently, as in the paper.
+:::
+
+## A synthetic Ukraine, 1995 to 2017. {#paper .paper}
 
 ::: {.kicker}
 Bluszcz & Valente · Defence and Peace Economics · 2022
@@ -574,26 +577,18 @@ The design covers the broader crisis beginning in 2013, not the isolated effect 
 
 :::
 
-::: {.takeaway}
-First agree on the outcome, dates, and comparison. Then examine the result.
-:::
-
 ::: {.source-links}
 [Bluszcz & Valente, Defence and Peace Economics, 2022](https://doi.org/10.1080/10242694.2020.1791616) · [Author replication package, version 1, CC BY 4.0](https://data.mendeley.com/datasets/9bwk589xz6/1)
 :::
 
 ::: {.notes}
-The original paper uses five averaged predictors plus GDP-per-capita values in 2000 and 2012, fitting on 1995–2012. Explain PPP simply as a common purchasing-power unit rather than market-exchange-rate dollars. The public files have 414 observations, 18 countries, 23 years. Four donors get positive published weights. We have inspected the paper, CSVs and source code, but have not run the optimizer.
+The original paper uses five averaged predictors plus GDP-per-capita values in 2000 and 2012, fitting on 1995–2012. Explain PPP simply as a common purchasing-power unit rather than market-exchange-rate dollars. The public files have 414 observations, 18 countries, 23 years. Four donors have substantial published weights. A local rerun of the national model reproduces the published rounded weights and headline shortfall.
 :::
 
-## Four countries carry the published comparison. {#weights .weights}
-
-::: {.chapter}
-Taking a paper apart
-:::
+## Four countries carry the comparison. {#weights .weights}
 
 ::: {.kicker}
-Darker blue means a larger synthetic-control weight
+Bold borders mark the donor pool. Darker blue means more weight.
 :::
 
 ::: {.slide-content}
@@ -611,15 +606,21 @@ for (w in lecture_data$weights) {
 }
 ```
 
-**78.5%** of the weight is on Moldova and Armenia.
-
-17 candidates. Four positive weights. Geography makes the concentration visible.
-::::
-
+::: {.weight-note}
+Moldova and Armenia carry **78.5%** of the weight. The donor pool has 17 countries.
 :::
 
-::: {.takeaway}
-The map shows statistical weights, not trade shares.
+::: {.central-asia}
+Central Asia
+
+::: {.chart}
+```{r}
+lecture_chart("weights-central-asia")
+```
+:::
+:::
+::::
+
 :::
 
 ::: {.source-links}
@@ -627,17 +628,15 @@ The map shows statistical weights, not trade shares.
 :::
 
 ::: {.notes}
-Weights are the rounded values in published Table 2: Moldova 45.2%, Armenia 33.3%, Bulgaria 15.2%, Slovenia 6.3%. All other candidates have zero weights. A candidate with zero weight is distinct from a country outside the donor pool. Ukraine is yellow, not assigned a donor weight. The fact that Moldova and Armenia are heavily connected to the region is a possible spillover concern, not proof of the direction of bias. Modern boundaries include Crimea in Ukraine. © EuroGeographics for the administrative boundaries; noncommercial use.
+Weights are the rounded values in published Table 2: Moldova 45.2%, Armenia 33.3%, Bulgaria 15.2%, Slovenia 6.3%. The rerun assigns tiny nonzero weights to other candidates, which round to zero in the paper. A candidate with zero weight is distinct from a country outside the donor pool. Ukraine is yellow, not assigned a donor weight. The fact that Moldova and Armenia are heavily connected to the region is a possible spillover concern, not proof of the direction of bias. Modern boundaries include Crimea in Ukraine. © EuroGeographics for the administrative boundaries; noncommercial use.
 :::
+
+
 
 ## A close pre-crisis fit. A post-crisis divergence. {#paths .full-chart}
 
-::: {.chapter}
-Taking a paper apart
-:::
-
 ::: {.kicker}
-Reconstruction from the authors' data and rounded published weights
+Published-weight reconstruction · national model re-estimated separately
 :::
 
 ::: {.slide-content}
@@ -648,17 +647,9 @@ lecture_chart("synthetic-paths")
 :::
 
 ::: under-chart
-[]{.line-key .actual} Observed Ukraine
-
-[]{.line-key .synthetic} Published-weight reconstruction
-
-Optimizer not rerun
+Rerun matches the published headline
 :::
 
-:::
-
-::: {.takeaway}
-The comparison becomes causal only if it remains a valid untreated path.
 :::
 
 ::: {.source-links}
@@ -666,17 +657,13 @@ The comparison becomes causal only if it remains a valid untreated path.
 :::
 
 ::: {.notes}
-This is an arithmetic reconstruction using original country data and the four rounded published weights, not newly fitted synthetic-control estimates. Small differences from the paper may reflect rounded weights and code/version details. Do not claim exact replication or that we selected these weights ourselves. Units are GDP per person in 2011 PPP international dollars. The treatment boundary is 2013, with pre-treatment observations ending in 2012.
+This curve is an arithmetic reconstruction using the authors' data and four rounded published weights, not the newly fitted path. A separate local model rerun reproduces the published rounded weights and headline shortfall. The two curves can differ slightly. Units are GDP per person in 2011 PPP international dollars. The treatment boundary is 2013, with pre-treatment observations ending in 2012.
 :::
 
 ## The paper's headline: a shortfall against the counterfactual. {#gap .split}
 
-::: {.chapter}
-Taking a paper apart
-:::
-
 ::: {.kicker}
-Published Table 5 · not a new replication result
+Published Table 5 · national rerun matches to two decimal places
 :::
 
 ::: {.slide-content}
@@ -692,7 +679,7 @@ lecture_chart("published-gap")
 :::
 
 average GDP-per-person shortfall\
-reported for 2013--2017
+for 2013--2017 · reproduced in our rerun
 
 Not a 15.1% fall from the previous year.
 
@@ -701,23 +688,15 @@ Not an estimate of the contribution of lost trade alone.
 
 :::
 
-::: {.takeaway}
-The counterfactual can grow while observed output falls or stagnates.
-:::
-
 ::: {.source-links}
 [Bluszcz & Valente, Defence and Peace Economics, 2022](https://doi.org/10.1080/10242694.2020.1791616)
 :::
 
 ::: {.notes}
-Read the bars as the percentage by which observed GDP per person is below the authors' synthetic counterfactual in each year. The paper's Table 5 reports 5.23%, 9.18%, 19.63%, 19.80%, and 21.67%, averaging 15.10%. The blue line graph on the previous slide is a rounded-weight reconstruction; these bars transcribe the published table, so they are kept clearly separate. The paper's average dollar gap is 1,438.90 international 2011 dollars per person. These are model-based estimates, not observed accounting losses.
+Read the bars as the percentage by which observed GDP per person is below the authors' synthetic counterfactual in each year. The paper's Table 5 reports 5.23%, 9.18%, 19.63%, 19.80%, and 21.67%, averaging 15.10%. The blue line graph on the previous slide is a rounded-weight reconstruction; these bars transcribe the published table. The independent rerun matches each annual percentage to two decimal places and gives a mean of 15.103%. The paper's average dollar gap is 1,438.90 international 2011 dollars per person. These are model-based estimates, not observed accounting losses.
 :::
 
 ## What happens when an important donor is removed? {#sensitivity .split}
-
-::: {.chapter}
-How much should we trust it?
-:::
 
 ::: {.kicker}
 Published leave-one-out results · average annual shortfall per person
@@ -742,23 +721,15 @@ Removing both Moldova and Armenia is a further check, not a result shown here.
 
 :::
 
-::: {.takeaway}
-Robustness to one choice is not robustness to every identifying assumption.
-:::
-
 ::: {.source-links}
 [Bluszcz & Valente, Defence and Peace Economics, 2022](https://doi.org/10.1080/10242694.2020.1791616)
 :::
 
 ::: {.notes}
-This chart redraws the paper's published Table 4, not estimates run here. Original average shortfall 1,438.9; removing Slovenia 1,501.0; Bulgaria 1,666.4; Armenia 1,737.9; Moldova 1,587.4, all in 2011 PPP dollars per person. The paper does not show a joint exclusion of Moldova and Armenia in this table. Do not replace a refit by mechanically renormalizing fixed published weights and call it a leave-one-out replication. The numbers here show larger shortfalls after each exclusion, not a disappearance of the result.
+This chart redraws the paper's published Table 4, not our refitted estimates. Our Armenia exclusion gives 1,754.99 rather than the published 1,737.9; the cause is unresolved. Original average shortfall 1,438.9; removing Slovenia 1,501.0; Bulgaria 1,666.4; Armenia 1,737.9; Moldova 1,587.4, all in 2011 PPP dollars per person. The paper does not show a joint exclusion of Moldova and Armenia in this table. Do not replace a refit by mechanically renormalizing fixed published weights and call it a leave-one-out replication. The numbers here show larger shortfalls after each exclusion, not a disappearance of the result.
 :::
 
 ## Would the same method find a crisis in the donor countries? {#placebos .placebos}
-
-::: {.chapter}
-How much should we trust it?
-:::
 
 ::: {.kicker}
 Give each donor the same pretend intervention date
@@ -786,55 +757,43 @@ With few comparisons, inference is coarse. Different pre-fit rules and statistic
 
 :::
 
-::: {.takeaway}
-A visually large gap is not enough. Ask how unusual it is.
-:::
-
 ::: {.source-links}
 [Bluszcz & Valente, Defence and Peace Economics, 2022](https://doi.org/10.1080/10242694.2020.1791616)
 :::
 
 ::: {.notes}
-The country dots illustrate the placebo procedure; they are not a fresh set of fitted placebo paths or observed test statistics. The paper reports several different summaries: ATT ranking after six pre-fit exclusions gives 1/12, about 8.3%; the post/pre squared-error ranking gives 2/18, about 11.1%; its joint ATT–MPE comparison reports 1/18 while calling it significant at 5%. One over eighteen is about 5.6%, not below 5%. Do not turn these distinct criteria into one interchangeable p-value or present placebo ranks as randomized assignment probabilities without assumptions. We have not rerun these placebo fits.
+The country dots illustrate the placebo procedure; they are not a fresh set of fitted placebo paths or observed test statistics. The paper reports several different summaries: ATT ranking after six pre-fit exclusions gives 1/12, about 8.3%; the post/pre squared-error ranking gives 2/18, about 11.1%; its joint ATT–MPE comparison reports 1/18 while calling it significant at 5%. One over eighteen is about 5.6%, not below 5%. Do not turn these distinct criteria into one interchangeable p-value or present placebo ranks as randomized assignment probabilities without assumptions. We reran placebo fits, but have not verified the paper's inference conventions; no new placebo estimates are shown here.
 :::
 
 ## A replication should expose the choices. {#replication .replication}
 
-::: {.chapter}
-From illustration to replication
-:::
-
 ::: {.kicker}
-What this prototype has done, and what the model rerun still needs
+What we reproduced, and what still needs checking
 :::
 
 ::: {.slide-content}
 ::::: replication-columns
 ::: {}
-### Available in this deck
+### National model rerun
 
-- Original paper, R code, and CSVs inspected.
-- Published donor weights mapped.
-- Rounded-weight output path reconstructed.
-- Published gaps and sensitivity results redrawn.
+- Headline shortfall reproduced: 15.103%.
+- Annual gaps and major weights match published rounding.
+- Placebos and donor exclusions refitted.
+- Charts still display published values or rounded-weight reconstruction.
 :::
 
 ::: {}
-### Next: an isolated local R project
+### Still to check
 
-- Run a short, audited national model.
-- Record versions, weights, and pre-fit error.
-- Rerun placebos and donor exclusions.
+- Investigate the Armenia exclusion discrepancy.
+- Verify placebo inference conventions.
+- Reproduce regional and remaining robustness results.
 - Test donor-pool and treatment-date choices.
 :::
 :::::
 
-Reconstruction is not re-estimation. The estimator has not been run for this prototype.
+National headline replicated to reported precision. Full paper replication remains incomplete.
 
-:::
-
-::: {.takeaway}
-Ask which assumptions make the comparison credible, not just whether the lines look good.
 :::
 
 ::: {.source-links}
@@ -842,14 +801,10 @@ Ask which assumptions make the comparison credible, not just whether the lines l
 :::
 
 ::: {.notes}
-The original R script references two absent columns in unused preprocessing lines, and the implemented trade-dependence measure is GDP-based rather than the paper's verbal trade-share description. Those issues need explicit documentation in a cleaned teaching copy. A minimal rerun script is prepared but not executed, pending the requested execution-environment choice. Do not claim numerical replication before comparing fitted weights, source units, outcome paths, and average gaps. The national data are frozen historical observations; swapping in today's WDI data is an extension, not an exact reproduction.
+The original R script references two absent columns in unused preprocessing lines, and the implemented trade-dependence measure is GDP-based rather than the paper's verbal trade-share description. The teaching rerun documents these changes. It matches the headline and annual gaps to published precision. Removing Armenia gives 1,754.99 versus the published 1,737.9 international dollars; the difference remains unexplained. Placebo inference and regional results remain unchecked. The national data are frozen historical observations; swapping in today's WDI data is an extension, not an exact reproduction.
 :::
 
 ## The economic loss depends on the missing path. {#sources .sources}
-
-::: {.chapter}
-Sources and discussion
-:::
 
 ::: {.kicker}
 Discussion: what would make you trust that path?
@@ -871,10 +826,6 @@ for (s in lecture_data$sources) cat(sprintf("[%s](%s)\n\n", s$label, s$url))
 ```
 :::
 
-:::
-
-::: {.takeaway}
-Historical charts describe the downturn. Causal inference needs a defensible comparison.
 :::
 
 ::: {.source-links}

@@ -10,6 +10,49 @@
       }
     });
   }
+  function initMacroSelection() {
+    var slide = document.getElementById('nominal-inflation');
+    var slider = document.getElementById('macro-year');
+    var output = document.getElementById('macro-values');
+    if (!slide || !slider || !output || !window.Highcharts || slider.dataset.ready) return;
+    var charts = Array.from(slide.querySelectorAll('.macro-panel')).map(function (panel) {
+      return Highcharts.charts.find(function (chart) {
+        return chart && panel.contains(chart.renderTo);
+      });
+    });
+    if (charts.length !== 2 || charts.some(function (chart) { return !chart; })) return;
+    slider.dataset.ready = 'true';
+    var markers = charts.map(function (chart) {
+      return chart.addSeries({ type: 'scatter', data: [], showInLegend: false,
+        enableMouseTracking: false, animation: false, color: '#f5cc41',
+        marker: { enabled: true, radius: 6, lineWidth: 1, lineColor: '#163c55' } }, false);
+    });
+    function selectYear(year) {
+      year = Math.max(1991, Math.min(2025, Math.round(year)));
+      slider.value = year;
+      var values = charts.map(function (chart, index) {
+        var point = chart.series[0].points.find(function (p) { return p.x === year && p.y != null; });
+        chart.xAxis[0].removePlotLine('macro-selected-year');
+        chart.xAxis[0].addPlotLine({ id: 'macro-selected-year', value: year,
+          color: '#e3b522', width: 2, dashStyle: 'ShortDash', zIndex: 5 });
+        markers[index].setData(point ? [[point.x, point.y]] : [], false, false);
+        chart.redraw(false);
+        return point ? point.y : null;
+      });
+      output.textContent = year + ' · GDP: ' + (values[0] == null ? 'not available' : '$' + values[0].toFixed(1) + 'bn') +
+        ' · CPI: ' + (values[1] == null ? 'not plotted' : values[1].toFixed(1) + '%');
+    }
+    slider.addEventListener('input', function () { selectYear(Number(slider.value)); });
+    charts.forEach(function (chart) {
+      chart.container.addEventListener('click', function (event) {
+        var position = chart.pointer.normalize(event);
+        if (position.chartX < chart.plotLeft || position.chartX > chart.plotLeft + chart.plotWidth ||
+            position.chartY < chart.plotTop || position.chartY > chart.plotTop + chart.plotHeight) return;
+        selectYear(chart.xAxis[0].toValue(position.chartX));
+      });
+    });
+    selectYear(Number(slider.value));
+  }
   window.addEventListener('load', function () {
     var root = document.documentElement;
     var button = document.createElement('button');
@@ -41,9 +84,12 @@
     if (window.Reveal) {
       Reveal.on('ready', reflowCharts);
       Reveal.on('slidechanged', reflowCharts);
+      Reveal.on('slidechanged', initMacroSelection);
+      Reveal.on('ready', initMacroSelection);
       Reveal.on('resize', reflowCharts);
     }
     reflowCharts();
+    initMacroSelection();
 
   });
 })();

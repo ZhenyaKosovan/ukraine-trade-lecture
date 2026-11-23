@@ -1,0 +1,14 @@
+<div id="tooltip" role="tooltip" hidden></div>
+<script>window.QUARTO_LECTURE = true;</script>
+<script src="../prototype/vendor/d3.v7.min.js"></script>
+<script src="deck.js"></script>
+<script>
+window.renderQuartoLecture().catch((error) => {
+  document.documentElement.dataset.chartsReady = "error";
+  const message = document.createElement("p");
+  message.textContent = `Charts could not load: ${error.message}`;
+  message.setAttribute("role", "alert");
+  document.body.prepend(message);
+  console.error(error);
+});
+</script>

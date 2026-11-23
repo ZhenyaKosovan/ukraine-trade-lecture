@@ -1,0 +1,961 @@
+year,flow,category_or_partner,partner_iso3,row_type,value_usd,source_value,source_unit,source_file,source_sheet,source_row,source_column
+2011,export,Computer services,,world_total,658000000,658,million USD,raw/nbu/Trade_y_en.xlsx,2.3,10,4
+2012,export,Computer services,,world_total,937000000,937,million USD,raw/nbu/Trade_y_en.xlsx,2.3,10,5
+2013,export,Computer services,,world_total,1292000000,1292,million USD,raw/nbu/Trade_y_en.xlsx,2.3,10,6
+2014,export,Computer services,,world_total,1500000000,1500,million USD,raw/nbu/Trade_y_en.xlsx,2.3,10,7
+2015,export,Computer services,,world_total,1668000000,1668,million USD,raw/nbu/Trade_y_en.xlsx,2.3,10,8
+2016,export,Computer services,,world_total,1975000000,1975,million USD,raw/nbu/Trade_y_en.xlsx,2.3,10,9
+2017,export,Computer services,,world_total,2485000000,2485,million USD,raw/nbu/Trade_y_en.xlsx,2.3,10,10
+2018,export,Computer services,,world_total,3204000000,3204,million USD,raw/nbu/Trade_y_en.xlsx,2.3,10,11
+2019,export,Computer services,,world_total,4173000000,4173,million USD,raw/nbu/Trade_y_en.xlsx,2.3,10,12
+2020,export,Computer services,,world_total,5026000000,5026,million USD,raw/nbu/Trade_y_en.xlsx,2.3,10,13
+2021,export,Computer services,,world_total,6943000000,6943,million USD,raw/nbu/Trade_y_en.xlsx,2.3,10,14
+2022,export,Computer services,,world_total,7329000000,7329,million USD,raw/nbu/Trade_y_en.xlsx,2.3,10,15
+2023,export,Computer services,,world_total,6727000000,6727,million USD,raw/nbu/Trade_y_en.xlsx,2.3,10,16
+2024,export,Computer services,,world_total,6446000000,6446,million USD,raw/nbu/Trade_y_en.xlsx,2.3,10,17
+2025,export,Computer services,,world_total,6655000000,6655,million USD,raw/nbu/Trade_y_en.xlsx,2.3,10,18
+2011,export,United States of America,USA,country_or_territory,263169715.04230106,263.16971504230105,million USD,raw/nbu/Trade_y_en.xlsx,2.3,12,4
+2012,export,United States of America,USA,country_or_territory,321455545.3943648,321.4555453943648,million USD,raw/nbu/Trade_y_en.xlsx,2.3,12,5
+2013,export,United States of America,USA,country_or_territory,403541288.2671265,403.5412882671265,million USD,raw/nbu/Trade_y_en.xlsx,2.3,12,6
+2014,export,United States of America,USA,country_or_territory,430333178.41611105,430.3331784161111,million USD,raw/nbu/Trade_y_en.xlsx,2.3,12,7
+2015,export,United States of America,USA,country_or_territory,541128183.6577047,541.1281836577047,million USD,raw/nbu/Trade_y_en.xlsx,2.3,12,8
+2016,export,United States of America,USA,country_or_territory,685100014.2885686,685.1000142885687,million USD,raw/nbu/Trade_y_en.xlsx,2.3,12,9
+2017,export,United States of America,USA,country_or_territory,909610044.6209912,909.6100446209912,million USD,raw/nbu/Trade_y_en.xlsx,2.3,12,10
+2018,export,United States of America,USA,country_or_territory,1216841144.483746,1216.8411444837461,million USD,raw/nbu/Trade_y_en.xlsx,2.3,12,11
+2019,export,United States of America,USA,country_or_territory,1603497558.7621589,1603.4975587621589,million USD,raw/nbu/Trade_y_en.xlsx,2.3,12,12
+2020,export,United States of America,USA,country_or_territory,2007156934.060485,2007.156934060485,million USD,raw/nbu/Trade_y_en.xlsx,2.3,12,13
+2021,export,United States of America,USA,country_or_territory,2728445418.688827,2728.445418688827,million USD,raw/nbu/Trade_y_en.xlsx,2.3,12,14
+2022,export,United States of America,USA,country_or_territory,2972964593.765237,2972.9645937652367,million USD,raw/nbu/Trade_y_en.xlsx,2.3,12,15
+2023,export,United States of America,USA,country_or_territory,2677009553.0719743,2677.009553071974,million USD,raw/nbu/Trade_y_en.xlsx,2.3,12,16
+2024,export,United States of America,USA,country_or_territory,2396524348.859089,2396.524348859089,million USD,raw/nbu/Trade_y_en.xlsx,2.3,12,17
+2025,export,United States of America,USA,country_or_territory,2392354425.423971,2392.3544254239714,million USD,raw/nbu/Trade_y_en.xlsx,2.3,12,18
+2011,export,Malta,MLT,country_or_territory,1775409.2512530226,1.7754092512530226,million USD,raw/nbu/Trade_y_en.xlsx,2.3,13,4
+2012,export,Malta,MLT,country_or_territory,3672390.6465664958,3.672390646566496,million USD,raw/nbu/Trade_y_en.xlsx,2.3,13,5
+2013,export,Malta,MLT,country_or_territory,29749134.654786494,29.749134654786495,million USD,raw/nbu/Trade_y_en.xlsx,2.3,13,6
+2014,export,Malta,MLT,country_or_territory,79191408.0519932,79.1914080519932,million USD,raw/nbu/Trade_y_en.xlsx,2.3,13,7
+2015,export,Malta,MLT,country_or_territory,83982803.91852213,83.98280391852214,million USD,raw/nbu/Trade_y_en.xlsx,2.3,13,8
+2016,export,Malta,MLT,country_or_territory,109652365.31344265,109.65236531344264,million USD,raw/nbu/Trade_y_en.xlsx,2.3,13,9
+2017,export,Malta,MLT,country_or_territory,130356841.26160334,130.35684126160334,million USD,raw/nbu/Trade_y_en.xlsx,2.3,13,10
+2018,export,Malta,MLT,country_or_territory,181313358.64340645,181.31335864340645,million USD,raw/nbu/Trade_y_en.xlsx,2.3,13,11
+2019,export,Malta,MLT,country_or_territory,267107026.022674,267.107026022674,million USD,raw/nbu/Trade_y_en.xlsx,2.3,13,12
+2020,export,Malta,MLT,country_or_territory,304156299.83289945,304.15629983289944,million USD,raw/nbu/Trade_y_en.xlsx,2.3,13,13
+2021,export,Malta,MLT,country_or_territory,481140221.54360926,481.14022154360924,million USD,raw/nbu/Trade_y_en.xlsx,2.3,13,14
+2022,export,Malta,MLT,country_or_territory,580983729.6309314,580.9837296309314,million USD,raw/nbu/Trade_y_en.xlsx,2.3,13,15
+2023,export,Malta,MLT,country_or_territory,566510193.0171397,566.5101930171397,million USD,raw/nbu/Trade_y_en.xlsx,2.3,13,16
+2024,export,Malta,MLT,country_or_territory,501191901.6249084,501.1919016249084,million USD,raw/nbu/Trade_y_en.xlsx,2.3,13,17
+2025,export,Malta,MLT,country_or_territory,577969620.238629,577.969620238629,million USD,raw/nbu/Trade_y_en.xlsx,2.3,13,18
+2011,export,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,48407140.87241778,48.40714087241778,million USD,raw/nbu/Trade_y_en.xlsx,2.3,14,4
+2012,export,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,91035852.45027801,91.03585245027801,million USD,raw/nbu/Trade_y_en.xlsx,2.3,14,5
+2013,export,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,132278369.3144691,132.2783693144691,million USD,raw/nbu/Trade_y_en.xlsx,2.3,14,6
+2014,export,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,142477242.8203541,142.4772428203541,million USD,raw/nbu/Trade_y_en.xlsx,2.3,14,7
+2015,export,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,169057383.03770372,169.05738303770372,million USD,raw/nbu/Trade_y_en.xlsx,2.3,14,8
+2016,export,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,153316546.29699364,153.31654629699364,million USD,raw/nbu/Trade_y_en.xlsx,2.3,14,9
+2017,export,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,169070586.61166725,169.07058661166724,million USD,raw/nbu/Trade_y_en.xlsx,2.3,14,10
+2018,export,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,235690885.62342012,235.69088562342012,million USD,raw/nbu/Trade_y_en.xlsx,2.3,14,11
+2019,export,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,312869392.78850824,312.8693927885082,million USD,raw/nbu/Trade_y_en.xlsx,2.3,14,12
+2020,export,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,503056377.6735561,503.0563776735561,million USD,raw/nbu/Trade_y_en.xlsx,2.3,14,13
+2021,export,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,697559990.4797102,697.5599904797102,million USD,raw/nbu/Trade_y_en.xlsx,2.3,14,14
+2022,export,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,692753053.9294007,692.7530539294007,million USD,raw/nbu/Trade_y_en.xlsx,2.3,14,15
+2023,export,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,534977886.41392595,534.977886413926,million USD,raw/nbu/Trade_y_en.xlsx,2.3,14,16
+2024,export,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,564978214.8528148,564.9782148528147,million USD,raw/nbu/Trade_y_en.xlsx,2.3,14,17
+2025,export,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,556732456.1324723,556.7324561324723,million USD,raw/nbu/Trade_y_en.xlsx,2.3,14,18
+2011,export,Cyprus,CYP,country_or_territory,22076823.81073189,22.07682381073189,million USD,raw/nbu/Trade_y_en.xlsx,2.3,15,4
+2012,export,Cyprus,CYP,country_or_territory,35446626.100333944,35.446626100333944,million USD,raw/nbu/Trade_y_en.xlsx,2.3,15,5
+2013,export,Cyprus,CYP,country_or_territory,49261715.468732975,49.26171546873297,million USD,raw/nbu/Trade_y_en.xlsx,2.3,15,6
+2014,export,Cyprus,CYP,country_or_territory,43933383.92212779,43.93338392212779,million USD,raw/nbu/Trade_y_en.xlsx,2.3,15,7
+2015,export,Cyprus,CYP,country_or_territory,41953837.831736505,41.95383783173651,million USD,raw/nbu/Trade_y_en.xlsx,2.3,15,8
+2016,export,Cyprus,CYP,country_or_territory,69824749.0982456,69.8247490982456,million USD,raw/nbu/Trade_y_en.xlsx,2.3,15,9
+2017,export,Cyprus,CYP,country_or_territory,127794079.63063626,127.79407963063626,million USD,raw/nbu/Trade_y_en.xlsx,2.3,15,10
+2018,export,Cyprus,CYP,country_or_territory,156459819.4700261,156.4598194700261,million USD,raw/nbu/Trade_y_en.xlsx,2.3,15,11
+2019,export,Cyprus,CYP,country_or_territory,186391658.16491696,186.39165816491698,million USD,raw/nbu/Trade_y_en.xlsx,2.3,15,12
+2020,export,Cyprus,CYP,country_or_territory,205180689.6396588,205.1806896396588,million USD,raw/nbu/Trade_y_en.xlsx,2.3,15,13
+2021,export,Cyprus,CYP,country_or_territory,287620200.0746398,287.6202000746398,million USD,raw/nbu/Trade_y_en.xlsx,2.3,15,14
+2022,export,Cyprus,CYP,country_or_territory,313515025.7618344,313.5150257618344,million USD,raw/nbu/Trade_y_en.xlsx,2.3,15,15
+2023,export,Cyprus,CYP,country_or_territory,362173727.1635276,362.1737271635276,million USD,raw/nbu/Trade_y_en.xlsx,2.3,15,16
+2024,export,Cyprus,CYP,country_or_territory,394494193.58301634,394.49419358301634,million USD,raw/nbu/Trade_y_en.xlsx,2.3,15,17
+2025,export,Cyprus,CYP,country_or_territory,480070128.2786988,480.0701282786988,million USD,raw/nbu/Trade_y_en.xlsx,2.3,15,18
+2011,export,Israel,ISR,country_or_territory,18180683.402410105,18.180683402410104,million USD,raw/nbu/Trade_y_en.xlsx,2.3,16,4
+2012,export,Israel,ISR,country_or_territory,30068598.655411687,30.068598655411687,million USD,raw/nbu/Trade_y_en.xlsx,2.3,16,5
+2013,export,Israel,ISR,country_or_territory,35289693.73961431,35.28969373961431,million USD,raw/nbu/Trade_y_en.xlsx,2.3,16,6
+2014,export,Israel,ISR,country_or_territory,47993265.62439699,47.99326562439699,million USD,raw/nbu/Trade_y_en.xlsx,2.3,16,7
+2015,export,Israel,ISR,country_or_territory,77927921.65829079,77.92792165829078,million USD,raw/nbu/Trade_y_en.xlsx,2.3,16,8
+2016,export,Israel,ISR,country_or_territory,94167783.13776547,94.16778313776547,million USD,raw/nbu/Trade_y_en.xlsx,2.3,16,9
+2017,export,Israel,ISR,country_or_territory,116058893.82452491,116.05889382452492,million USD,raw/nbu/Trade_y_en.xlsx,2.3,16,10
+2018,export,Israel,ISR,country_or_territory,142975771.03711206,142.97577103711205,million USD,raw/nbu/Trade_y_en.xlsx,2.3,16,11
+2019,export,Israel,ISR,country_or_territory,183599022.6750345,183.5990226750345,million USD,raw/nbu/Trade_y_en.xlsx,2.3,16,12
+2020,export,Israel,ISR,country_or_territory,238455408.3024356,238.45540830243561,million USD,raw/nbu/Trade_y_en.xlsx,2.3,16,13
+2021,export,Israel,ISR,country_or_territory,334084990.5298087,334.0849905298087,million USD,raw/nbu/Trade_y_en.xlsx,2.3,16,14
+2022,export,Israel,ISR,country_or_territory,347209728.39264697,347.209728392647,million USD,raw/nbu/Trade_y_en.xlsx,2.3,16,15
+2023,export,Israel,ISR,country_or_territory,292991817.08498466,292.9918170849847,million USD,raw/nbu/Trade_y_en.xlsx,2.3,16,16
+2024,export,Israel,ISR,country_or_territory,296661087.36309046,296.6610873630905,million USD,raw/nbu/Trade_y_en.xlsx,2.3,16,17
+2025,export,Israel,ISR,country_or_territory,263631428.95701718,263.6314289570172,million USD,raw/nbu/Trade_y_en.xlsx,2.3,16,18
+2011,export,Switzerland,CHE,country_or_territory,26685150.31721097,26.68515031721097,million USD,raw/nbu/Trade_y_en.xlsx,2.3,17,4
+2012,export,Switzerland,CHE,country_or_territory,42319906.71444488,42.31990671444488,million USD,raw/nbu/Trade_y_en.xlsx,2.3,17,5
+2013,export,Switzerland,CHE,country_or_territory,113369816.0220102,113.36981602201021,million USD,raw/nbu/Trade_y_en.xlsx,2.3,17,6
+2014,export,Switzerland,CHE,country_or_territory,131383053.83192372,131.38305383192372,million USD,raw/nbu/Trade_y_en.xlsx,2.3,17,7
+2015,export,Switzerland,CHE,country_or_territory,122583570.2327061,122.5835702327061,million USD,raw/nbu/Trade_y_en.xlsx,2.3,17,8
+2016,export,Switzerland,CHE,country_or_territory,127200400.60972224,127.20040060972224,million USD,raw/nbu/Trade_y_en.xlsx,2.3,17,9
+2017,export,Switzerland,CHE,country_or_territory,135111934.7044695,135.1119347044695,million USD,raw/nbu/Trade_y_en.xlsx,2.3,17,10
+2018,export,Switzerland,CHE,country_or_territory,158360440.77305597,158.36044077305598,million USD,raw/nbu/Trade_y_en.xlsx,2.3,17,11
+2019,export,Switzerland,CHE,country_or_territory,206891061.2524891,206.8910612524891,million USD,raw/nbu/Trade_y_en.xlsx,2.3,17,12
+2020,export,Switzerland,CHE,country_or_territory,111027893.95338051,111.02789395338051,million USD,raw/nbu/Trade_y_en.xlsx,2.3,17,13
+2021,export,Switzerland,CHE,country_or_territory,285402361.89899784,285.40236189899787,million USD,raw/nbu/Trade_y_en.xlsx,2.3,17,14
+2022,export,Switzerland,CHE,country_or_territory,331480457.0885062,331.4804570885062,million USD,raw/nbu/Trade_y_en.xlsx,2.3,17,15
+2023,export,Switzerland,CHE,country_or_territory,274100154.4276377,274.1001544276377,million USD,raw/nbu/Trade_y_en.xlsx,2.3,17,16
+2024,export,Switzerland,CHE,country_or_territory,265536962.0903087,265.5369620903087,million USD,raw/nbu/Trade_y_en.xlsx,2.3,17,17
+2025,export,Switzerland,CHE,country_or_territory,248427264.7361411,248.4272647361411,million USD,raw/nbu/Trade_y_en.xlsx,2.3,17,18
+2011,export,Germany,DEU,country_or_territory,31402524.19682952,31.40252419682952,million USD,raw/nbu/Trade_y_en.xlsx,2.3,18,4
+2012,export,Germany,DEU,country_or_territory,50655678.44831661,50.655678448316614,million USD,raw/nbu/Trade_y_en.xlsx,2.3,18,5
+2013,export,Germany,DEU,country_or_territory,58277094.71218329,58.27709471218329,million USD,raw/nbu/Trade_y_en.xlsx,2.3,18,6
+2014,export,Germany,DEU,country_or_territory,57492331.62441153,57.492331624411534,million USD,raw/nbu/Trade_y_en.xlsx,2.3,18,7
+2015,export,Germany,DEU,country_or_territory,54790572.86450106,54.79057286450106,million USD,raw/nbu/Trade_y_en.xlsx,2.3,18,8
+2016,export,Germany,DEU,country_or_territory,66672697.42667415,66.67269742667415,million USD,raw/nbu/Trade_y_en.xlsx,2.3,18,9
+2017,export,Germany,DEU,country_or_territory,79172415.03867118,79.17241503867118,million USD,raw/nbu/Trade_y_en.xlsx,2.3,18,10
+2018,export,Germany,DEU,country_or_territory,109064816.45005871,109.06481645005871,million USD,raw/nbu/Trade_y_en.xlsx,2.3,18,11
+2019,export,Germany,DEU,country_or_territory,163846224.294914,163.846224294914,million USD,raw/nbu/Trade_y_en.xlsx,2.3,18,12
+2020,export,Germany,DEU,country_or_territory,197400649.59717473,197.40064959717472,million USD,raw/nbu/Trade_y_en.xlsx,2.3,18,13
+2021,export,Germany,DEU,country_or_territory,268556643.53852135,268.55664353852137,million USD,raw/nbu/Trade_y_en.xlsx,2.3,18,14
+2022,export,Germany,DEU,country_or_territory,285795035.00027645,285.79503500027647,million USD,raw/nbu/Trade_y_en.xlsx,2.3,18,15
+2023,export,Germany,DEU,country_or_territory,274962598.28878534,274.96259828878533,million USD,raw/nbu/Trade_y_en.xlsx,2.3,18,16
+2024,export,Germany,DEU,country_or_territory,263272647.0563145,263.2726470563145,million USD,raw/nbu/Trade_y_en.xlsx,2.3,18,17
+2025,export,Germany,DEU,country_or_territory,236630529.9415523,236.6305299415523,million USD,raw/nbu/Trade_y_en.xlsx,2.3,18,18
+2011,export,Estonia,EST,country_or_territory,3465717.1604042104,3.4657171604042105,million USD,raw/nbu/Trade_y_en.xlsx,2.3,19,4
+2012,export,Estonia,EST,country_or_territory,7632379.682827977,7.6323796828279775,million USD,raw/nbu/Trade_y_en.xlsx,2.3,19,5
+2013,export,Estonia,EST,country_or_territory,10226037.404163865,10.226037404163865,million USD,raw/nbu/Trade_y_en.xlsx,2.3,19,6
+2014,export,Estonia,EST,country_or_territory,4073611.3469254905,4.073611346925491,million USD,raw/nbu/Trade_y_en.xlsx,2.3,19,7
+2015,export,Estonia,EST,country_or_territory,5166478.061269147,5.166478061269148,million USD,raw/nbu/Trade_y_en.xlsx,2.3,19,8
+2016,export,Estonia,EST,country_or_territory,12277359.648981411,12.277359648981411,million USD,raw/nbu/Trade_y_en.xlsx,2.3,19,9
+2017,export,Estonia,EST,country_or_territory,27432295.787381448,27.43229578738145,million USD,raw/nbu/Trade_y_en.xlsx,2.3,19,10
+2018,export,Estonia,EST,country_or_territory,42090060.70395588,42.090060703955885,million USD,raw/nbu/Trade_y_en.xlsx,2.3,19,11
+2019,export,Estonia,EST,country_or_territory,65949274.82176348,65.94927482176348,million USD,raw/nbu/Trade_y_en.xlsx,2.3,19,12
+2020,export,Estonia,EST,country_or_territory,84546948.44245574,84.54694844245574,million USD,raw/nbu/Trade_y_en.xlsx,2.3,19,13
+2021,export,Estonia,EST,country_or_territory,130720894.82027286,130.72089482027286,million USD,raw/nbu/Trade_y_en.xlsx,2.3,19,14
+2022,export,Estonia,EST,country_or_territory,137504364.1579345,137.50436415793448,million USD,raw/nbu/Trade_y_en.xlsx,2.3,19,15
+2023,export,Estonia,EST,country_or_territory,158490807.44880462,158.49080744880462,million USD,raw/nbu/Trade_y_en.xlsx,2.3,19,16
+2024,export,Estonia,EST,country_or_territory,166191033.7887939,166.1910337887939,million USD,raw/nbu/Trade_y_en.xlsx,2.3,19,17
+2025,export,Estonia,EST,country_or_territory,216476040.9811713,216.4760409811713,million USD,raw/nbu/Trade_y_en.xlsx,2.3,19,18
+2011,export,Poland,POL,country_or_territory,3896830.935236309,3.8968309352363093,million USD,raw/nbu/Trade_y_en.xlsx,2.3,20,4
+2012,export,Poland,POL,country_or_territory,5832205.801568474,5.832205801568474,million USD,raw/nbu/Trade_y_en.xlsx,2.3,20,5
+2013,export,Poland,POL,country_or_territory,7992565.76017306,7.99256576017306,million USD,raw/nbu/Trade_y_en.xlsx,2.3,20,6
+2014,export,Poland,POL,country_or_territory,8623043.208591005,8.623043208591005,million USD,raw/nbu/Trade_y_en.xlsx,2.3,20,7
+2015,export,Poland,POL,country_or_territory,12396144.889632741,12.39614488963274,million USD,raw/nbu/Trade_y_en.xlsx,2.3,20,8
+2016,export,Poland,POL,country_or_territory,12876856.180696145,12.876856180696144,million USD,raw/nbu/Trade_y_en.xlsx,2.3,20,9
+2017,export,Poland,POL,country_or_territory,18541605.80533322,18.54160580533322,million USD,raw/nbu/Trade_y_en.xlsx,2.3,20,10
+2018,export,Poland,POL,country_or_territory,38353050.03649023,38.35305003649023,million USD,raw/nbu/Trade_y_en.xlsx,2.3,20,11
+2019,export,Poland,POL,country_or_territory,39830672.52434926,39.83067252434926,million USD,raw/nbu/Trade_y_en.xlsx,2.3,20,12
+2020,export,Poland,POL,country_or_territory,57449292.07126923,57.44929207126923,million USD,raw/nbu/Trade_y_en.xlsx,2.3,20,13
+2021,export,Poland,POL,country_or_territory,99931907.19019677,99.93190719019677,million USD,raw/nbu/Trade_y_en.xlsx,2.3,20,14
+2022,export,Poland,POL,country_or_territory,122126614.19879232,122.12661419879232,million USD,raw/nbu/Trade_y_en.xlsx,2.3,20,15
+2023,export,Poland,POL,country_or_territory,161824262.120518,161.824262120518,million USD,raw/nbu/Trade_y_en.xlsx,2.3,20,16
+2024,export,Poland,POL,country_or_territory,166439452.84754488,166.43945284754489,million USD,raw/nbu/Trade_y_en.xlsx,2.3,20,17
+2025,export,Poland,POL,country_or_territory,190127771.56546298,190.12777156546298,million USD,raw/nbu/Trade_y_en.xlsx,2.3,20,18
+2011,export,United Arab Emirates,ARE,country_or_territory,244818.2496868438,0.2448182496868438,million USD,raw/nbu/Trade_y_en.xlsx,2.3,21,4
+2012,export,United Arab Emirates,ARE,country_or_territory,872578.4127477187,0.8725784127477187,million USD,raw/nbu/Trade_y_en.xlsx,2.3,21,5
+2013,export,United Arab Emirates,ARE,country_or_territory,1250500.1870229067,1.2505001870229067,million USD,raw/nbu/Trade_y_en.xlsx,2.3,21,6
+2014,export,United Arab Emirates,ARE,country_or_territory,2070523.792697948,2.070523792697948,million USD,raw/nbu/Trade_y_en.xlsx,2.3,21,7
+2015,export,United Arab Emirates,ARE,country_or_territory,5651270.502287849,5.651270502287849,million USD,raw/nbu/Trade_y_en.xlsx,2.3,21,8
+2016,export,United Arab Emirates,ARE,country_or_territory,10704002.910951147,10.704002910951147,million USD,raw/nbu/Trade_y_en.xlsx,2.3,21,9
+2017,export,United Arab Emirates,ARE,country_or_territory,17653707.24415144,17.65370724415144,million USD,raw/nbu/Trade_y_en.xlsx,2.3,21,10
+2018,export,United Arab Emirates,ARE,country_or_territory,32462349.606039517,32.46234960603952,million USD,raw/nbu/Trade_y_en.xlsx,2.3,21,11
+2019,export,United Arab Emirates,ARE,country_or_territory,45467726.696418256,45.467726696418254,million USD,raw/nbu/Trade_y_en.xlsx,2.3,21,12
+2020,export,United Arab Emirates,ARE,country_or_territory,56386844.076540254,56.38684407654026,million USD,raw/nbu/Trade_y_en.xlsx,2.3,21,13
+2021,export,United Arab Emirates,ARE,country_or_territory,71668109.86776365,71.66810986776365,million USD,raw/nbu/Trade_y_en.xlsx,2.3,21,14
+2022,export,United Arab Emirates,ARE,country_or_territory,92893095.73411882,92.89309573411882,million USD,raw/nbu/Trade_y_en.xlsx,2.3,21,15
+2023,export,United Arab Emirates,ARE,country_or_territory,110240862.64078575,110.24086264078575,million USD,raw/nbu/Trade_y_en.xlsx,2.3,21,16
+2024,export,United Arab Emirates,ARE,country_or_territory,138090999.16217726,138.09099916217727,million USD,raw/nbu/Trade_y_en.xlsx,2.3,21,17
+2025,export,United Arab Emirates,ARE,country_or_territory,168939831.2460291,168.93983124602912,million USD,raw/nbu/Trade_y_en.xlsx,2.3,21,18
+2011,export,Netherlands,NLD,country_or_territory,15688984.537352517,15.688984537352518,million USD,raw/nbu/Trade_y_en.xlsx,2.3,22,4
+2012,export,Netherlands,NLD,country_or_territory,21604085.74362616,21.604085743626158,million USD,raw/nbu/Trade_y_en.xlsx,2.3,22,5
+2013,export,Netherlands,NLD,country_or_territory,28068538.239999697,28.068538239999697,million USD,raw/nbu/Trade_y_en.xlsx,2.3,22,6
+2014,export,Netherlands,NLD,country_or_territory,34769322.65673012,34.769322656730125,million USD,raw/nbu/Trade_y_en.xlsx,2.3,22,7
+2015,export,Netherlands,NLD,country_or_territory,25451144.662566233,25.451144662566232,million USD,raw/nbu/Trade_y_en.xlsx,2.3,22,8
+2016,export,Netherlands,NLD,country_or_territory,41768102.58884741,41.76810258884741,million USD,raw/nbu/Trade_y_en.xlsx,2.3,22,9
+2017,export,Netherlands,NLD,country_or_territory,52797240.6865042,52.7972406865042,million USD,raw/nbu/Trade_y_en.xlsx,2.3,22,10
+2018,export,Netherlands,NLD,country_or_territory,67627796.23581488,67.62779623581488,million USD,raw/nbu/Trade_y_en.xlsx,2.3,22,11
+2019,export,Netherlands,NLD,country_or_territory,94984713.57126832,94.98471357126832,million USD,raw/nbu/Trade_y_en.xlsx,2.3,22,12
+2020,export,Netherlands,NLD,country_or_territory,107970933.62025766,107.97093362025765,million USD,raw/nbu/Trade_y_en.xlsx,2.3,22,13
+2021,export,Netherlands,NLD,country_or_territory,145479864.45094347,145.47986445094347,million USD,raw/nbu/Trade_y_en.xlsx,2.3,22,14
+2022,export,Netherlands,NLD,country_or_territory,145809533.80914798,145.80953380914798,million USD,raw/nbu/Trade_y_en.xlsx,2.3,22,15
+2023,export,Netherlands,NLD,country_or_territory,131663514.92426583,131.66351492426583,million USD,raw/nbu/Trade_y_en.xlsx,2.3,22,16
+2024,export,Netherlands,NLD,country_or_territory,133538272.88071384,133.53827288071383,million USD,raw/nbu/Trade_y_en.xlsx,2.3,22,17
+2025,export,Netherlands,NLD,country_or_territory,128244287.4187864,128.2442874187864,million USD,raw/nbu/Trade_y_en.xlsx,2.3,22,18
+2011,export,Canada,CAN,country_or_territory,8422579.829862338,8.422579829862338,million USD,raw/nbu/Trade_y_en.xlsx,2.3,23,4
+2012,export,Canada,CAN,country_or_territory,13553231.662609579,13.55323166260958,million USD,raw/nbu/Trade_y_en.xlsx,2.3,23,5
+2013,export,Canada,CAN,country_or_territory,16597279.768818187,16.597279768818186,million USD,raw/nbu/Trade_y_en.xlsx,2.3,23,6
+2014,export,Canada,CAN,country_or_territory,40206934.95114321,40.20693495114321,million USD,raw/nbu/Trade_y_en.xlsx,2.3,23,7
+2015,export,Canada,CAN,country_or_territory,52029293.264675856,52.02929326467586,million USD,raw/nbu/Trade_y_en.xlsx,2.3,23,8
+2016,export,Canada,CAN,country_or_territory,65024878.7588375,65.0248787588375,million USD,raw/nbu/Trade_y_en.xlsx,2.3,23,9
+2017,export,Canada,CAN,country_or_territory,57960515.44508981,57.96051544508981,million USD,raw/nbu/Trade_y_en.xlsx,2.3,23,10
+2018,export,Canada,CAN,country_or_territory,78946211.93513249,78.94621193513248,million USD,raw/nbu/Trade_y_en.xlsx,2.3,23,11
+2019,export,Canada,CAN,country_or_territory,98279394.49123476,98.27939449123477,million USD,raw/nbu/Trade_y_en.xlsx,2.3,23,12
+2020,export,Canada,CAN,country_or_territory,97806679.74477723,97.80667974477723,million USD,raw/nbu/Trade_y_en.xlsx,2.3,23,13
+2021,export,Canada,CAN,country_or_territory,126062077.56406128,126.06207756406128,million USD,raw/nbu/Trade_y_en.xlsx,2.3,23,14
+2022,export,Canada,CAN,country_or_territory,126945706.39945391,126.94570639945391,million USD,raw/nbu/Trade_y_en.xlsx,2.3,23,15
+2023,export,Canada,CAN,country_or_territory,110072321.82746284,110.07232182746284,million USD,raw/nbu/Trade_y_en.xlsx,2.3,23,16
+2024,export,Canada,CAN,country_or_territory,119927195.22314675,119.92719522314675,million USD,raw/nbu/Trade_y_en.xlsx,2.3,23,17
+2025,export,Canada,CAN,country_or_territory,119159037.41184188,119.15903741184188,million USD,raw/nbu/Trade_y_en.xlsx,2.3,23,18
+2011,export,Denmark,DNK,country_or_territory,49065118.053060465,49.065118053060466,million USD,raw/nbu/Trade_y_en.xlsx,2.3,24,4
+2012,export,Denmark,DNK,country_or_territory,71630014.33818547,71.63001433818548,million USD,raw/nbu/Trade_y_en.xlsx,2.3,24,5
+2013,export,Denmark,DNK,country_or_territory,39373591.89868298,39.37359189868298,million USD,raw/nbu/Trade_y_en.xlsx,2.3,24,6
+2014,export,Denmark,DNK,country_or_territory,39885306.50835702,39.88530650835702,million USD,raw/nbu/Trade_y_en.xlsx,2.3,24,7
+2015,export,Denmark,DNK,country_or_territory,37983802.54752324,37.98380254752324,million USD,raw/nbu/Trade_y_en.xlsx,2.3,24,8
+2016,export,Denmark,DNK,country_or_territory,42051334.95071471,42.051334950714704,million USD,raw/nbu/Trade_y_en.xlsx,2.3,24,9
+2017,export,Denmark,DNK,country_or_territory,45479496.92362516,45.479496923625156,million USD,raw/nbu/Trade_y_en.xlsx,2.3,24,10
+2018,export,Denmark,DNK,country_or_territory,65700257.350324735,65.70025735032473,million USD,raw/nbu/Trade_y_en.xlsx,2.3,24,11
+2019,export,Denmark,DNK,country_or_territory,79603169.67104521,79.60316967104521,million USD,raw/nbu/Trade_y_en.xlsx,2.3,24,12
+2020,export,Denmark,DNK,country_or_territory,92806647.13992906,92.80664713992905,million USD,raw/nbu/Trade_y_en.xlsx,2.3,24,13
+2021,export,Denmark,DNK,country_or_territory,113382060.99131373,113.38206099131372,million USD,raw/nbu/Trade_y_en.xlsx,2.3,24,14
+2022,export,Denmark,DNK,country_or_territory,111782229.93472132,111.78222993472131,million USD,raw/nbu/Trade_y_en.xlsx,2.3,24,15
+2023,export,Denmark,DNK,country_or_territory,102235508.64393409,102.23550864393408,million USD,raw/nbu/Trade_y_en.xlsx,2.3,24,16
+2024,export,Denmark,DNK,country_or_territory,95480755.8909783,95.4807558909783,million USD,raw/nbu/Trade_y_en.xlsx,2.3,24,17
+2025,export,Denmark,DNK,country_or_territory,101936831.37608932,101.93683137608932,million USD,raw/nbu/Trade_y_en.xlsx,2.3,24,18
+2011,export,Ireland,IRL,country_or_territory,4927541.078188639,4.927541078188639,million USD,raw/nbu/Trade_y_en.xlsx,2.3,25,4
+2012,export,Ireland,IRL,country_or_territory,4843583.19267391,4.84358319267391,million USD,raw/nbu/Trade_y_en.xlsx,2.3,25,5
+2013,export,Ireland,IRL,country_or_territory,6175621.842310277,6.175621842310277,million USD,raw/nbu/Trade_y_en.xlsx,2.3,25,6
+2014,export,Ireland,IRL,country_or_territory,6729577.740822142,6.729577740822142,million USD,raw/nbu/Trade_y_en.xlsx,2.3,25,7
+2015,export,Ireland,IRL,country_or_territory,8654879.306760471,8.65487930676047,million USD,raw/nbu/Trade_y_en.xlsx,2.3,25,8
+2016,export,Ireland,IRL,country_or_territory,16845158.463563625,16.845158463563624,million USD,raw/nbu/Trade_y_en.xlsx,2.3,25,9
+2017,export,Ireland,IRL,country_or_territory,29016948.556126982,29.016948556126984,million USD,raw/nbu/Trade_y_en.xlsx,2.3,25,10
+2018,export,Ireland,IRL,country_or_territory,38751464.76678443,38.75146476678443,million USD,raw/nbu/Trade_y_en.xlsx,2.3,25,11
+2019,export,Ireland,IRL,country_or_territory,62382769.60731161,62.38276960731161,million USD,raw/nbu/Trade_y_en.xlsx,2.3,25,12
+2020,export,Ireland,IRL,country_or_territory,79491299.36237147,79.49129936237148,million USD,raw/nbu/Trade_y_en.xlsx,2.3,25,13
+2021,export,Ireland,IRL,country_or_territory,118593286.67143117,118.59328667143117,million USD,raw/nbu/Trade_y_en.xlsx,2.3,25,14
+2022,export,Ireland,IRL,country_or_territory,112693665.15319678,112.69366515319678,million USD,raw/nbu/Trade_y_en.xlsx,2.3,25,15
+2023,export,Ireland,IRL,country_or_territory,93300272.88453566,93.30027288453566,million USD,raw/nbu/Trade_y_en.xlsx,2.3,25,16
+2024,export,Ireland,IRL,country_or_territory,97605417.6557671,97.6054176557671,million USD,raw/nbu/Trade_y_en.xlsx,2.3,25,17
+2025,export,Ireland,IRL,country_or_territory,96604746.12446126,96.60474612446126,million USD,raw/nbu/Trade_y_en.xlsx,2.3,25,18
+2011,export,France,FRA,country_or_territory,8332265.007070104,8.332265007070104,million USD,raw/nbu/Trade_y_en.xlsx,2.3,26,4
+2012,export,France,FRA,country_or_territory,12169721.367398286,12.169721367398287,million USD,raw/nbu/Trade_y_en.xlsx,2.3,26,5
+2013,export,France,FRA,country_or_territory,15926479.692802273,15.926479692802273,million USD,raw/nbu/Trade_y_en.xlsx,2.3,26,6
+2014,export,France,FRA,country_or_territory,17268914.401884742,17.268914401884743,million USD,raw/nbu/Trade_y_en.xlsx,2.3,26,7
+2015,export,France,FRA,country_or_territory,14245553.534720477,14.245553534720477,million USD,raw/nbu/Trade_y_en.xlsx,2.3,26,8
+2016,export,France,FRA,country_or_territory,20267574.015106637,20.267574015106636,million USD,raw/nbu/Trade_y_en.xlsx,2.3,26,9
+2017,export,France,FRA,country_or_territory,33648000.500256516,33.648000500256515,million USD,raw/nbu/Trade_y_en.xlsx,2.3,26,10
+2018,export,France,FRA,country_or_territory,54634757.84207099,54.63475784207099,million USD,raw/nbu/Trade_y_en.xlsx,2.3,26,11
+2019,export,France,FRA,country_or_territory,70638498.68161054,70.63849868161054,million USD,raw/nbu/Trade_y_en.xlsx,2.3,26,12
+2020,export,France,FRA,country_or_territory,86119942.5398305,86.1199425398305,million USD,raw/nbu/Trade_y_en.xlsx,2.3,26,13
+2021,export,France,FRA,country_or_territory,96317996.94228172,96.31799694228172,million USD,raw/nbu/Trade_y_en.xlsx,2.3,26,14
+2022,export,France,FRA,country_or_territory,89854166.72656737,89.85416672656737,million USD,raw/nbu/Trade_y_en.xlsx,2.3,26,15
+2023,export,France,FRA,country_or_territory,85111575.603402,85.111575603402,million USD,raw/nbu/Trade_y_en.xlsx,2.3,26,16
+2024,export,France,FRA,country_or_territory,78678586.58339983,78.67858658339983,million USD,raw/nbu/Trade_y_en.xlsx,2.3,26,17
+2025,export,France,FRA,country_or_territory,84541837.73108901,84.54183773108902,million USD,raw/nbu/Trade_y_en.xlsx,2.3,26,18
+2011,export,Sweden,SWE,country_or_territory,10749140.866515499,10.749140866515498,million USD,raw/nbu/Trade_y_en.xlsx,2.3,27,4
+2012,export,Sweden,SWE,country_or_territory,18787985.289238174,18.787985289238172,million USD,raw/nbu/Trade_y_en.xlsx,2.3,27,5
+2013,export,Sweden,SWE,country_or_territory,26870785.815136623,26.87078581513662,million USD,raw/nbu/Trade_y_en.xlsx,2.3,27,6
+2014,export,Sweden,SWE,country_or_territory,31893771.109836046,31.893771109836045,million USD,raw/nbu/Trade_y_en.xlsx,2.3,27,7
+2015,export,Sweden,SWE,country_or_territory,41517312.421512246,41.517312421512244,million USD,raw/nbu/Trade_y_en.xlsx,2.3,27,8
+2016,export,Sweden,SWE,country_or_territory,50587509.797834925,50.587509797834926,million USD,raw/nbu/Trade_y_en.xlsx,2.3,27,9
+2017,export,Sweden,SWE,country_or_territory,56543637.49822996,56.543637498229955,million USD,raw/nbu/Trade_y_en.xlsx,2.3,27,10
+2018,export,Sweden,SWE,country_or_territory,73267163.48012006,73.26716348012006,million USD,raw/nbu/Trade_y_en.xlsx,2.3,27,11
+2019,export,Sweden,SWE,country_or_territory,81315894.03903538,81.31589403903538,million USD,raw/nbu/Trade_y_en.xlsx,2.3,27,12
+2020,export,Sweden,SWE,country_or_territory,86897231.5505523,86.89723155055229,million USD,raw/nbu/Trade_y_en.xlsx,2.3,27,13
+2021,export,Sweden,SWE,country_or_territory,87669333.81037775,87.66933381037775,million USD,raw/nbu/Trade_y_en.xlsx,2.3,27,14
+2022,export,Sweden,SWE,country_or_territory,108875803.36780126,108.87580336780127,million USD,raw/nbu/Trade_y_en.xlsx,2.3,27,15
+2023,export,Sweden,SWE,country_or_territory,93543994.58753249,93.5439945875325,million USD,raw/nbu/Trade_y_en.xlsx,2.3,27,16
+2024,export,Sweden,SWE,country_or_territory,68612787.01561113,68.61278701561113,million USD,raw/nbu/Trade_y_en.xlsx,2.3,27,17
+2025,export,Sweden,SWE,country_or_territory,59201919.979068294,59.20191997906829,million USD,raw/nbu/Trade_y_en.xlsx,2.3,27,18
+2011,export,Lithuania,LTU,country_or_territory,2468014.819213377,2.468014819213377,million USD,raw/nbu/Trade_y_en.xlsx,2.3,28,4
+2012,export,Lithuania,LTU,country_or_territory,3426997.6698814435,3.4269976698814433,million USD,raw/nbu/Trade_y_en.xlsx,2.3,28,5
+2013,export,Lithuania,LTU,country_or_territory,1156524.9995073369,1.1565249995073368,million USD,raw/nbu/Trade_y_en.xlsx,2.3,28,6
+2014,export,Lithuania,LTU,country_or_territory,5555517.134735639,5.55551713473564,million USD,raw/nbu/Trade_y_en.xlsx,2.3,28,7
+2015,export,Lithuania,LTU,country_or_territory,8320342.943585205,8.320342943585205,million USD,raw/nbu/Trade_y_en.xlsx,2.3,28,8
+2016,export,Lithuania,LTU,country_or_territory,3299238.115879084,3.299238115879084,million USD,raw/nbu/Trade_y_en.xlsx,2.3,28,9
+2017,export,Lithuania,LTU,country_or_territory,6372206.74571882,6.37220674571882,million USD,raw/nbu/Trade_y_en.xlsx,2.3,28,10
+2018,export,Lithuania,LTU,country_or_territory,11945399.71454814,11.945399714548142,million USD,raw/nbu/Trade_y_en.xlsx,2.3,28,11
+2019,export,Lithuania,LTU,country_or_territory,24509540.84418482,24.50954084418482,million USD,raw/nbu/Trade_y_en.xlsx,2.3,28,12
+2020,export,Lithuania,LTU,country_or_territory,30982563.86772703,30.98256386772703,million USD,raw/nbu/Trade_y_en.xlsx,2.3,28,13
+2021,export,Lithuania,LTU,country_or_territory,52331821.24571937,52.331821245719375,million USD,raw/nbu/Trade_y_en.xlsx,2.3,28,14
+2022,export,Lithuania,LTU,country_or_territory,71046043.195302,71.04604319530199,million USD,raw/nbu/Trade_y_en.xlsx,2.3,28,15
+2023,export,Lithuania,LTU,country_or_territory,71490356.5215578,71.4903565215578,million USD,raw/nbu/Trade_y_en.xlsx,2.3,28,16
+2024,export,Lithuania,LTU,country_or_territory,58017568.348944336,58.01756834894434,million USD,raw/nbu/Trade_y_en.xlsx,2.3,28,17
+2025,export,Lithuania,LTU,country_or_territory,55608299.54986614,55.60829954986614,million USD,raw/nbu/Trade_y_en.xlsx,2.3,28,18
+2011,export,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,2648223.9392655254,2.6482239392655256,million USD,raw/nbu/Trade_y_en.xlsx,2.3,29,4
+2012,export,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,3440995.917440672,3.440995917440672,million USD,raw/nbu/Trade_y_en.xlsx,2.3,29,5
+2013,export,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,3705757.095809374,3.705757095809374,million USD,raw/nbu/Trade_y_en.xlsx,2.3,29,6
+2014,export,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,7356608.178526263,7.356608178526263,million USD,raw/nbu/Trade_y_en.xlsx,2.3,29,7
+2015,export,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,10046692.226708457,10.046692226708457,million USD,raw/nbu/Trade_y_en.xlsx,2.3,29,8
+2016,export,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,12231193.979954524,12.231193979954524,million USD,raw/nbu/Trade_y_en.xlsx,2.3,29,9
+2017,export,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,18060240.18151905,18.06024018151905,million USD,raw/nbu/Trade_y_en.xlsx,2.3,29,10
+2018,export,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,28909822.018013477,28.90982201801348,million USD,raw/nbu/Trade_y_en.xlsx,2.3,29,11
+2019,export,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,35911621.601745084,35.91162160174508,million USD,raw/nbu/Trade_y_en.xlsx,2.3,29,12
+2020,export,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,51326644.860510506,51.326644860510505,million USD,raw/nbu/Trade_y_en.xlsx,2.3,29,13
+2021,export,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,77305941.43423705,77.30594143423704,million USD,raw/nbu/Trade_y_en.xlsx,2.3,29,14
+2022,export,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,60424371.4489512,60.4243714489512,million USD,raw/nbu/Trade_y_en.xlsx,2.3,29,15
+2023,export,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,43073884.903271265,43.073884903271264,million USD,raw/nbu/Trade_y_en.xlsx,2.3,29,16
+2024,export,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,40829365.0859851,40.8293650859851,million USD,raw/nbu/Trade_y_en.xlsx,2.3,29,17
+2025,export,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,52513103.550605506,52.51310355060551,million USD,raw/nbu/Trade_y_en.xlsx,2.3,29,18
+2011,export,Belgium,BEL,country_or_territory,5335238.241163805,5.335238241163805,million USD,raw/nbu/Trade_y_en.xlsx,2.3,30,4
+2012,export,Belgium,BEL,country_or_territory,6727836.002929395,6.727836002929395,million USD,raw/nbu/Trade_y_en.xlsx,2.3,30,5
+2013,export,Belgium,BEL,country_or_territory,8702106.975816326,8.702106975816326,million USD,raw/nbu/Trade_y_en.xlsx,2.3,30,6
+2014,export,Belgium,BEL,country_or_territory,12093394.129702386,12.093394129702386,million USD,raw/nbu/Trade_y_en.xlsx,2.3,30,7
+2015,export,Belgium,BEL,country_or_territory,12987925.595938824,12.987925595938824,million USD,raw/nbu/Trade_y_en.xlsx,2.3,30,8
+2016,export,Belgium,BEL,country_or_territory,15806621.062338868,15.806621062338868,million USD,raw/nbu/Trade_y_en.xlsx,2.3,30,9
+2017,export,Belgium,BEL,country_or_territory,16077192.200153043,16.077192200153043,million USD,raw/nbu/Trade_y_en.xlsx,2.3,30,10
+2018,export,Belgium,BEL,country_or_territory,19652353.992811147,19.652353992811147,million USD,raw/nbu/Trade_y_en.xlsx,2.3,30,11
+2019,export,Belgium,BEL,country_or_territory,27979324.563443247,27.979324563443246,million USD,raw/nbu/Trade_y_en.xlsx,2.3,30,12
+2020,export,Belgium,BEL,country_or_territory,46743180.65035459,46.74318065035459,million USD,raw/nbu/Trade_y_en.xlsx,2.3,30,13
+2021,export,Belgium,BEL,country_or_territory,61792284.3939938,61.7922843939938,million USD,raw/nbu/Trade_y_en.xlsx,2.3,30,14
+2022,export,Belgium,BEL,country_or_territory,56201240.711410336,56.201240711410335,million USD,raw/nbu/Trade_y_en.xlsx,2.3,30,15
+2023,export,Belgium,BEL,country_or_territory,53078681.11859112,53.07868111859112,million USD,raw/nbu/Trade_y_en.xlsx,2.3,30,16
+2024,export,Belgium,BEL,country_or_territory,46083540.41456849,46.08354041456849,million USD,raw/nbu/Trade_y_en.xlsx,2.3,30,17
+2025,export,Belgium,BEL,country_or_territory,48153748.3937695,48.153748393769504,million USD,raw/nbu/Trade_y_en.xlsx,2.3,30,18
+2011,export,Bulgaria,BGR,country_or_territory,875552.859807651,0.8755528598076511,million USD,raw/nbu/Trade_y_en.xlsx,2.3,31,4
+2012,export,Bulgaria,BGR,country_or_territory,1062237.0466571918,1.0622370466571918,million USD,raw/nbu/Trade_y_en.xlsx,2.3,31,5
+2013,export,Bulgaria,BGR,country_or_territory,2413907.2880875673,2.413907288087567,million USD,raw/nbu/Trade_y_en.xlsx,2.3,31,6
+2014,export,Bulgaria,BGR,country_or_territory,1412217.7246387135,1.4122177246387135,million USD,raw/nbu/Trade_y_en.xlsx,2.3,31,7
+2015,export,Bulgaria,BGR,country_or_territory,1870034.2733638473,1.8700342733638473,million USD,raw/nbu/Trade_y_en.xlsx,2.3,31,8
+2016,export,Bulgaria,BGR,country_or_territory,1810835.50773277,1.81083550773277,million USD,raw/nbu/Trade_y_en.xlsx,2.3,31,9
+2017,export,Bulgaria,BGR,country_or_territory,3823662.353619817,3.823662353619817,million USD,raw/nbu/Trade_y_en.xlsx,2.3,31,10
+2018,export,Bulgaria,BGR,country_or_territory,9177592.518005408,9.177592518005408,million USD,raw/nbu/Trade_y_en.xlsx,2.3,31,11
+2019,export,Bulgaria,BGR,country_or_territory,21218498.2295443,21.218498229544302,million USD,raw/nbu/Trade_y_en.xlsx,2.3,31,12
+2020,export,Bulgaria,BGR,country_or_territory,22237938.05575054,22.23793805575054,million USD,raw/nbu/Trade_y_en.xlsx,2.3,31,13
+2021,export,Bulgaria,BGR,country_or_territory,34817915.374707215,34.81791537470721,million USD,raw/nbu/Trade_y_en.xlsx,2.3,31,14
+2022,export,Bulgaria,BGR,country_or_territory,30346473.67555562,30.34647367555562,million USD,raw/nbu/Trade_y_en.xlsx,2.3,31,15
+2023,export,Bulgaria,BGR,country_or_territory,32097511.732097685,32.097511732097686,million USD,raw/nbu/Trade_y_en.xlsx,2.3,31,16
+2024,export,Bulgaria,BGR,country_or_territory,40184751.83587762,40.18475183587762,million USD,raw/nbu/Trade_y_en.xlsx,2.3,31,17
+2025,export,Bulgaria,BGR,country_or_territory,44770423.39911286,44.77042339911286,million USD,raw/nbu/Trade_y_en.xlsx,2.3,31,18
+2011,export,Czech Republic,CZE,country_or_territory,5484526.1381317265,5.484526138131726,million USD,raw/nbu/Trade_y_en.xlsx,2.3,32,4
+2012,export,Czech Republic,CZE,country_or_territory,6558493.743634084,6.558493743634084,million USD,raw/nbu/Trade_y_en.xlsx,2.3,32,5
+2013,export,Czech Republic,CZE,country_or_territory,8554636.433441019,8.554636433441019,million USD,raw/nbu/Trade_y_en.xlsx,2.3,32,6
+2014,export,Czech Republic,CZE,country_or_territory,5128690.888099643,5.128690888099643,million USD,raw/nbu/Trade_y_en.xlsx,2.3,32,7
+2015,export,Czech Republic,CZE,country_or_territory,3034820.819536277,3.034820819536277,million USD,raw/nbu/Trade_y_en.xlsx,2.3,32,8
+2016,export,Czech Republic,CZE,country_or_territory,3475980.624412783,3.475980624412783,million USD,raw/nbu/Trade_y_en.xlsx,2.3,32,9
+2017,export,Czech Republic,CZE,country_or_territory,8602383.388347711,8.602383388347711,million USD,raw/nbu/Trade_y_en.xlsx,2.3,32,10
+2018,export,Czech Republic,CZE,country_or_territory,22530885.737705965,22.530885737705965,million USD,raw/nbu/Trade_y_en.xlsx,2.3,32,11
+2019,export,Czech Republic,CZE,country_or_territory,35610164.58819392,35.610164588193925,million USD,raw/nbu/Trade_y_en.xlsx,2.3,32,12
+2020,export,Czech Republic,CZE,country_or_territory,36123084.25347705,36.12308425347705,million USD,raw/nbu/Trade_y_en.xlsx,2.3,32,13
+2021,export,Czech Republic,CZE,country_or_territory,41839048.0397414,41.8390480397414,million USD,raw/nbu/Trade_y_en.xlsx,2.3,32,14
+2022,export,Czech Republic,CZE,country_or_territory,32336322.066856936,32.33632206685694,million USD,raw/nbu/Trade_y_en.xlsx,2.3,32,15
+2023,export,Czech Republic,CZE,country_or_territory,33664316.53506551,33.66431653506551,million USD,raw/nbu/Trade_y_en.xlsx,2.3,32,16
+2024,export,Czech Republic,CZE,country_or_territory,34524763.82456927,34.52476382456927,million USD,raw/nbu/Trade_y_en.xlsx,2.3,32,17
+2025,export,Czech Republic,CZE,country_or_territory,38152560.801420204,38.15256080142021,million USD,raw/nbu/Trade_y_en.xlsx,2.3,32,18
+2011,export,Republic of Korea,,aggregate_or_unmapped,38623.00000000001,0.038623000000000005,million USD,raw/nbu/Trade_y_en.xlsx,2.3,33,4
+2012,export,Republic of Korea,,aggregate_or_unmapped,7944590.0,7.94459,million USD,raw/nbu/Trade_y_en.xlsx,2.3,33,5
+2013,export,Republic of Korea,,aggregate_or_unmapped,24336188.999999996,24.336188999999997,million USD,raw/nbu/Trade_y_en.xlsx,2.3,33,6
+2014,export,Republic of Korea,,aggregate_or_unmapped,48807624.46177137,48.80762446177137,million USD,raw/nbu/Trade_y_en.xlsx,2.3,33,7
+2015,export,Republic of Korea,,aggregate_or_unmapped,41511516.29222195,41.51151629222195,million USD,raw/nbu/Trade_y_en.xlsx,2.3,33,8
+2016,export,Republic of Korea,,aggregate_or_unmapped,30444162.141215738,30.444162141215738,million USD,raw/nbu/Trade_y_en.xlsx,2.3,33,9
+2017,export,Republic of Korea,,aggregate_or_unmapped,30126151.148086015,30.126151148086016,million USD,raw/nbu/Trade_y_en.xlsx,2.3,33,10
+2018,export,Republic of Korea,,aggregate_or_unmapped,33415370.772385698,33.4153707723857,million USD,raw/nbu/Trade_y_en.xlsx,2.3,33,11
+2019,export,Republic of Korea,,aggregate_or_unmapped,37923762.94302516,37.92376294302516,million USD,raw/nbu/Trade_y_en.xlsx,2.3,33,12
+2020,export,Republic of Korea,,aggregate_or_unmapped,34405288.55460109,34.405288554601086,million USD,raw/nbu/Trade_y_en.xlsx,2.3,33,13
+2021,export,Republic of Korea,,aggregate_or_unmapped,36601121.28993402,36.601121289934014,million USD,raw/nbu/Trade_y_en.xlsx,2.3,33,14
+2022,export,Republic of Korea,,aggregate_or_unmapped,34456305.91410597,34.45630591410597,million USD,raw/nbu/Trade_y_en.xlsx,2.3,33,15
+2023,export,Republic of Korea,,aggregate_or_unmapped,35650656.400077105,35.650656400077104,million USD,raw/nbu/Trade_y_en.xlsx,2.3,33,16
+2024,export,Republic of Korea,,aggregate_or_unmapped,35876252.42009734,35.876252420097344,million USD,raw/nbu/Trade_y_en.xlsx,2.3,33,17
+2025,export,Republic of Korea,,aggregate_or_unmapped,36524860.51206833,36.52486051206833,million USD,raw/nbu/Trade_y_en.xlsx,2.3,33,18
+2011,export,Norway,NOR,country_or_territory,19532823.34362203,19.532823343622027,million USD,raw/nbu/Trade_y_en.xlsx,2.3,34,4
+2012,export,Norway,NOR,country_or_territory,19117926.15361023,19.11792615361023,million USD,raw/nbu/Trade_y_en.xlsx,2.3,34,5
+2013,export,Norway,NOR,country_or_territory,20121716.464822233,20.12171646482223,million USD,raw/nbu/Trade_y_en.xlsx,2.3,34,6
+2014,export,Norway,NOR,country_or_territory,21420281.56613057,21.42028156613057,million USD,raw/nbu/Trade_y_en.xlsx,2.3,34,7
+2015,export,Norway,NOR,country_or_territory,19834350.84944126,19.83435084944126,million USD,raw/nbu/Trade_y_en.xlsx,2.3,34,8
+2016,export,Norway,NOR,country_or_territory,20024108.40046953,20.02410840046953,million USD,raw/nbu/Trade_y_en.xlsx,2.3,34,9
+2017,export,Norway,NOR,country_or_territory,29437286.80380087,29.43728680380087,million USD,raw/nbu/Trade_y_en.xlsx,2.3,34,10
+2018,export,Norway,NOR,country_or_territory,37289352.12279673,37.28935212279673,million USD,raw/nbu/Trade_y_en.xlsx,2.3,34,11
+2019,export,Norway,NOR,country_or_territory,45029751.071928725,45.02975107192872,million USD,raw/nbu/Trade_y_en.xlsx,2.3,34,12
+2020,export,Norway,NOR,country_or_territory,38348479.55782703,38.348479557827034,million USD,raw/nbu/Trade_y_en.xlsx,2.3,34,13
+2021,export,Norway,NOR,country_or_territory,54893407.64025735,54.89340764025735,million USD,raw/nbu/Trade_y_en.xlsx,2.3,34,14
+2022,export,Norway,NOR,country_or_territory,50138146.987188555,50.138146987188556,million USD,raw/nbu/Trade_y_en.xlsx,2.3,34,15
+2023,export,Norway,NOR,country_or_territory,46067429.35480611,46.06742935480611,million USD,raw/nbu/Trade_y_en.xlsx,2.3,34,16
+2024,export,Norway,NOR,country_or_territory,38369390.575041495,38.36939057504149,million USD,raw/nbu/Trade_y_en.xlsx,2.3,34,17
+2025,export,Norway,NOR,country_or_territory,33638237.37432564,33.63823737432564,million USD,raw/nbu/Trade_y_en.xlsx,2.3,34,18
+2011,export,Republic of Singapore,SGP,country_or_territory,233546.09041818703,0.23354609041818702,million USD,raw/nbu/Trade_y_en.xlsx,2.3,35,4
+2012,export,Republic of Singapore,SGP,country_or_territory,270084.0,0.270084,million USD,raw/nbu/Trade_y_en.xlsx,2.3,35,5
+2013,export,Republic of Singapore,SGP,country_or_territory,834579.3645002815,0.8345793645002815,million USD,raw/nbu/Trade_y_en.xlsx,2.3,35,6
+2014,export,Republic of Singapore,SGP,country_or_territory,1924609.0462500018,1.9246090462500018,million USD,raw/nbu/Trade_y_en.xlsx,2.3,35,7
+2015,export,Republic of Singapore,SGP,country_or_territory,2947499.8138706284,2.9474998138706283,million USD,raw/nbu/Trade_y_en.xlsx,2.3,35,8
+2016,export,Republic of Singapore,SGP,country_or_territory,3575497.262143199,3.575497262143199,million USD,raw/nbu/Trade_y_en.xlsx,2.3,35,9
+2017,export,Republic of Singapore,SGP,country_or_territory,10174796.73338379,10.17479673338379,million USD,raw/nbu/Trade_y_en.xlsx,2.3,35,10
+2018,export,Republic of Singapore,SGP,country_or_territory,17560010.4097473,17.5600104097473,million USD,raw/nbu/Trade_y_en.xlsx,2.3,35,11
+2019,export,Republic of Singapore,SGP,country_or_territory,30108230.80852873,30.108230808528727,million USD,raw/nbu/Trade_y_en.xlsx,2.3,35,12
+2020,export,Republic of Singapore,SGP,country_or_territory,39629684.20527865,39.62968420527865,million USD,raw/nbu/Trade_y_en.xlsx,2.3,35,13
+2021,export,Republic of Singapore,SGP,country_or_territory,67992292.9688622,67.9922929688622,million USD,raw/nbu/Trade_y_en.xlsx,2.3,35,14
+2022,export,Republic of Singapore,SGP,country_or_territory,55301603.40283996,55.30160340283996,million USD,raw/nbu/Trade_y_en.xlsx,2.3,35,15
+2023,export,Republic of Singapore,SGP,country_or_territory,38081642.01347074,38.08164201347074,million USD,raw/nbu/Trade_y_en.xlsx,2.3,35,16
+2024,export,Republic of Singapore,SGP,country_or_territory,35326827.390500225,35.32682739050023,million USD,raw/nbu/Trade_y_en.xlsx,2.3,35,17
+2025,export,Republic of Singapore,SGP,country_or_territory,33270870.45483863,33.27087045483863,million USD,raw/nbu/Trade_y_en.xlsx,2.3,35,18
+2011,export,Gibraltar,GIB,country_or_territory,354391.72754802206,0.35439172754802206,million USD,raw/nbu/Trade_y_en.xlsx,2.3,36,4
+2012,export,Gibraltar,GIB,country_or_territory,5407874.124243428,5.407874124243428,million USD,raw/nbu/Trade_y_en.xlsx,2.3,36,5
+2013,export,Gibraltar,GIB,country_or_territory,16595624.576672109,16.595624576672108,million USD,raw/nbu/Trade_y_en.xlsx,2.3,36,6
+2014,export,Gibraltar,GIB,country_or_territory,16227013.563684184,16.227013563684185,million USD,raw/nbu/Trade_y_en.xlsx,2.3,36,7
+2015,export,Gibraltar,GIB,country_or_territory,13556836.100764198,13.556836100764198,million USD,raw/nbu/Trade_y_en.xlsx,2.3,36,8
+2016,export,Gibraltar,GIB,country_or_territory,9152113.285385238,9.152113285385237,million USD,raw/nbu/Trade_y_en.xlsx,2.3,36,9
+2017,export,Gibraltar,GIB,country_or_territory,9844345.520486752,9.844345520486751,million USD,raw/nbu/Trade_y_en.xlsx,2.3,36,10
+2018,export,Gibraltar,GIB,country_or_territory,12469945.915647032,12.469945915647031,million USD,raw/nbu/Trade_y_en.xlsx,2.3,36,11
+2019,export,Gibraltar,GIB,country_or_territory,5331153.5674936455,5.331153567493645,million USD,raw/nbu/Trade_y_en.xlsx,2.3,36,12
+2020,export,Gibraltar,GIB,country_or_territory,4101783.149367602,4.101783149367602,million USD,raw/nbu/Trade_y_en.xlsx,2.3,36,13
+2021,export,Gibraltar,GIB,country_or_territory,6798112.6046039825,6.798112604603983,million USD,raw/nbu/Trade_y_en.xlsx,2.3,36,14
+2022,export,Gibraltar,GIB,country_or_territory,9853334.10086435,9.85333410086435,million USD,raw/nbu/Trade_y_en.xlsx,2.3,36,15
+2023,export,Gibraltar,GIB,country_or_territory,9994066.069342956,9.994066069342956,million USD,raw/nbu/Trade_y_en.xlsx,2.3,36,16
+2024,export,Gibraltar,GIB,country_or_territory,25509783.38811958,25.50978338811958,million USD,raw/nbu/Trade_y_en.xlsx,2.3,36,17
+2025,export,Gibraltar,GIB,country_or_territory,29788964.066241212,29.788964066241213,million USD,raw/nbu/Trade_y_en.xlsx,2.3,36,18
+2011,export,Austria,AUT,country_or_territory,5541683.170750897,5.541683170750898,million USD,raw/nbu/Trade_y_en.xlsx,2.3,37,4
+2012,export,Austria,AUT,country_or_territory,3427346.638527144,3.427346638527144,million USD,raw/nbu/Trade_y_en.xlsx,2.3,37,5
+2013,export,Austria,AUT,country_or_territory,4107069.494298548,4.107069494298548,million USD,raw/nbu/Trade_y_en.xlsx,2.3,37,6
+2014,export,Austria,AUT,country_or_territory,3700680.409052068,3.700680409052068,million USD,raw/nbu/Trade_y_en.xlsx,2.3,37,7
+2015,export,Austria,AUT,country_or_territory,3466568.816624577,3.4665688166245774,million USD,raw/nbu/Trade_y_en.xlsx,2.3,37,8
+2016,export,Austria,AUT,country_or_territory,4368103.127131992,4.368103127131992,million USD,raw/nbu/Trade_y_en.xlsx,2.3,37,9
+2017,export,Austria,AUT,country_or_territory,5079498.6067575,5.0794986067575,million USD,raw/nbu/Trade_y_en.xlsx,2.3,37,10
+2018,export,Austria,AUT,country_or_territory,9613513.511662109,9.61351351166211,million USD,raw/nbu/Trade_y_en.xlsx,2.3,37,11
+2019,export,Austria,AUT,country_or_territory,12627565.401669625,12.627565401669624,million USD,raw/nbu/Trade_y_en.xlsx,2.3,37,12
+2020,export,Austria,AUT,country_or_territory,17525371.87161868,17.52537187161868,million USD,raw/nbu/Trade_y_en.xlsx,2.3,37,13
+2021,export,Austria,AUT,country_or_territory,25466460.101006303,25.4664601010063,million USD,raw/nbu/Trade_y_en.xlsx,2.3,37,14
+2022,export,Austria,AUT,country_or_territory,30174495.086491413,30.17449508649141,million USD,raw/nbu/Trade_y_en.xlsx,2.3,37,15
+2023,export,Austria,AUT,country_or_territory,35354937.20087417,35.35493720087417,million USD,raw/nbu/Trade_y_en.xlsx,2.3,37,16
+2024,export,Austria,AUT,country_or_territory,41680136.97243381,41.680136972433814,million USD,raw/nbu/Trade_y_en.xlsx,2.3,37,17
+2025,export,Austria,AUT,country_or_territory,27666349.5146665,27.6663495146665,million USD,raw/nbu/Trade_y_en.xlsx,2.3,37,18
+2011,export,Spain,ESP,country_or_territory,3666522.733463512,3.6665227334635118,million USD,raw/nbu/Trade_y_en.xlsx,2.3,38,4
+2012,export,Spain,ESP,country_or_territory,5718768.392709258,5.718768392709258,million USD,raw/nbu/Trade_y_en.xlsx,2.3,38,5
+2013,export,Spain,ESP,country_or_territory,9733497.396390669,9.73349739639067,million USD,raw/nbu/Trade_y_en.xlsx,2.3,38,6
+2014,export,Spain,ESP,country_or_territory,3323118.3398461714,3.3231183398461717,million USD,raw/nbu/Trade_y_en.xlsx,2.3,38,7
+2015,export,Spain,ESP,country_or_territory,5297008.337565051,5.297008337565051,million USD,raw/nbu/Trade_y_en.xlsx,2.3,38,8
+2016,export,Spain,ESP,country_or_territory,7579509.325483328,7.579509325483328,million USD,raw/nbu/Trade_y_en.xlsx,2.3,38,9
+2017,export,Spain,ESP,country_or_territory,14760862.268981537,14.760862268981537,million USD,raw/nbu/Trade_y_en.xlsx,2.3,38,10
+2018,export,Spain,ESP,country_or_territory,14432295.073866393,14.432295073866394,million USD,raw/nbu/Trade_y_en.xlsx,2.3,38,11
+2019,export,Spain,ESP,country_or_territory,13656244.57072692,13.656244570726919,million USD,raw/nbu/Trade_y_en.xlsx,2.3,38,12
+2020,export,Spain,ESP,country_or_territory,13273350.743907923,13.273350743907923,million USD,raw/nbu/Trade_y_en.xlsx,2.3,38,13
+2021,export,Spain,ESP,country_or_territory,15249008.082824878,15.249008082824878,million USD,raw/nbu/Trade_y_en.xlsx,2.3,38,14
+2022,export,Spain,ESP,country_or_territory,20319963.348071143,20.31996334807114,million USD,raw/nbu/Trade_y_en.xlsx,2.3,38,15
+2023,export,Spain,ESP,country_or_territory,18801553.300376758,18.801553300376757,million USD,raw/nbu/Trade_y_en.xlsx,2.3,38,16
+2024,export,Spain,ESP,country_or_territory,23014812.9489344,23.0148129489344,million USD,raw/nbu/Trade_y_en.xlsx,2.3,38,17
+2025,export,Spain,ESP,country_or_territory,28114717.8638364,28.1147178638364,million USD,raw/nbu/Trade_y_en.xlsx,2.3,38,18
+2011,export,Isle of Man,IMN,country_or_territory,30094.62718036371,0.03009462718036371,million USD,raw/nbu/Trade_y_en.xlsx,2.3,39,4
+2012,export,Isle of Man,IMN,country_or_territory,616591.6331075149,0.616591633107515,million USD,raw/nbu/Trade_y_en.xlsx,2.3,39,5
+2013,export,Isle of Man,IMN,country_or_territory,1270323.7350289724,1.2703237350289724,million USD,raw/nbu/Trade_y_en.xlsx,2.3,39,6
+2014,export,Isle of Man,IMN,country_or_territory,1528162.4181852113,1.5281624181852114,million USD,raw/nbu/Trade_y_en.xlsx,2.3,39,7
+2015,export,Isle of Man,IMN,country_or_territory,24598366.375870947,24.598366375870945,million USD,raw/nbu/Trade_y_en.xlsx,2.3,39,8
+2016,export,Isle of Man,IMN,country_or_territory,26095722.99906045,26.09572299906045,million USD,raw/nbu/Trade_y_en.xlsx,2.3,39,9
+2017,export,Isle of Man,IMN,country_or_territory,849851.2492617397,0.8498512492617397,million USD,raw/nbu/Trade_y_en.xlsx,2.3,39,10
+2018,export,Isle of Man,IMN,country_or_territory,1953075.1912514158,1.9530751912514157,million USD,raw/nbu/Trade_y_en.xlsx,2.3,39,11
+2019,export,Isle of Man,IMN,country_or_territory,13039559.453969847,13.039559453969847,million USD,raw/nbu/Trade_y_en.xlsx,2.3,39,12
+2020,export,Isle of Man,IMN,country_or_territory,47040572.8948479,47.0405728948479,million USD,raw/nbu/Trade_y_en.xlsx,2.3,39,13
+2021,export,Isle of Man,IMN,country_or_territory,25752171.53590436,25.75217153590436,million USD,raw/nbu/Trade_y_en.xlsx,2.3,39,14
+2022,export,Isle of Man,IMN,country_or_territory,22877702.00523344,22.87770200523344,million USD,raw/nbu/Trade_y_en.xlsx,2.3,39,15
+2023,export,Isle of Man,IMN,country_or_territory,20817853.58394821,20.81785358394821,million USD,raw/nbu/Trade_y_en.xlsx,2.3,39,16
+2024,export,Isle of Man,IMN,country_or_territory,25147288.60740235,25.147288607402352,million USD,raw/nbu/Trade_y_en.xlsx,2.3,39,17
+2025,export,Isle of Man,IMN,country_or_territory,25285258.17754756,25.285258177547558,million USD,raw/nbu/Trade_y_en.xlsx,2.3,39,18
+2011,export,Slovakia,SVK,country_or_territory,318825.09156239737,0.31882509156239736,million USD,raw/nbu/Trade_y_en.xlsx,2.3,40,4
+2012,export,Slovakia,SVK,country_or_territory,774677.1557634213,0.7746771557634213,million USD,raw/nbu/Trade_y_en.xlsx,2.3,40,5
+2013,export,Slovakia,SVK,country_or_territory,995557.1652969022,0.9955571652969022,million USD,raw/nbu/Trade_y_en.xlsx,2.3,40,6
+2014,export,Slovakia,SVK,country_or_territory,776956.2409635315,0.7769562409635316,million USD,raw/nbu/Trade_y_en.xlsx,2.3,40,7
+2015,export,Slovakia,SVK,country_or_territory,2516727.443711454,2.516727443711454,million USD,raw/nbu/Trade_y_en.xlsx,2.3,40,8
+2016,export,Slovakia,SVK,country_or_territory,5158767.525378407,5.158767525378407,million USD,raw/nbu/Trade_y_en.xlsx,2.3,40,9
+2017,export,Slovakia,SVK,country_or_territory,3849184.0153617435,3.8491840153617436,million USD,raw/nbu/Trade_y_en.xlsx,2.3,40,10
+2018,export,Slovakia,SVK,country_or_territory,5134604.248526012,5.134604248526012,million USD,raw/nbu/Trade_y_en.xlsx,2.3,40,11
+2019,export,Slovakia,SVK,country_or_territory,7180088.557875167,7.180088557875167,million USD,raw/nbu/Trade_y_en.xlsx,2.3,40,12
+2020,export,Slovakia,SVK,country_or_territory,9746613.163836481,9.74661316383648,million USD,raw/nbu/Trade_y_en.xlsx,2.3,40,13
+2021,export,Slovakia,SVK,country_or_territory,16883039.893447757,16.883039893447755,million USD,raw/nbu/Trade_y_en.xlsx,2.3,40,14
+2022,export,Slovakia,SVK,country_or_territory,15333825.858517252,15.333825858517251,million USD,raw/nbu/Trade_y_en.xlsx,2.3,40,15
+2023,export,Slovakia,SVK,country_or_territory,21331297.47712379,21.33129747712379,million USD,raw/nbu/Trade_y_en.xlsx,2.3,40,16
+2024,export,Slovakia,SVK,country_or_territory,21407910.046850402,21.4079100468504,million USD,raw/nbu/Trade_y_en.xlsx,2.3,40,17
+2025,export,Slovakia,SVK,country_or_territory,24367445.483221993,24.367445483221992,million USD,raw/nbu/Trade_y_en.xlsx,2.3,40,18
+2011,export,Finland,FIN,country_or_territory,495394.8822659388,0.4953948822659388,million USD,raw/nbu/Trade_y_en.xlsx,2.3,41,4
+2012,export,Finland,FIN,country_or_territory,687296.450045638,0.687296450045638,million USD,raw/nbu/Trade_y_en.xlsx,2.3,41,5
+2013,export,Finland,FIN,country_or_territory,821434.4887490018,0.8214344887490017,million USD,raw/nbu/Trade_y_en.xlsx,2.3,41,6
+2014,export,Finland,FIN,country_or_territory,880686.2602195811,0.8806862602195811,million USD,raw/nbu/Trade_y_en.xlsx,2.3,41,7
+2015,export,Finland,FIN,country_or_territory,1243425.2488114953,1.2434252488114952,million USD,raw/nbu/Trade_y_en.xlsx,2.3,41,8
+2016,export,Finland,FIN,country_or_territory,2212610.5976185473,2.2126105976185473,million USD,raw/nbu/Trade_y_en.xlsx,2.3,41,9
+2017,export,Finland,FIN,country_or_territory,3686623.408881676,3.686623408881676,million USD,raw/nbu/Trade_y_en.xlsx,2.3,41,10
+2018,export,Finland,FIN,country_or_territory,4472787.003316503,4.472787003316503,million USD,raw/nbu/Trade_y_en.xlsx,2.3,41,11
+2019,export,Finland,FIN,country_or_territory,5705641.959904259,5.705641959904259,million USD,raw/nbu/Trade_y_en.xlsx,2.3,41,12
+2020,export,Finland,FIN,country_or_territory,10415280.964497,10.415280964497,million USD,raw/nbu/Trade_y_en.xlsx,2.3,41,13
+2021,export,Finland,FIN,country_or_territory,17137192.784028,17.137192784028002,million USD,raw/nbu/Trade_y_en.xlsx,2.3,41,14
+2022,export,Finland,FIN,country_or_territory,18767826.48235745,18.76782648235745,million USD,raw/nbu/Trade_y_en.xlsx,2.3,41,15
+2023,export,Finland,FIN,country_or_territory,18851728.679816112,18.851728679816112,million USD,raw/nbu/Trade_y_en.xlsx,2.3,41,16
+2024,export,Finland,FIN,country_or_territory,15792196.985304067,15.792196985304066,million USD,raw/nbu/Trade_y_en.xlsx,2.3,41,17
+2025,export,Finland,FIN,country_or_territory,23946610.05680919,23.94661005680919,million USD,raw/nbu/Trade_y_en.xlsx,2.3,41,18
+2011,export,Hungary,HUN,country_or_territory,1768678.888604279,1.7686788886042788,million USD,raw/nbu/Trade_y_en.xlsx,2.3,42,4
+2012,export,Hungary,HUN,country_or_territory,2290033.737709121,2.2900337377091207,million USD,raw/nbu/Trade_y_en.xlsx,2.3,42,5
+2013,export,Hungary,HUN,country_or_territory,3373524.158973746,3.373524158973746,million USD,raw/nbu/Trade_y_en.xlsx,2.3,42,6
+2014,export,Hungary,HUN,country_or_territory,2884993.265824527,2.884993265824527,million USD,raw/nbu/Trade_y_en.xlsx,2.3,42,7
+2015,export,Hungary,HUN,country_or_territory,2244396.3459309614,2.2443963459309613,million USD,raw/nbu/Trade_y_en.xlsx,2.3,42,8
+2016,export,Hungary,HUN,country_or_territory,3551185.037898366,3.551185037898366,million USD,raw/nbu/Trade_y_en.xlsx,2.3,42,9
+2017,export,Hungary,HUN,country_or_territory,4742540.692583509,4.742540692583509,million USD,raw/nbu/Trade_y_en.xlsx,2.3,42,10
+2018,export,Hungary,HUN,country_or_territory,6781760.026683967,6.781760026683966,million USD,raw/nbu/Trade_y_en.xlsx,2.3,42,11
+2019,export,Hungary,HUN,country_or_territory,12062209.763590598,12.062209763590598,million USD,raw/nbu/Trade_y_en.xlsx,2.3,42,12
+2020,export,Hungary,HUN,country_or_territory,21217706.00029071,21.21770600029071,million USD,raw/nbu/Trade_y_en.xlsx,2.3,42,13
+2021,export,Hungary,HUN,country_or_territory,24523054.417453393,24.523054417453395,million USD,raw/nbu/Trade_y_en.xlsx,2.3,42,14
+2022,export,Hungary,HUN,country_or_territory,22548388.344049457,22.548388344049457,million USD,raw/nbu/Trade_y_en.xlsx,2.3,42,15
+2023,export,Hungary,HUN,country_or_territory,20925767.77942622,20.92576777942622,million USD,raw/nbu/Trade_y_en.xlsx,2.3,42,16
+2024,export,Hungary,HUN,country_or_territory,16874396.598997917,16.87439659899792,million USD,raw/nbu/Trade_y_en.xlsx,2.3,42,17
+2025,export,Hungary,HUN,country_or_territory,23373246.767687492,23.37324676768749,million USD,raw/nbu/Trade_y_en.xlsx,2.3,42,18
+2011,export,Italy,ITA,country_or_territory,2157040.335004482,2.157040335004482,million USD,raw/nbu/Trade_y_en.xlsx,2.3,43,4
+2012,export,Italy,ITA,country_or_territory,3095281.387304881,3.095281387304881,million USD,raw/nbu/Trade_y_en.xlsx,2.3,43,5
+2013,export,Italy,ITA,country_or_territory,8327884.572702935,8.327884572702935,million USD,raw/nbu/Trade_y_en.xlsx,2.3,43,6
+2014,export,Italy,ITA,country_or_territory,4176520.9441240216,4.176520944124022,million USD,raw/nbu/Trade_y_en.xlsx,2.3,43,7
+2015,export,Italy,ITA,country_or_territory,3868147.669909432,3.868147669909432,million USD,raw/nbu/Trade_y_en.xlsx,2.3,43,8
+2016,export,Italy,ITA,country_or_territory,4161252.1143719023,4.161252114371902,million USD,raw/nbu/Trade_y_en.xlsx,2.3,43,9
+2017,export,Italy,ITA,country_or_territory,5006672.187968891,5.006672187968891,million USD,raw/nbu/Trade_y_en.xlsx,2.3,43,10
+2018,export,Italy,ITA,country_or_territory,9245197.535304682,9.245197535304682,million USD,raw/nbu/Trade_y_en.xlsx,2.3,43,11
+2019,export,Italy,ITA,country_or_territory,12503615.44002047,12.50361544002047,million USD,raw/nbu/Trade_y_en.xlsx,2.3,43,12
+2020,export,Italy,ITA,country_or_territory,12740977.39343429,12.74097739343429,million USD,raw/nbu/Trade_y_en.xlsx,2.3,43,13
+2021,export,Italy,ITA,country_or_territory,17975625.0721267,17.9756250721267,million USD,raw/nbu/Trade_y_en.xlsx,2.3,43,14
+2022,export,Italy,ITA,country_or_territory,21335657.09060051,21.33565709060051,million USD,raw/nbu/Trade_y_en.xlsx,2.3,43,15
+2023,export,Italy,ITA,country_or_territory,18761050.95942669,18.76105095942669,million USD,raw/nbu/Trade_y_en.xlsx,2.3,43,16
+2024,export,Italy,ITA,country_or_territory,15189633.33956624,15.18963333956624,million USD,raw/nbu/Trade_y_en.xlsx,2.3,43,17
+2025,export,Italy,ITA,country_or_territory,16444765.647948671,16.44476564794867,million USD,raw/nbu/Trade_y_en.xlsx,2.3,43,18
+2011,export,Latvia,LVA,country_or_territory,3981123.533302705,3.981123533302705,million USD,raw/nbu/Trade_y_en.xlsx,2.3,44,4
+2012,export,Latvia,LVA,country_or_territory,1741089.531122401,1.7410895311224008,million USD,raw/nbu/Trade_y_en.xlsx,2.3,44,5
+2013,export,Latvia,LVA,country_or_territory,3935569.244109085,3.935569244109085,million USD,raw/nbu/Trade_y_en.xlsx,2.3,44,6
+2014,export,Latvia,LVA,country_or_territory,3102138.165738292,3.102138165738292,million USD,raw/nbu/Trade_y_en.xlsx,2.3,44,7
+2015,export,Latvia,LVA,country_or_territory,4016348.5889036963,4.016348588903696,million USD,raw/nbu/Trade_y_en.xlsx,2.3,44,8
+2016,export,Latvia,LVA,country_or_territory,4769744.343470656,4.769744343470657,million USD,raw/nbu/Trade_y_en.xlsx,2.3,44,9
+2017,export,Latvia,LVA,country_or_territory,13644226.893892199,13.6442268938922,million USD,raw/nbu/Trade_y_en.xlsx,2.3,44,10
+2018,export,Latvia,LVA,country_or_territory,13421138.081737291,13.421138081737292,million USD,raw/nbu/Trade_y_en.xlsx,2.3,44,11
+2019,export,Latvia,LVA,country_or_territory,12252671.765224239,12.252671765224239,million USD,raw/nbu/Trade_y_en.xlsx,2.3,44,12
+2020,export,Latvia,LVA,country_or_territory,11735412.433440363,11.735412433440363,million USD,raw/nbu/Trade_y_en.xlsx,2.3,44,13
+2021,export,Latvia,LVA,country_or_territory,10429337.396146907,10.429337396146906,million USD,raw/nbu/Trade_y_en.xlsx,2.3,44,14
+2022,export,Latvia,LVA,country_or_territory,9175237.573821256,9.175237573821256,million USD,raw/nbu/Trade_y_en.xlsx,2.3,44,15
+2023,export,Latvia,LVA,country_or_territory,8492798.827597454,8.492798827597454,million USD,raw/nbu/Trade_y_en.xlsx,2.3,44,16
+2024,export,Latvia,LVA,country_or_territory,10074818.541000485,10.074818541000486,million USD,raw/nbu/Trade_y_en.xlsx,2.3,44,17
+2025,export,Latvia,LVA,country_or_territory,16327174.667610887,16.327174667610887,million USD,raw/nbu/Trade_y_en.xlsx,2.3,44,18
+2011,export,Luxembourg,LUX,country_or_territory,2317238.4957464347,2.3172384957464347,million USD,raw/nbu/Trade_y_en.xlsx,2.3,45,4
+2012,export,Luxembourg,LUX,country_or_territory,3528657.816498176,3.528657816498176,million USD,raw/nbu/Trade_y_en.xlsx,2.3,45,5
+2013,export,Luxembourg,LUX,country_or_territory,5050241.397077386,5.050241397077386,million USD,raw/nbu/Trade_y_en.xlsx,2.3,45,6
+2014,export,Luxembourg,LUX,country_or_territory,5977909.003095031,5.97790900309503,million USD,raw/nbu/Trade_y_en.xlsx,2.3,45,7
+2015,export,Luxembourg,LUX,country_or_territory,6141984.882926828,6.141984882926828,million USD,raw/nbu/Trade_y_en.xlsx,2.3,45,8
+2016,export,Luxembourg,LUX,country_or_territory,9127410.42484101,9.12741042484101,million USD,raw/nbu/Trade_y_en.xlsx,2.3,45,9
+2017,export,Luxembourg,LUX,country_or_territory,13942925.829888938,13.942925829888939,million USD,raw/nbu/Trade_y_en.xlsx,2.3,45,10
+2018,export,Luxembourg,LUX,country_or_territory,15427077.319668049,15.427077319668049,million USD,raw/nbu/Trade_y_en.xlsx,2.3,45,11
+2019,export,Luxembourg,LUX,country_or_territory,18778156.405267067,18.77815640526707,million USD,raw/nbu/Trade_y_en.xlsx,2.3,45,12
+2020,export,Luxembourg,LUX,country_or_territory,24559043.03788197,24.55904303788197,million USD,raw/nbu/Trade_y_en.xlsx,2.3,45,13
+2021,export,Luxembourg,LUX,country_or_territory,34704592.86806213,34.70459286806213,million USD,raw/nbu/Trade_y_en.xlsx,2.3,45,14
+2022,export,Luxembourg,LUX,country_or_territory,23616649.125041988,23.616649125041988,million USD,raw/nbu/Trade_y_en.xlsx,2.3,45,15
+2023,export,Luxembourg,LUX,country_or_territory,11008112.782255912,11.008112782255912,million USD,raw/nbu/Trade_y_en.xlsx,2.3,45,16
+2024,export,Luxembourg,LUX,country_or_territory,10574480.236983355,10.574480236983355,million USD,raw/nbu/Trade_y_en.xlsx,2.3,45,17
+2025,export,Luxembourg,LUX,country_or_territory,14584869.36800443,14.58486936800443,million USD,raw/nbu/Trade_y_en.xlsx,2.3,45,18
+2011,export,Australia,AUS,country_or_territory,1756867.8730725946,1.7568678730725946,million USD,raw/nbu/Trade_y_en.xlsx,2.3,46,4
+2012,export,Australia,AUS,country_or_territory,2639309.243100154,2.639309243100154,million USD,raw/nbu/Trade_y_en.xlsx,2.3,46,5
+2013,export,Australia,AUS,country_or_territory,3404148.7769056805,3.4041487769056804,million USD,raw/nbu/Trade_y_en.xlsx,2.3,46,6
+2014,export,Australia,AUS,country_or_territory,3332855.5428835372,3.332855542883537,million USD,raw/nbu/Trade_y_en.xlsx,2.3,46,7
+2015,export,Australia,AUS,country_or_territory,3348668.4213563455,3.3486684213563453,million USD,raw/nbu/Trade_y_en.xlsx,2.3,46,8
+2016,export,Australia,AUS,country_or_territory,3978217.8900313536,3.9782178900313534,million USD,raw/nbu/Trade_y_en.xlsx,2.3,46,9
+2017,export,Australia,AUS,country_or_territory,5763958.874217869,5.7639588742178685,million USD,raw/nbu/Trade_y_en.xlsx,2.3,46,10
+2018,export,Australia,AUS,country_or_territory,10256042.458513591,10.25604245851359,million USD,raw/nbu/Trade_y_en.xlsx,2.3,46,11
+2019,export,Australia,AUS,country_or_territory,13663018.80506238,13.66301880506238,million USD,raw/nbu/Trade_y_en.xlsx,2.3,46,12
+2020,export,Australia,AUS,country_or_territory,13588764.127665954,13.588764127665954,million USD,raw/nbu/Trade_y_en.xlsx,2.3,46,13
+2021,export,Australia,AUS,country_or_territory,19459553.828177363,19.459553828177363,million USD,raw/nbu/Trade_y_en.xlsx,2.3,46,14
+2022,export,Australia,AUS,country_or_territory,18178561.19248026,18.17856119248026,million USD,raw/nbu/Trade_y_en.xlsx,2.3,46,15
+2023,export,Australia,AUS,country_or_territory,14017584.81031325,14.01758481031325,million USD,raw/nbu/Trade_y_en.xlsx,2.3,46,16
+2024,export,Australia,AUS,country_or_territory,17568833.635881018,17.568833635881017,million USD,raw/nbu/Trade_y_en.xlsx,2.3,46,17
+2025,export,Australia,AUS,country_or_territory,13809732.494995981,13.80973249499598,million USD,raw/nbu/Trade_y_en.xlsx,2.3,46,18
+2011,export,Romania,ROU,country_or_territory,48742.19705606538,0.048742197056065376,million USD,raw/nbu/Trade_y_en.xlsx,2.3,47,4
+2012,export,Romania,ROU,country_or_territory,334664.3413070438,0.3346643413070438,million USD,raw/nbu/Trade_y_en.xlsx,2.3,47,5
+2013,export,Romania,ROU,country_or_territory,168278.10782981478,0.16827810782981478,million USD,raw/nbu/Trade_y_en.xlsx,2.3,47,6
+2014,export,Romania,ROU,country_or_territory,249128.3944044545,0.2491283944044545,million USD,raw/nbu/Trade_y_en.xlsx,2.3,47,7
+2015,export,Romania,ROU,country_or_territory,284279.5881982572,0.2842795881982572,million USD,raw/nbu/Trade_y_en.xlsx,2.3,47,8
+2016,export,Romania,ROU,country_or_territory,404583.3180196882,0.40458331801968817,million USD,raw/nbu/Trade_y_en.xlsx,2.3,47,9
+2017,export,Romania,ROU,country_or_territory,1195890.279750126,1.1958902797501259,million USD,raw/nbu/Trade_y_en.xlsx,2.3,47,10
+2018,export,Romania,ROU,country_or_territory,2590558.739918377,2.590558739918377,million USD,raw/nbu/Trade_y_en.xlsx,2.3,47,11
+2019,export,Romania,ROU,country_or_territory,5243807.943394186,5.243807943394186,million USD,raw/nbu/Trade_y_en.xlsx,2.3,47,12
+2020,export,Romania,ROU,country_or_territory,7829397.031082145,7.829397031082145,million USD,raw/nbu/Trade_y_en.xlsx,2.3,47,13
+2021,export,Romania,ROU,country_or_territory,8806993.725921074,8.806993725921075,million USD,raw/nbu/Trade_y_en.xlsx,2.3,47,14
+2022,export,Romania,ROU,country_or_territory,9688373.040268641,9.68837304026864,million USD,raw/nbu/Trade_y_en.xlsx,2.3,47,15
+2023,export,Romania,ROU,country_or_territory,12171680.784909735,12.171680784909734,million USD,raw/nbu/Trade_y_en.xlsx,2.3,47,16
+2024,export,Romania,ROU,country_or_territory,11621926.246338472,11.621926246338472,million USD,raw/nbu/Trade_y_en.xlsx,2.3,47,17
+2025,export,Romania,ROU,country_or_territory,12915256.24172684,12.91525624172684,million USD,raw/nbu/Trade_y_en.xlsx,2.3,47,18
+2011,export,Kazakhstan,KAZ,country_or_territory,2432618.787234683,2.432618787234683,million USD,raw/nbu/Trade_y_en.xlsx,2.3,48,4
+2012,export,Kazakhstan,KAZ,country_or_territory,3020062.9608387873,3.0200629608387874,million USD,raw/nbu/Trade_y_en.xlsx,2.3,48,5
+2013,export,Kazakhstan,KAZ,country_or_territory,3930747.000251436,3.930747000251436,million USD,raw/nbu/Trade_y_en.xlsx,2.3,48,6
+2014,export,Kazakhstan,KAZ,country_or_territory,3999427.434989804,3.999427434989804,million USD,raw/nbu/Trade_y_en.xlsx,2.3,48,7
+2015,export,Kazakhstan,KAZ,country_or_territory,3651616.233510565,3.651616233510565,million USD,raw/nbu/Trade_y_en.xlsx,2.3,48,8
+2016,export,Kazakhstan,KAZ,country_or_territory,3616797.795664609,3.616797795664609,million USD,raw/nbu/Trade_y_en.xlsx,2.3,48,9
+2017,export,Kazakhstan,KAZ,country_or_territory,5084895.284128371,5.084895284128371,million USD,raw/nbu/Trade_y_en.xlsx,2.3,48,10
+2018,export,Kazakhstan,KAZ,country_or_territory,8311032.343402786,8.311032343402786,million USD,raw/nbu/Trade_y_en.xlsx,2.3,48,11
+2019,export,Kazakhstan,KAZ,country_or_territory,7527720.735363504,7.527720735363504,million USD,raw/nbu/Trade_y_en.xlsx,2.3,48,12
+2020,export,Kazakhstan,KAZ,country_or_territory,9615855.755123219,9.615855755123219,million USD,raw/nbu/Trade_y_en.xlsx,2.3,48,13
+2021,export,Kazakhstan,KAZ,country_or_territory,12747932.629604192,12.747932629604193,million USD,raw/nbu/Trade_y_en.xlsx,2.3,48,14
+2022,export,Kazakhstan,KAZ,country_or_territory,14007913.934560247,14.007913934560246,million USD,raw/nbu/Trade_y_en.xlsx,2.3,48,15
+2023,export,Kazakhstan,KAZ,country_or_territory,13418189.101071846,13.418189101071846,million USD,raw/nbu/Trade_y_en.xlsx,2.3,48,16
+2024,export,Kazakhstan,KAZ,country_or_territory,12679570.407913709,12.679570407913708,million USD,raw/nbu/Trade_y_en.xlsx,2.3,48,17
+2025,export,Kazakhstan,KAZ,country_or_territory,11940623.095185071,11.940623095185071,million USD,raw/nbu/Trade_y_en.xlsx,2.3,48,18
+2011,export,Bahamas,BHS,country_or_territory,34094.0,0.034094,million USD,raw/nbu/Trade_y_en.xlsx,2.3,49,4
+2012,export,Bahamas,BHS,country_or_territory,71777.00000000001,0.07177700000000001,million USD,raw/nbu/Trade_y_en.xlsx,2.3,49,5
+2013,export,Bahamas,BHS,country_or_territory,15000.0,0.015,million USD,raw/nbu/Trade_y_en.xlsx,2.3,49,6
+2014,export,Bahamas,BHS,country_or_territory,1580421.0,1.580421,million USD,raw/nbu/Trade_y_en.xlsx,2.3,49,7
+2015,export,Bahamas,BHS,country_or_territory,6878089.107860342,6.878089107860342,million USD,raw/nbu/Trade_y_en.xlsx,2.3,49,8
+2016,export,Bahamas,BHS,country_or_territory,13106655.051987255,13.106655051987255,million USD,raw/nbu/Trade_y_en.xlsx,2.3,49,9
+2017,export,Bahamas,BHS,country_or_territory,11679042.369547155,11.679042369547155,million USD,raw/nbu/Trade_y_en.xlsx,2.3,49,10
+2018,export,Bahamas,BHS,country_or_territory,15277356.1,15.2773561,million USD,raw/nbu/Trade_y_en.xlsx,2.3,49,11
+2019,export,Bahamas,BHS,country_or_territory,17998081.5162696,17.998081516269597,million USD,raw/nbu/Trade_y_en.xlsx,2.3,49,12
+2020,export,Bahamas,BHS,country_or_territory,19447661.19970329,19.44766119970329,million USD,raw/nbu/Trade_y_en.xlsx,2.3,49,13
+2021,export,Bahamas,BHS,country_or_territory,14022277.757831119,14.02227775783112,million USD,raw/nbu/Trade_y_en.xlsx,2.3,49,14
+2022,export,Bahamas,BHS,country_or_territory,13487246.322970485,13.487246322970485,million USD,raw/nbu/Trade_y_en.xlsx,2.3,49,15
+2023,export,Bahamas,BHS,country_or_territory,13382916.58382958,13.38291658382958,million USD,raw/nbu/Trade_y_en.xlsx,2.3,49,16
+2024,export,Bahamas,BHS,country_or_territory,11428512.860551331,11.428512860551331,million USD,raw/nbu/Trade_y_en.xlsx,2.3,49,17
+2025,export,Bahamas,BHS,country_or_territory,10957000.768097168,10.957000768097167,million USD,raw/nbu/Trade_y_en.xlsx,2.3,49,18
+2011,export,Georgia,GEO,country_or_territory,735952.8360375285,0.7359528360375285,million USD,raw/nbu/Trade_y_en.xlsx,2.3,50,4
+2012,export,Georgia,GEO,country_or_territory,917695.7248074642,0.9176957248074642,million USD,raw/nbu/Trade_y_en.xlsx,2.3,50,5
+2013,export,Georgia,GEO,country_or_territory,1024710.0181990019,1.0247100181990019,million USD,raw/nbu/Trade_y_en.xlsx,2.3,50,6
+2014,export,Georgia,GEO,country_or_territory,1118959.8238872103,1.1189598238872103,million USD,raw/nbu/Trade_y_en.xlsx,2.3,50,7
+2015,export,Georgia,GEO,country_or_territory,1289691.595207037,1.289691595207037,million USD,raw/nbu/Trade_y_en.xlsx,2.3,50,8
+2016,export,Georgia,GEO,country_or_territory,2076134.310859818,2.076134310859818,million USD,raw/nbu/Trade_y_en.xlsx,2.3,50,9
+2017,export,Georgia,GEO,country_or_territory,3343227.24063385,3.34322724063385,million USD,raw/nbu/Trade_y_en.xlsx,2.3,50,10
+2018,export,Georgia,GEO,country_or_territory,6231909.487186695,6.231909487186695,million USD,raw/nbu/Trade_y_en.xlsx,2.3,50,11
+2019,export,Georgia,GEO,country_or_territory,7406505.048129531,7.406505048129531,million USD,raw/nbu/Trade_y_en.xlsx,2.3,50,12
+2020,export,Georgia,GEO,country_or_territory,7110611.216222967,7.110611216222967,million USD,raw/nbu/Trade_y_en.xlsx,2.3,50,13
+2021,export,Georgia,GEO,country_or_territory,9157993.44471114,9.15799344471114,million USD,raw/nbu/Trade_y_en.xlsx,2.3,50,14
+2022,export,Georgia,GEO,country_or_territory,9541012.447431764,9.541012447431763,million USD,raw/nbu/Trade_y_en.xlsx,2.3,50,15
+2023,export,Georgia,GEO,country_or_territory,10453016.380088268,10.453016380088268,million USD,raw/nbu/Trade_y_en.xlsx,2.3,50,16
+2024,export,Georgia,GEO,country_or_territory,9803124.349608507,9.803124349608508,million USD,raw/nbu/Trade_y_en.xlsx,2.3,50,17
+2025,export,Georgia,GEO,country_or_territory,6877309.316819711,6.87730931681971,million USD,raw/nbu/Trade_y_en.xlsx,2.3,50,18
+2011,export,russian federation,RUS,country_or_territory,23483148.941176757,23.483148941176758,million USD,raw/nbu/Trade_y_en.xlsx,2.3,51,4
+2012,export,russian federation,RUS,country_or_territory,28192094.970162578,28.19209497016258,million USD,raw/nbu/Trade_y_en.xlsx,2.3,51,5
+2013,export,russian federation,RUS,country_or_territory,44573409.42230853,44.57340942230853,million USD,raw/nbu/Trade_y_en.xlsx,2.3,51,6
+2014,export,russian federation,RUS,country_or_territory,43212599.712486975,43.21259971248698,million USD,raw/nbu/Trade_y_en.xlsx,2.3,51,7
+2015,export,russian federation,RUS,country_or_territory,24474473.744319197,24.474473744319198,million USD,raw/nbu/Trade_y_en.xlsx,2.3,51,8
+2016,export,russian federation,RUS,country_or_territory,24588381.33568931,24.58838133568931,million USD,raw/nbu/Trade_y_en.xlsx,2.3,51,9
+2017,export,russian federation,RUS,country_or_territory,26374868.236033138,26.374868236033137,million USD,raw/nbu/Trade_y_en.xlsx,2.3,51,10
+2018,export,russian federation,RUS,country_or_territory,37480519.422931366,37.480519422931366,million USD,raw/nbu/Trade_y_en.xlsx,2.3,51,11
+2019,export,russian federation,RUS,country_or_territory,44691775.66572366,44.69177566572366,million USD,raw/nbu/Trade_y_en.xlsx,2.3,51,12
+2020,export,russian federation,RUS,country_or_territory,48408888.00223632,48.408888002236324,million USD,raw/nbu/Trade_y_en.xlsx,2.3,51,13
+2021,export,russian federation,RUS,country_or_territory,50662128.60496871,50.662128604968714,million USD,raw/nbu/Trade_y_en.xlsx,2.3,51,14
+2022,export,russian federation,RUS,country_or_territory,7705095.184876332,7.705095184876332,million USD,raw/nbu/Trade_y_en.xlsx,2.3,51,15
+2023,export,russian federation,RUS,country_or_territory,22492.1132091467,0.0224921132091467,million USD,raw/nbu/Trade_y_en.xlsx,2.3,51,16
+2024,export,russian federation,RUS,country_or_territory,0,0,million USD,raw/nbu/Trade_y_en.xlsx,2.3,51,17
+2025,export,russian federation,RUS,country_or_territory,0,0,million USD,raw/nbu/Trade_y_en.xlsx,2.3,51,18
+2011,export,Other countries,,aggregate_or_unmapped,55770590.83783981,55.77059083783981,million USD,raw/nbu/Trade_y_en.xlsx,2.3,52,4
+2012,export,Other countries,,aggregate_or_unmapped,94407234.45800793,94.40723445800793,million USD,raw/nbu/Trade_y_en.xlsx,2.3,52,5
+2013,export,Other countries,,aggregate_or_unmapped,140599050.03518942,140.5990500351894,million USD,raw/nbu/Trade_y_en.xlsx,2.3,52,6
+2014,export,Other countries,,aggregate_or_unmapped,181904616.34245473,181.90461634245474,million USD,raw/nbu/Trade_y_en.xlsx,2.3,52,7
+2015,export,Other countries,,aggregate_or_unmapped,166050036.29175028,166.05003629175027,million USD,raw/nbu/Trade_y_en.xlsx,2.3,52,8
+2016,export,Other countries,,aggregate_or_unmapped,182047840.93601558,182.04784093601558,million USD,raw/nbu/Trade_y_en.xlsx,2.3,52,9
+2017,export,Other countries,,aggregate_or_unmapped,227229223.34773374,227.22922334773375,million USD,raw/nbu/Trade_y_en.xlsx,2.3,52,10
+2018,export,Other countries,,aggregate_or_unmapped,157881051.816811,157.881051816811,million USD,raw/nbu/Trade_y_en.xlsx,2.3,52,11
+2019,export,Other countries,,aggregate_or_unmapped,142387230.68498832,142.3872306849883,million USD,raw/nbu/Trade_y_en.xlsx,2.3,52,12
+2020,export,Other countries,,aggregate_or_unmapped,131935775.40174317,131.93577540174317,million USD,raw/nbu/Trade_y_en.xlsx,2.3,52,13
+2021,export,Other countries,,aggregate_or_unmapped,133015333.80297337,133.01533380297337,million USD,raw/nbu/Trade_y_en.xlsx,2.3,52,14
+2022,export,Other countries,,aggregate_or_unmapped,118951408.4095859,118.9514084095859,million USD,raw/nbu/Trade_y_en.xlsx,2.3,52,15
+2023,export,Other countries,,aggregate_or_unmapped,96781424.83823623,96.78142483823623,million USD,raw/nbu/Trade_y_en.xlsx,2.3,52,16
+2024,export,Other countries,,aggregate_or_unmapped,100496040.20794581,100.49604020794581,million USD,raw/nbu/Trade_y_en.xlsx,2.3,52,17
+2025,export,Other countries,,aggregate_or_unmapped,104920414.8911128,104.9204148911128,million USD,raw/nbu/Trade_y_en.xlsx,2.3,52,18
+2011,import,Computer services,,world_total,255000000,255,million USD,raw/nbu/Trade_y_en.xlsx,2.4,10,4
+2012,import,Computer services,,world_total,334000000,334,million USD,raw/nbu/Trade_y_en.xlsx,2.4,10,5
+2013,import,Computer services,,world_total,398000000,398,million USD,raw/nbu/Trade_y_en.xlsx,2.4,10,6
+2014,import,Computer services,,world_total,337000000,337,million USD,raw/nbu/Trade_y_en.xlsx,2.4,10,7
+2015,import,Computer services,,world_total,327000000,327,million USD,raw/nbu/Trade_y_en.xlsx,2.4,10,8
+2016,import,Computer services,,world_total,323000000,323,million USD,raw/nbu/Trade_y_en.xlsx,2.4,10,9
+2017,import,Computer services,,world_total,354000000,354,million USD,raw/nbu/Trade_y_en.xlsx,2.4,10,10
+2018,import,Computer services,,world_total,480000000,480,million USD,raw/nbu/Trade_y_en.xlsx,2.4,10,11
+2019,import,Computer services,,world_total,579000000,579,million USD,raw/nbu/Trade_y_en.xlsx,2.4,10,12
+2020,import,Computer services,,world_total,640000000,640,million USD,raw/nbu/Trade_y_en.xlsx,2.4,10,13
+2021,import,Computer services,,world_total,795000000,795,million USD,raw/nbu/Trade_y_en.xlsx,2.4,10,14
+2022,import,Computer services,,world_total,799000000,799,million USD,raw/nbu/Trade_y_en.xlsx,2.4,10,15
+2023,import,Computer services,,world_total,1142000000,1142,million USD,raw/nbu/Trade_y_en.xlsx,2.4,10,16
+2024,import,Computer services,,world_total,1496000000,1496,million USD,raw/nbu/Trade_y_en.xlsx,2.4,10,17
+2025,import,Computer services,,world_total,1718000000,1718,million USD,raw/nbu/Trade_y_en.xlsx,2.4,10,18
+2011,import,Ireland,IRL,country_or_territory,7909279.38652132,7.90927938652132,million USD,raw/nbu/Trade_y_en.xlsx,2.4,12,4
+2012,import,Ireland,IRL,country_or_territory,12383347.403754586,12.383347403754586,million USD,raw/nbu/Trade_y_en.xlsx,2.4,12,5
+2013,import,Ireland,IRL,country_or_territory,17002912.267032865,17.002912267032865,million USD,raw/nbu/Trade_y_en.xlsx,2.4,12,6
+2014,import,Ireland,IRL,country_or_territory,12744411.868786888,12.744411868786889,million USD,raw/nbu/Trade_y_en.xlsx,2.4,12,7
+2015,import,Ireland,IRL,country_or_territory,14026437.207728917,14.026437207728916,million USD,raw/nbu/Trade_y_en.xlsx,2.4,12,8
+2016,import,Ireland,IRL,country_or_territory,26849247.79247399,26.84924779247399,million USD,raw/nbu/Trade_y_en.xlsx,2.4,12,9
+2017,import,Ireland,IRL,country_or_territory,33164145.605508707,33.16414560550871,million USD,raw/nbu/Trade_y_en.xlsx,2.4,12,10
+2018,import,Ireland,IRL,country_or_territory,53493528.44322889,53.4935284432289,million USD,raw/nbu/Trade_y_en.xlsx,2.4,12,11
+2019,import,Ireland,IRL,country_or_territory,72811956.6200265,72.81195662002649,million USD,raw/nbu/Trade_y_en.xlsx,2.4,12,12
+2020,import,Ireland,IRL,country_or_territory,89908839.6029208,89.9088396029208,million USD,raw/nbu/Trade_y_en.xlsx,2.4,12,13
+2021,import,Ireland,IRL,country_or_territory,110549139.67906664,110.54913967906664,million USD,raw/nbu/Trade_y_en.xlsx,2.4,12,14
+2022,import,Ireland,IRL,country_or_territory,196438205.95387062,196.43820595387064,million USD,raw/nbu/Trade_y_en.xlsx,2.4,12,15
+2023,import,Ireland,IRL,country_or_territory,254140738.62826234,254.14073862826234,million USD,raw/nbu/Trade_y_en.xlsx,2.4,12,16
+2024,import,Ireland,IRL,country_or_territory,346437981.71830314,346.43798171830315,million USD,raw/nbu/Trade_y_en.xlsx,2.4,12,17
+2025,import,Ireland,IRL,country_or_territory,386768637.58229095,386.7686375822909,million USD,raw/nbu/Trade_y_en.xlsx,2.4,12,18
+2011,import,United States of America,USA,country_or_territory,6810473.877181762,6.810473877181762,million USD,raw/nbu/Trade_y_en.xlsx,2.4,13,4
+2012,import,United States of America,USA,country_or_territory,10162295.246082691,10.162295246082692,million USD,raw/nbu/Trade_y_en.xlsx,2.4,13,5
+2013,import,United States of America,USA,country_or_territory,21845243.28752753,21.84524328752753,million USD,raw/nbu/Trade_y_en.xlsx,2.4,13,6
+2014,import,United States of America,USA,country_or_territory,17899867.615130477,17.899867615130475,million USD,raw/nbu/Trade_y_en.xlsx,2.4,13,7
+2015,import,United States of America,USA,country_or_territory,13706459.465435594,13.706459465435595,million USD,raw/nbu/Trade_y_en.xlsx,2.4,13,8
+2016,import,United States of America,USA,country_or_territory,20874118.314353757,20.874118314353755,million USD,raw/nbu/Trade_y_en.xlsx,2.4,13,9
+2017,import,United States of America,USA,country_or_territory,27867049.29769038,27.86704929769038,million USD,raw/nbu/Trade_y_en.xlsx,2.4,13,10
+2018,import,United States of America,USA,country_or_territory,36514078.56852441,36.51407856852441,million USD,raw/nbu/Trade_y_en.xlsx,2.4,13,11
+2019,import,United States of America,USA,country_or_territory,48911139.30896319,48.911139308963186,million USD,raw/nbu/Trade_y_en.xlsx,2.4,13,12
+2020,import,United States of America,USA,country_or_territory,46115102.0366069,46.1151020366069,million USD,raw/nbu/Trade_y_en.xlsx,2.4,13,13
+2021,import,United States of America,USA,country_or_territory,64715339.27790353,64.71533927790352,million USD,raw/nbu/Trade_y_en.xlsx,2.4,13,14
+2022,import,United States of America,USA,country_or_territory,117565494.89844331,117.5654948984433,million USD,raw/nbu/Trade_y_en.xlsx,2.4,13,15
+2023,import,United States of America,USA,country_or_territory,198528094.3764377,198.5280943764377,million USD,raw/nbu/Trade_y_en.xlsx,2.4,13,16
+2024,import,United States of America,USA,country_or_territory,277130623.429186,277.13062342918596,million USD,raw/nbu/Trade_y_en.xlsx,2.4,13,17
+2025,import,United States of America,USA,country_or_territory,327471636.4492373,327.4716364492373,million USD,raw/nbu/Trade_y_en.xlsx,2.4,13,18
+2011,import,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,16924179.13576967,16.92417913576967,million USD,raw/nbu/Trade_y_en.xlsx,2.4,14,4
+2012,import,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,20036046.222344227,20.036046222344225,million USD,raw/nbu/Trade_y_en.xlsx,2.4,14,5
+2013,import,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,28456996.259872295,28.456996259872295,million USD,raw/nbu/Trade_y_en.xlsx,2.4,14,6
+2014,import,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,28906004.51470149,28.90600451470149,million USD,raw/nbu/Trade_y_en.xlsx,2.4,14,7
+2015,import,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,46733489.86248221,46.733489862482216,million USD,raw/nbu/Trade_y_en.xlsx,2.4,14,8
+2016,import,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,33112767.374127857,33.112767374127856,million USD,raw/nbu/Trade_y_en.xlsx,2.4,14,9
+2017,import,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,31727891.861463036,31.727891861463036,million USD,raw/nbu/Trade_y_en.xlsx,2.4,14,10
+2018,import,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,38651575.07499003,38.65157507499003,million USD,raw/nbu/Trade_y_en.xlsx,2.4,14,11
+2019,import,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,49430027.51838315,49.430027518383156,million USD,raw/nbu/Trade_y_en.xlsx,2.4,14,12
+2020,import,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,56094900.9479469,56.0949009479469,million USD,raw/nbu/Trade_y_en.xlsx,2.4,14,13
+2021,import,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,54721115.89049389,54.72111589049389,million USD,raw/nbu/Trade_y_en.xlsx,2.4,14,14
+2022,import,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,66784411.75497323,66.78441175497323,million USD,raw/nbu/Trade_y_en.xlsx,2.4,14,15
+2023,import,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,100497908.36016503,100.49790836016503,million USD,raw/nbu/Trade_y_en.xlsx,2.4,14,16
+2024,import,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,127793262.44143593,127.79326244143593,million USD,raw/nbu/Trade_y_en.xlsx,2.4,14,17
+2025,import,United Kingdom of Great Britain and Northern Ireland,GBR,country_or_territory,137333297.63225052,137.33329763225052,million USD,raw/nbu/Trade_y_en.xlsx,2.4,14,18
+2011,import,Germany,DEU,country_or_territory,37746135.52322055,37.746135523220545,million USD,raw/nbu/Trade_y_en.xlsx,2.4,15,4
+2012,import,Germany,DEU,country_or_territory,56183488.69507368,56.18348869507368,million USD,raw/nbu/Trade_y_en.xlsx,2.4,15,5
+2013,import,Germany,DEU,country_or_territory,44119426.70079618,44.11942670079618,million USD,raw/nbu/Trade_y_en.xlsx,2.4,15,6
+2014,import,Germany,DEU,country_or_territory,34541773.97904876,34.541773979048756,million USD,raw/nbu/Trade_y_en.xlsx,2.4,15,7
+2015,import,Germany,DEU,country_or_territory,24087074.45521655,24.08707445521655,million USD,raw/nbu/Trade_y_en.xlsx,2.4,15,8
+2016,import,Germany,DEU,country_or_territory,25686672.14995468,25.68667214995468,million USD,raw/nbu/Trade_y_en.xlsx,2.4,15,9
+2017,import,Germany,DEU,country_or_territory,38673004.99864774,38.67300499864774,million USD,raw/nbu/Trade_y_en.xlsx,2.4,15,10
+2018,import,Germany,DEU,country_or_territory,38392009.56147966,38.39200956147966,million USD,raw/nbu/Trade_y_en.xlsx,2.4,15,11
+2019,import,Germany,DEU,country_or_territory,54773269.16425615,54.77326916425615,million USD,raw/nbu/Trade_y_en.xlsx,2.4,15,12
+2020,import,Germany,DEU,country_or_territory,71187788.25301659,71.18778825301659,million USD,raw/nbu/Trade_y_en.xlsx,2.4,15,13
+2021,import,Germany,DEU,country_or_territory,82582373.84556489,82.58237384556489,million USD,raw/nbu/Trade_y_en.xlsx,2.4,15,14
+2022,import,Germany,DEU,country_or_territory,51712739.901149586,51.71273990114958,million USD,raw/nbu/Trade_y_en.xlsx,2.4,15,15
+2023,import,Germany,DEU,country_or_territory,74527459.85157567,74.52745985157567,million USD,raw/nbu/Trade_y_en.xlsx,2.4,15,16
+2024,import,Germany,DEU,country_or_territory,99829886.56951556,99.82988656951555,million USD,raw/nbu/Trade_y_en.xlsx,2.4,15,17
+2025,import,Germany,DEU,country_or_territory,100308139.81532973,100.30813981532972,million USD,raw/nbu/Trade_y_en.xlsx,2.4,15,18
+2011,import,Austria,AUT,country_or_territory,45831089.43898584,45.83108943898584,million USD,raw/nbu/Trade_y_en.xlsx,2.4,16,4
+2012,import,Austria,AUT,country_or_territory,32745159.189423062,32.74515918942306,million USD,raw/nbu/Trade_y_en.xlsx,2.4,16,5
+2013,import,Austria,AUT,country_or_territory,33578966.66059587,33.578966660595874,million USD,raw/nbu/Trade_y_en.xlsx,2.4,16,6
+2014,import,Austria,AUT,country_or_territory,27844789.324078385,27.844789324078384,million USD,raw/nbu/Trade_y_en.xlsx,2.4,16,7
+2015,import,Austria,AUT,country_or_territory,24712613.349101935,24.712613349101936,million USD,raw/nbu/Trade_y_en.xlsx,2.4,16,8
+2016,import,Austria,AUT,country_or_territory,25799666.693581846,25.799666693581845,million USD,raw/nbu/Trade_y_en.xlsx,2.4,16,9
+2017,import,Austria,AUT,country_or_territory,24451435.184385236,24.451435184385236,million USD,raw/nbu/Trade_y_en.xlsx,2.4,16,10
+2018,import,Austria,AUT,country_or_territory,44871662.94743025,44.87166294743025,million USD,raw/nbu/Trade_y_en.xlsx,2.4,16,11
+2019,import,Austria,AUT,country_or_territory,35276281.1963301,35.2762811963301,million USD,raw/nbu/Trade_y_en.xlsx,2.4,16,12
+2020,import,Austria,AUT,country_or_territory,41503847.99474001,41.503847994740006,million USD,raw/nbu/Trade_y_en.xlsx,2.4,16,13
+2021,import,Austria,AUT,country_or_territory,49268904.277850054,49.268904277850055,million USD,raw/nbu/Trade_y_en.xlsx,2.4,16,14
+2022,import,Austria,AUT,country_or_territory,50848633.90063083,50.84863390063083,million USD,raw/nbu/Trade_y_en.xlsx,2.4,16,15
+2023,import,Austria,AUT,country_or_territory,68720217.58520362,68.72021758520361,million USD,raw/nbu/Trade_y_en.xlsx,2.4,16,16
+2024,import,Austria,AUT,country_or_territory,72973676.5272783,72.9736765272783,million USD,raw/nbu/Trade_y_en.xlsx,2.4,16,17
+2025,import,Austria,AUT,country_or_territory,77614835.95730925,77.61483595730924,million USD,raw/nbu/Trade_y_en.xlsx,2.4,16,18
+2011,import,Netherlands,NLD,country_or_territory,14660356.926756248,14.660356926756249,million USD,raw/nbu/Trade_y_en.xlsx,2.4,17,4
+2012,import,Netherlands,NLD,country_or_territory,11246488.025748882,11.246488025748883,million USD,raw/nbu/Trade_y_en.xlsx,2.4,17,5
+2013,import,Netherlands,NLD,country_or_territory,11434304.858812453,11.434304858812453,million USD,raw/nbu/Trade_y_en.xlsx,2.4,17,6
+2014,import,Netherlands,NLD,country_or_territory,10942779.600716833,10.942779600716833,million USD,raw/nbu/Trade_y_en.xlsx,2.4,17,7
+2015,import,Netherlands,NLD,country_or_territory,13383603.021322265,13.383603021322266,million USD,raw/nbu/Trade_y_en.xlsx,2.4,17,8
+2016,import,Netherlands,NLD,country_or_territory,15630106.767233044,15.630106767233045,million USD,raw/nbu/Trade_y_en.xlsx,2.4,17,9
+2017,import,Netherlands,NLD,country_or_territory,25076668.553231962,25.07666855323196,million USD,raw/nbu/Trade_y_en.xlsx,2.4,17,10
+2018,import,Netherlands,NLD,country_or_territory,31971221.026814952,31.971221026814952,million USD,raw/nbu/Trade_y_en.xlsx,2.4,17,11
+2019,import,Netherlands,NLD,country_or_territory,36440639.894131735,36.440639894131735,million USD,raw/nbu/Trade_y_en.xlsx,2.4,17,12
+2020,import,Netherlands,NLD,country_or_territory,33024473.144464288,33.02447314446429,million USD,raw/nbu/Trade_y_en.xlsx,2.4,17,13
+2021,import,Netherlands,NLD,country_or_territory,36986830.038318925,36.98683003831893,million USD,raw/nbu/Trade_y_en.xlsx,2.4,17,14
+2022,import,Netherlands,NLD,country_or_territory,26381536.740715068,26.381536740715067,million USD,raw/nbu/Trade_y_en.xlsx,2.4,17,15
+2023,import,Netherlands,NLD,country_or_territory,56369770.29987852,56.369770299878525,million USD,raw/nbu/Trade_y_en.xlsx,2.4,17,16
+2024,import,Netherlands,NLD,country_or_territory,68510523.10317124,68.51052310317124,million USD,raw/nbu/Trade_y_en.xlsx,2.4,17,17
+2025,import,Netherlands,NLD,country_or_territory,74222839.84256756,74.22283984256757,million USD,raw/nbu/Trade_y_en.xlsx,2.4,17,18
+2011,import,Switzerland,CHE,country_or_territory,6468839.471537699,6.468839471537699,million USD,raw/nbu/Trade_y_en.xlsx,2.4,18,4
+2012,import,Switzerland,CHE,country_or_territory,7865861.892736005,7.865861892736005,million USD,raw/nbu/Trade_y_en.xlsx,2.4,18,5
+2013,import,Switzerland,CHE,country_or_territory,11462598.607119089,11.462598607119089,million USD,raw/nbu/Trade_y_en.xlsx,2.4,18,6
+2014,import,Switzerland,CHE,country_or_territory,33092879.595872786,33.09287959587279,million USD,raw/nbu/Trade_y_en.xlsx,2.4,18,7
+2015,import,Switzerland,CHE,country_or_territory,34955523.85221345,34.95552385221345,million USD,raw/nbu/Trade_y_en.xlsx,2.4,18,8
+2016,import,Switzerland,CHE,country_or_territory,26795383.324701,26.795383324701,million USD,raw/nbu/Trade_y_en.xlsx,2.4,18,9
+2017,import,Switzerland,CHE,country_or_territory,20518864.26923122,20.51886426923122,million USD,raw/nbu/Trade_y_en.xlsx,2.4,18,10
+2018,import,Switzerland,CHE,country_or_territory,29116763.0954263,29.1167630954263,million USD,raw/nbu/Trade_y_en.xlsx,2.4,18,11
+2019,import,Switzerland,CHE,country_or_territory,21390406.58535145,21.39040658535145,million USD,raw/nbu/Trade_y_en.xlsx,2.4,18,12
+2020,import,Switzerland,CHE,country_or_territory,23987070.311301943,23.98707031130194,million USD,raw/nbu/Trade_y_en.xlsx,2.4,18,13
+2021,import,Switzerland,CHE,country_or_territory,35205155.865346245,35.20515586534624,million USD,raw/nbu/Trade_y_en.xlsx,2.4,18,14
+2022,import,Switzerland,CHE,country_or_territory,13119083.87131733,13.119083871317331,million USD,raw/nbu/Trade_y_en.xlsx,2.4,18,15
+2023,import,Switzerland,CHE,country_or_territory,39484378.19061878,39.484378190618784,million USD,raw/nbu/Trade_y_en.xlsx,2.4,18,16
+2024,import,Switzerland,CHE,country_or_territory,62725003.60984537,62.72500360984537,million USD,raw/nbu/Trade_y_en.xlsx,2.4,18,17
+2025,import,Switzerland,CHE,country_or_territory,72532790.07343702,72.53279007343701,million USD,raw/nbu/Trade_y_en.xlsx,2.4,18,18
+2011,import,Poland,POL,country_or_territory,3939907.585608111,3.939907585608111,million USD,raw/nbu/Trade_y_en.xlsx,2.4,19,4
+2012,import,Poland,POL,country_or_territory,3915221.835722634,3.915221835722634,million USD,raw/nbu/Trade_y_en.xlsx,2.4,19,5
+2013,import,Poland,POL,country_or_territory,5202665.439996331,5.202665439996331,million USD,raw/nbu/Trade_y_en.xlsx,2.4,19,6
+2014,import,Poland,POL,country_or_territory,5159868.086142093,5.159868086142093,million USD,raw/nbu/Trade_y_en.xlsx,2.4,19,7
+2015,import,Poland,POL,country_or_territory,5049502.014856959,5.049502014856959,million USD,raw/nbu/Trade_y_en.xlsx,2.4,19,8
+2016,import,Poland,POL,country_or_territory,8547023.792508718,8.547023792508718,million USD,raw/nbu/Trade_y_en.xlsx,2.4,19,9
+2017,import,Poland,POL,country_or_territory,16170568.323277451,16.17056832327745,million USD,raw/nbu/Trade_y_en.xlsx,2.4,19,10
+2018,import,Poland,POL,country_or_territory,32341809.686838176,32.341809686838175,million USD,raw/nbu/Trade_y_en.xlsx,2.4,19,11
+2019,import,Poland,POL,country_or_territory,42510674.37679941,42.510674376799415,million USD,raw/nbu/Trade_y_en.xlsx,2.4,19,12
+2020,import,Poland,POL,country_or_territory,35419459.85760714,35.419459857607144,million USD,raw/nbu/Trade_y_en.xlsx,2.4,19,13
+2021,import,Poland,POL,country_or_territory,33490635.99201178,33.49063599201178,million USD,raw/nbu/Trade_y_en.xlsx,2.4,19,14
+2022,import,Poland,POL,country_or_territory,31754094.081409726,31.754094081409725,million USD,raw/nbu/Trade_y_en.xlsx,2.4,19,15
+2023,import,Poland,POL,country_or_territory,34964615.38693424,34.96461538693424,million USD,raw/nbu/Trade_y_en.xlsx,2.4,19,16
+2024,import,Poland,POL,country_or_territory,50517228.48429496,50.51722848429496,million USD,raw/nbu/Trade_y_en.xlsx,2.4,19,17
+2025,import,Poland,POL,country_or_territory,67681865.54730856,67.68186554730856,million USD,raw/nbu/Trade_y_en.xlsx,2.4,19,18
+2011,import,Luxembourg,LUX,country_or_territory,1000000,1,million USD,raw/nbu/Trade_y_en.xlsx,2.4,20,4
+2012,import,Luxembourg,LUX,country_or_territory,3000000,3,million USD,raw/nbu/Trade_y_en.xlsx,2.4,20,5
+2013,import,Luxembourg,LUX,country_or_territory,0,0,million USD,raw/nbu/Trade_y_en.xlsx,2.4,20,6
+2014,import,Luxembourg,LUX,country_or_territory,1000000,1,million USD,raw/nbu/Trade_y_en.xlsx,2.4,20,7
+2015,import,Luxembourg,LUX,country_or_territory,1000000,1,million USD,raw/nbu/Trade_y_en.xlsx,2.4,20,8
+2016,import,Luxembourg,LUX,country_or_territory,0,0,million USD,raw/nbu/Trade_y_en.xlsx,2.4,20,9
+2017,import,Luxembourg,LUX,country_or_territory,0,0,million USD,raw/nbu/Trade_y_en.xlsx,2.4,20,10
+2018,import,Luxembourg,LUX,country_or_territory,1000000,1,million USD,raw/nbu/Trade_y_en.xlsx,2.4,20,11
+2019,import,Luxembourg,LUX,country_or_territory,5000000,5,million USD,raw/nbu/Trade_y_en.xlsx,2.4,20,12
+2020,import,Luxembourg,LUX,country_or_territory,5000000,5,million USD,raw/nbu/Trade_y_en.xlsx,2.4,20,13
+2021,import,Luxembourg,LUX,country_or_territory,5000000,5,million USD,raw/nbu/Trade_y_en.xlsx,2.4,20,14
+2022,import,Luxembourg,LUX,country_or_territory,9395186.316020066,9.395186316020066,million USD,raw/nbu/Trade_y_en.xlsx,2.4,20,15
+2023,import,Luxembourg,LUX,country_or_territory,28266675.834785935,28.266675834785936,million USD,raw/nbu/Trade_y_en.xlsx,2.4,20,16
+2024,import,Luxembourg,LUX,country_or_territory,50794846.050348416,50.79484605034842,million USD,raw/nbu/Trade_y_en.xlsx,2.4,20,17
+2025,import,Luxembourg,LUX,country_or_territory,60517685.55670098,60.51768555670098,million USD,raw/nbu/Trade_y_en.xlsx,2.4,20,18
+2011,import,Cyprus,CYP,country_or_territory,16434262.406985685,16.434262406985685,million USD,raw/nbu/Trade_y_en.xlsx,2.4,21,4
+2012,import,Cyprus,CYP,country_or_territory,11205357.302284295,11.205357302284295,million USD,raw/nbu/Trade_y_en.xlsx,2.4,21,5
+2013,import,Cyprus,CYP,country_or_territory,32390985.785408773,32.39098578540877,million USD,raw/nbu/Trade_y_en.xlsx,2.4,21,6
+2014,import,Cyprus,CYP,country_or_territory,31616773.559043415,31.616773559043416,million USD,raw/nbu/Trade_y_en.xlsx,2.4,21,7
+2015,import,Cyprus,CYP,country_or_territory,20877050.947938696,20.877050947938695,million USD,raw/nbu/Trade_y_en.xlsx,2.4,21,8
+2016,import,Cyprus,CYP,country_or_territory,22244294.262282033,22.244294262282033,million USD,raw/nbu/Trade_y_en.xlsx,2.4,21,9
+2017,import,Cyprus,CYP,country_or_territory,16822375.297188163,16.822375297188163,million USD,raw/nbu/Trade_y_en.xlsx,2.4,21,10
+2018,import,Cyprus,CYP,country_or_territory,14694682.932819972,14.694682932819973,million USD,raw/nbu/Trade_y_en.xlsx,2.4,21,11
+2019,import,Cyprus,CYP,country_or_territory,15503856.545036232,15.503856545036232,million USD,raw/nbu/Trade_y_en.xlsx,2.4,21,12
+2020,import,Cyprus,CYP,country_or_territory,14437403.625036137,14.437403625036136,million USD,raw/nbu/Trade_y_en.xlsx,2.4,21,13
+2021,import,Cyprus,CYP,country_or_territory,12861275.42183604,12.86127542183604,million USD,raw/nbu/Trade_y_en.xlsx,2.4,21,14
+2022,import,Cyprus,CYP,country_or_territory,9699324.414288342,9.699324414288341,million USD,raw/nbu/Trade_y_en.xlsx,2.4,21,15
+2023,import,Cyprus,CYP,country_or_territory,23061105.612479076,23.061105612479075,million USD,raw/nbu/Trade_y_en.xlsx,2.4,21,16
+2024,import,Cyprus,CYP,country_or_territory,24510817.285335634,24.510817285335634,million USD,raw/nbu/Trade_y_en.xlsx,2.4,21,17
+2025,import,Cyprus,CYP,country_or_territory,48614229.27252652,48.614229272526515,million USD,raw/nbu/Trade_y_en.xlsx,2.4,21,18
+2011,import,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,0,0,million USD,raw/nbu/Trade_y_en.xlsx,2.4,22,4
+2012,import,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,1000000,1,million USD,raw/nbu/Trade_y_en.xlsx,2.4,22,5
+2013,import,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,1000000,1,million USD,raw/nbu/Trade_y_en.xlsx,2.4,22,6
+2014,import,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,1000000,1,million USD,raw/nbu/Trade_y_en.xlsx,2.4,22,7
+2015,import,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,6000000,6,million USD,raw/nbu/Trade_y_en.xlsx,2.4,22,8
+2016,import,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,0,0,million USD,raw/nbu/Trade_y_en.xlsx,2.4,22,9
+2017,import,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,0,0,million USD,raw/nbu/Trade_y_en.xlsx,2.4,22,10
+2018,import,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,0,0,million USD,raw/nbu/Trade_y_en.xlsx,2.4,22,11
+2019,import,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,2000000,2,million USD,raw/nbu/Trade_y_en.xlsx,2.4,22,12
+2020,import,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,2000000,2,million USD,raw/nbu/Trade_y_en.xlsx,2.4,22,13
+2021,import,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,4000000,4,million USD,raw/nbu/Trade_y_en.xlsx,2.4,22,14
+2022,import,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,4505433.920407154,4.505433920407154,million USD,raw/nbu/Trade_y_en.xlsx,2.4,22,15
+2023,import,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,5177377.608566016,5.177377608566016,million USD,raw/nbu/Trade_y_en.xlsx,2.4,22,16
+2024,import,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,29947666.29150941,29.947666291509407,million USD,raw/nbu/Trade_y_en.xlsx,2.4,22,17
+2025,import,"China, Hong Kong Special Administrative Region",,aggregate_or_unmapped,43759800.27582519,43.759800275825185,million USD,raw/nbu/Trade_y_en.xlsx,2.4,22,18
+2011,import,China,CHN,country_or_territory,33943.7862248077,0.0339437862248077,million USD,raw/nbu/Trade_y_en.xlsx,2.4,23,4
+2012,import,China,CHN,country_or_territory,74345.32255452333,0.07434532255452334,million USD,raw/nbu/Trade_y_en.xlsx,2.4,23,5
+2013,import,China,CHN,country_or_territory,1483596.0,1.483596,million USD,raw/nbu/Trade_y_en.xlsx,2.4,23,6
+2014,import,China,CHN,country_or_territory,572791.3465054049,0.5727913465054049,million USD,raw/nbu/Trade_y_en.xlsx,2.4,23,7
+2015,import,China,CHN,country_or_territory,365031.0,0.365031,million USD,raw/nbu/Trade_y_en.xlsx,2.4,23,8
+2016,import,China,CHN,country_or_territory,496395.7466966229,0.4963957466966229,million USD,raw/nbu/Trade_y_en.xlsx,2.4,23,9
+2017,import,China,CHN,country_or_territory,4641406.549999999,4.641406549999999,million USD,raw/nbu/Trade_y_en.xlsx,2.4,23,10
+2018,import,China,CHN,country_or_territory,14931158.881240498,14.931158881240497,million USD,raw/nbu/Trade_y_en.xlsx,2.4,23,11
+2019,import,China,CHN,country_or_territory,23147424.588253442,23.147424588253443,million USD,raw/nbu/Trade_y_en.xlsx,2.4,23,12
+2020,import,China,CHN,country_or_territory,24034474.566736404,24.034474566736403,million USD,raw/nbu/Trade_y_en.xlsx,2.4,23,13
+2021,import,China,CHN,country_or_territory,40626543.72890339,40.62654372890339,million USD,raw/nbu/Trade_y_en.xlsx,2.4,23,14
+2022,import,China,CHN,country_or_territory,28770909.50349573,28.77090950349573,million USD,raw/nbu/Trade_y_en.xlsx,2.4,23,15
+2023,import,China,CHN,country_or_territory,27177501.62848109,27.17750162848109,million USD,raw/nbu/Trade_y_en.xlsx,2.4,23,16
+2024,import,China,CHN,country_or_territory,16296017.204414003,16.296017204414003,million USD,raw/nbu/Trade_y_en.xlsx,2.4,23,17
+2025,import,China,CHN,country_or_territory,38915351.87447916,38.91535187447916,million USD,raw/nbu/Trade_y_en.xlsx,2.4,23,18
+2011,import,Estonia,EST,country_or_territory,353867.7376781608,0.35386773767816077,million USD,raw/nbu/Trade_y_en.xlsx,2.4,24,4
+2012,import,Estonia,EST,country_or_territory,287793.16975923826,0.28779316975923824,million USD,raw/nbu/Trade_y_en.xlsx,2.4,24,5
+2013,import,Estonia,EST,country_or_territory,1074508.1437433804,1.0745081437433806,million USD,raw/nbu/Trade_y_en.xlsx,2.4,24,6
+2014,import,Estonia,EST,country_or_territory,1626230.4126228737,1.6262304126228737,million USD,raw/nbu/Trade_y_en.xlsx,2.4,24,7
+2015,import,Estonia,EST,country_or_territory,1326510.7367327136,1.3265107367327136,million USD,raw/nbu/Trade_y_en.xlsx,2.4,24,8
+2016,import,Estonia,EST,country_or_territory,2706073.098688557,2.706073098688557,million USD,raw/nbu/Trade_y_en.xlsx,2.4,24,9
+2017,import,Estonia,EST,country_or_territory,7861883.862035342,7.8618838620353415,million USD,raw/nbu/Trade_y_en.xlsx,2.4,24,10
+2018,import,Estonia,EST,country_or_territory,7917455.954111087,7.917455954111087,million USD,raw/nbu/Trade_y_en.xlsx,2.4,24,11
+2019,import,Estonia,EST,country_or_territory,14030717.340962188,14.030717340962187,million USD,raw/nbu/Trade_y_en.xlsx,2.4,24,12
+2020,import,Estonia,EST,country_or_territory,15929838.071244523,15.929838071244523,million USD,raw/nbu/Trade_y_en.xlsx,2.4,24,13
+2021,import,Estonia,EST,country_or_territory,15825046.9227362,15.825046922736199,million USD,raw/nbu/Trade_y_en.xlsx,2.4,24,14
+2022,import,Estonia,EST,country_or_territory,11777446.027978154,11.777446027978154,million USD,raw/nbu/Trade_y_en.xlsx,2.4,24,15
+2023,import,Estonia,EST,country_or_territory,24353182.786710016,24.353182786710015,million USD,raw/nbu/Trade_y_en.xlsx,2.4,24,16
+2024,import,Estonia,EST,country_or_territory,30599152.613664694,30.599152613664693,million USD,raw/nbu/Trade_y_en.xlsx,2.4,24,17
+2025,import,Estonia,EST,country_or_territory,32293828.13506909,32.29382813506909,million USD,raw/nbu/Trade_y_en.xlsx,2.4,24,18
+2011,import,Czech Republic,CZE,country_or_territory,7834617.267190544,7.834617267190544,million USD,raw/nbu/Trade_y_en.xlsx,2.4,25,4
+2012,import,Czech Republic,CZE,country_or_territory,12727430.552955078,12.727430552955077,million USD,raw/nbu/Trade_y_en.xlsx,2.4,25,5
+2013,import,Czech Republic,CZE,country_or_territory,10408928.677330354,10.408928677330355,million USD,raw/nbu/Trade_y_en.xlsx,2.4,25,6
+2014,import,Czech Republic,CZE,country_or_territory,4653755.341266501,4.653755341266501,million USD,raw/nbu/Trade_y_en.xlsx,2.4,25,7
+2015,import,Czech Republic,CZE,country_or_territory,5830309.824158286,5.830309824158285,million USD,raw/nbu/Trade_y_en.xlsx,2.4,25,8
+2016,import,Czech Republic,CZE,country_or_territory,8238683.015272412,8.238683015272413,million USD,raw/nbu/Trade_y_en.xlsx,2.4,25,9
+2017,import,Czech Republic,CZE,country_or_territory,8524835.602763105,8.524835602763105,million USD,raw/nbu/Trade_y_en.xlsx,2.4,25,10
+2018,import,Czech Republic,CZE,country_or_territory,9936393.822499003,9.936393822499003,million USD,raw/nbu/Trade_y_en.xlsx,2.4,25,11
+2019,import,Czech Republic,CZE,country_or_territory,11276401.458049953,11.276401458049953,million USD,raw/nbu/Trade_y_en.xlsx,2.4,25,12
+2020,import,Czech Republic,CZE,country_or_territory,15605728.606105553,15.605728606105552,million USD,raw/nbu/Trade_y_en.xlsx,2.4,25,13
+2021,import,Czech Republic,CZE,country_or_territory,19839374.789253447,19.839374789253448,million USD,raw/nbu/Trade_y_en.xlsx,2.4,25,14
+2022,import,Czech Republic,CZE,country_or_territory,27446744.331570514,27.446744331570514,million USD,raw/nbu/Trade_y_en.xlsx,2.4,25,15
+2023,import,Czech Republic,CZE,country_or_territory,22103828.548953004,22.103828548953004,million USD,raw/nbu/Trade_y_en.xlsx,2.4,25,16
+2024,import,Czech Republic,CZE,country_or_territory,22871996.302386593,22.87199630238659,million USD,raw/nbu/Trade_y_en.xlsx,2.4,25,17
+2025,import,Czech Republic,CZE,country_or_territory,26929383.711884733,26.929383711884732,million USD,raw/nbu/Trade_y_en.xlsx,2.4,25,18
+2011,import,France,FRA,country_or_territory,6502505.652319375,6.502505652319376,million USD,raw/nbu/Trade_y_en.xlsx,2.4,26,4
+2012,import,France,FRA,country_or_territory,6774272.826722454,6.774272826722454,million USD,raw/nbu/Trade_y_en.xlsx,2.4,26,5
+2013,import,France,FRA,country_or_territory,8369150.595621267,8.369150595621267,million USD,raw/nbu/Trade_y_en.xlsx,2.4,26,6
+2014,import,France,FRA,country_or_territory,12173346.937510284,12.173346937510283,million USD,raw/nbu/Trade_y_en.xlsx,2.4,26,7
+2015,import,France,FRA,country_or_territory,10087597.38633388,10.08759738633388,million USD,raw/nbu/Trade_y_en.xlsx,2.4,26,8
+2016,import,France,FRA,country_or_territory,13746613.91809967,13.74661391809967,million USD,raw/nbu/Trade_y_en.xlsx,2.4,26,9
+2017,import,France,FRA,country_or_territory,10020517.677453907,10.020517677453908,million USD,raw/nbu/Trade_y_en.xlsx,2.4,26,10
+2018,import,France,FRA,country_or_territory,15752114.738461351,15.752114738461351,million USD,raw/nbu/Trade_y_en.xlsx,2.4,26,11
+2019,import,France,FRA,country_or_territory,16305681.46422175,16.30568146422175,million USD,raw/nbu/Trade_y_en.xlsx,2.4,26,12
+2020,import,France,FRA,country_or_territory,20950485.94138103,20.95048594138103,million USD,raw/nbu/Trade_y_en.xlsx,2.4,26,13
+2021,import,France,FRA,country_or_territory,23511832.4721409,23.511832472140902,million USD,raw/nbu/Trade_y_en.xlsx,2.4,26,14
+2022,import,France,FRA,country_or_territory,8144774.048598309,8.14477404859831,million USD,raw/nbu/Trade_y_en.xlsx,2.4,26,15
+2023,import,France,FRA,country_or_territory,11954659.294405768,11.954659294405767,million USD,raw/nbu/Trade_y_en.xlsx,2.4,26,16
+2024,import,France,FRA,country_or_territory,20855186.889159746,20.855186889159746,million USD,raw/nbu/Trade_y_en.xlsx,2.4,26,17
+2025,import,France,FRA,country_or_territory,22311783.039038956,22.311783039038957,million USD,raw/nbu/Trade_y_en.xlsx,2.4,26,18
+2011,import,Latvia,LVA,country_or_territory,1446674.7926535248,1.4466747926535248,million USD,raw/nbu/Trade_y_en.xlsx,2.4,27,4
+2012,import,Latvia,LVA,country_or_territory,2724113.960013688,2.724113960013688,million USD,raw/nbu/Trade_y_en.xlsx,2.4,27,5
+2013,import,Latvia,LVA,country_or_territory,7418154.211085334,7.4181542110853345,million USD,raw/nbu/Trade_y_en.xlsx,2.4,27,6
+2014,import,Latvia,LVA,country_or_territory,3003874.503176656,3.003874503176656,million USD,raw/nbu/Trade_y_en.xlsx,2.4,27,7
+2015,import,Latvia,LVA,country_or_territory,4425591.774481214,4.425591774481214,million USD,raw/nbu/Trade_y_en.xlsx,2.4,27,8
+2016,import,Latvia,LVA,country_or_territory,3759130.3883951325,3.7591303883951324,million USD,raw/nbu/Trade_y_en.xlsx,2.4,27,9
+2017,import,Latvia,LVA,country_or_territory,4758484.941980143,4.758484941980143,million USD,raw/nbu/Trade_y_en.xlsx,2.4,27,10
+2018,import,Latvia,LVA,country_or_territory,4728078.383749596,4.728078383749596,million USD,raw/nbu/Trade_y_en.xlsx,2.4,27,11
+2019,import,Latvia,LVA,country_or_territory,6122100.37123513,6.12210037123513,million USD,raw/nbu/Trade_y_en.xlsx,2.4,27,12
+2020,import,Latvia,LVA,country_or_territory,9692887.507758275,9.692887507758275,million USD,raw/nbu/Trade_y_en.xlsx,2.4,27,13
+2021,import,Latvia,LVA,country_or_territory,12837610.897071144,12.837610897071144,million USD,raw/nbu/Trade_y_en.xlsx,2.4,27,14
+2022,import,Latvia,LVA,country_or_territory,11480088.189791685,11.480088189791685,million USD,raw/nbu/Trade_y_en.xlsx,2.4,27,15
+2023,import,Latvia,LVA,country_or_territory,10233195.61687148,10.23319561687148,million USD,raw/nbu/Trade_y_en.xlsx,2.4,27,16
+2024,import,Latvia,LVA,country_or_territory,11769525.910602702,11.769525910602702,million USD,raw/nbu/Trade_y_en.xlsx,2.4,27,17
+2025,import,Latvia,LVA,country_or_territory,21924271.52640262,21.92427152640262,million USD,raw/nbu/Trade_y_en.xlsx,2.4,27,18
+2011,import,Canada,CAN,country_or_territory,0,0,million USD,raw/nbu/Trade_y_en.xlsx,2.4,28,4
+2012,import,Canada,CAN,country_or_territory,0,0,million USD,raw/nbu/Trade_y_en.xlsx,2.4,28,5
+2013,import,Canada,CAN,country_or_territory,0,0,million USD,raw/nbu/Trade_y_en.xlsx,2.4,28,6
+2014,import,Canada,CAN,country_or_territory,0,0,million USD,raw/nbu/Trade_y_en.xlsx,2.4,28,7
+2015,import,Canada,CAN,country_or_territory,1000000,1,million USD,raw/nbu/Trade_y_en.xlsx,2.4,28,8
+2016,import,Canada,CAN,country_or_territory,1000000,1,million USD,raw/nbu/Trade_y_en.xlsx,2.4,28,9
+2017,import,Canada,CAN,country_or_territory,1000000,1,million USD,raw/nbu/Trade_y_en.xlsx,2.4,28,10
+2018,import,Canada,CAN,country_or_territory,2000000,2,million USD,raw/nbu/Trade_y_en.xlsx,2.4,28,11
+2019,import,Canada,CAN,country_or_territory,2000000,2,million USD,raw/nbu/Trade_y_en.xlsx,2.4,28,12
+2020,import,Canada,CAN,country_or_territory,1000000,1,million USD,raw/nbu/Trade_y_en.xlsx,2.4,28,13
+2021,import,Canada,CAN,country_or_territory,2000000,2,million USD,raw/nbu/Trade_y_en.xlsx,2.4,28,14
+2022,import,Canada,CAN,country_or_territory,2327328.6185718607,2.327328618571861,million USD,raw/nbu/Trade_y_en.xlsx,2.4,28,15
+2023,import,Canada,CAN,country_or_territory,7577087.339616794,7.577087339616794,million USD,raw/nbu/Trade_y_en.xlsx,2.4,28,16
+2024,import,Canada,CAN,country_or_territory,14085432.857236376,14.085432857236377,million USD,raw/nbu/Trade_y_en.xlsx,2.4,28,17
+2025,import,Canada,CAN,country_or_territory,20754756.06857809,20.75475606857809,million USD,raw/nbu/Trade_y_en.xlsx,2.4,28,18
+2011,import,Lithuania,LTU,country_or_territory,467609.8675272065,0.46760986752720646,million USD,raw/nbu/Trade_y_en.xlsx,2.4,29,4
+2012,import,Lithuania,LTU,country_or_territory,1414177.7663144032,1.414177766314403,million USD,raw/nbu/Trade_y_en.xlsx,2.4,29,5
+2013,import,Lithuania,LTU,country_or_territory,2073317.5901058195,2.0733175901058196,million USD,raw/nbu/Trade_y_en.xlsx,2.4,29,6
+2014,import,Lithuania,LTU,country_or_territory,1552123.681487398,1.552123681487398,million USD,raw/nbu/Trade_y_en.xlsx,2.4,29,7
+2015,import,Lithuania,LTU,country_or_territory,1330565.3891398616,1.3305653891398617,million USD,raw/nbu/Trade_y_en.xlsx,2.4,29,8
+2016,import,Lithuania,LTU,country_or_territory,1266656.804799772,1.2666568047997722,million USD,raw/nbu/Trade_y_en.xlsx,2.4,29,9
+2017,import,Lithuania,LTU,country_or_territory,1182739.0010484993,1.1827390010484993,million USD,raw/nbu/Trade_y_en.xlsx,2.4,29,10
+2018,import,Lithuania,LTU,country_or_territory,1407809.2059338111,1.4078092059338112,million USD,raw/nbu/Trade_y_en.xlsx,2.4,29,11
+2019,import,Lithuania,LTU,country_or_territory,5695247.693286748,5.695247693286747,million USD,raw/nbu/Trade_y_en.xlsx,2.4,29,12
+2020,import,Lithuania,LTU,country_or_territory,3771928.979333269,3.771928979333269,million USD,raw/nbu/Trade_y_en.xlsx,2.4,29,13
+2021,import,Lithuania,LTU,country_or_territory,8391269.331455832,8.391269331455833,million USD,raw/nbu/Trade_y_en.xlsx,2.4,29,14
+2022,import,Lithuania,LTU,country_or_territory,5302693.889348074,5.302693889348074,million USD,raw/nbu/Trade_y_en.xlsx,2.4,29,15
+2023,import,Lithuania,LTU,country_or_territory,10851232.447054794,10.851232447054795,million USD,raw/nbu/Trade_y_en.xlsx,2.4,29,16
+2024,import,Lithuania,LTU,country_or_territory,17753786.327087604,17.753786327087603,million USD,raw/nbu/Trade_y_en.xlsx,2.4,29,17
+2025,import,Lithuania,LTU,country_or_territory,15640134.693943797,15.640134693943796,million USD,raw/nbu/Trade_y_en.xlsx,2.4,29,18
+2011,import,Sweden,SWE,country_or_territory,2512581.654222779,2.512581654222779,million USD,raw/nbu/Trade_y_en.xlsx,2.4,30,4
+2012,import,Sweden,SWE,country_or_territory,4732040.321187202,4.732040321187202,million USD,raw/nbu/Trade_y_en.xlsx,2.4,30,5
+2013,import,Sweden,SWE,country_or_territory,7190113.915811284,7.190113915811285,million USD,raw/nbu/Trade_y_en.xlsx,2.4,30,6
+2014,import,Sweden,SWE,country_or_territory,5363111.353859731,5.363111353859731,million USD,raw/nbu/Trade_y_en.xlsx,2.4,30,7
+2015,import,Sweden,SWE,country_or_territory,8956504.387371734,8.956504387371734,million USD,raw/nbu/Trade_y_en.xlsx,2.4,30,8
+2016,import,Sweden,SWE,country_or_territory,8616401.624697026,8.616401624697026,million USD,raw/nbu/Trade_y_en.xlsx,2.4,30,9
+2017,import,Sweden,SWE,country_or_territory,8422133.616696091,8.422133616696092,million USD,raw/nbu/Trade_y_en.xlsx,2.4,30,10
+2018,import,Sweden,SWE,country_or_territory,14500660.126372626,14.500660126372626,million USD,raw/nbu/Trade_y_en.xlsx,2.4,30,11
+2019,import,Sweden,SWE,country_or_territory,14632533.361851446,14.632533361851447,million USD,raw/nbu/Trade_y_en.xlsx,2.4,30,12
+2020,import,Sweden,SWE,country_or_territory,13250716.481888734,13.250716481888734,million USD,raw/nbu/Trade_y_en.xlsx,2.4,30,13
+2021,import,Sweden,SWE,country_or_territory,20284272.823754497,20.284272823754495,million USD,raw/nbu/Trade_y_en.xlsx,2.4,30,14
+2022,import,Sweden,SWE,country_or_territory,21862497.24823083,21.86249724823083,million USD,raw/nbu/Trade_y_en.xlsx,2.4,30,15
+2023,import,Sweden,SWE,country_or_territory,19810747.552751742,19.810747552751742,million USD,raw/nbu/Trade_y_en.xlsx,2.4,30,16
+2024,import,Sweden,SWE,country_or_territory,15104954.403146077,15.104954403146078,million USD,raw/nbu/Trade_y_en.xlsx,2.4,30,17
+2025,import,Sweden,SWE,country_or_territory,16440019.779754912,16.440019779754913,million USD,raw/nbu/Trade_y_en.xlsx,2.4,30,18
+2011,import,Slovakia,SVK,country_or_territory,4346204.135645449,4.346204135645449,million USD,raw/nbu/Trade_y_en.xlsx,2.4,31,4
+2012,import,Slovakia,SVK,country_or_territory,4807969.877650039,4.80796987765004,million USD,raw/nbu/Trade_y_en.xlsx,2.4,31,5
+2013,import,Slovakia,SVK,country_or_territory,2639056.7941258787,2.639056794125879,million USD,raw/nbu/Trade_y_en.xlsx,2.4,31,6
+2014,import,Slovakia,SVK,country_or_territory,3176367.4639202124,3.1763674639202124,million USD,raw/nbu/Trade_y_en.xlsx,2.4,31,7
+2015,import,Slovakia,SVK,country_or_territory,3288883.5237663398,3.28888352376634,million USD,raw/nbu/Trade_y_en.xlsx,2.4,31,8
+2016,import,Slovakia,SVK,country_or_territory,4228574.494640809,4.228574494640808,million USD,raw/nbu/Trade_y_en.xlsx,2.4,31,9
+2017,import,Slovakia,SVK,country_or_territory,7543036.80399747,7.54303680399747,million USD,raw/nbu/Trade_y_en.xlsx,2.4,31,10
+2018,import,Slovakia,SVK,country_or_territory,5748513.908671413,5.748513908671413,million USD,raw/nbu/Trade_y_en.xlsx,2.4,31,11
+2019,import,Slovakia,SVK,country_or_territory,10472627.308382276,10.472627308382277,million USD,raw/nbu/Trade_y_en.xlsx,2.4,31,12
+2020,import,Slovakia,SVK,country_or_territory,10163394.896416673,10.163394896416673,million USD,raw/nbu/Trade_y_en.xlsx,2.4,31,13
+2021,import,Slovakia,SVK,country_or_territory,8593710.69239764,8.59371069239764,million USD,raw/nbu/Trade_y_en.xlsx,2.4,31,14
+2022,import,Slovakia,SVK,country_or_territory,6940069.50803809,6.940069508038089,million USD,raw/nbu/Trade_y_en.xlsx,2.4,31,15
+2023,import,Slovakia,SVK,country_or_territory,9142202.408593286,9.142202408593286,million USD,raw/nbu/Trade_y_en.xlsx,2.4,31,16
+2024,import,Slovakia,SVK,country_or_territory,12681592.743276246,12.681592743276246,million USD,raw/nbu/Trade_y_en.xlsx,2.4,31,17
+2025,import,Slovakia,SVK,country_or_territory,12636436.615337556,12.636436615337557,million USD,raw/nbu/Trade_y_en.xlsx,2.4,31,18
+2011,import,Other countries,,aggregate_or_unmapped,64240373.8670922,64.2403738670922,million USD,raw/nbu/Trade_y_en.xlsx,2.4,32,4
+2012,import,Other countries,,aggregate_or_unmapped,126323853.08398817,126.32385308398817,million USD,raw/nbu/Trade_y_en.xlsx,2.4,32,5
+2013,import,Other countries,,aggregate_or_unmapped,142834324.35256538,142.83432435256537,million USD,raw/nbu/Trade_y_en.xlsx,2.4,32,6
+2014,import,Other countries,,aggregate_or_unmapped,85988375.03967372,85.98837503967371,million USD,raw/nbu/Trade_y_en.xlsx,2.4,32,7
+2015,import,Other countries,,aggregate_or_unmapped,83553329.28406645,83.55332928406645,million USD,raw/nbu/Trade_y_en.xlsx,2.4,32,8
+2016,import,Other countries,,aggregate_or_unmapped,61925317.767377004,61.925317767377,million USD,raw/nbu/Trade_y_en.xlsx,2.4,32,9
+2017,import,Other countries,,aggregate_or_unmapped,53519476.84531887,53.51947684531887,million USD,raw/nbu/Trade_y_en.xlsx,2.4,32,10
+2018,import,Other countries,,aggregate_or_unmapped,66285480.30178379,66.28548030178379,million USD,raw/nbu/Trade_y_en.xlsx,2.4,32,11
+2019,import,Other countries,,aggregate_or_unmapped,70462376.15031531,70.46237615031531,million USD,raw/nbu/Trade_y_en.xlsx,2.4,32,12
+2020,import,Other countries,,aggregate_or_unmapped,79770427.87239474,79.77042787239473,million USD,raw/nbu/Trade_y_en.xlsx,2.4,32,13
+2021,import,Other countries,,aggregate_or_unmapped,118276114.5547245,118.2761145547245,million USD,raw/nbu/Trade_y_en.xlsx,2.4,32,14
+2022,import,Other countries,,aggregate_or_unmapped,96518666.81785166,96.51866681785167,million USD,raw/nbu/Trade_y_en.xlsx,2.4,32,15
+2023,import,Other countries,,aggregate_or_unmapped,115058020.64165509,115.05802064165509,million USD,raw/nbu/Trade_y_en.xlsx,2.4,32,16
+2024,import,Other countries,,aggregate_or_unmapped,122810839.238802,122.810839238802,million USD,raw/nbu/Trade_y_en.xlsx,2.4,32,17
+2025,import,Other countries,,aggregate_or_unmapped,113775311.87466969,113.77531187466968,million USD,raw/nbu/Trade_y_en.xlsx,2.4,32,18

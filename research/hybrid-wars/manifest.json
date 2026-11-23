@@ -1,0 +1,47 @@
+{
+  "retrieved_on": "2026-11-15",
+  "paper_doi": "10.1080/10242694.2020.1791616",
+  "paper_url": "https://edoc.hu-berlin.de/server/api/core/bitstreams/dff77e75-ef58-481b-aaf0-6ab546798e15/content",
+  "replication_doi": "10.17632/9bwk589xz6.1",
+  "replication_landing": "https://data.mendeley.com/datasets/9bwk589xz6/1",
+  "replication_download": "https://data.mendeley.com/public-api/zip/9bwk589xz6/download/1",
+  "replication_license": "CC BY 4.0",
+  "status": "Materials downloaded and inspected; no estimation code has been executed.",
+  "files": [
+    {
+      "file": "original/Bluszcz_Valente_auxiliary_fx.R",
+      "bytes": 7702,
+      "sha256": "d8c23339647cbf81cad1c0a6d9c4f2f4ec2e066a163a7eaac18c9d896d008553"
+    },
+    {
+      "file": "original/Bluszcz_Valente_repcode.R",
+      "bytes": 40994,
+      "sha256": "8ced4eac2ebd97bd924d30d81b75bf04d76c4182273da7a9a7445ebbb1e35f00"
+    },
+    {
+      "file": "original/Bluszcz_Valente_repdata_countries.csv",
+      "bytes": 35785,
+      "sha256": "7155664685bd3d6261fe45c5bb81f26f2a5e1cb70cf43b2260bb622bb20b6374"
+    },
+    {
+      "file": "original/Bluszcz_Valente_repdata_regions.csv",
+      "bytes": 26831,
+      "sha256": "b4155c47f39637646fefa7e2e93acdf9658aff4a28d4ff0dab9e50b3056afe4a"
+    },
+    {
+      "file": "paper.pdf",
+      "bytes": 718146,
+      "sha256": "a81ee8864006a737317efbb46f7008d2d7001b173d1df9a90714c288cabb9999"
+    },
+    {
+      "file": "paper.txt",
+      "bytes": 97859,
+      "sha256": "0d01faae3392671a8823f65365c9b8bd050d843c1f56dddea3ca92fe21fcd590"
+    },
+    {
+      "file": "replication-original.zip",
+      "bytes": 38234,
+      "sha256": "e6fe10c0aeeef76c41c103feba60b1e65b0fe7bb84c09e7b66a7e22bad40bd39"
+    }
+  ]
+}

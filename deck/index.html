@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Ukraine: the path we don't observe</title>
+    <meta name="theme-color" content="#163c55" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath fill='%231675ae' d='M0 0h32v16H0z'/%3E%3Cpath fill='%23f5cc41' d='M0 16h32v16H0z'/%3E%3C/svg%3E"
+    />
+    <link rel="stylesheet" href="deck.css" />
+    <script defer src="../prototype/vendor/d3.v7.min.js"></script>
+    <script defer src="slides.js"></script>
+    <script defer src="deck.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#navigation">Skip to slide navigation</a>
+    <main class="stage" id="stage" aria-label="Lecture slides">
+      <p id="loading" role="status">Loading the lecture…</p>
+    </main>
+    <nav id="navigation" aria-label="Slide navigation">
+      <div class="nav-left">
+        <button id="previous" aria-label="Previous slide">←</button
+        ><span id="counter" aria-live="polite">1 / 18</span
+        ><button id="next" aria-label="Next slide">→</button>
+      </div>
+      <label class="slide-picker"
+        ><span class="visually-hidden">Choose slide</span
+        ><select id="slide-select"></select
+      ></label>
+      <div class="nav-right">
+        <button
+          id="notes-button"
+          aria-pressed="false"
+          title="Speaker notes · N"
+        >
+          Notes <kbd>N</kbd></button
+        ><button id="fullscreen" title="Fullscreen · F">Fullscreen</button
+        ><button id="print" title="Print all slides to PDF">Print / PDF</button>
+      </div>
+      <div id="progress" aria-hidden="true"></div>
+    </nav>
+    <aside id="notes" hidden aria-labelledby="notes-title">
+      <div>
+        <h2 id="notes-title">Speaker notes</h2>
+        <button id="close-notes" aria-label="Close speaker notes">×</button>
+      </div>
+      <p id="notes-text"></p>
+    </aside>
+    <div id="tooltip" class="tooltip" hidden></div>
+    <script>
+      document.getElementById("loading").textContent =
+        "Loading the lecture… Use arrow keys to move between slides.";
+    </script>
+  </body>
+</html>

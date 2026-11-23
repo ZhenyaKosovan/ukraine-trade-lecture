@@ -1,0 +1,1562 @@
+DEFENCE AND PEACE ECONOMICS
+2022, VOL. 33, NO. 1, 1–25
+https://doi.org/10.1080/10242694.2020.1791616
+
+
+ARTICLE
+
+The Economic Costs of Hybrid Wars: The Case of Ukraine
+Julia Bluszcz and Marica Valente
+Department of Econometrics, Humboldt University of Berlin, Berlin, Germany
+
+
+    ABSTRACT                                                                                                    ARTICLE HISTORY
+    With more than ten thousand casualties, the ongoing hybrid Ukrainian                                        Received 8 December 2019
+    war between pro-Russian separatists and the government in the Donbass                                       Accepted 1 July 2020
+    region, Ukraine’s productive core, has taken a severe toll on the country.                                  KEYWORDS
+    Using cross-country panel data over the period 1995–2017, this paper                                        Hybrid conflict; economic
+    estimates the causal effects of the Donbass war on Ukraine’s GDP. Our                                       costs; Ukraine crisis;
+    counterfactual estimation by the synthetic control method shows that                                        synthetic control; conflict
+    Ukraine’s per capita GDP foregone due to the war amounts to 15.1% on                                        management
+    average for 2013–2017. Separate analysis for the affected regions of
+                                                                                                                JEL CLASSIFICATION
+    Donetsk and Luhansk indicates an average causal effect of 47% for
+                                                                                                                C21; F5; O41; O47
+    2013–2016. Results are robust to pre-war confounds, namely, the
+    Orange Revolution and Ukrainian-Russian gas disputes. As such, we dis­
+    cuss mechanisms underlying the war’s causal effects on economic perfor­
+    mance, which is of broader relevance for debates on the role of
+    government in hybrid conflict management.
+
+
+
+Introduction
+The effectiveness of hybrid warfare, described as the use of insurgent tactics coupled with conven­
+tional military power to achieve politico-strategic goals, relies on ethnic grievances and weak civil
+societies (Lanoszka 2016). Due to the close link between belligerents and the target society as well as
+the evolving and unpredictable nature of such conflicts, governments face several challenges in
+developing conflict management strategies (Giegerich 2016). For instance, counter-insurgencies
+may deteriorate rather than improve the country’s state of affairs.
+   Military conflicts always entail large costs, including economic, social, political, psychological and
+environmental ones. A vast literature is devoted to the ex-post evaluation of the economic costs of
+conflict to assess the losses incurred by the states and the civil society. Starting from Keynes (1919),
+many studies show that war has persistent negative consequences on the welfare of the populations
+involved (see, e.g. Gates 2012; Koubi 2005; Abadie and Gardeazabal 2003). To our knowledge, this is
+the first paper that identifies and quantifies the causal effects of the hybrid war in the Donbass
+region on Ukraine’s GDP. Additionally, our study discusses mechanisms underlying these causal
+effects, and statistical challenges in the analysis arising from the complex nature of hybrid wars.
+
+
+The War
+The Donbass war is an armed conflict between anti-government groups of pro-Russian separatists
+and the Ukrainian government, taking place in the aftermath of the 2013 Euromaidan protests and
+the 2014 Ukrainian revolution. Thereby, this war embodies the hybrid form of state-on-state
+
+CONTACT Marica Valente          mvalente@diw.de       Berlin School of Economics, Department of Econometrics, Humboldt
+University of Berlin, and Department of Energy, Transportation and Environment, DIW Berlin, Mohrenstraße 58, 10117 Berlin,
+Germany
+© 2020 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.
+0/), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+2       J. BLUSZCZ AND M. VALENTE
+
+
+(Russian-Ukrainian) conflict. Located in eastern Ukraine, the Donbass region is considered Ukraine’s
+productive core due to coal mining and highly productive heavy industry.1 As such, the Donbass war
+has taken a severe toll on Ukraine, especially in terms of production, employment, number of
+displaced persons, and civilian as well as military casualties (Angelovski 2015).
+    The Donbass is of considerable importance for Ukraine’s production. Before the 2014 Ukrainian
+Revolution, this region accounted for about a quarter of the country’s exports and more than 15% of
+capital investment (Ukrstat 2014). For instance, the Donbass used to provide raw materials such as
+coal, steel and other industrial goods to international manufacturing industries. As of August 2014,
+the industrial production dropped by 60% and 85% in the Donbass regions of Donetsk and Luhansk,
+respectively, due to power cuts and the destruction of transport infrastructures (Havlik 2014). Overall,
+major reasons for the decline of Ukraine’s economic activity are high costs of trade together with
+employment, agricultural and financial losses, compressed government spending, and the partial
+military mobilization coupled with growing political instability (Foreign Affairs Ministry 2015).
+    As a hybrid and complex form of warfare, the Donbass war is an especially interesting case study.2
+Modern conflicts are indeed more likely to arise as a consequence of regional struggles with
+governments facing non-governmental actors who operate in concert with external players.
+Specifically, hybrid wars especially threaten the government’s sovereignty due to lack of soil
+governance and means to tackle issues like unclear front lines or friendly/enemy areas; unclear
+casus belli and politico-strategic goals; and new tactics that focus on the weakening of governments
+and state institutions rather than on direct combat (Deshpande 2018).
+    In this respect, this paper aims to help deconstructing the complexity of the Ukrainian conflict by
+(i) providing formal statistical evidence on the causal effects on the country’s economy both at
+national and regional levels and (ii) discussing market mechanisms underlying these effects, also in
+the prospects of governments’ conflict management and resolution.
+
+
+The War’s Outcomes
+Due to the Donbass’ strategic role in the country’s economy and its large contribution to the GDP, we
+expect the war to have a negative causal impact on this outcome. Although its components are of relative
+importance in determining the causal effect, we focus on the GDP foregone as an aggregate measure of
+the economic costs for two reasons. First, we want to allow for a higher degree of internal and external
+validity of our analysis. This approach is also followed by, e.g. Costalli, Moretti, and Pischedda (2017),
+Horiuchi and Mayerson (2015), and Abadie and Gardeazabal (2003), who find strong significant average
+per capita GDP losses ranging from 8.6% to 17.5% (see, e.g. Gardeazabal 2012, for a review of existing
+studies). As such, constructing an accurate (in terms of quality of the available data) and reliable (in terms
+of theoretical guarantees) counterfactual for Ukraine’s per capita GDP contributes to the cross-country
+comparison of our results with the literature. Second, since the Donbass war is still ongoing at the time of
+writing, it is difficult to give precise estimates of other types of costs due to lack of data. In light of these
+factors, we consider per capita GDP foregone as the main measure of welfare loss.
+
+
+Empirical Strategy
+We use the Synthetic Control Method (SCM) to estimate causal effects of this war on Ukraine’s GDP
+per capita. Since its first application by Abadie and Gardeazabal (2003) and later formalisation in
+Abadie, Diamond, and Hainmueller (2010), this method has been more recently employed to
+estimate the causal effects of conflicts on GDP by, e.g. Echevarría and García-Enríquez (2019a,
+2019b) but also by, e.g. Albalate and Bel (2020) to estimate the effects of government formation
+deadlocks on GDP growth.
+   Building on the potential outcome approach (Rubin 1974), we obtain the counterfactual, ‘synthetic’,
+Ukraine as a weighted average of control (unaffected) countries with weights reflecting the resem­
+blance of both the outcome variable and outcome predictors in Ukraine before the war’s outbreak.
+                                                                         DEFENCE AND PEACE ECONOMICS             3
+
+
+A country-level panel data over the period 1995–2017 are used for the analysis. Causal effects are
+estimated by computing the yearly difference in GDP per capita between Ukraine and its synthetic
+counterpart after the eruption of the war. Moreover, we apply the SCM iteratively to check for other
+potential shocks taking place in Ukraine before the Donbass war, in particular, the 2004 Orange
+Revolution, and the 2009 gas dispute with Russia. Finally, since the war is likely to affect the
+Ukrainian territory unequally, we further conduct a similar analysis for the Donbass regions of
+Donetsk and Luhansk.
+
+
+Preview of Results
+Results indicate that due to the Donbass war, whose start is set to 2013, Ukraine’s foregone GDP per
+capita amounts to 15.1% on average in the post-war period and, respectively, 5.23% ($460.26), 9.18%
+($832.96), 19.63% ($1,823.78), 19.80% ($1,893.38), 21.67% ($2,184.13) in 2013, 2014, 2015, 2016, and
+2017. The obtained estimates are validated by a series of robustness checks. After iteratively applying
+the SCM, we find that gas disputes led to an overestimation of the previous causal effects by
+1.21 percentage points ($128.04) on average. Instead, our findings show that the Orange
+Revolution did not considerably influence Ukraine’s economic development and, thus, did not
+confound the obtained causal estimates of the war. Lastly, results from the regional analysis confirm
+the devastating effect of the war for the Donbass area. In particular, we estimate that Donetsk’s per
+capita Gross Regional Product (GRP) dropped by 42% ($4,294) on average due to the war. Estimates
+for Luhansk are of even larger magnitude with a per capita GRP average decrease of 52% ($3,355).
+
+
+Empirical Strategy
+This section presents the SCM as developed by Abadie and Gardeazabal (2003) and later refined by
+Abadie, Diamond, and Hainmueller (2010). In addition to the identification and estimation strategy,
+we discuss advantages of the SCM as well as its limitations especially related to inference.
+    The true causal impact of a conflict on per capita GDP is given by outcome differences between
+Ukraine after the war and its counterfactual without the war. The SCM builds upon the potential
+outcome approach (Rubin 1974) to estimate this counterfactual, ‘synthetic’ Ukraine, by weighting
+units in the control group before the war to resemble Ukraine in all outcome-relevant variables, in
+particular observed time-varying covariates and a set of pre-intervention outcomes. Once the control
+group is weighted to predict Ukraine’s per capita GDP path before the war, post-war differences
+would only be due to the war if Ukraine’s per capita GDP is accurately fitted by the synthetic control
+pre-war. Our main parameter of interest is the Average Treatment effect on the Treated (ATT) over
+the periods after treatment, which can be computed as the post-war average difference between the
+observed outcome of Ukraine and synthetic Ukraine (Gobillon and Magnac 2016; Abadie, Diamond,
+and Hainmueller 2010).
+    Consider i ¼ 1; . . . ; J þ 1 countries and t ¼ 1; . . . ; T time periods with 1 � T0 < T pre-war periods,
+and define YitN to be the per capita GDP of Ukraine i ¼ 1 in time t, if not exposed to the war. Let
+Ukraine be the only recipient of the war, and let any other j ¼ 2; . . . ; J þ 1 country be unaffected by
+the conflict for a total of J unaffected units. Note that SCM assumes that no country anticipates the
+war’s outbreak before the time period T, and that there are no spillover effects of the conflict on the J
+control regions after the war (known as Stable Unit Treatment Value Assumption, SUTVA). We further
+denote the observed outcome for unit i at time t as Yit ¼ YitN þ αit Dit where Dit serves as a conflict
+indicator taking value 1 for Ukraine after 2012 and 0 otherwise. The war causal effect to be estimated
+                                                                         N
+is given by the Treatment effect on the Treated, TTt ¼ Y1t Y1t             for t > T0 , and the empirical challenge
+                                          N
+is to reconstruct the counterfactual Y1t , i.e. the post-treatment outcome of the treated unit had it not
+been treated. Once the counterfactual outcome, Y^1t         N
+                                                               , is estimated, the ATT over the T T0 periods
+                                               P
+after treatment is computed as α1 ¼ T T0 t > T0 ðY1t Y^1t
+                                     ^       1                     N
+                                                                     Þ:
+4       J. BLUSZCZ AND M. VALENTE
+
+
+     Consider a ðJ � 1Þ vector of optimal weights W � ¼ ðw2� ; . . . ; wJþ1 �
+                                                                              Þ0 with wj � 0 for j ¼ 2; . . . ; J þ 1
+                                                                      PJþ1 � N
+                                                                ^ N
+and w2 þ . . . þ wJþ1 ¼ 1 for J control units such that Y1t ¼ j¼2 wj Yjt . The synthetic control method
+recreates this counterfactual with a convex combination of untreated units, i.e.
+Y^1;t
+  N           Jþ1 � N
+      > T0 ¼ �j¼2 wj Yj;t > T0 . The aim of this analysis is to obtain the ATT over the periods after treatment
+defined as:
+                                                                     "                                                                               #
+                                                         X                                         Jþ1
+                                                                                                   X
+                                                  1
+                                       ^1 ¼
+                                       α                                 Y1t                                            wj� YjtN                            :                                                                       (1)
+                                              T       T0 t > T                                        j¼2
+                                                                 0
+
+
+
+The estimation of the optimal W � follows a nested optimization procedure. First, an inner optimiza­
+tion minimizes the Euclidean distance between X1 and X0 W, ðr þ kÞ � 1 and ðr þ kÞ � ðJÞ matrices,
+respectively, containing k covariates and r linear combinations of pre-war outcomes used as
+predictors (2):
+                                                                          pffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+                        W � ¼ argmin jjX1         X0 Wjjv ¼                ðX1 X0 WÞ0VðX1 X0 WÞ;                                                                                                                                    (2)
+                                   W
+
+
+
+where V is a ðr þ kÞ � ðr þ kÞ symmetric diagonal matrix with non-negative components, in which
+the diagonal elements v ¼ ðv1 ; . . . ; vrþk Þ are the predictor weights assigned to the fitted pre-
+war variables. In an outer optimization, V � can be estimated such that the Mean Squared Error
+(MSE) of per-capita GDP outcomes is minimized for pre-treatment periods according to
+V � ¼ arg minV ðY1 Y0 W � ðVÞÞ0ðY1 Y0 W � ðVÞÞ, where Y1 denotes pre-war outcomes of Ukraine and
+Y0 refers to linear combinations of pre-war outcomes of control countries, which can be, e.g.
+averaged over some pre-war periods. The SCM identifying assumptions are twofold. First, the
+outcome of all countries is required to follow a linear model like, e.g. a factor model including
+interactive fixed effects that capture time-varying unobserved heterogeneity (see Abadie, Diamond,
+and Hainmueller 2010; Ahn, Lee, and Schmidt 2013). Since Abadie and Gardeazabal (2003) introduce
+the SCM using GDP as the dependent variable, we consider this assumption as fulfilled (see, e.g.
+Costalli, Moretti, and Pischedda 2017; Horiuchi and Mayerson 2015 for similar choices). Second, there
+exist optimal (non-negative) weights (smaller than and adding up to one) that build the synthetic
+control as a convex linear combination of control countries matching a set of covariates and
+outcomes pre-war. This is violated in the presence of interpolation bias, i.e. if the synthetic control
+obtains weights for countries that largely differ in terms of unobservable confounders that may
+trigger any change in the outcome. In our context, confounders could consist of, e.g. unobserved
+time-varying factors driving both GDP and the conflict. To avoid the interpolation bias, we restrict the
+control group to countries of the former Soviet Union and Eastern Bloc which are not treated with
+the Donbass war or other shocks, as they most accurately reflect the Ukrainian economy, and we
+exclude Russia because it is part of the Donbass war, of the 2014 annexation of Crimea, and the
+consequent economic sanctions imposed by the European Union and the United States. Therefore,
+provided that the number of pre-war periods is large and interpolation bias is not present, the
+synthetic control approximately fits Ukraine also in its individual time-varying heterogeneity (Abadie,
+Diamond, and Hainmueller 2010). In such cases, the SCM provides unbiased estimates of the
+counterfactual with more identification power than traditional regression methods accounting
+only for time-invariant unobserved differences (Gobillon and Magnac 2016).
+    We perform standard statistical inference and robustness analyses by (a) in-space placebo tests, and
+also (b) in-time tests. In the latter case (b), we apply the SCM on Ukraine’s outcome pre-war as a means
+to uncover likely confounding effects of two events: the 2009 gas disputes with Russia, and the 2004
+Orange Revolution. In the former case (a), we build a synthetic control for each country in the control
+group, and we estimate the corresponding ATT (Abadie, Diamond, and Hainmueller 2010). We
+compute empirical p-values as the probability to obtain ATTs at least as large as the treated unit’s (in
+                                                                             DEFENCE AND PEACE ECONOMICS               5
+                        PJþ1
+                               1ðjATTi j�jATT1 jÞ
+absolute terms), i.e. i¼1 Jþ1                      for i ¼ 1; . . . ; J þ 1 where 1ðjATTi j � jATT1 jÞ takes value 1 when
+jATTi j is equal or larger than jATT1 j and 0 otherwise.3
+    Additionally, we perform in-space placebo tests accounting for the prediction accuracy of
+the estimated synthetics in the pre-war period (Seifert and Valente 2017). For every country
+i ¼ 1; . . . ; J þ 1, we first compute the pre-war average Mean Prediction Error (MPE) defined as
+    P
+ 1
+ T0     t�T0 ½Yit     Y^itN �, with Y^itN being the synthetic control estimated for every country in the
+sample. Second, we condition on the MPE to obtain empirical p-values as
+ PJþ1
+         1ðjATTi j�jATT1 jÞ
+    i¼1
+            Jþ1               s:t: jMPEi j � jMPE1 j. Note that this test differs from the inferential technique
+performed by, e.g. Abadie, Diamond, and Hainmueller (2010) who compute the ratio between
+post-
+  and pre-
+treatment MSE. In this case, the numerator results to be inflated in the presence of, for
+instance, a large causal effect in one single post-war period, as squaring post-war gaps assign
+a higher weight to exceptionally large deviations. On the contrary, a counterweight of this
+effect in the denominator for pre-
+treatment MSE is unlikely to occur as every placebo country with a much (typically, five to
+three times) higher MSE than the one of the treated unit is excluded from the computation of
+the p-values. Motivated by the above as well as by recommendations in Arkhangelsky et al.
+(2019), Ferman and Pinto (2017), and Firpo and Possebom (2018), MPE-based inference is also
+presented.
+    What are the advantages of the SCM over other techniques in our context? Due to the variety of
+costs that can be attributed to armed conflicts, researchers have adopted three types of evaluation
+tools: cost-accounting, regression-based, and counterfactual methods (for a detailed overview see,
+e.g. Gardeazabal 2012; De Groot, Brueck, and Bozzoli 2009). In this paper, we find the SCM to be most
+suited to evaluate the cost of the Donbass war for at least five reasons. First, unlike cost-accounting
+methods employed in, e.g. Skaperdas et al. (2009), Bilmes and Stiglitz (2006) and Arunatilake,
+Jayasuriya, and Kelegama (2001), the SCM does not require multiple calculations of a broad variety
+of costs, which relies on the availability and quality of governmental data as well as on expertise in
+listing all types of costs and avoiding double counting. In addition, the SCM allows to perform
+statistical inference and assess the uncertainty inherent in the cost estimate. Second, in contrast to
+panel data and time-series methods used by, e.g. Enders, Sandler, and Parise (1992) and Barro and
+Lee (1994), the SCM is more robust against the presence of unaccounted-for factors that may
+influence the outcome. By assuming a factor model specification, the SCM allows for
+a multidimensional unobserved heterogeneity, i.e. for multiple interactive effects, not just additive
+ones as imposed, e.g. in the difference-in-differences setting (Gobillon and Magnac 2016). In practice,
+interactive effects can be considered as time-varying fixed effects like, for example, country-specific
+variations in strategic alliances. Therefore, the SCM generalizes the difference-in-differences method
+allowing to clearly identify the causal effect of the Donbass war on GDP per capita, disentangling the
+causal effect from other unobserved time-varying confounders. Third, the SCM improves upon other
+regression methods because it performs well with small-sized groups, it safeguards against ad-hoc
+model specification searches, and precludes negative weights, thus, avoids extrapolation outside the
+support of the data (Abadie 2019). Finally, the SCM estimates sparse weights for the control units
+allowing to assess their contribution to the counterfactual, and to evaluate directions of potential
+biases. As a result, the SCM is a well-established causal inference tool, according to Athey and Imbens
+(2017) one of the most important innovations in the evaluation literature in the last 15 years.
+
+
+Data
+We use yearly country-level panel data over the period 1995–2017 obtained from the World
+Development Indicators database of the World Bank. The dependent variable used in the SCM
+6      J. BLUSZCZ AND M. VALENTE
+
+
+        Table 1. Descriptive statistics of variables.
+                                 Mean                   Standard Deviation   Maximum    Minimum
+          TradeDep                0.15                         0.15            0.76       0.01
+          GFCF                    23.79                        6.37            57.71      5.39
+          GDPpc                 14032.00                     8509.13         31339.00   1043.00
+          Inflation               18.45                       59.98           1058.00    −8.52
+          Polity                  4.96                         6.25             10         −8
+          HDI                     0.74                         0.08            0.81       0.53
+
+
+
+
+analysis is the GDP per capita (GDPpc) in 2011 dollars (PPP). Further, outcome predictors used to
+match Ukraine in the pre-war period are chosen based on literature review (e.g. Abadie and
+Gardeazabal 2003). We include inflation measured by the consumer price index due to the pre­
+valence of hyperinflation in post-Soviet states, and its influence on economic development. Further,
+we control for domestic investment with the gross fixed capital formation (GFCF) as a percentage of
+GDP, and we measure the dependence on trade with Russia as the sum of the share of exports and
+imports with the Russian Federation in countries’ total international trade (TradeDep). Finally, to
+account for political and socio-economic resemblance, we also include the Human Development
+Index (HDI), which is a composite indicator of life expectancy, education, and per capita income, as
+well as the Polity variable from the Polity IV project dataset in which values equal to 10 (−10) indicate
+a strongly democratic (autocratic) regime (Marshall 2017). In the SCM estimation, we match on
+covariates’ averages over the 1995–2012 period, and on two outcome lags. The following Table 1
+provides data descriptive statistics, while the variables’ full description can be found in Table C1 in
+Appendix III.
+   The SCM makes a crucial assumption that Ukraine’s GDP per capita and all its predictors have to lie
+within the convex hull spanned by the countries from the donor pool, such that a convex combina­
+tion of the control countries can actually resemble the treated unit. Figure 1 shows evidence on the
+presence of such common support. The plot presents boxplots of all predictor variables after their
+mean normalization, i.e. for each variable we computed ðXk μk Þ for k ¼ 1; . . . ; 6. It can be inferred
+from the plot that the values of the predictors for Ukraine lie within the spectrum spanned by the
+units from the donor pool.
+   As outlined in Section II, synthetic Ukraine is built as a weighted average of former the Soviet Union
+and Eastern Bloc countries to most accurately resemble its unobserved fiscal and economic conditions
+over time. We also excluded countries experiencing other shocks in the considered pre-war period. As
+a result, the control group comprises 17 countries, which are listed in Table 2 of Section IV.
+   A last note regarding the onset of the Donbass war. The war burst out in 2014, however, it was
+preceded by the 2013 violent Euromaidan protests and a period of high political instability. For this
+reason, we assign the year 2013 as the start of the war. Consequently, we estimate the counterfactual
+over 18 pre-war periods, and we predict the outcome over five post-war periods. As specified in
+Section II, a precise and robust fit between actual and counterfactual outcome over the whole pre-
+war period is necessary to guarantee the validity of the counterfactual estimate itself.
+
+
+Results
+Using the SCM, we first show how synthetic Ukraine fits Ukraine’s GDP per capita before the war to
+provide an unbiased counterfactual after the war, and we compute causal effects. Second, we assess
+statistical significance by placebo tests, and we perform a set of confoundedness as well as sparsity
+checks. Third, using analogous analyses, we provide further evidence on the war’s causal effects for
+Ukraine’s most affected regions.4
+   Table 2 shows that synthetic Ukraine is best reconstructed as a weighted average of four
+countries, namely, Armenia, Bulgaria, Moldova, and Slovenia – with Moldova and Armenia yielding
+the highest weights.
+                                                                                   DEFENCE AND PEACE ECONOMICS   7
+
+
+                 3
+
+
+
+
+                 2
+
+
+
+
+                 1
+
+                                                                                            Control sample
+                                                                                            Ukraine
+
+                 0
+
+
+
+
+               −1
+
+
+
+
+               −2
+
+                                             Polity
+                                                           Inflation
+                                  HDI
+                                                                       GFCF
+                       TradeDep
+                                                                                 GDPpc
+
+
+Figure 1. Boxplots of mean-corrected variables.
+
+
+                     Table 2. Ukraine’s control sample with corresponding weights.
+                       Country                        Weight                Country           Weight
+                       Armenia                        0.333             Latvia                  0
+                       Azerbaijan                       0               Lithuania               0
+                       Belarus                          0               Moldova               0.452
+                       Bulgaria                       0.152             Poland                  0
+                       Czech Republic                   0               Romania                 0
+                       Estonia                          0               Slovak Republic         0
+                       Hungary                          0               Slovenia              0.063
+                       Kazakhstan                       0               Tajikistan              0
+                       Kyrgyz Republic                  0
+
+
+
+   Furthermore, Table 3 displays the results of the estimation, and shows that synthetic Ukraine
+accurately reproduces mean values of the covariates before the war. As a measure of overall
+goodness of fit, Table 3 reports the Mean of the Absolute Prediction Errors (MAPE) which amounts
+to 4% relative to the mean value of Ukraine’s per capita GDP in the pre-war period.
+   Figure 2 displays the trends of per capita GDP of Ukraine and its synthetic counterpart. It clearly
+shows that both follow a very similar path until 2012 and deviate considerably afterwards. The ATT –
+computed as the post-war average difference between observed and synthetic GDP per capita –
+amounts to 15.1%. In particular, yearly differences equal to, respectively, 5.23% ($460.26), 9.18%
+($832.96), 19.63% ($1,823.78), 19.80% ($1,893.38), and 21.67% ($2,184.13) in 2013, 2014, 2015, 2016,
+and 2017.
+8        J. BLUSZCZ AND M. VALENTE
+
+
+               Table 3. Outcome predictor means and weights.
+                                                                                                      Ukraine
+                Covariate                                                    Weight           Real              Synthetic   Donor pool
+                Inflation                                                    0.004           36.44                23.04        20.72
+                GFCF                                                         0.032           20.91                22.89        24.17
+                TradeDep                                                     0.001            0.23                 0.19        0.14
+                HDI                                                          0.001            0.70                 0.68        0.74
+                Polity                                                       0.001            6.50                 6.83        4.78
+                GDPpc(2000)                                                  0.577          4797.38              4797.03     10650.16
+                GDPpc(2012)                                                  0.385          8322.17              8538.05     17963.32
+                MAPE                                                                                               0.04
+               All variables are averaged for the 1995–2012 period except for lagged values of GDP per capita.
+
+
+
+
+                 per capita GDP, 2011 international $ (PPP)
+                                                                                      Treated
+                                                              12000
+                                                                                      Synthetic
+
+
+
+
+                                                              10000
+
+
+                                                              8000
+
+
+                                                              6000
+
+
+                                                              4000
+
+
+                                                                      1995        2000            2005             2010     2015
+
+                                                                                                      Time
+Figure 2. Trends in GDP per capita: Ukraine vs. synthetic Ukraine.
+
+
+
+    The SCM does not allow for usual large sample inferential techniques. Instead, it provides
+a framework for placebo tests. Figure 3 shows the graphical representation of placebo tests for
+Ukraine and control countries. To be conservative, we exclude from the test control countries with
+MSE five times higher than the one obtained for Ukraine (as suggested by Abadie, Diamond, and
+Hainmueller 2010). As a result, we exclude six countries from the plot, i.e. Azerbaijan, Czech Republic,
+Estonia, Poland, Slovenia, and Tajikistan, which leaves 11 remaining control countries.
+    Based on placebo tests reported in Figure 3, we conclude that the ATT estimated for Ukraine is
+larger in magnitude than all placebo ATTs, leading to an empirical p-value of 8% (one over 12) which
+is the lowest level that we can reach given the size of the considered control group.
+    Additionally, we further assess the statistically significance of the ATT by computing post-/pre-war
+MSE ratios. Differently from the test above, this statistic accounts for the goodness of fit of the
+                                                                                                             DEFENCE AND PEACE ECONOMICS   9
+
+
+
+
+                                                       2000
+
+
+
+
+                Gap in GDP per capita (2011 $ (PPP))
+                                                       1000
+
+
+
+
+                                                       0
+
+
+
+
+                                                       −1000
+
+
+
+
+                                                       −2000
+
+
+
+                                                               1995                 2000       2005          2010             2015
+
+                                                                                                    Year
+
+Figure 3. Gaps in GDP per capita in Ukraine and placebo gaps. Countries with poor pre-war fit excluded.
+
+
+                                                                        Lithuania
+                                                                         Ukraine
+                                                                        Bulgaria
+                                                                        Romania
+                                                                          Poland
+                                                                        Hungary
+                                                                        Slovakia
+                                                                         Belarus
+                                                                          Czech
+                                                                        Moldova
+                                                                Kyrgyz Republic
+                                                                         Estonia
+                                                                      Kazakhstan
+                                                                        Armenia
+                                                                        Slovenia
+                                                                      Azerbaijan
+                                                                       Tajikistan
+                                                                           Latvia
+
+
+                                                                                     0     5   10      15   20      25   30
+
+Figure 4. Ratio of mean squared prediction error in post- and pre-war periods.
+placebos before the war, and is therefore computed for all 18 units. Figure 4 shows that Ukraine
+presents the second biggest ratio, yielding a statistical significance level of 11% (two over 18). Finally,
+as discussed in Section II, since the MSE criterion overweights large gaps, the ATT of each unit is also
+plotted, for robustness, against its pre-war Mean Prediction Error (MPE), the mean gap before
+10        J. BLUSZCZ AND M. VALENTE
+
+
+
+                                                                                                    Pol
+                                                                                                  Lit
+                                                       2000
+
+
+
+                                                                         Aze
+                                                                                                      Cze
+                                                                                                    Hun
+                                                       1000
+
+
+
+
+                           Mean gap after treatment
+                                                                                           Arm
+
+                                                                                                  Lat
+                                                          0
+
+                                                                                                  Kyr
+                                                                                                  Kaz
+                                                                 Taj                              Bel
+
+
+                                                      −1000
+                                                                                                                          Slo
+
+                                                                                                          Ukr
+
+
+
+
+                                                      −2000
+
+
+
+
+                                                         −1000         −500                   0                 500             1000
+                                                                                  Mean gap before treatment
+
+
+
+Figure 5. Mean prediction error in post- and pre-war periods (ATT vs. MPE).
+
+
+treatment.5 Figure 5 plots the ATT-MPE test. Since no control unit lies in the highlighted area
+showing both a more extreme ATT as well as a smaller MPE than Ukraine (in absolute terms), the ATT-
+MPE test suggests a statistically significant average causal effect at the 5% level (one over 18).
+
+
+Robustness and Sensitivity
+To check whether estimated synthetic Ukraine is robust against different linear combinations of
+country weights, we perform a Leave-One-Out (LOO) estimation. This means we iteratively build
+synthetic Ukraine excluding one control unit at the time among those units with positive weights in
+synthetic Ukraine (i.e. Slovenia, Bulgaria, Armenia, and Moldova). Figure 11 in Appendix II shows that
+the
+LOO synthetic controls closely match the original synthetic Ukraine that includes all control coun­
+tries, verifying the robustness of the original synthetic. As a result, no country is found to be pivotal
+to the results. Further, since each LOO synthetic control is above our original estimate, our results can
+be interpreted as a lower-bound for the war’s causal effects on Ukraine’s GDP per capita. In particular,
+excluding Moldova (Armenia), the country receiving the (second) highest weight in the original
+estimation, would cause higher estimates by 10% (20%) on average in the post-war period. Table 4
+
+
+
+          Table 4. LOO estimation: Ukraine’s per capita GDP losses causal to the Donbass war in each post-war year,
+          and on average in the post-war period (ATT).
+           Year            Slovenia                                    Bulgaria                   Armenia             Moldova          Original
+           2013              490.8                                       649.0                      686.6               588.7           460.3
+           2014              914.9                                      1083.7                     1038.7               866.9           833.0
+           2015             1932.3                                      2040.6                     2089.1              1982.8          1823.8
+           2016             1931.0                                      2103.1                     2321.3              2146.8          1893.4
+           2017             2236.1                                      2455.7                     2553.9              2351.6          2184.1
+           ATT              1501.0                                      1666.4                     1737.9              1587.4          1438.9
+          GDP in 2011 international dollars, PPP.
+                                                                  DEFENCE AND PEACE ECONOMICS         11
+
+
+reports all LOO causal effect estimates on Ukraine’s per capita GDP in each post-war period and on
+average over the post-war period (ATT).
+   The presence of substantial spillovers would violate the no interference assumption (SUTVA) and
+lead to a bias in the synthetic control estimate. This may be especially the case for Ukraine’s
+neighbouring countries such as Moldova (see map in Figure 10 in Appendix I). However, awareness
+of the type of potential spillovers allows to evaluate the validity of the counterfactual estimate and
+the directions of potential biases (Abadie 2019). For instance, if the economic growth of neighbour­
+ing countries was negatively affected by the Donbass conflict in the post-war period (perhaps
+because they diverted demand and investment from Ukraine), this would imply that the synthetic
+control represents a lower bound on the magnitude of the war’s negative effects on Ukraine’s GDP.
+We follow Cao and Dowd (2019) to gauge the potential effects of spillovers on our estimates. The test
+uses all 18 pre-war GDP per capita values as predictors, and considers Ukraine’s neighbouring
+countries of Belarus, Moldova, Hungary, Poland, Romania, and Slovak Republic as the potentially
+affected units. Results confirm that our estimates are a lower bound of the war’s effect, and indicates
+that accounting for spillovers would lead to higher GDP losses of 1.8% in 2015, 15% in 2016, and 20%
+in 2017.6 The Discussion Section outlines possible channels through which the Donbass war may (or
+not) have affected the per capita GDP of countries in the control group.
+   Moreover, we perform confoundedness checks obtained by iteratively estimating synthetic
+controls on the pre-war period to account for previous Ukrainian-Russian disputes. This allows to
+verify if Ukraine’s exposure to other external shocks also affects its outcome path. In particular, we
+analyze two events: the 2009 gas disputes with Russia, and the 2004 Orange Revolution. For this
+purpose, we iterate the SCM moving the treatment period T0 þ 1 to 2009 and 2004, respectively. In
+this case, we calculate treatment effects only until T ¼ 2012 in order to exclude the effects of the
+Donbass war and obtain ‘pure’ effects of these events on the Ukrainian economy.
+   The Orange Revolution is a series of political protests leading to a period of political instability
+that could have caused a slowdown in Ukraine’s GDP. However, estimation results show that the
+ATT is not statistically significant at conventional levels, namely, 10 over 18 units have a larger
+ATT (in magnitude) than Ukraine (p-value = 0.55). This is displayed in Figures 12 and 13 in
+Appendix II.
+   Russian-Ukrainian gas disputes in 2009 represented a trade conflict over gas prices and their
+terms of export. Since no agreement was reached, Russia interrupted gas supplies to Ukraine which
+served as a transit country for Europe. Counterfactual estimation reveals a gap between observed
+and synthetic outcomes in 2009, indicating that Ukraine’s GDP per capita would have been higher
+without the shock. This is shown in Figure 15 in Appendix II. In particular, gas disputes cause a one-
+time outcome level change in 2009 after which trends are parallel again. Placebo tests indicate that
+causal effects are significant at the 10% level. Yet, these estimates may be confounded by two
+factors. First, gas prices increased after 2009, potentially affecting the GDP of control countries. This
+would lead to a bias in the SC due to violation of the no spillover assumption (SUTVA). Second, the
+effects of the 2009 financial crisis cannot be disentangled from those of the gas disputes.
+   Although the 2009 gap may not be entirely attributable to the gas disputes, we compute the
+confounding effects of the shock on the causal effects of the Donbass war. Being fairly constant for
+2009–2012, outcome gaps caused by gas disputes ( ^       Δgas ) are subtracted from the per capita GDP
+values of synthetic Ukraine in all consecutive years, and the Donbass war’s causal effects are adjusted
+as shown in Table 5.7 Clearly, accounting for gas disputes caused the GDP loss to decrease from
+original yearly average of $1,438.9 to $1,310.86. These results also displayed in Figure 14 in the
+Appendix II, suggest that the 2009 events led to the overestimation of causal effects of the conflict by
+an average of 1.21 percentage points ($128.04). As a result, the lower-bound for Ukraine’s per capita
+GDP foregone due to the war amounts to 13.89%.8
+12         J. BLUSZCZ AND M. VALENTE
+
+
+Table 5. Per capita GDP differences between Ukraine and its synthetic control including effects of 2009 gas disputes with Russia.
+ Year          Per capita GDP         Original loss        Per capita GDP       Loss excl. 2009 effects     Difference in losses
+ t                   Y^N
+                      1t                Y^1tN Y1t           Y^N;corrected
+                                                             1;t                   Y^N;corrected Y1t
+                                                                                    1;t
+ 2013              8799.18           460.26 (5.23%)                8647.00         308.08 (3.56%)                 152.17
+ 2014              9076.43           832.96 (9.18%)                8912.73         669.26 (7.51%)                 163.70
+ 2015              9280.71          1823.78 (19.63%)               9146.79        1681.85 (18.40%)                141.93
+ 2016              9561.48          1893.38 (19.80%)               9473.75        1805.65 (19.06%)                 87.73
+ 2017             10078.52          2184.13 (21.67%)               9983.85        2089.46 (20.93%)                 94.67
+ Average           9359.26          1438.90 (15.10%)               9231.21        1310.86 (13.89%)                128.04
+GDP in 2011 international dollars, PPP.
+
+
+
+
+Regional Synthetic Control Estimates
+Since the Donbass war is limited to the territory of only two out of 24 Ukrainian regions (see map in
+Figure 9 in Appendix I), we estimate the impact of the war on the respective Gross Regional Product
+(GRP). Results from this estimation would also serve as a reliability check for the causal effects
+obtained at country level.
+    Regional SCM estimates are obtained with data from the State Statistics Service of Ukraine, and
+the first available period is 2004. Limited data availability constrains the choice of the variables
+included. These are exports of commodities (as a share of GRP), capital investments (as a share of
+GRP), unemployment rate, and per capita GRP. A detailed description of the data is to find in Table C2
+in Appendix III. The values of regions’ GRP and capital investment are transformed from the Ukrainian
+currency (UAH) into international 2011 dollars using the exchange rates given in Table C7 in
+Appendix III. The control group includes 22 Ukrainian regions with the exclusion of Kyiv City because
+its economy differs considerably from those of the other regions.9 The complete list of the control
+units can be found in Table C3 in Appendix III.
+    For the estimation, we use regional panel data from 2004 to 2016. As for the country-level
+estimation, the treatment is assigned in 2013 to account for anticipation effects. We suspect that
+although armed conflicts did not start before 2014, there might have been regional tensions and
+hostilities that influenced social and economic living conditions of the local population. As a result,
+we match on nine pre-war periods to predict four post-war periods.
+    Tables C3 and C6 in the Appendix report the estimated unit and predictor weights, respectively,
+while Tables C4 and C5 show average values of covariates for the Donbass regions, their synthetic
+counterparts, and the whole control sample mean. It can be inferred that weighted averages
+accurately reconstruct all the outcome-relevant characteristics of the affected units.
+    Finally, Figures 6 and 7 plot the values of GRP per capita for Donetsk and Luhansk along with their
+synthetic counterparts. While in both cases observed and synthetic outcomes follow almost an
+identical trend until 2012, observed outcomes severely drop post-war. This estimation shows that,
+due to the Donbass war, Donetsk’s and Luhansk’s average GRP for 2013–2016 decreased by 42%
+($4,294) and 52% ($3,355), respectively.
+    Statistical significance of these causal estimates is confirmed by a series of placebo tests as shown
+in Figure 8 , and Figures 16 and 17 in Appendix III.
+    Compared to the country-level estimation, assumptions for the regional case are weaker, in particular,
+SUTVA. However, obtaining plausible causal estimates seems likely because Donetsk and Luhansk are
+the only regions directly affected by the fights. Following Cao and Dowd (2019), we test for spillovers in
+the potentially affected neighbouring regions of Dnipropetrovsk, Kharkiv, and Zaporizhzhya for Donetsk,
+and Kharkiv for Luhansk (see map in Figure 9 in the Appendix I) using all 9 pre-war GDP per capita values
+as predictors. We find that adjusting our estimates to account for spillovers would increase the
+magnitude of the ATT by 13% for Donetsk and 11% for Luhansk. Thus, similarly to the country-level
+estimation, the test shows that our estimates are a lower bound of the war’s causal effects.
+                                                                                                                          DEFENCE AND PEACE ECONOMICS   13
+
+
+
+                                                                          14000
+                                                                                         Treated
+                                                                                         Synthetic
+
+
+
+
+                                                                          12000
+
+
+
+
+                           Per capita GRP (2011 international $, PPP)
+                                                                          10000
+
+
+
+
+                                                                          8000
+
+
+
+
+                                                                          6000
+
+
+
+
+                                                                          4000
+
+
+
+                                                                                  2004       2006    2008   2010   2012       2014   2016
+
+                                                                                                            Time
+
+
+Figure 6. Per capita GRP trends in Donetsk vs. its synthetic counterpart.
+
+
+
+                                                                          10000          Treated
+                                                                                         Synthetic
+
+
+
+
+                           Per capita GRP (2011 international $, (PPP))
+                                                                          8000
+
+
+
+
+                                                                          6000
+
+
+
+
+                                                                          4000
+
+
+
+
+                                                                          2000
+
+
+
+                                                                                  2004       2006    2008   2010   2012       2014   2016
+
+                                                                                                            Time
+
+
+Figure 7. Per capita GRP trends in Luhansk vs. its synthetic counterpart.
+
+
+Discussion
+Our results from the counterfactual estimation show that Ukraine’s per capita GDP experienced a significant
+decline due to the Donbass war and, in its absence, would have instead followed a rather stable, slowly
+increasing trend. Importantly, we estimate that the gap between what actually happened in the Ukraine’s
+economy and its counterfactual widens over the 4 years after the official start of the war in 2014.
+   Although our study does not aim to statistically identify the particular GDP components that
+contributed to its decline, we hereby discuss possible mechanisms underlying the causal impacts of
+the Donbass war, and provide external anecdotal and formal evidence that supports our results.
+Additionally, we discuss the role of (I) economic sanctions and (II) military expenditures together with
+our study’s limitations.
+14        J. BLUSZCZ AND M. VALENTE
+
+
+
+                                                                   Luhansk
+                                                    6000           Donetsk
+
+
+
+                                                    4000
+
+
+
+
+               Gap in GDP per capita (2011 $ PPP)
+                                                    2000
+
+
+                                                    0
+
+
+
+
+                                                    −2000
+
+
+
+                                                    −4000
+
+
+
+                                                    −6000
+
+
+                                                            2004    2006     2008   2010   2012   2014   2016
+
+                                                                                    year
+
+Figure 8. Gaps in per capita GRP in Donetsk, Luhansk and placebo gaps.
+
+
+Mechanisms Underlying the GDP Decline Causal to the War
+There are several explanatory factors for the negative causal effects of the Donbass war on Ukraine’s
+GDP per capita. These are, for instance, disruption to production, trade and employment, agricultural
+and financial losses, compression of public expenditures, and a partial military mobilization coupled
+with growing political instability.
+    Since its outbreak, the war took a heavy toll on Ukraine’s economy especially due to trade
+disruptions and diverted government spending. Between May and September 2014, the European
+Bank for Reconstruction and Development adjusted its predictions on Ukraine’s GDP loss from 7 to
+9% (Reuters 2014). In fact, only a few months after the war’s beginning, most of eastern Ukraine’s
+core industries and infrastructure has been either shut down or destroyed. Also, physical losses as
+well as water and electricity cuts made large facilities such as coal and power stations inoperable.
+For instance, coal mines have flooded because power cuts prevented water extraction, and the
+fewer transfers of the Donbass’ exports of coal, steel and other industrial goods became more
+costly due to the destruction of bridges, roads and railways. As a result, during the war, the
+Donbass – previously Ukraine’s largest industrial centre – drastically reduced its contributions to
+the country’s economy.
+    Several institutions and governmental sources reported estimates of the ongoing economic costs
+of the Donbass war. In September 2014, Prime Minister Arseniy Yatsenyuk reported that the Donbass
+war was costing the government 6.15 million dollars a day (Wilson 2015). Donetsk’s politician and
+economist Alex Ryabchyn referred to a variety of reasons for such costs (Kuznetsov 2014). He
+reported that (i) several manufacturing industries depend on raw materials coming from the
+Donbass, (ii) exports of coal, steel, and power heavily depend on the Donbass’ output and transpor­
+tation infrastructure, and (iii) one-third of Ukraine’s market is fostered by trade with Russia. In the
+latter respect, the index of merchandise exports between Ukraine and Russia has fallen by 80% over
+2013–2016 (Hornish 2019).
+                                                                  DEFENCE AND PEACE ECONOMICS         15
+
+
+   Moreover, investors usually shy away in the presence of conflicts, and the confidence in the
+overall economy plummets. In the Donbass case, real foreign direct investment stagnated at about
+1% of GDP on average over 2014–2018 (Åslund 2019). Furthermore, Ukraine’s energy sector was also
+largely damaged by the failure of the Minsk peace process and the 2017 trade blockade against the
+Donbass. The latter was operated by pro-Russian separatists to block the transport of raw materials
+including, in particular, anthracite coal from the Donbass to the rest of Ukraine. This resulted in major
+production breaks for companies not only in eastern but also in western Donbass due to the
+interconnection of their production cycles (for more details see, e.g. Kostanyan and Remizov 2017).
+   As an additional consequence of the 2017 blockade, Ukraine scored higher in terms of internal
+conflicts fought, and growing political instability which proxies for the propensity of a government
+collapse (IEP 2018). Especially if coupled with increased internal conflicts, political instability has
+been shown to damage a country’s economy by reducing investment, lowering the rates of
+productivity growth and, to a smaller extent, of physical and human capital accumulation (Hussain
+2014).
+   Yet, important questions remain open, namely, whether the negative effects of the Donbass war
+on Ukraine’s economy have been reinforced by the government’s mismanagement of the conflict
+and a weak external environment during the war. The latter includes, for instance, lower global
+commodity prices that resulted in a deterioration of Ukraine’s terms of trade.
+   On the governmental side, instead, the World Bank reports that structural imbalances such as an
+already consolidated fiscal deficit were negatively adjusted in response to the war shock (World
+Bank, 2017). This likely resulted in a compression of domestic demand, increased public and
+guaranteed debt, and severe currency depreciation which induced deposit outflows, rising levels
+of nonperforming loans, and large numbers of bank failures, further reducing confidence in the
+economy. In this respect, an empirical study by Kochnev (2019b) estimates a nonlinear and on
+average positive association between Ukraine’s stock market performance during the war and
+investors’ expectations on the prospect of conflict resolution.
+   In light of all the above, we can expect that not only the Donbass but also other Ukrainian regions
+were damaged by the conflict, in which case our estimated average GDP decline (43% for Donetsk
+and 52% for Luhansk) would represent an underestimate of the true causal effects for the Donbass
+region. Interestingly, using a difference-in-differences design and luminosity data to proxy for
+economic development, Kochnev (2019a) reports similar estimates, namely, a decrease in economic
+activity by 38% and 51% in the Donetsk and Luhansk regions, respectively.
+
+
+Economic Sanctions and Military Expenditures
+One main limitation of our study is the possible violation of the SCM identifying Stable Unit
+Treatment Value Assumption (SUTVA). In particular, SUTVA requires the absence of spillover effects
+of the Donbass war, the treatment, on the GDP of countries and regions in the control group. If
+SUTVA is violated, the synthetic control built as a linear combination of untreated, though spilled
+over outcomes would be a biased estimate of the counterfactual in the post-war period. We identify
+two main unaccounted-for factors that may cause such spillovers, namely economic sanctions and
+military expenditures.
+   Concerning the first, we refer to the economic sanctions imposed on the Russian Federation by
+the EU in the aftermath of Crimea’s annexation in 2014 and the Donbass war. These sanctions may
+have had an impact not only on the Russian Federation but also on the EU, especially because target
+and sender countries are economically interdependent and have cooperative political relations
+(Kaempfer and Lowenber 2007; Drezner 1999).10 In light of this, our concern is that the GDP of
+countries and regions in the control group could be impacted, although indirectly, by these
+sanctions. However, we argue that this is likely a minor issue for at least three reasons. First, while
+sanctions affect exports directly, they only indirectly impact the GDP which is more sensitive to other
+dynamics such as taxation and countries’ overall performance (Giumelli 2017). Second, sanctions’
+16      J. BLUSZCZ AND M. VALENTE
+
+
+effects are shown to be strongest in the very short-run, which indicates that GDP values after 2015
+are most likely unaffected (Dizaji and van Bergeijk 2013). Third, although sanctions’ costs are difficult
+to identify and disentangle from countries’ performance, the analysis of export data suggests that
+only a few of our control countries experienced changes in exports that may be attributable to these
+sanctions. Specifically, a study by Giumelli (2017) finds that, on the one hand, exports of Germany,
+Italy, France, the Netherlands and Poland seem to be especially hit by the sanctions, with the most
+severe drop in 2015 compared to 2013. On the other hand, exports of Slovenia, Luxembourg and
+Romania were affected the least. This brings us to the conclusion that the 2014 sanctions may have
+had only mild, if any, consequences on the GDP of countries in the control group. Moreover, due to
+the ambiguity about the direction of the effect in each country, we cannot provide an upper or lower
+bound for the SC estimator as, e.g. indicated in a similar case by Costalli, Moretti, and Pischedda
+(2017). Therefore, future research is needed to shed light on the direction and magnitude of
+sanctions’ potential spillovers.
+    Another source of spillover effects might be changes in military spending in control countries.
+A strand of the literature shows that neighbouring states may perceive conflicts as a threat and, thus,
+increase military expenditures (Smith 2014; Collier 2007) which in turn may impact their economic
+growth (Zielinski, Fordham, and Schilde 2017; Murdoch and Sandler 2004). Although similar studies
+to this commonly assume that indirect spillovers are of negligible magnitude (Costalli, Moretti, and
+Pischedda 2017; Horiuchi and Mayerson 2015), we cannot ignore that the Donbass war increased the
+political instability especially in post-Soviet republics and the Baltic states (Erőss, Kóvaly, and Tátrai
+2016; DeGhett 2015).
+    However, also in this case, we believe that changes in military expenditures have only a minor, if
+any, effect on the results for the following reasons. First, the war’s outbreak coincided with
+multilateral agreements made at the 2014 NATO Summit in which member states were urged to
+increase their military burden up to 2% GDP share. As a consequence, countries lagging behind
+this goal made the most significant investments in this sector with both Latvia and Lithuania
+increasing their military burdens from 0.9% in 2013 up to 1.7% in 2017. The same holds true for
+Romania and Poland which increased their military burdens over the same period from 1.3% up to
+2%, and from 1.8% up to 2%, respectively. Thus, the NATO agreement largely explains the
+variability of military spending over the years 2014–2017 in Eastern Europe. Secondly, in the
+case of post-Soviet republics, increased military burden occurs according to bilateral military
+agreements with the Russian Federation, external military investments from Moscow, and moder­
+nization programs within the Collective Security Treaty Organization (CSTO) which is also led by
+Russia (Klein, 2019). Third, although military spending may have indirect effects on GDP growth,
+the size and the direction of this effect are ambiguous. On the one hand, the literature suggests
+that increased military expenditure has positive effects on economic growth through increased
+manufacturing output, inciting technological progress and innovation (Barro and Lee 1994). On
+the other hand, it can be argued that its effect on investment, capital formation and resource
+allocation is adverse, indirectly curbing other sectors of the economy and inhibiting long-term
+economic growth (Knight, Loayzan, and Villanuev 1996). Despite the many studies on the topic,
+there is lack of consensus on the impact of military burden on countries’ GDP growth (Herrera and
+Gentilucci 2013). As a result, observing no sudden change in the 2014 GDP growth among the
+control countries, we conclude that the effect of changes in military spending on the donor pool’s
+GDP, if present, is likely negligible. Yet, future research is needed to investigate its magnitude,
+significance, and spatial dispersion.
+
+
+Conclusions
+The Donbass war has taken a severe toll on Ukraine, claiming over 10,000 casualties and triggering
+a severe economic recession. Yet, to the best of our knowledge, there is no empirical evidence on the
+overall costs incurred by Ukraine as a result of the war. Thus, the goal of this paper is to start filling
+                                                                            DEFENCE AND PEACE ECONOMICS                17
+
+
+this gap by estimating Ukraine’s GDP foregone due to the Donbass war, and discussing mechanisms
+underlying this causal effect.
+   Results from the counterfactual estimation by the synthetic control method indicate that the
+Donbass war led to a considerable decline of Ukraine’s economy. Namely, we estimate that, due to
+this war, the country’s per capita GDP decreased by 15.1% ($1,438.90) on average over the period
+2013–2017. Statistical significance of the causal estimates is shown by multiple placebo tests, and
+robustness is checked by leave-one-out estimations, and confoundedness analyses. In particular, we
+find that the 2009 gas disputes with Russia and the financial crisis in the same year may lead to
+overestimated causal effects. As a consequence, the estimated lower-bound of Ukraine’s per capita
+GDP foregone due to the war amounts to 13.89%.
+   Additionally, we show that the conflict affected the Donbass area severely. Over the period
+2013–2016, the per capita GRP of the Donbass regions of Donetsk and Luhansk is found to be, on
+average, 47% ($3,825) lower compared to its synthetic counterpart not affected by the strife. This
+result is in line with the estimated causal effects at country-level.
+   Several interesting issues are still outstanding. First, this paper focuses on quantifying the
+economic consequences of the conflict on per capita GDP. Although these account for a large part
+of direct and indirect costs of the war, we do ignore human capital, social, and psychological effects
+as well as migration dynamics which start to occur in the longer run. Moreover, given the ongoing
+nature of the conflict at the time of writing, the continuation of this study should be pursued as more
+data become available. It should be assessed how the costs evolve over time, in particular, whether
+the estimated destructive effects increase in scope as more workforce and investment flee the state.
+This knowledge is crucial to mitigate the damaging consequences of the conflict, and target aid and
+investment more effectively. These issues are under investigation by the authors.
+
+
+Notes
+   1. For a map of the conflict, see Figures 9 and 10 in the Appendix I.
+   2. As a matter of fact, despite more than ten thousand casualties and continuous fights (OHCHR 2017), neither
+      Ukraine nor any other entity declared the war status: the Ukrainian government referred to it as an anti-terrorist
+      operation, and, on the other side, Russia admitted that intelligence military forces were sent to Ukraine, but
+      denies the use of regular troops (Walker 2015). As a result, although there are many signs indicating Russia’s
+      involvement in the Donbass war (Rácz 2015), the lack of undeniable confirmation from Kremlin’s side compli­
+      cates the relationship between both countries and hinders any mitigation of the conflict.
+   3. When the magnitude of ATT1 is extreme relative to the permutation distribution, we obtain the smallest p-value
+                1
+      of size Jþ1 .
+   4. We use the statistical software R and, particularly, the Synth package (Abadie, Diamond, and Hainmueller 2011).
+   5. Since this test explicitly accounts for the prediction accuracy of all synthetics in the pre-war period, we do not
+      exclude control countries with MSE five times higher than the one obtained for Ukraine.
+   6. We thank an anonymous referee for suggesting this test.
+                                                                             P
+   7. Causal effects of the gas disputes are computed as Δ      ^ gas ¼ 1=4 2012 ðY1t Y^ N Þ, and the corrected counter­
+                                                                               t¼2009         gas;t
+                                                          N;corrected
+      factual outcome accounting for such shock is Y^1;t              ¼ Y^1t
+                                                                          N   ^ gas for t > 2012.
+                                                                              Δ
+   8. These results are robust to an alternative correction strategy, namely, estimate Ukraine’s SC and ATT after
+      correcting Ukraine’s outcomes for the causal effects of the disputes.
+   9. Kyiv City is Ukraine’s capital and its biggest, most affluent agglomeration. It accounts for nearly a quarter of the
+      country’s capital investment and its GRP per capita is roughly three times higher than Ukraine’s average.
+  10. In fact, Russia is EU’s third largest trade partner, and the EU is Russia’s largest one.
+
+
+
+Acknowledgments
+The paper greatly benefited from discussions at the 2018 conferences of Counterfactual Methods for Policy Impact
+Evaluation (COMPIE, Berlin), the Annual Congress of the European Economic Association (EEA, Cologne), as well as at the
+seminars of the Humboldt University, and DIW Berlin. We especially thank J. Paul Elhorst, Markus Eberhardt, Bernd
+Fitzenberger, and Lorenzo Trapani for fruitful input.
+18        J. BLUSZCZ AND M. VALENTE
+
+
+Disclosure Statement
+No potential conflict of interest was reported by the authors.
+
+
+
+References
+Abadie, A. 2019. “Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects.” Article
+   prepared for the Journal of Economic Literature, Technical report, MIT.
+Abadie, A., A. Diamond, and J. Hainmueller. 2010. “Synthetic Control Methods for Comparative Case Studies: Estimating
+   the Effect of California’s Tobacco Control Program.” Journal of the American Statistical Association. 105(490):493–505.
+   doi:10.1198/jasa.2009.ap08746.
+Abadie, A., A. Diamond, and J. Hainmueller. 2011. “Synth: An R Package for Synthetic Control Methods in Comparative
+   Case Studies.” Journal of Statistical Software 42: 13.
+Abadie, A., and J. Gardeazabal. 2003. “The Economic Costs of Conflict: A Case Study of the Basque Country.” The
+   American Economic Review 93(1):113–132. doi:10.1257/000282803321455188.
+Ahn, S., Y. Lee, and P. Schmidt. 2013. “Panel Data Models with Multiple Time-varying Individual Effects.” Journal of
+   Econometrics 174(1):1–14. doi:10.1016/j.jeconom.2012.12.002.
+Albalate, D., and G. Bel. 2020. “Do Government Formation Deadlocks Really Damage Economic Growth? Evidence from
+   History’s Longest Period of Government Formation Impasse.” Governance 33(1):155–171. doi:10.1111/gove.12410.
+Angelovski, D. 2015. “Socio-economic Impact and Needs Assessment. Donbass, Ukraine.” FAO Report.
+Arkhangelsky, D., S. Athey, D. A. Hirshberg, G. W. Imbens, and S. Wager 2019. “Synthetic Difference In Differences.”
+   Working Paper arXiv:1812.09970.
+Arunatilake, N., S. Jayasuriya, and S. Kelegama. 2001. “The Economic Cost of the War in Sri Lanka.” World Development 29
+   (9):1483–1500. doi:10.1016/S0305-750X(01)00056-0.
+Åslund, A. 2019. “What Is Wrong with the Ukrainian Economy?” Atlantic Council.
+Athey, S., and G. Imbens. 2017. “The State of Applied Econometrics: Causality and Policy Evaluation.” Journal of Economic
+   Perspectives 31(2):3–32. doi:10.1257/jep.31.2.3.
+Barro, R., and J.-W. Lee. 1994. “Sources of Economic Growth.” Carnegie Rochester Conference Series on Public Policy 40
+   (1):1–46. doi:10.1016/0167-2231(94)90002-7.
+Bilmes, L., and J. Stiglitz 2006. “The Economic Costs of the Iraq War: An Appraisal Three Years after the Beginning of the
+   Conflict.” NEBR Working Paper Series 12054.
+Cao, J., and C. Dowd 2019. “Estimation and Inference for Synthetic Control Methods with Spillover Effects.” Working
+   Paper arXiv:1902.07343.
+Collier, P. 2007. The Bottom Billion: Why the Poorest Countries are Failing and What Can Be Done about It. New York:
+   Oxford University Press.
+Costalli, S., L. Moretti, and C. Pischedda. 2017. “The Economic Costs of Civil War: Synthetic Counterfactual Evidence and
+   the Effects of Ethnic Fractionalization.” Journal of Peace Research 54(1):80–98. doi:10.1177/0022343316675200.
+De Groot, O., T. Brueck, and C. Bozzoli 2009. “How Many Bucks in a Bang: On the Estimation of the Economic Costs of
+   Conflict.” Discussion Papers of DIW Berlin 948.
+DeGhett, T. 2015. “Defense and Security: Romania Is Starting to Freak Out about Russian Designs on Transnistria.” Vice News.
+Deshpande, V. 2018. Hybrid Warfare: The Changing Character of Conflict. New Delhi, India: Pentagon Press.
+Dizaji, S., and P. van Bergeijk. 2013. “Potential Early Phase Success and Ultimate Failure of Economic Sanctions: A VAR
+   Approach with an Application to Iran.” Journal of Peace Research 50(6):721–736. doi:10.1177/0022343313485487.
+Drezner, D. 1999. The Sanctions Paradox. New York: Oxford University Press.
+Echevarría, C., and J. García-Enríquez. 2019a. “The Economic Consequences of the Libyan Spring: A Synthetic Control
+   Analysis.” Defence and Peace Economics 30(5):592–608. doi:10.1080/10242694.2018.1446241.
+Echevarría, C., and J. García-Enríquez. 2019b. “The Economic Cost of the Arab Spring: The Case of the Egyptian
+   Revolution.” Empirical Economics: 1–25. https://link.springer.com/article/10.1007%2Fs00181-019-01684-7
+Enders, W., T. Sandler, and G. Parise. 1992. “An Econometric Analysis of the Impact of Terrorism on Tourism.” Kyklos 45
+   (4):1467–6435. doi:10.1111/j.1467-6435.1992.tb02758.x.
+Erőss, A., K. Kóvaly, and P. Tátrai 2016. “Effects of the Ukrainian Crisis in Transcarpathia: The Hungarian Perspective.” CMR
+   Working Papers - Center of Migration Research.
+Ferman, B., and C. Pinto 2017. “Placebo Tests for Synthetic Controls.” MPRA Paper No. 78079, Germany: University
+   Library of Munich.
+Firpo, S., and V. Possebom. 2018. “Synthetic Control Method: Inference, Sensitivity Analysis and Confidence Sets.”
+   Journal of Causal Inference, DeGruyter. 6(2):1–26.
+Foreign Affairs Ministry. 2015. “Kremlin’s Black Book. Russian War against Ukraine.” Ministry of Foreign Affairs of Ukraine
+   (gov.ua: Ukrainian Cabinet of Ministers).
+Gardeazabal, J. 2012. Methods for Measuring Aggregate Costs of Conflict 227–251. Oxford, England: Oxford Handbook of
+   the Economics of Peace and Conflict.
+                                                                               DEFENCE AND PEACE ECONOMICS                 19
+
+
+Gates, S. 2012. “Development Consequences of Armed Conflict.” World Development 40(9):1713–1722. doi:10.1016/j.
+   worlddev.2012.04.031.
+Giegerich, B. 2016. “Hybrid Warfare and the Changing Character of Conflict.” Connections 15(2):65–72. doi:10.11610/
+   Connections.15.2.05.
+Giumelli, F. 2017. “The Redistributive Impact of Restrictive Measures on Eu Members: Winners and Losers from Imposing
+   Sanctions on Russia.” Journal of Common Market Studies 55(5):1062–1080. doi:10.1111/jcms.12548.
+Gobillon, L., and T. Magnac. 2016. “Regional Policy Evaluation: Interactive Fixed Effects and Synthetic Controls.” The
+   Review of Economics and Statistics 98(3):535–551. doi:10.1162/REST_a_00537.
+Havlik, P. 2014. “Economic Consequences of the Ukraine Conflict.” The Vienna Institute for International Economic
+   Studies, Policy Notes and Reports 14.
+Herrera, R., and E. Gentilucci. 2013. “Military Spending, Technical Progress, and Economic Growth: A Critical Overview on
+   Mainstream Defense Economics.” Journal of Innovation Economics and Management 12(2):13–35. doi:10.3917/jie.012.0013.
+Horiuchi, Y., and A. Mayerson. 2015. “The Opportunity Cost of Conflict: Statistically Comparing Israel and Synthetic
+   Israel.” Political Science Research and Methods 3(3):609–618. doi:10.1017/psrm.2014.47.
+Hornish, K. 2019. “War in the Donbass: Five Years On, Is There Any Hope of a Durable Peace?” The Vienna Institute for
+   International Economic Studies WIIW News.
+Hussain, Z. 2014. “Can Political Stability Hurt Economic Growth?” World Bank Blog.
+IEP. 2018. “Global Peace Index 2018.” Institute for Economics and Peace (IEP).
+Kaempfer, W., and A. Lowenber. 2007. “The Political Economy of Economic Sanctions.” Handbook of Defense Economics
+   2:867–911.
+Keynes, J. 1919. The Economic Consequences of the Peace. London: Macmillan.
+Klein, M. 2019. “Russia’s Military Policy in the Post-soviet Space.” SWP Research Paper.
+Knight, M., N. Loayzan, and D. Villanuev 1996. “The Peace Dividend: Military Expenditure Cuts and Economic Growth.”
+   World Bank Policy Research Working Paper.
+Kochnev, A. 2019a. “Dying Light: War and Trade of the Separatist-controlled Areas of Ukraine.” Wiiw Working Paper No. 161.
+Kochnev, A. 2019b. “Smoke on the Market: Inattentive Investors and the War in Ukraine.” Unpublished manuscript.
+   doi:10.13140/RG.2.2.20461.33764.
+Kostanyan, H., and A. Remizov 2017. “The Donbas Blockade: Another Blow to the Minsk Peace Process.” CEPS Working
+   Document No 2017/08.
+Koubi, V. 2005. “War and Economic Performance.” Journal of Peace Research 42(1):67–82. doi:10.1177/
+   0022343305049667.
+Kuznetsov, S. 2014. “To Survive, Donbas Industry Must Stay in Ukraine.” Financial Times.
+Lanoszka, A. 2016. “Russian Hybrid Warfare and Extended Deterrence in Eastern Europe.” International Affairs 92
+   (1):175–195. doi:10.1111/1468-2346.12509.
+Marshall, M. G. 2017. “Polity IV Project: Political Regime Characteristics and Transitions, 1800-2017.” http://www.system
+   icpeace.org/inscrdata.html
+Murdoch, J. C., and T. Sandler. 2004. “Civil Wars and Economic Growth: Spatial Dispersion.” American Journal of Political
+   Science 48(1):138–151. doi:10.1111/j.0092-5853.2004.00061.x.
+OHCHR. 2017. “Report on the Human Rights Situation in Ukraine 16 February to 15 May 2017.” Office of the United
+   Nations High Commissioner for Human Rights.
+Rácz, A. 2015. “Russia’s Hybrid War in Ukraine Breaking the Enemy’s Ability to Resist.” The Finnish Institute of International
+   Affairs.
+Reuters. 2014. “EBRD Warns post-Cold War Peace Dividend at Risk.” https://www.reuters.com
+Rubin, D. 1974. “Estimating Causal Effects of Treatments in Randomized and Nonrandomized Studies.” Journal of
+   Educational Psychology 5(5):688–701. doi:10.1037/h0037350.
+Seifert, S., and M. Valente 2017. “An Offer that You Can’t Refuse? Agrimafias and Migrant Labor on Vineyards in Southern
+   Italy.” DIW Berlin: Discussion Papers 1735.
+Skaperdas, S., R. Soares, A. Willman, and S. Miller. 2009. The Costs of Violence. Washington, DC: World Bank.
+Smith, R. 2014. “The Economic Costs of Military Conflict.” Journal of Peace Research 51(2):245–256. doi:10.1177/
+   0022343313496595.
+Ukrstat. 2014. “Ukraine in Figures 2014.” Ukrstat - State Statistics Service of Ukraine.
+Walker, S. 2015. “Putin Admits Russian Military Presence in Ukraine for the First Time.” The Guardian.
+Wilson, A. 2015. “Ukraine’s Economic Pressures.” European Council on Foreign Relations.
+World Bank. 2017. “Country Partnership Framework for Ukraine.” World Bank Report No. 114516.
+Zielinski, R., B. Fordham, and K. Schilde. 2017. “What Goes Up, Must Come Down? The Asymmetric Effects of Economic
+   Growth and International Threat on Military Spendings.” Journal of Peace Research 54(6):791–805. doi:10.1177/
+   0022343317715301.
+20        J. BLUSZCZ AND M. VALENTE
+
+
+Appendix
+I Maps
+
+
+
+
+Figure 9. Ukraine’s geographical location in Europe. The darker area in Ukraine represents the Donbass.
+
+
+
+
+Figure 10. Ukraine’s administrative division map. Darker areas represent the two Donbass’ regions of Donetsk and Luhansk.
+                                                                                                                                   DEFENCE AND PEACE ECONOMICS   21
+
+
+  II Graphs
+
+  Figure 11 shows the Leave-One-Out (LOO) estimations: The solid black line represents Ukraine’s observed GDP per
+capita, dashed black line is the original synthetic Ukraine, and grey lines are the LOO synthetic controls estimated by
+excluding one control unit at the time among those units with positive weights in the synthetic Ukraine (Slovenia,
+Bulgaria, Armenia, Moldova).
+
+
+
+                                                                                        Treated
+
+                                                                        12000
+                                                                                        Synthetic
+                                                                                        Leave−one−out
+
+
+
+
+                           per capita GDP, 2011 international $ (PPP)
+                                                                        10000
+
+
+
+
+                                                                        8000
+
+
+
+
+                                                                        6000
+
+
+
+
+                                                                        4000
+
+
+
+                                                                                1995               2000          2005            2010      2015
+
+                                                                                                                   Time
+
+
+Figure 11. Leave-one-out distribution of synthetic controls for Ukraine.
+
+
+
+
+                                                                                       Treated
+                                                                                       Synthetic
+
+
+                                                                        12000
+
+
+
+
+                                                                        10000
+
+
+
+
+                           per capita GDP, 2011 $ PPP
+                                                                        8000
+
+
+
+
+                                                                        6000
+
+
+
+
+                                                                        4000
+
+
+
+                                                                                1995                      2000            2005            2010
+
+                                                                                                                   Time
+
+
+Figure 12. The 2004 Orange Revolution: per capita GDP trends in Ukraine vs. synthetic Ukraine.
+22        J. BLUSZCZ AND M. VALENTE
+
+
+
+                                                                               3000
+
+
+
+
+                                                                               2000
+
+
+
+
+                           Gap in per capita GDP (2011 international $, PPP)
+                                                                               1000
+
+
+
+                                                                               0
+
+
+
+
+                                                                               −1000
+
+
+
+
+                                                                               −2000
+
+
+
+
+                                                                               −3000
+                                                                                       1995               2000          2005   2010
+
+                                                                                                                 year
+
+
+Figure 13. The 2004 Orange Revolution: Gaps in per capita GDP in Ukraine and placebo gaps.
+
+
+
+
+                                                                               12000          Treated
+                                                                                              Synthetic
+
+
+
+
+                                                                               10000
+
+
+
+
+                           per capita GDP, 2011 international $ (PPP)
+                                                                               8000
+
+
+
+
+                                                                               6000
+
+
+
+
+                                                                               4000
+
+
+
+                                                                                       1995               2000          2005   2010
+
+                                                                                                                 Time
+
+
+Figure 14. The 2009 gas disputes: Per capita GDP in Ukraine vs. synthetic Ukraine.
+                                                                                                                             DEFENCE AND PEACE ECONOMICS   23
+
+
+
+                                                                               2000
+
+
+
+
+                           Gap in GDP per capita (2011 international $, PPP)
+                                                                               1000
+
+
+
+
+                                                                               0
+
+
+
+
+                                                                               −1000
+
+
+
+
+                                                                               −2000
+                                                                                       1995       2000                2005            2010
+
+                                                                                                               year
+
+
+Figure 15. The 2009 gas disputes: Gaps in per capita GDP in Ukraine and placebo gaps.
+
+
+
+
+                                                                                                               Ratio of MSE
+
+
+                                 Luhansk
+                                Vinnytsya
+                                  Donetsk
+                               Kirovohrad
+                            Khmelnytskiy
+                              Zakarpattya
+                                Chernivtsi
+                                Cherkasy
+                                       Lviv
+                                Zhytomyr
+                                      Kyiv
+                                   Poltava
+                                     Sumy
+                                  Ternopil
+                                     Volyn
+                                   Kharkiv
+                                     Rivne
+                                Chernihiv
+                                    Odesa
+                         Ivano−Frankivsk
+                                  Kherson
+                            Zaporizhzhya
+                                Mykolayiv
+                           Dnipropetrovsk
+
+
+                                                                                              0          100          200       300          400
+
+Figure 16. Ratio of mean squared prediction error in post- and pre-war periods for the Donbass regions of Luhansk and Donetsk.
+24          J. BLUSZCZ AND M. VALENTE
+
+
+                                                    2500
+
+
+
+
+                                                                                             Kyi
+
+
+
+                                                                                                   Pol
+                                                                                             Vin
+                                                                                             Lvi
+                                                                                             Vol
+                                                       0
+                                                                                             Zak
+
+
+
+
+                        Mean gap after treatment
+                                                                                  Che        Zap
+
+
+
+
+                                                   −2500
+
+
+                                                                                             Luh
+
+
+
+                                                                                                         Don
+
+
+
+
+                                                   −5000
+                                                      −1000         −500                 0                     500      1000
+                                                                             Mean gap before treatment
+
+
+
+Figure 17. Mean prediction error in post- and pre-war periods (ATT vs. MPE) for the Ukrainian regions. No control unit lies in the
+highlighted area showing both a more extreme ATT as well as a smaller MPE than Luhansk and Donetsk (in absolute terms).
+
+
+
+     III Tables
+
+
+                  Table C1. Data description of variables used in the country-level estimation.
+                   Variable                                                                Description
+                   Inflation                                  Inflation, consumer prices (annual %)
+                   GFCF                                       Gross fixed capital formation (% of GDP)
+                   Polity                                     Polity IV Individual Country Regime Trend
+                   HDI                                        Human Development Index
+                   TradeDep                                   Sum of exports and imports with the Russian Federation (% of GDP)
+                  Data source: World Bank’s World Development Indicators; Marshall (2017).
+
+
+
+
+                    Table C2. Data description of variables used in the regional-level estimation.
+                      Variable                                                              Description
+                      Export                                         Exports of commodities (% of GRP)
+                      Investment                                     Capital investment by region (% of GRP)
+                      Unemployment                                   Unemployment rate of population (results of a sampling
+                                                                     survey population of economic activity)
+                      GRP                                            Per capita gross regional product
+                                                                     (2011 international dollars, PPP)
+                    Data source: State Statistics Service of Ukraine (http://www.ukrstat.gov.ua).
+                                                                               DEFENCE AND PEACE ECONOMICS            25
+
+
+Table C3. Donetsk’s and Luhansk’s control sample with corresponding weights.
+ Region                       Donetsk               Luhansk             Region               Donetsk        Luhansk
+ Dnipropetrovsk                0.351                 0.135           Poltava                  0.513          0.016
+ Chernivtsi                      0                   0.005           Zakarpattya                0            0.411
+ Zaporizhzhya                  0.135                 0.290           Odesa                      0            0.006
+ Volyn                           0                   0.005           Zhytomyr                   0            0.004
+ Ivano-Frankivsk                 0                   0.008           Kyiv                       0            0.021
+ Kirovohrad                      0                   0.005           Lviv                       0            0.006
+ Mykolayiv                       0                   0.062           Rivne                      0            0.004
+ Sumy                            0                     0             Ternopil                   0              0
+ Kharkiv                         0                   0.005           Kherson                    0            0.003
+ Khmelnytskiy                    0                   0.004           Cherkasy                   0            0.006
+ Chernihiv                       0                     0
+
+
+
+                   Table C4. Donetsk’s per capita GRP predictor means, and Mean Absolute Prediction
+                   Error (MAPE) relative to the mean outcome value pre-war.
+                    Covariate                     Treated          Synthetic             Control sample
+                    Export                         25.36             18.74                    9.61
+                    Unemployment                    7.94             7.85                     8.50
+                    Investment                     18.32             21.78                   23.60
+                    GRP                           10,091             9,847                   6,014
+                    MAPE                                             0.06
+                   All variables are averaged over the 2004-2012 period.
+
+
+                   Table C5. Luhansk’s per capita GRP predictor means, and Mean Absolute Prediction
+                   Error (MAPE) relative to the mean outcome value pre-war.
+                    Covariate                  Treated             Synthetic            Control sample
+                    Export                      22.77                19.29                   9.61
+                    Unemployment                 6.90                 7.89                   8.50
+                    Investment                  20.79                20.79                  23.59
+                    GRP                        6,773.60            6,773.70                6,013.95
+                    MAPE                                              0.02
+                   All variables are averaged over the 2004-2012 period.
+
+
+                                 Table C6. Predictor weights in the regional estimations.
+                                  Covariate                   Donetsk              Luhansk
+                                  Export                       0.075                0.001
+                                  Unemployment                 0.733                  0
+                                  Investment                     0                  0.408
+                                  GRP                          0.191                0.591
+
+
+
+     Table C7. Exchange rates between UAH and international 2011 dollars.
+      Year                                Rate                              Year                          Rate
+      2004                                0.963                             2010                          0.332
+      2005                                0.773                             2011                          0.291
+      2006                                0.673                             2012                          0.26
+      2007                                0.548                             2013                          0.249
+      2008                                0.426                             2014                          0.223
+      2009                                0.377                             2015                          0.161
+                                                                            2016                          0.132
+     Own elaboration based on Ukrainian GDP data obtained from Ukrainian State Statistics Service in UAH and
+      corresponding data obtained from World Bank in international 2011 dollars.
+

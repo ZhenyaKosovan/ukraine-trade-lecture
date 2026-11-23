@@ -1,0 +1,386 @@
+year,indicator,indicator_label,value,obs_status,api_unit,source_last_updated,source_file
+2025,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),25.3335332319508,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2024,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),29.6719973021423,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2023,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),28.300468273727,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2022,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),35.4451153382041,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2021,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),40.6883404768688,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2020,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),38.8216462901934,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2019,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),41.2316912560049,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2018,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),45.2352356625927,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2017,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),48.1249163515559,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2016,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),49.2986194577187,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2015,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),52.5976795082231,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2014,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),48.5929618158503,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2013,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),42.8973826672717,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2012,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),47.38283156146,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2011,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),49.4061569340739,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2010,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),46.4565383259637,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2009,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),42.9288246983766,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2008,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),43.2598688559666,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2007,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),41.2899111443658,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2006,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),43.2186231235111,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2005,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),47.7297326846335,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2004,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),58.6968317186137,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2003,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),52.5431306448415,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2002,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),50.1187333965439,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2001,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),50.6489878063218,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2000,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),60.2970566860465,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+1999,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),53.7037907269131,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+1998,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),41.8878472215453,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+1997,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),40.5912261554116,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+1996,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),45.6519320649174,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+1995,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),47.0732494907039,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+1994,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),35.3888495217936,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+1993,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),25.8779413649147,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+1992,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),23.9797337572025,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+1991,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),26.1538461538462,,,2026-11-11,raw/worldbank/NE.EXP.GNFS.ZS.json
+2025,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),51.8467407605299,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2024,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),50.0164700870853,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2023,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),49.2091459198387,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2022,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),51.9513986525203,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2021,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),42.0096208865812,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2020,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),40.3348060859881,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2019,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),49.2795430350714,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2018,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),53.9645794092748,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2017,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),55.9100665598426,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2016,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),56.2225854554037,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2015,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),55.2089367899327,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2014,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),52.0988206677736,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2013,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),51.1042867829065,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2012,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),55.2399567951663,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2011,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),55.3989169701848,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2010,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),49.2731921273264,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2009,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),44.547337921655,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2008,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),50.9120232857868,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2007,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),46.7566495274968,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2006,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),45.9624295155199,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2005,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),46.9178374241513,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2004,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),51.2848768263486,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2003,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),50.0470516125543,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2002,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),45.8759364135681,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2001,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),49.2771398129513,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2000,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),55.4386582485465,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+1999,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),48.2479162386348,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+1998,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),44.1618812199663,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+1997,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),43.6501900069619,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+1996,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),48.2047130116905,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+1995,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),50.1564469934012,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+1994,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),38.5551546849935,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+1993,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),26.1908776378707,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+1992,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),21.9888734353268,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+1991,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),23.9799331103679,,,2026-11-11,raw/worldbank/NE.IMP.GNFS.ZS.json
+2025,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",7.57270528442222,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2024,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",7.29453892630693,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2023,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",7.55194546256383,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2022,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",8.57297627041519,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2021,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",10.8857721063269,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2020,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",9.31015109807472,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2019,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",8.96518101437243,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2018,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",10.1395331070229,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2017,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",10.1776550393512,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2016,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",11.7257009089167,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2015,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",12.0593761063371,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2014,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",10.1546081548161,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2013,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",8.69230562102956,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2012,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",7.76131248389414,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2011,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",8.15022183877887,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2010,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",7.40220509822994,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2009,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",6.90539595920772,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2008,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",6.53540152136768,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2007,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",6.28300133403275,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2006,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",7.23906141043294,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2005,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",8.87530749467009,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2004,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",10.4370371199069,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2003,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",10.4995403003371,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2002,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",12.6032510741528,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2001,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",13.9760861844442,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2000,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",13.951785065407,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+1999,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",11.8750095828031,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+1998,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",12.0680748199195,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+1997,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",12.5153965618808,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+1996,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",12.2290508961101,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+1995,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",13.769759643058,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+1994,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",14.5723971958075,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+1993,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",21.5406715990099,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+1992,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",20.851976952116,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+1991,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",24.6488294314381,,,2026-11-11,raw/worldbank/NV.AGR.TOTL.ZS.json
+2025,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",8.31869736566018,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2024,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",8.4204821063336,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2023,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",8.31267715667005,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2022,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",7.6035757191006,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2021,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",10.2832971524252,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2020,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",10.1013826063601,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2019,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",10.7886004166753,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2018,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",11.5340215521043,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2017,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",11.980302070255,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2016,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",12.2191260296634,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2015,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",11.9027791187924,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2014,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",12.2281281606135,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2013,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",11.1405917419353,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2012,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",12.2296271115814,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2011,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",11.7655342734613,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2010,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",13.0957490953386,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2009,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",14.3166828926278,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2008,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",15.8865544564648,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2007,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",18.4044595569733,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2006,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",18.7489602101172,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2005,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",18.5082818564478,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2004,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",17.5116908688161,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2003,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",17.5439418795407,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2002,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",16.9289051755802,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2001,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",16.3347934177815,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2000,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",17.3873546511628,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+1999,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",27.2320255745849,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+1998,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",25.2570843039974,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+1997,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",24.6291429336475,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+1996,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",27.4549500116537,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+1995,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",30.950362477947,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+1994,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",35.0129468361455,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+1993,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",29.7033175291523,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+1992,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",44.5966620305981,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+1991,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)",,,,2026-11-11,raw/worldbank/NV.IND.MANF.ZS.json
+2025,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",17.8706564878112,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2024,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",19.0494567220403,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2023,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",19.0867598647608,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2022,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",18.0108316024427,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2021,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",23.1537142195647,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2020,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",20.7999429657705,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2019,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",22.5804196823995,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2018,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",23.2933329813033,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2017,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",23.2888002154817,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2016,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",23.1783620717483,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2015,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",21.7279577419459,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2014,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",22.8189915653958,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2013,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",22.4302649907366,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2012,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",24.2660524050508,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2011,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",24.8391242667758,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2010,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",25.6492814021248,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2009,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",24.759831137373,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2008,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",28.083434007624,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2007,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",30.6585222325477,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2006,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",30.5434517130428,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2005,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",30.1861914393484,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2004,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",29.3717696283534,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2003,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",30.4267094517856,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2002,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",30.2155139276837,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2001,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",29.9078962945424,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2000,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",31.6502770712209,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+1999,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",32.0180616672544,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+1998,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",30.6287953369138,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+1997,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",30.4803727306807,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+1996,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",33.7810817110122,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+1995,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",38.1638229362823,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+1994,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",42.6291921456691,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+1993,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",37.460630054022,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+1992,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",52.1492151798132,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+1991,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",54.6254180602007,,,2026-11-11,raw/worldbank/NV.IND.TOTL.ZS.json
+2025,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",60.9882284496339,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2024,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",60.3904324193958,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2023,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",61.211871946742,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2022,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",61.7172292872421,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2021,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",51.9054004247779,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2020,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",55.7900164518172,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2019,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",54.4855197050788,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2018,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",51.3323027091522,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2017,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",50.9587159917712,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2016,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",49.9142479962203,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2015,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",51.1686439927907,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2014,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",54.1589184045774,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2013,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",56.6426976003131,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2012,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",54.4753052575019,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2011,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",53.5003535486051,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2010,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",55.4893203103736,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2009,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",55.9948766791758,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2008,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",52.878376373485,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2007,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",51.6170820097297,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2006,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",49.823191473546,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2005,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",49.3819493795441,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2004,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",51.2225068802721,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2003,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",49.2931441654198,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2002,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",46.6677771228933,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2001,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",44.893098141352,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2000,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",39.7449582122093,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+1999,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",39.2588276782018,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+1998,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",42.0730459193122,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+1997,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",43.8322711937021,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+1996,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",42.4220120462714,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+1995,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",37.4760485006169,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+1994,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",32.5122178756888,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+1993,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",40.4031752240799,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+1992,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",29.4329425789787,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+1991,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",28.9197324414716,,,2026-11-11,raw/worldbank/NV.SRV.TOTL.ZS.json
+2025,NY.GDP.MKTP.CD,GDP (current US$),214233312784.397,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2024,NY.GDP.MKTP.CD,GDP (current US$),190833835445.1,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2023,NY.GDP.MKTP.CD,GDP (current US$),181221517868.744,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2022,NY.GDP.MKTP.CD,GDP (current US$),161989520721.19,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2021,NY.GDP.MKTP.CD,GDP (current US$),199765859570.935,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2020,NY.GDP.MKTP.CD,GDP (current US$),156617722013.342,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2019,NY.GDP.MKTP.CD,GDP (current US$),153883047509.577,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2018,NY.GDP.MKTP.CD,GDP (current US$),130891088293.55,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2017,NY.GDP.MKTP.CD,GDP (current US$),112090505081.739,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2016,NY.GDP.MKTP.CD,GDP (current US$),93355869403.9223,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2015,NY.GDP.MKTP.CD,GDP (current US$),91030967789.0717,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2014,NY.GDP.MKTP.CD,GDP (current US$),133503871861.723,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2013,NY.GDP.MKTP.CD,GDP (current US$),190498811460.028,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2012,NY.GDP.MKTP.CD,GDP (current US$),182591753827.949,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2011,NY.GDP.MKTP.CD,GDP (current US$),169333835201.554,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2010,NY.GDP.MKTP.CD,GDP (current US$),141209170427.233,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2009,NY.GDP.MKTP.CD,GDP (current US$),121552153444.124,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2008,NY.GDP.MKTP.CD,GDP (current US$),188110390659.515,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2007,NY.GDP.MKTP.CD,GDP (current US$),148733861386.139,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2006,NY.GDP.MKTP.CD,GDP (current US$),111884752475.248,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2005,NY.GDP.MKTP.CD,GDP (current US$),89238865118.5263,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2004,NY.GDP.MKTP.CD,GDP (current US$),67220154164.3166,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2003,NY.GDP.MKTP.CD,GDP (current US$),52010355753.0461,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2002,NY.GDP.MKTP.CD,GDP (current US$),43956163612.0433,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2001,NY.GDP.MKTP.CD,GDP (current US$),39309580983.2282,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2000,NY.GDP.MKTP.CD,GDP (current US$),32375083934.8241,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+1999,NY.GDP.MKTP.CD,GDP (current US$),31580639553.8298,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+1998,NY.GDP.MKTP.CD,GDP (current US$),41882523345.1804,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+1997,NY.GDP.MKTP.CD,GDP (current US$),50151531591.7317,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+1996,NY.GDP.MKTP.CD,GDP (current US$),44558831005.0621,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+1995,NY.GDP.MKTP.CD,GDP (current US$),48213856468.5718,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+1994,NY.GDP.MKTP.CD,GDP (current US$),52549580264.8064,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+1993,NY.GDP.MKTP.CD,GDP (current US$),65648559903.0571,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+1992,NY.GDP.MKTP.CD,GDP (current US$),73945908383.7046,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+1991,NY.GDP.MKTP.CD,GDP (current US$),77350733982.4458,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.CD.json
+2025,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.82152376756284,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.24811808426423,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.53473354963334,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-28.7585842155085,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.44562065945944,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-3.75281793983162,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2019,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.19950386354134,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2018,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.48836234022659,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2017,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.35997228099491,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2016,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.44098194492067,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2015,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-9.7729872128676,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2014,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-10.0788949840953,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2013,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.045439094492707,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2012,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.152314967200653,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2011,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.44528081048476,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2010,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.09200436668087,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2009,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-15.1364679101502,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2008,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.24349159628288,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2007,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),8.21584445165715,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2006,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),7.57142076322967,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2005,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.07123039245209,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2004,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),11.7953525281136,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2003,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),9.51660986436364,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2002,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.33964720719075,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2001,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),8.80000000367222,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2000,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.90000000024899,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+1999,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-0.200000000106499,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+1998,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-1.90000000214164,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+1997,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-2.99999999842365,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+1996,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-10,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+1995,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-12.2000000007385,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+1994,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-22.8999999992283,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+1993,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-14.1999999993643,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+1992,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-9.90000000204168,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+1991,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-8.6999999997216,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.ZG.json
+2025,NY.GDP.MKTP.KD,GDP (constant 2015 US$),80225421017.1528,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2024,NY.GDP.MKTP.KD,GDP (constant 2015 US$),78790238103.5768,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2023,NY.GDP.MKTP.KD,GDP (constant 2015 US$),76311548883.8968,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2022,NY.GDP.MKTP.KD,GDP (constant 2015 US$),72309415409.6738,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2021,NY.GDP.MKTP.KD,GDP (constant 2015 US$),101499127457.564,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2020,NY.GDP.MKTP.KD,GDP (constant 2015 US$),98118341608.386,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2019,NY.GDP.MKTP.KD,GDP (constant 2015 US$),101944118786.821,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2018,NY.GDP.MKTP.KD,GDP (constant 2015 US$),98783535744.1445,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2017,NY.GDP.MKTP.KD,GDP (constant 2015 US$),95453762636.0202,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2016,NY.GDP.MKTP.KD,GDP (constant 2015 US$),93253017277.0895,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2015,NY.GDP.MKTP.KD,GDP (constant 2015 US$),91030967789.0717,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2014,NY.GDP.MKTP.KD,GDP (constant 2015 US$),100891035818.548,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2013,NY.GDP.MKTP.KD,GDP (constant 2015 US$),112199506223.487,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2012,NY.GDP.MKTP.KD,GDP (constant 2015 US$),112148546939.271,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2011,NY.GDP.MKTP.KD,GDP (constant 2015 US$),111977987704.028,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2010,NY.GDP.MKTP.KD,GDP (constant 2015 US$),106195352549.996,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2009,NY.GDP.MKTP.KD,GDP (constant 2015 US$),102020662582.215,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2008,NY.GDP.MKTP.KD,GDP (constant 2015 US$),120217318405.036,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2007,NY.GDP.MKTP.KD,GDP (constant 2015 US$),117579433691.217,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2006,NY.GDP.MKTP.KD,GDP (constant 2015 US$),108652697104.575,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2005,NY.GDP.MKTP.KD,GDP (constant 2015 US$),101005170642.605,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2004,NY.GDP.MKTP.KD,GDP (constant 2015 US$),97995502972.09,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2003,NY.GDP.MKTP.KD,GDP (constant 2015 US$),87656150954.4385,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2002,NY.GDP.MKTP.KD,GDP (constant 2015 US$),80039138412.8861,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2001,NY.GDP.MKTP.KD,GDP (constant 2015 US$),75981969310.6229,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2000,NY.GDP.MKTP.KD,GDP (constant 2015 US$),69836368849.3183,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+1999,NY.GDP.MKTP.KD,GDP (constant 2015 US$),65945579649.8151,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+1998,NY.GDP.MKTP.KD,GDP (constant 2015 US$),66077735120.1257,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+1997,NY.GDP.MKTP.KD,GDP (constant 2015 US$),67357528156.5426,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+1996,NY.GDP.MKTP.KD,GDP (constant 2015 US$),69440750675.7195,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+1995,NY.GDP.MKTP.KD,GDP (constant 2015 US$),77156389639.6884,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+1994,NY.GDP.MKTP.KD,GDP (constant 2015 US$),87877436947.9924,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+1993,NY.GDP.MKTP.KD,GDP (constant 2015 US$),113978517441.132,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+1992,NY.GDP.MKTP.KD,GDP (constant 2015 US$),132842094918.75,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+1991,NY.GDP.MKTP.KD,GDP (constant 2015 US$),147438507127.37,,,2026-11-11,raw/worldbank/NY.GDP.MKTP.KD.json
+2025,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2196.63818359375,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2024,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2226.05810546875,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2023,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2164.26123046875,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2022,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),1874.66296386719,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2021,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2426.6123046875,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2020,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2324.107421875,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2019,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2398.07836914063,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2018,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2308.6669921875,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2017,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2217.7529296875,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2016,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2156.0830078125,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2015,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2094.47387695313,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2014,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2308.6435546875,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2013,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2432.41625976563,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2012,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2426.92944335938,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2011,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2418.12084960938,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2010,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2285.93383789063,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2009,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2188.17016601563,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2008,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2567.69409179688,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2007,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2498.35205078125,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2006,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2298.13232421875,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2005,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2122.6015625,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2004,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2042.44494628906,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2003,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),1814.25854492188,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2002,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),1644.28125,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2001,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),1547.2783203125,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2000,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),1409.22265625,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+1999,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),1319.533203125,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+1998,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),1311.59362792969,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+1997,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),1326.27795410156,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+1996,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),1355.57336425781,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+1995,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),1493.38208007813,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+1994,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),1687.48449707031,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+1993,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2177.23486328125,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+1992,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2538.85278320313,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+1991,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2826.06469726563,,,2026-11-11,raw/worldbank/NY.GDP.PCAP.KD.json
+2025,SP.POP.TOTL,"Population, total",38980376,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2024,SP.POP.TOTL,"Population, total",37860221,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2023,SP.POP.TOTL,"Population, total",37732836,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2022,SP.POP.TOTL,"Population, total",41048766,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2021,SP.POP.TOTL,"Population, total",44298640,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2020,SP.POP.TOTL,"Population, total",44680014,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2019,SP.POP.TOTL,"Population, total",44957458,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2018,SP.POP.TOTL,"Population, total",45208907,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2017,SP.POP.TOTL,"Population, total",45436041,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2016,SP.POP.TOTL,"Population, total",45616832,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2015,SP.POP.TOTL,"Population, total",45784896,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2014,SP.POP.TOTL,"Population, total",45972380,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2013,SP.POP.TOTL,"Population, total",46126770,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2012,SP.POP.TOTL,"Population, total",46210056,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2011,SP.POP.TOTL,"Population, total",46307853,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2010,SP.POP.TOTL,"Population, total",46456003,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2009,SP.POP.TOTL,"Population, total",46623731,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2008,SP.POP.TOTL,"Population, total",46819175,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2007,SP.POP.TOTL,"Population, total",47062798,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2006,SP.POP.TOTL,"Population, total",47278694,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2005,SP.POP.TOTL,"Population, total",47585556,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2004,SP.POP.TOTL,"Population, total",47979507,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2003,SP.POP.TOTL,"Population, total",48315136,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2002,SP.POP.TOTL,"Population, total",48677281,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2001,SP.POP.TOTL,"Population, total",49106855,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+2000,SP.POP.TOTL,"Population, total",49556660,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+1999,SP.POP.TOTL,"Population, total",49976446,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+1998,SP.POP.TOTL,"Population, total",50379731,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+1997,SP.POP.TOTL,"Population, total",50786885,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+1996,SP.POP.TOTL,"Population, total",51226109,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+1995,SP.POP.TOTL,"Population, total",51665539,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+1994,SP.POP.TOTL,"Population, total",52075998,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+1993,SP.POP.TOTL,"Population, total",52350126,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+1992,SP.POP.TOTL,"Population, total",52323671,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json
+1991,SP.POP.TOTL,"Population, total",52170961,,,2026-11-11,raw/worldbank/SP.POP.TOTL.json

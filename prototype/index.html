@@ -1,0 +1,379 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#163c55" />
+    <title>Where Ukraine trades | Economic atlas</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath fill='%231675ae' d='M0 0h32v16H0z'/%3E%3Cpath fill='%23f5cc41' d='M0 16h32v16H0z'/%3E%3C/svg%3E"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <script defer src="vendor/d3.v7.min.js"></script>
+    <script defer src="app.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#controls">Skip to controls</a>
+    <div class="page">
+      <header class="masthead">
+        <div>
+          <div class="atlas-label">
+            <span class="flag" aria-hidden="true"></span> Ukraine / Economic
+            atlas
+          </div>
+          <h1>Where Ukraine trades<span>.</span></h1>
+          <p class="intro">
+            Explore its partners, products, and the economy behind the trade.
+          </p>
+        </div>
+        <div class="header-actions">
+          <span class="prototype-label">Lecture prototype · D3</span
+          ><a href="#sources"
+            >Sources &amp; limits <span aria-hidden="true">↗</span></a
+          ><a id="download" class="text-button" aria-disabled="true"
+            >↓ Download selection</a
+          >
+        </div>
+      </header>
+
+      <main>
+        <div id="load-status" role="status" class="load-status">
+          Loading the local data files…
+        </div>
+        <section
+          id="controls"
+          class="controls"
+          aria-label="Trade controls"
+          hidden
+        >
+          <label class="field"
+            >Trade series<select id="dataset">
+              <option value="goods">Goods · Ukrstat</option>
+              <option value="it">Computer services · NBU</option>
+            </select></label
+          >
+          <div class="field">
+            Direction
+            <div class="segmented" role="group" aria-label="Trade direction">
+              <button data-flow="export" aria-pressed="true">Exports</button
+              ><button data-flow="import" aria-pressed="false">Imports</button>
+            </div>
+          </div>
+          <label class="field product-field"
+            >Product group<select id="sector">
+              <option>All goods</option>
+            </select></label
+          >
+          <label class="field"
+            >Map measure<select id="measure">
+              <option value="value">Value · current USD</option>
+              <option value="share">Share of total · %</option>
+            </select></label
+          >
+        </section>
+
+        <section class="atlas" aria-label="Trade partner map" hidden id="atlas">
+          <div class="map-column">
+            <div class="map-heading">
+              <div>
+                <p class="eyebrow" id="map-kicker">Exports from Ukraine</p>
+                <h2 id="map-title">All goods</h2>
+              </div>
+              <div class="view-controls" role="group" aria-label="Map view">
+                <button id="world-view" aria-pressed="true">World</button
+                ><button id="europe-view" aria-pressed="false">Europe</button>
+              </div>
+            </div>
+            <div class="map-wrap" id="map-wrap">
+              <svg
+                id="map"
+                viewBox="0 0 960 500"
+                role="img"
+                aria-labelledby="map-svg-title map-svg-desc"
+              >
+                <title id="map-svg-title">Ukraine's trading partners</title>
+                <desc id="map-svg-desc">
+                  Country colors show recorded trade values. Ukraine is yellow.
+                  A keyboard-accessible partner list appears beside the map.
+                </desc>
+                <defs>
+                  <pattern
+                    id="missing"
+                    width="6"
+                    height="6"
+                    patternUnits="userSpaceOnUse"
+                  >
+                    <rect width="6" height="6" fill="#e0e8ec" />
+                    <path
+                      d="M-1 1L1-1M0 6L6 0M5 7L7 5"
+                      stroke="#c4d1d9"
+                      stroke-width="0.7"
+                    />
+                  </pattern>
+                  <linearGradient
+                    id="color-key"
+                    x1="0"
+                    x2="100%"
+                  ></linearGradient>
+                </defs>
+                <g id="map-geography"></g>
+              </svg>
+              <span class="map-year" id="map-year" aria-hidden="true"
+                >2023</span
+              >
+              <div class="map-empty" id="map-empty" hidden>
+                <h3>No trade map for <span id="empty-year"></span></h3>
+                <p id="empty-explanation"></p>
+                <button id="jump-to-data">
+                  Go to first available trade year
+                </button>
+                <p class="empty-hint">
+                  The GDP timeline below still covers this year.
+                </p>
+              </div>
+              <span class="ukraine-key"><i></i> Ukraine · reporter</span>
+            </div>
+            <div class="legend-row">
+              <div class="color-legend">
+                <svg
+                  id="legend"
+                  viewBox="0 0 260 42"
+                  aria-label="Map color scale"
+                ></svg
+                ><span id="scale-note">Fixed scale across years</span>
+              </div>
+              <div class="missing-key">
+                <span class="zero-swatch"></span>Reported zero
+                <span class="missing-swatch"></span>No observation
+              </div>
+            </div>
+            <div class="map-footer">
+              <span>Hover a country. Click to follow its trade.</span
+              ><span>© EuroGeographics for the administrative boundaries</span>
+            </div>
+          </div>
+          <aside class="partners" aria-labelledby="partner-heading">
+            <div class="partners-heading">
+              <p class="eyebrow" id="total-label">Published exports</p>
+              <div class="trade-total" id="trade-total"></div>
+              <p id="total-note"></p>
+            </div>
+            <div class="list-heading">
+              <h3 id="partner-heading">Leading partners</h3>
+              <span id="partner-count"></span>
+            </div>
+            <div id="partner-list" class="partner-list"></div>
+            <div class="country-detail">
+              <div class="country-detail-heading">
+                <h3 id="country-title">Choose a partner</h3>
+                <button
+                  id="clear-country"
+                  class="text-button"
+                  aria-label="Clear selected partner"
+                  hidden
+                >
+                  Clear
+                </button>
+              </div>
+              <p id="country-subtitle">
+                Click a country or a ranked partner to see its history.
+              </p>
+              <svg
+                id="country-chart"
+                viewBox="0 0 320 110"
+                role="img"
+                aria-label="Selected partner trade history"
+              ></svg>
+            </div>
+          </aside>
+        </section>
+
+        <section
+          class="timeline"
+          id="timeline"
+          aria-label="Year controls"
+          hidden
+        >
+          <div class="year-readout">
+            <label for="year">Selected year</label
+            ><output for="year" id="year-value">2023</output>
+          </div>
+          <div class="year-track">
+            <input
+              type="range"
+              id="year"
+              min="1991"
+              max="2025"
+              value="2023"
+              step="1"
+              aria-describedby="availability"
+            />
+            <div class="year-ticks">
+              <button data-year="1991">1991</button
+              ><button data-year="1996">1996</button
+              ><button data-year="2005">2005</button
+              ><button data-year="2011">2011</button
+              ><button data-year="2014">2014</button
+              ><button data-year="2022">2022</button
+              ><button data-year="2025">2025</button>
+            </div>
+            <p id="availability"></p>
+          </div>
+          <div class="playback">
+            <button id="previous-year" aria-label="Previous year">←</button
+            ><button id="play" aria-label="Play available trade years">
+              ▶ Play</button
+            ><button id="next-year" aria-label="Next year">→</button>
+          </div>
+        </section>
+        <p
+          class="selection-note"
+          id="selection-note"
+          role="status"
+          aria-live="polite"
+        ></p>
+
+        <section
+          class="context-grid"
+          id="context"
+          aria-label="Economic context"
+          hidden
+        >
+          <article class="context-panel">
+            <div class="panel-heading">
+              <div>
+                <p class="eyebrow">The economy behind the map</p>
+                <h2>Output since independence</h2>
+              </div>
+              <div class="chart-stat">
+                <strong id="gdp-value"></strong
+                ><span>Real GDP · 1991 = 100</span>
+              </div>
+            </div>
+            <svg
+              id="gdp-chart"
+              viewBox="0 0 620 225"
+              role="img"
+              aria-label="Real GDP indexed to 1991 equals 100, from 1991 to 2025"
+            ></svg>
+            <p class="chart-footnote">
+              World Bank WDI · constant 2015 USD. Click the chart to select a
+              year. Vertical markers identify 2014 and 2022; territorial
+              coverage changes affect comparisons.
+            </p>
+          </article>
+          <article class="context-panel">
+            <div class="panel-heading">
+              <div>
+                <p class="eyebrow">Domestic economic structure</p>
+                <h2>What makes up GDP?</h2>
+              </div>
+              <span class="chart-year" id="structure-year">2023</span>
+            </div>
+            <div id="structure-bars" class="structure-bars"></div>
+            <p class="chart-footnote">
+              Value added as a share of GDP, World Bank WDI. These are economic
+              sectors, not export products. The shares need not sum to 100%
+              because GDP also includes taxes less subsidies on products.
+            </p>
+          </article>
+        </section>
+
+        <section class="sources" id="sources">
+          <div>
+            <p class="eyebrow">Read the map carefully</p>
+            <h2>The gaps are part of the story.</h2>
+          </div>
+          <div class="source-notes">
+            <p>
+              Goods maps cover <strong>2011 to 2023</strong>. Computer-services
+              maps cover <strong>2011 to 2025</strong> and show selected
+              partners only. Earlier trade gaps stay blank. The GDP charts start
+              in 1991. This prototype does not show partial-year 2026 trade.
+            </p>
+            <p>
+              Product groups are not industries. Shaded countries show recorded
+              trade, not the share of production made in Ukraine. Source
+              coverage changes with occupation and war, especially from 2014 and
+              2022. Monetary values are nominal, not inflation-adjusted.
+            </p>
+            <details>
+              <summary>Sources, calculations, and reuse</summary>
+              <div class="details-content">
+                <p>
+                  <a
+                    href="https://stat.gov.ua/uk/datasets/zovnishnya-torhivlya-tovaramy"
+                    target="_blank"
+                    rel="noreferrer"
+                    >Ukrstat goods statistics</a
+                  >
+                  provide annual partner totals and two-digit UKTZED products.
+                  The product filter uses the documented teaching groups from
+                  the data package. Sector-filtered totals sum named ISO3
+                  partners only; residual and non-HS special goods are excluded.
+                  Shares for All goods use the published world total.
+                </p>
+                <p>
+                  <a
+                    href="https://bank.gov.ua/en/statistic/sector-external"
+                    target="_blank"
+                    rel="noreferrer"
+                    >NBU external-sector statistics</a
+                  >
+                  provide computer-services trade. Shares use its published
+                  computer-services total, including partners outside the
+                  displayed list. Goods and services remain separate series.
+                </p>
+                <p>
+                  <a
+                    href="https://data.worldbank.org/country/ukraine"
+                    target="_blank"
+                    rel="noreferrer"
+                    >World Bank WDI</a
+                  >
+                  provides GDP and sector shares. The map uses
+                  <a
+                    href="https://gisco-services.ec.europa.eu/distribution/v2/countries/"
+                    target="_blank"
+                    rel="noreferrer"
+                    >GISCO 2024 boundaries</a
+                  >, not historical borders or military control. Crimea is
+                  included in Ukraine. © EuroGeographics for the administrative
+                  boundaries. Noncommercial use only; review
+                  <a
+                    href="https://ec.europa.eu/eurostat/web/gisco/geodata/administrative-units"
+                    target="_blank"
+                    rel="noreferrer"
+                    >the geographical data terms</a
+                  >.
+                </p>
+                <p>
+                  Map scales are fixed across years within each series, flow,
+                  product group, and measure. Zero and missing are different.
+                  Tiny countries may not have a polygon at this map resolution.
+                  The selected-partner list still reports them. Borders do not
+                  measure statistical coverage.
+                </p>
+                <p>
+                  <a href="../README.md">Full data README</a> ·
+                  <a href="../manifest.json">Source download manifest</a> ·
+                  <a href="../metadata/reconciliation_differences.csv"
+                    >Published component discrepancies</a
+                  >
+                </p>
+              </div>
+            </details>
+          </div>
+        </section>
+      </main>
+      <footer class="page-footer">
+        <span>Ukraine / Economic atlas</span
+        ><span
+          >Data snapshot · 15 November 2026 · Runs locally, no analytics</span
+        >
+      </footer>
+    </div>
+    <div id="tooltip" class="tooltip" role="tooltip" hidden></div>
+  </body>
+</html>

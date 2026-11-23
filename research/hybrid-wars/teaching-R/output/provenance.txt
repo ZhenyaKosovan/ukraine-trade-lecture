@@ -1,0 +1,6 @@
+Re-estimation of the national author-code baseline, not all robustness blocks in the paper.
+Outcome: GDP per person, 2011 international dollars at PPP.
+Fit: 1995-2012. First treated year: 2013. Evaluate: 2013-2017.
+The implemented trade-dependence predictor is GDP-based, matching the archived R code.
+Do not claim numerical replication before comparing fit, weights, paths, and averages with the paper.
+Created at 2026-11-22 11:39:56 UTC

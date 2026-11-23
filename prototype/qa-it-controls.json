@@ -1,0 +1,198 @@
+{
+  "recorded_on": "2026-11-15",
+  "browser": "Chrome via agent_browser",
+  "all_steps_succeeded": true,
+  "steps": [
+    {
+      "command": [
+        "open",
+        "http://127.0.0.1:8765/prototype/?year=2025&dataset=it&flow=import"
+      ],
+      "success": true,
+      "result": {
+        "title": "Where Ukraine trades | Economic atlas",
+        "url": "http://127.0.0.1:8765/prototype/?year=2025&dataset=it&flow=import"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "wait",
+        "--load",
+        "networkidle"
+      ],
+      "success": true,
+      "result": {
+        "state": "networkidle"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "snapshot",
+        "-i"
+      ],
+      "success": true,
+      "result": {
+        "origin": "http://127.0.0.1:8765/prototype/?year=2025&dataset=it&flow=import&sector=Computer+services&measure=value",
+        "snapshot_performed": true
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "download",
+        "#download",
+        "/home/zhenya/ukraine-trade-lecture/prototype/qa-it-import-2025.csv"
+      ],
+      "success": true,
+      "result": {
+        "path": "/home/zhenya/ukraine-trade-lecture/prototype/qa-it-import-2025.csv"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "get",
+        "text",
+        "#trade-total"
+      ],
+      "success": true,
+      "result": {
+        "origin": "http://127.0.0.1:8765/prototype/?year=2025&dataset=it&flow=import&sector=Computer+services&measure=value",
+        "text": "$1.72bn"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "click",
+        "#europe-view"
+      ],
+      "success": true,
+      "result": {
+        "clicked": "#europe-view"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "snapshot",
+        "-i"
+      ],
+      "success": true,
+      "result": {
+        "origin": "http://127.0.0.1:8765/prototype/?year=2025&dataset=it&flow=import&sector=Computer+services&measure=value",
+        "snapshot_performed": true
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "eval",
+        "({viewTransform:document.querySelector('#map-geography').getAttribute('transform'),sectorDisabled:document.querySelector('#sector').disabled})"
+      ],
+      "success": true,
+      "result": {
+        "origin": "http://127.0.0.1:8765/prototype/?year=2025&dataset=it&flow=import&sector=Computer+services&measure=value",
+        "result": {
+          "sectorDisabled": true,
+          "viewTransform": "translate(-1032.0268031266069,-92.71615466132948) scale(3)"
+        }
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "click",
+        "#play"
+      ],
+      "success": true,
+      "result": {
+        "clicked": "#play"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "wait",
+        "--fn",
+        "Number(document.querySelector('#year-value').textContent) > 2011"
+      ],
+      "success": true,
+      "result": {
+        "result": true
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "snapshot",
+        "-i"
+      ],
+      "success": true,
+      "result": {
+        "origin": "http://127.0.0.1:8765/prototype/?year=2012&dataset=it&flow=import&sector=Computer+services&measure=value",
+        "snapshot_performed": true
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "click",
+        "#play"
+      ],
+      "success": true,
+      "result": {
+        "clicked": "#play"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "get",
+        "text",
+        "#year-value"
+      ],
+      "success": true,
+      "result": {
+        "origin": "http://127.0.0.1:8765/prototype/?year=2012&dataset=it&flow=import&sector=Computer+services&measure=value",
+        "text": "2012"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "get",
+        "text",
+        "#play"
+      ],
+      "success": true,
+      "result": {
+        "origin": "http://127.0.0.1:8765/prototype/?year=2012&dataset=it&flow=import&sector=Computer+services&measure=value",
+        "text": "▶ Play"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "errors"
+      ],
+      "success": true,
+      "result": {
+        "errors": []
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "console"
+      ],
+      "success": true,
+      "result": {
+        "messages": []
+      },
+      "error": null
+    }
+  ]
+}

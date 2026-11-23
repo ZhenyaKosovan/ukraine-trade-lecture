@@ -1,0 +1,154 @@
+{
+  "prepared_on": "2026-11-15",
+  "slides": 18,
+  "replication_status": "Published-weight reconstruction and published tables; estimator NOT run",
+  "pdf": "18 pages, 792 x 445.5 points, vector charts/text",
+  "validation": "6 deck tests + 5 atlas tests + 7 original data tests passed; browser layout, labels, controls and load checks saved",
+  "files": [
+    {
+      "file": "deck/README.md",
+      "bytes": 10110,
+      "sha256": "f19086f88d17bfb4753ea4bfa057f32ff4fd43871222b2692ecec0a9de33cdb5"
+    },
+    {
+      "file": "deck/data.json",
+      "bytes": 63498,
+      "sha256": "36cb1da0297a03dd2cadb568b0c9c5ed18edc1e6d75d9b988e67d6f228b865db"
+    },
+    {
+      "file": "deck/deck.css",
+      "bytes": 17231,
+      "sha256": "47a95eb6e1610d9e7e2273ce5e8cd6b100ec3ed21bd85ec1caea8ddb45852c11"
+    },
+    {
+      "file": "deck/deck.js",
+      "bytes": 30154,
+      "sha256": "7ecb3b96d0af0447394bc2ee6f6dcd787696d170623b01b600973bd6548dc3dd"
+    },
+    {
+      "file": "deck/index.html",
+      "bytes": 2257,
+      "sha256": "596edebb42f9c5334bdd4b326c6ff4010d6af3aa11958b6ade6b37131f509234"
+    },
+    {
+      "file": "deck/pdf-page-13.png",
+      "bytes": 64311,
+      "sha256": "2fed0d2b704ecbc462c683cf3cf4577c90f826bc6ad6d9dadedb5135b8d8774f"
+    },
+    {
+      "file": "deck/pdf-text.txt",
+      "bytes": 31585,
+      "sha256": "e66ff793bf60bca84b4af22a813d921f2f10eaf12de91009f1ffd7e117d25d84"
+    },
+    {
+      "file": "deck/preview-counterfactual.png",
+      "bytes": 89634,
+      "sha256": "ec5efd5890db5ef2ee757e803fb91b6512099a039fbc07c76943abf9d7e53f49"
+    },
+    {
+      "file": "deck/preview-gap.png",
+      "bytes": 95379,
+      "sha256": "9cf0683649722adf589e06903022089d7c3dad59280661ceac476ced7d1ea229"
+    },
+    {
+      "file": "deck/preview-gdp.png",
+      "bytes": 84742,
+      "sha256": "4059bdc7fd65e2cc4c9842034ee84884798f908eff02c81652d395896c3e739a"
+    },
+    {
+      "file": "deck/preview-intro.png",
+      "bytes": 164960,
+      "sha256": "55ead1c3c085e0655f0e3921d3cb2ae31246a985eeda73dcaa16c09903199a84"
+    },
+    {
+      "file": "deck/preview-mobile.png",
+      "bytes": 75914,
+      "sha256": "27357ca9b4b31b0ffc20a952ea66b017e96aa8f9c9d65f728149af4c1b3ba090"
+    },
+    {
+      "file": "deck/preview-pdf.png",
+      "bytes": 62187,
+      "sha256": "8fea3b95848af38c398a5c0c4f14dd5d218a5d98d22576273075db7b1741209f"
+    },
+    {
+      "file": "deck/preview-sensitivity.png",
+      "bytes": 113495,
+      "sha256": "0d60b37eca8ca3589c4dad95e6f4920abd90dfdcc99bdebb33f1851beae19bc4"
+    },
+    {
+      "file": "deck/preview-weights.png",
+      "bytes": 170999,
+      "sha256": "8bc5df109a24cb9612c85ac417997299aa52cff91930577688fdfe3bf86c9137"
+    },
+    {
+      "file": "deck/qa-controls.json",
+      "bytes": 6910,
+      "sha256": "c462c81491f8055d4692a43e8702c839408553876f6d722173ad7055128be27c"
+    },
+    {
+      "file": "deck/qa-desktop.json",
+      "bytes": 7823,
+      "sha256": "ddca972cdb4491b2be6f776da499503f912e01b6abab306a09cc5420fc1be837"
+    },
+    {
+      "file": "deck/qa-final-charts.json",
+      "bytes": 3311,
+      "sha256": "8d741dc4f765677106efd73715ccd457835f6f70dc3129d11ef788b2120e11a4"
+    },
+    {
+      "file": "deck/qa-labels.json",
+      "bytes": 3114,
+      "sha256": "70cc2464cba87b81ddae1a898e76f01a857447cc28cb165a84f2bfbb4c7dea2d"
+    },
+    {
+      "file": "deck/qa-layout.json",
+      "bytes": 7166,
+      "sha256": "5a742bbeba0d8d29e1b7c5282eb4087b118a3ef77c71cb8a7c4d7566c6081507"
+    },
+    {
+      "file": "deck/qa-load.json",
+      "bytes": 15767,
+      "sha256": "5dfa580f2088fa2c94f7a2618214576e1dc6bf688c66fff575e7a1df25bee628"
+    },
+    {
+      "file": "deck/qa-mobile.json",
+      "bytes": 4225,
+      "sha256": "8c5ce4b49e89acf7122bd5f4be7bc683cf80c5423796f83ceaa8d08c95e7a9cc"
+    },
+    {
+      "file": "deck/slides.js",
+      "bytes": 22369,
+      "sha256": "e2d251efa785d7db795696bbf5515be0090a20ef32ffa879cf013ca5ebe5e499"
+    },
+    {
+      "file": "deck/speaker-notes.md",
+      "bytes": 11196,
+      "sha256": "dafbb15e7fb09d5c5f7ab78a572fb849e459f3d9f46d6bb649f5375d171ff3b3"
+    },
+    {
+      "file": "deck/ukraine-lecture-print.pdf",
+      "bytes": 725764,
+      "sha256": "ffc495365f99b499cd1e56869a7e490fafb3f1fb90fdede9398b07ecd963cbcd"
+    },
+    {
+      "file": "deck/ukraine-lecture.pdf",
+      "bytes": 440021,
+      "sha256": "269968eac76e950b32fd87ee744b2c1dd654115d407e8e89c4229baefcd358fd"
+    },
+    {
+      "file": "research/hybrid-wars/teaching-R/replicate.R",
+      "bytes": 5831,
+      "sha256": "6bcc551d97ee03667743f2432531bd6b04820f3995b3a984a96002cd39519af6"
+    },
+    {
+      "file": "scripts/build_deck_data.py",
+      "bytes": 5397,
+      "sha256": "4ce6f97ffa78540eda96824943c8cd5152216869a491da87d2d98a799108a6b1"
+    },
+    {
+      "file": "scripts/test_deck.py",
+      "bytes": 3929,
+      "sha256": "3aed3c044d9f21098a04f8396a06994819db048bceec916d7ab6808e513fcf56"
+    }
+  ]
+}

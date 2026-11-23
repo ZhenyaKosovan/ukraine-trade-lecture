@@ -37,6 +37,13 @@ Original photos downloaded from Wikimedia Commons. Check each source page for fu
 - Commons source: https://commons.wikimedia.org/wiki/File:Protest_rally_on_the_Evropeyskaya_Square%2C_November_24%2C_2013.jpg
 - Original file: https://upload.wikimedia.org/wikipedia/commons/8/82/Protest_rally_on_the_Evropeyskaya_Square%2C_November_24%2C_2013.jpg
 
+## maidan-camp-2013.jpg
+- Depicts: Maidan, Kyiv, 11 December 2013
+- Author: ВО «Свобода»
+- License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+- Commons source: https://commons.wikimedia.org/wiki/File:2013-12-11._%D0%A8%D1%82%D1%83%D1%80%D0%BC_%D0%9C%D0%B0%D0%B9%D0%B4%D0%B0%D0%BD%D0%B0_14.JPG
+- Display copy: unchanged from the supplied file.
+
 ## invasion-2014.jpg
 - Depicts: Unmarked soldiers in Simferopol, 2 March 2014
 - Author: Elizabeth Arrott

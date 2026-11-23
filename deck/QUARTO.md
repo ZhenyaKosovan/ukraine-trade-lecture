@@ -43,8 +43,8 @@ Use arrow keys to navigate the deck and S for presenter notes. The button at the
 - `quarto-theme.css`: presentation layout and embedded local fonts.
 - `history.qmd`, `history.css`, `history-controls.html`: seven Closeread triggers and their pinned photos, layout, and date controls. The [tutorial](https://github.com/KennethOdoh/closeread-tutorial) uses the same extension. Closeread v1.0.1 is included under `_extensions/qmd-lab/closeread/`, with two local guards in its JavaScript for pages without Observable cells or progress blocks.
 - `highcharter-reveal.html`: a small chart-reflow hook for Reveal slide changes. It does not draw charts.
-- `data.json`: frozen observations and published paper tables, rebuilt by `scripts/build_deck_data.py`.
+- `data.json`: frozen observations and published paper tables, rebuilt by `scripts/build_deck_data.py`. `cpi-inflation.json` is a separate World Bank CPI snapshot, with the API URL and update date.
 
-The synthetic path remains a reconstruction using rounded published weights. Published gap and sensitivity tables are separate from that reconstruction. No optimizer or placebo model is run. The method timeline and placebo procedure are now text diagrams, not fabricated statistical plots.
+The synthetic path remains a reconstruction using rounded published weights; the gap and sensitivity charts redraw published values. A separate national model rerun matches the headline and annual gaps to reported precision, but one donor-exclusion result differs and placebo inference has not been verified. See `research/hybrid-wars/teaching-R/replication-findings.md`. Rendering the deck does not fit the model.
 
 The [GISCO country boundaries](https://gisco-services.ec.europa.eu/distribution/v2/countries/) retain their displayed EuroGeographics credit and [noncommercial-use conditions](https://ec.europa.eu/eurostat/web/gisco/geodata/administrative-units). Highcharts has separate licensing terms; check the terms applicable to your educational use and redistribution.

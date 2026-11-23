@@ -1,0 +1,529 @@
+year,reporter,partner_code,partner_name,partner_iso3,partner_type,reporter_flow,ukraine_flow,sitc1,product_name,value_eur,status,period_scope,source_file,dataset
+2002,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,775641271,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2003,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,236512800,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2004,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,345982563,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2005,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,451128458,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2006,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,370098196,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2007,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,344566052,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2008,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,998235872,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2009,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,620047407,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2010,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,427165361,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2011,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,1264654881,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2012,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,2267807655,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2013,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,2046356063,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2014,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,2291803364,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2015,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,2539703068,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2016,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,2300400564,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2017,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,2866780857,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2018,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,3439188393,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2019,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,4094424529,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2020,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,3027900475,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2021,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,3332014454,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2022,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,6753857668,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2023,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,7584175327,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2024,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,7378368432,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2025,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,0,Food and live animals,5398515998,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2002,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,395732448,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2003,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,488403196,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2004,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,490607592,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2005,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,539386115,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2006,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,692372059,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2007,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,858479006,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2008,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,1289852101,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2009,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,977046132,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2010,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,1181206657,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2011,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,1338876892,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2012,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,1604479366,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2013,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,1596548246,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2014,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,1286186957,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2015,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,955211704,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2016,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,1049682528,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2017,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,1238145888,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2018,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,1434563870,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2019,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,1722316826,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2020,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,2028132463,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2021,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,2254534017,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2022,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,2261407741,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2023,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,2542358916,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2024,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,2685454217,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2025,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,0,Food and live animals,3221874551,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2002,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,8526638,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2003,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,10619395,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2004,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,13878303,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2005,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,14930104,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2006,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,15976017,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2007,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,20991777,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2008,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,27495167,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2009,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,24271687,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2010,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,20879716,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2011,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,19973946,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2012,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,19175297,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2013,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,20388216,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2014,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,18362700,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2015,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,28950536,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2016,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,18463508,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2017,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,21449575,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2018,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,30951889,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2019,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,28563648,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2020,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,46686754,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2021,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,91545111,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2022,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,64437225,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2023,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,100714580,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2024,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,92900211,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2025,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,1,Beverages and tobacco,97870606,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2002,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,60562814,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2003,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,120565690,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2004,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,90341107,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2005,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,107864187,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2006,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,130071030,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2007,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,162011443,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2008,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,169282590,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2009,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,116796720,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2010,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,175868926,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2011,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,184979275,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2012,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,221220612,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2013,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,225459666,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2014,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,177932218,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2015,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,166546649,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2016,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,221267118,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2017,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,281451148,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2018,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,348786027,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2019,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,479663646,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2020,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,590686234,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2021,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,588153049,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2022,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,424421833,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2023,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,611611900,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2024,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,685581038,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2025,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,1,Beverages and tobacco,774040221,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2002,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",1041345896,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2003,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",1115674598,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2004,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",1424888463,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2005,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",1289618665,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2006,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",1469795057,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2007,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",1727253754,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2008,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",2488130761,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2009,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",1649232381,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2010,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",2451193921,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2011,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",2999227776,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2012,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",3008939231,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2013,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",3060763855,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2014,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",2590777886,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2015,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",2384550192,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2016,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",2286799859,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2017,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",3188612941,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2018,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",3687597738,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2019,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",4323904760,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2020,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",3333125134,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2021,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",5318856981,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2022,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",6601936017,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2023,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",4581413337,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2024,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",5224680836,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2025,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,2,"Crude materials, inedible, except fuels",3773293501,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2002,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",123545153,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2003,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",146844938,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2004,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",150036904,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2005,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",197371799,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2006,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",237992176,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2007,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",306415267,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2008,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",380158764,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2009,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",246249417,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2010,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",333343891,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2011,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",412760494,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2012,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",464468216,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2013,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",497818666,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2014,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",387470938,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2015,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",372774536,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2016,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",454434566,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2017,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",520043435,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2018,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",536156053,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2019,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",552543248,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2020,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",510222452,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2021,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",609363906,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2022,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",508134151,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2023,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",606513201,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2024,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",590289457,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2025,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,2,"Crude materials, inedible, except fuels",539565982,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2002,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",1364994046,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2003,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",1389333400,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2004,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",1493940199,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2005,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",1305782250,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2006,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",1070172434,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2007,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",1417603827,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2008,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",2392044935,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2009,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",941718780,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2010,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",1474005264,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2011,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",1871834754,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2012,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",1489837508,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2013,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",1085437584,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2014,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",985843367,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2015,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",522084288,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2016,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",552997364,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2017,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",875789123,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2018,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",594895108,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2019,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",700264715,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2020,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",473871377,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2021,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",933060192,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2022,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",1349817691,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2023,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",230267387,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2024,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",159295664,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2025,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,3,"Mineral fuels, lubricants and related materials",240717954,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2002,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",144882048,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2003,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",99627694,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2004,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",118347745,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2005,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",255430178,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2006,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",526173789,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2007,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",767511671,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2008,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",1367248771,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2009,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",579471305,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2010,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",1027212908,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2011,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",1543983062,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2012,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",1907298543,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2013,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",2561356957,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2014,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",1952825266,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2015,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",1367427180,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2016,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",1094961292,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2017,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",1663743232,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2018,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",2154719950,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2019,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",2142047352,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2020,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",1413282160,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2021,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",2714450217,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2022,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",6022781293,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2023,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",6464578222,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2024,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",6756484297,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2025,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,3,"Mineral fuels, lubricants and related materials",7204541244,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2002,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",126224674,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2003,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",129300986,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2004,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",137338209,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2005,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",159138608,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2006,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",307057466,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2007,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",498290010,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2008,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",462813505,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2009,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",317079739,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2010,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",463421497,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2011,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",458655426,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2012,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",591847378,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2013,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",411153022,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2014,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",564466747,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2015,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",585639120,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2016,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",1066439227,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2017,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",1299934651,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2018,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",900673567,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2019,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",1353966715,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2020,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",1571990258,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2021,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",2053117489,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2022,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",2971916890,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2023,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",2099718201,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2024,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",3102649881,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2025,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,4,"Animal and vegetable oils, fats and waxes",3438744219,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2002,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",36815636,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2003,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",32822691,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2004,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",30542107,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2005,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",30334517,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2006,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",21457912,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2007,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",24237452,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2008,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",70771613,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2009,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",50377195,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2010,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",41376541,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2011,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",43036991,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2012,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",66184630,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2013,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",57334782,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2014,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",53831559,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2015,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",38415375,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2016,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",37364896,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2017,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",47614408,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2018,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",45890476,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2019,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",51972105,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2020,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",51599415,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2021,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",57437254,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2022,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",82196192,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2023,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",68406533,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2024,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",65394497,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2025,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,4,"Animal and vegetable oils, fats and waxes",68989006,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2002,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",479211315,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2003,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",528096737,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2004,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",627406452,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2005,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",653181215,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2006,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",848089135,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2007,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",891390101,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2008,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",810002524,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2009,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",425682448,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2010,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",471862119,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2011,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",867657483,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2012,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",682178831,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2013,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",541218906,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2014,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",545716608,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2015,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",504364754,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2016,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",392092266,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2017,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",459844111,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2018,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",597222565,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2019,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",660091059,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2020,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",636597715,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2021,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",1080371720,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2022,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",867134765,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2023,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",534637858,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2024,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",527635109,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2025,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,5,"Chemicals and related products, n.e.s.",475758376,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2002,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",1181869732,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2003,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",1311945771,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2004,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",1575707606,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2005,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",1994630308,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2006,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",2563399633,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2007,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",3160965072,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2008,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",3508737756,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2009,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",2639407663,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2010,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",3379657948,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2011,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",3848245573,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2012,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",4459400473,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2013,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",4403842624,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2014,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",3535775501,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2015,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",2964535094,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2016,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",3314239880,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2017,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",3863329948,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2018,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",4065891853,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2019,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",4625696581,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2020,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",4622179426,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2021,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",5629852116,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2022,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",4428457672,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2023,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",5620528080,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2024,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",5785485715,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2025,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,5,"Chemicals and related products, n.e.s.",5976356716,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2002,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,1600250908,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2003,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,1625555179,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2004,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,2979124277,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2005,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,3259480374,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2006,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,4127003318,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2007,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,4520673369,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2008,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,5012951372,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2009,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,2160775861,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2010,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,3731975704,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2011,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,4945423366,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2012,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,3702470801,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2013,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,3805873776,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2014,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,3715975144,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2015,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,3390716356,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2016,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,3489238156,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2017,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,4171570261,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2018,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,4697222503,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2019,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,4426939256,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2020,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,3866950813,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2021,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,7231059204,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2022,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,5067741092,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2023,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,3889301669,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2024,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,4048939985,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2025,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,6,Manufactured goods classified chiefly by material,4430049803,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2002,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,1539521240,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2003,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,1705683073,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2004,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,2037898482,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2005,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,2406179270,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2006,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,3033360341,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2007,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,3644146077,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2008,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,3839884425,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2009,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,2445182621,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2010,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,3019838400,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2011,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,3393153292,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2012,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,3413964939,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2013,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,3397966304,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2014,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,2571605612,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2015,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,2145718857,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2016,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,2441788285,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2017,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,2758117306,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2018,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,2970782321,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2019,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,3162376328,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2020,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,3000913134,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2021,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,3499864438,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2022,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,3177816212,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2023,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,3647403017,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2024,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,3700355930,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2025,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,6,Manufactured goods classified chiefly by material,3773414813,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2002,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,354532339,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2003,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,631639570,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2004,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,580213329,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2005,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,618436790,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2006,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,686829947,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2007,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,1100168671,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2008,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,1354896076,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2009,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,943743266,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2010,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,1302164120,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2011,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,1356995253,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2012,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,1533620096,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2013,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,1337396682,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2014,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,1374522774,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2015,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,1384332413,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2016,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,1542944127,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2017,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,1946494549,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2018,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,2214940524,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2019,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,2285317522,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2020,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,2188926954,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2021,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,2563019602,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2022,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,2588263466,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2023,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,2228493339,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2024,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,2296331304,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2025,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,7,Machinery and transport equipment,2239161553,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2002,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,2889800276,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2003,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,3484669148,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2004,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,4388456540,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2005,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,5778380385,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2006,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,8407516418,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2007,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,10107560939,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2008,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,10763347735,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2009,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,4488703605,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2010,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,5806719270,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2011,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,7608179986,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2012,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,8703524163,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2013,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,7984214939,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2014,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,4844981992,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2015,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,4173079220,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2016,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,5890372490,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2017,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,7429338607,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2018,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,7765595522,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2019,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,8957300188,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2020,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,8358846281,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2021,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,10017417169,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2022,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,8631782637,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2023,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,11695551709,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2024,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,13119318067,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2025,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,7,Machinery and transport equipment,15940822884,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2002,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,539013045,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2003,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,541237237,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2004,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,574833149,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2005,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,591206322,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2006,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,625667058,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2007,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,600875494,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2008,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,582081751,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2009,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,461552214,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2010,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,505149857,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2011,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,588701319,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2012,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,548145949,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2013,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,565991691,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2014,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,616252618,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2015,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,628307921,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2016,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,775401352,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2017,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,916068130,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2018,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,1004784274,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2019,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,1105602400,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2020,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,1116260395,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2021,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,1358249100,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2022,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,1295830001,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2023,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,1316658385,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2024,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,1501370885,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2025,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,8,Miscellaneous manufactured articles,1555643985,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2002,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,1043532896,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2003,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,1068392493,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2004,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,1259959054,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2005,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,1462424378,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2006,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,1973361432,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2007,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,2434572334,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2008,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,2710966064,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2009,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,1589996712,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2010,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,1782816605,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2011,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,2009739119,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2012,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,2198311537,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2013,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,2249846620,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2014,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,1630797788,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2015,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,1264627512,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2016,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,1499078892,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2017,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,1742185161,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2018,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,1928261572,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2019,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,2134937414,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2020,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,2187994482,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2021,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,2660647368,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2022,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,3406749534,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2023,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,4558397626,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2024,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,6563595429,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2025,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,8,Miscellaneous manufactured articles,5794638623,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2002,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,47925586,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2003,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,154740269,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2004,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,43832520,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2005,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,41165495,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2006,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,49370322,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2007,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,50708593,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2008,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,43816630,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2009,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,64200584,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2010,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,21242120,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2011,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,32604584,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2012,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,33181565,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2013,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,32021439,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2014,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,21639426,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2015,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,27977235,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2016,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,26965188,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2017,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,25443366,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2018,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,33458284,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2019,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,31639416,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2020,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,34227572,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2021,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,28361099,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2022,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,38919743,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2023,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,3143054,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2024,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,3541707,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2025,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,9,Commodities and transactions not classified elsewhere in the SITC,2904541,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2002,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,81940031,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2003,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,60897198,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2004,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,49228142,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2005,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,48929988,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2006,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,94519458,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2007,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,137148861,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2008,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,181780991,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2009,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,69408521,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2010,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,73248382,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2011,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,63711417,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2012,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,44522863,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2013,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,63335729,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2014,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,22435752,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2015,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,21777384,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2016,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,86687891,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2017,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,174828828,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2018,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,143162072,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2019,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,126948917,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2020,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,89921826,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2021,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,32193061,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2022,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,602451296,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2023,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,50289130,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2024,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,58801111,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2025,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,9,Commodities and transactions not classified elsewhere in the SITC,51235600,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2002,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,6468762338,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2003,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,6480967689,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2004,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,8356145776,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2005,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,8598677019,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2006,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,9773440883,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2007,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,12328858045,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2008,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,14472531076,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2009,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,7785767942,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2010,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,11315060333,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2011,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,14906568905,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2012,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,14323229017,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2013,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,13441288378,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2014,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,13240496705,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2015,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,12504036325,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2016,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,12860131773,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2017,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,16239430003,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2018,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,17435632191,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2019,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,19138426143,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2020,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,16335108606,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2021,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,24029886951,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2022,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,27642958457,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2023,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,22940024278,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2024,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,24714969351,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2025,EU27_2020,UA,Ukraine,UKR,country_or_territory,import,export,TOTAL,TOTAL,21739085504,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2002,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,7578689000,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2003,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,8606806135,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2004,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,10276784249,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2005,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,12917288410,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2006,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,17804292383,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2007,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,21810844983,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2008,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,24448572525,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2009,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,13346788392,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2010,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,16942752706,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2011,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,20797803140,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2012,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,23331249316,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2013,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,23344125564,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2014,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,16654686444,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2015,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,13719134590,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2016,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,16176484009,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2017,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,19840173453,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2018,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,21548536762,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2019,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,24152686038,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2020,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,23116670528,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2021,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,28292226071,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2022,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,30095873356,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2023,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,39123390280,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2024,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,42559306877,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331
+2025,EU27_2020,UA,Ukraine,UKR,country_or_territory,export,import,TOTAL,TOTAL,46396318459,,annual,raw/eurostat/eu27_ukraine_sitc1.json,DS-059331

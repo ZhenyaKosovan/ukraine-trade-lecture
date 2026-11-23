@@ -1,0 +1,284 @@
+{
+  "recorded_on": "2026-11-15",
+  "browser": "Chrome via agent_browser",
+  "all_steps_succeeded": true,
+  "steps": [
+    {
+      "command": [
+        "open",
+        "http://127.0.0.1:8765/prototype/"
+      ],
+      "success": true,
+      "result": {
+        "title": "Where Ukraine trades | Economic atlas",
+        "url": "http://127.0.0.1:8765/prototype/"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "wait",
+        "--load",
+        "networkidle"
+      ],
+      "success": true,
+      "result": {
+        "state": "networkidle"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "snapshot",
+        "-i"
+      ],
+      "success": true,
+      "result": {
+        "origin": "http://127.0.0.1:8765/prototype/?year=2023&dataset=goods&flow=export&sector=All+goods&measure=value",
+        "snapshot_performed": true
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "select",
+        "#sector",
+        "Agriculture and food"
+      ],
+      "success": true,
+      "result": {
+        "selected": [
+          "Agriculture and food"
+        ]
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "snapshot",
+        "-i"
+      ],
+      "success": true,
+      "result": {
+        "origin": "http://127.0.0.1:8765/prototype/?year=2023&dataset=goods&flow=export&sector=Agriculture+and+food&measure=value",
+        "snapshot_performed": true
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "select",
+        "#measure",
+        "share"
+      ],
+      "success": true,
+      "result": {
+        "selected": [
+          "share"
+        ]
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "snapshot",
+        "-i"
+      ],
+      "success": true,
+      "result": {
+        "origin": "http://127.0.0.1:8765/prototype/?year=2023&dataset=goods&flow=export&sector=Agriculture+and+food&measure=share",
+        "snapshot_performed": true
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "click",
+        "#partner-list button:first-child"
+      ],
+      "success": true,
+      "result": {
+        "clicked": "#partner-list button:first-child"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "snapshot",
+        "-i"
+      ],
+      "success": true,
+      "result": {
+        "origin": "http://127.0.0.1:8765/prototype/?year=2023&dataset=goods&flow=export&sector=Agriculture+and+food&measure=share&partner=ROU",
+        "snapshot_performed": true
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "get",
+        "text",
+        "#country-title"
+      ],
+      "success": true,
+      "result": {
+        "origin": "http://127.0.0.1:8765/prototype/?year=2023&dataset=goods&flow=export&sector=Agriculture+and+food&measure=share&partner=ROU",
+        "text": "Romania"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "click",
+        "button[data-year='1991']"
+      ],
+      "success": true,
+      "result": {
+        "clicked": "button[data-year='1991']"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "snapshot",
+        "-i"
+      ],
+      "success": true,
+      "result": {
+        "origin": "http://127.0.0.1:8765/prototype/?year=1991&dataset=goods&flow=export&sector=Agriculture+and+food&measure=share&partner=ROU",
+        "snapshot_performed": true
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "get",
+        "text",
+        "#map-empty"
+      ],
+      "success": true,
+      "result": {
+        "origin": "http://127.0.0.1:8765/prototype/?year=1991&dataset=goods&flow=export&sector=Agriculture+and+food&measure=share&partner=ROU",
+        "text": "No trade map for 1991\n\nThis goods series has partner observations for 2011 to 2023. Earlier and later records are not assumed to be zero.\n\nGo to 2011, the first trade year\n\nThe GDP timeline below still covers this year."
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "get",
+        "text",
+        "#gdp-value"
+      ],
+      "success": true,
+      "result": {
+        "origin": "http://127.0.0.1:8765/prototype/?year=1991&dataset=goods&flow=export&sector=Agriculture+and+food&measure=share&partner=ROU",
+        "text": "100.0"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "click",
+        "#previous-year"
+      ],
+      "success": true,
+      "result": {
+        "clicked": "#previous-year"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "click",
+        "button[data-year='1996']"
+      ],
+      "success": true,
+      "result": {
+        "clicked": "button[data-year='1996']"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "snapshot",
+        "-i"
+      ],
+      "success": true,
+      "result": {
+        "origin": "http://127.0.0.1:8765/prototype/?year=1996&dataset=goods&flow=export&sector=Agriculture+and+food&measure=share&partner=ROU",
+        "snapshot_performed": true
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "get",
+        "count",
+        "#partner-list p.empty-list"
+      ],
+      "success": true,
+      "result": {
+        "count": 1,
+        "selector": "#partner-list p.empty-list"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "click",
+        "#jump-to-data"
+      ],
+      "success": true,
+      "result": {
+        "clicked": "#jump-to-data"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "snapshot",
+        "-i"
+      ],
+      "success": true,
+      "result": {
+        "origin": "http://127.0.0.1:8765/prototype/?year=2011&dataset=goods&flow=export&sector=Agriculture+and+food&measure=share&partner=ROU",
+        "snapshot_performed": true
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "get",
+        "text",
+        "#year-value"
+      ],
+      "success": true,
+      "result": {
+        "origin": "http://127.0.0.1:8765/prototype/?year=2011&dataset=goods&flow=export&sector=Agriculture+and+food&measure=share&partner=ROU",
+        "text": "2011"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "get",
+        "url"
+      ],
+      "success": true,
+      "result": {
+        "url": "http://127.0.0.1:8765/prototype/?year=2011&dataset=goods&flow=export&sector=Agriculture+and+food&measure=share&partner=ROU"
+      },
+      "error": null
+    },
+    {
+      "command": [
+        "errors"
+      ],
+      "success": true,
+      "result": {
+        "errors": []
+      },
+      "error": null
+    }
+  ]
+}

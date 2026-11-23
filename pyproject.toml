@@ -1,0 +1,9 @@
+[project]
+name = "ukraine-trade-lecture-data"
+version = "0.1.0"
+description = "Official-source data collection for a lecture on Ukraine's trade and economic change"
+requires-python = ">=3.11"
+dependencies = ["httpx>=0.28,<1", "openpyxl>=3.1,<4", "xlrd>=2,<3", "pycountry>=24,<27"]
+
+[dependency-groups]
+dev = ["ruff>=0.14,<1"]

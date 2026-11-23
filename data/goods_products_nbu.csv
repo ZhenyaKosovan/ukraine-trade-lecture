@@ -1,0 +1,379 @@
+year,flow,category_or_partner,partner_iso3,row_type,value_usd,source_value,source_unit,source_file,source_sheet,source_row,source_column
+2005,export,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,32184000000,32184,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,7,4
+2006,export,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,36174000000,36174,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,7,5
+2007,export,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,46168000000,46168,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,7,6
+2008,export,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,63188000000,63188,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,7,7
+2009,export,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,37134000000,37134,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,7,8
+2010,export,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,47299000000,47299,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,7,9
+2011,export,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,62383000000,62383,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,7,10
+2012,export,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,64427000000,64427,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,7,11
+2013,export,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,59106000000,59106,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,7,12
+2014,export,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,50552000000,50552,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,7,13
+2015,export,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,35420000000,35420,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,7,14
+2016,export,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,33560000000,33560,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,7,15
+2017,export,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,39701000000,39701,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,7,16
+2018,export,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,43341000000,43341,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,7,17
+2019,export,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,46091000000,46091,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,7,18
+2020,export,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,45379000000,45379,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,7,19
+2021,export,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,63382000000,63382,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,7,20
+2022,export,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,41057000000,41057,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,7,21
+2023,export,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,34970000000,34970,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,7,22
+2024,export,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,39161000000,39161,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,7,23
+2025,export,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,38007000000,38007,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,7,24
+2005,export,Agricultural products,,hierarchical_category_do_not_sum_all_rows,4264000000,4264,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,8,4
+2006,export,Agricultural products,,hierarchical_category_do_not_sum_all_rows,4686000000,4686,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,8,5
+2007,export,Agricultural products,,hierarchical_category_do_not_sum_all_rows,6132000000,6132,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,8,6
+2008,export,Agricultural products,,hierarchical_category_do_not_sum_all_rows,10561000000,10561,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,8,7
+2009,export,Agricultural products,,hierarchical_category_do_not_sum_all_rows,9510000000,9510,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,8,8
+2010,export,Agricultural products,,hierarchical_category_do_not_sum_all_rows,9936000000,9936,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,8,9
+2011,export,Agricultural products,,hierarchical_category_do_not_sum_all_rows,12804000000,12804,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,8,10
+2012,export,Agricultural products,,hierarchical_category_do_not_sum_all_rows,17906000000,17906,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,8,11
+2013,export,Agricultural products,,hierarchical_category_do_not_sum_all_rows,17040000000,17040,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,8,12
+2014,export,Agricultural products,,hierarchical_category_do_not_sum_all_rows,16670000000,16670,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,8,13
+2015,export,Agricultural products,,hierarchical_category_do_not_sum_all_rows,14478000000,14478,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,8,14
+2016,export,Agricultural products,,hierarchical_category_do_not_sum_all_rows,15250000000,15250,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,8,15
+2017,export,Agricultural products,,hierarchical_category_do_not_sum_all_rows,17739000000,17739,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,8,16
+2018,export,Agricultural products,,hierarchical_category_do_not_sum_all_rows,18594000000,18594,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,8,17
+2019,export,Agricultural products,,hierarchical_category_do_not_sum_all_rows,22123000000,22123,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,8,18
+2020,export,Agricultural products,,hierarchical_category_do_not_sum_all_rows,22161000000,22161,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,8,19
+2021,export,Agricultural products,,hierarchical_category_do_not_sum_all_rows,27687000000,27687,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,8,20
+2022,export,Agricultural products,,hierarchical_category_do_not_sum_all_rows,23380000000,23380,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,8,21
+2023,export,Agricultural products,,hierarchical_category_do_not_sum_all_rows,22001000000,22001,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,8,22
+2024,export,Agricultural products,,hierarchical_category_do_not_sum_all_rows,24669000000,24669,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,8,23
+2025,export,Agricultural products,,hierarchical_category_do_not_sum_all_rows,22532000000,22532,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,8,24
+2005,export,Mineral products,,hierarchical_category_do_not_sum_all_rows,4144000000,4144,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,9,4
+2006,export,Mineral products,,hierarchical_category_do_not_sum_all_rows,3413000000,3413,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,9,5
+2007,export,Mineral products,,hierarchical_category_do_not_sum_all_rows,3693000000,3693,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,9,6
+2008,export,Mineral products,,hierarchical_category_do_not_sum_all_rows,5570000000,5570,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,9,7
+2009,export,Mineral products,,hierarchical_category_do_not_sum_all_rows,3033000000,3033,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,9,8
+2010,export,Mineral products,,hierarchical_category_do_not_sum_all_rows,5076000000,5076,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,9,9
+2011,export,Mineral products,,hierarchical_category_do_not_sum_all_rows,6951000000,6951,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,9,10
+2012,export,Mineral products,,hierarchical_category_do_not_sum_all_rows,6304000000,6304,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,9,11
+2013,export,Mineral products,,hierarchical_category_do_not_sum_all_rows,6306000000,6306,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,9,12
+2014,export,Mineral products,,hierarchical_category_do_not_sum_all_rows,5291000000,5291,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,9,13
+2015,export,Mineral products,,hierarchical_category_do_not_sum_all_rows,2672000000,2672,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,9,14
+2016,export,Mineral products,,hierarchical_category_do_not_sum_all_rows,2391000000,2391,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,9,15
+2017,export,Mineral products,,hierarchical_category_do_not_sum_all_rows,3517000000,3517,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,9,16
+2018,export,Mineral products,,hierarchical_category_do_not_sum_all_rows,3883000000,3883,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,9,17
+2019,export,Mineral products,,hierarchical_category_do_not_sum_all_rows,4405000000,4405,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,9,18
+2020,export,Mineral products,,hierarchical_category_do_not_sum_all_rows,4963000000,4963,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,9,19
+2021,export,Mineral products,,hierarchical_category_do_not_sum_all_rows,7874000000,7874,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,9,20
+2022,export,Mineral products,,hierarchical_category_do_not_sum_all_rows,4109000000,4109,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,9,21
+2023,export,Mineral products,,hierarchical_category_do_not_sum_all_rows,2262000000,2262,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,9,22
+2024,export,Mineral products,,hierarchical_category_do_not_sum_all_rows,3142000000,3142,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,9,23
+2025,export,Mineral products,,hierarchical_category_do_not_sum_all_rows,2914000000,2914,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,9,24
+2005,export,Chemicals,,hierarchical_category_do_not_sum_all_rows,3386000000,3386,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,10,4
+2006,export,Chemicals,,hierarchical_category_do_not_sum_all_rows,4015000000,4015,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,10,5
+2007,export,Chemicals,,hierarchical_category_do_not_sum_all_rows,4943000000,4943,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,10,6
+2008,export,Chemicals,,hierarchical_category_do_not_sum_all_rows,6395000000,6395,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,10,7
+2009,export,Chemicals,,hierarchical_category_do_not_sum_all_rows,3317000000,3317,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,10,8
+2010,export,Chemicals,,hierarchical_category_do_not_sum_all_rows,4000000000,4000,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,10,9
+2011,export,Chemicals,,hierarchical_category_do_not_sum_all_rows,6041000000,6041,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,10,10
+2012,export,Chemicals,,hierarchical_category_do_not_sum_all_rows,6028000000,6028,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,10,11
+2013,export,Chemicals,,hierarchical_category_do_not_sum_all_rows,5070000000,5070,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,10,12
+2014,export,Chemicals,,hierarchical_category_do_not_sum_all_rows,3730000000,3730,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,10,13
+2015,export,Chemicals,,hierarchical_category_do_not_sum_all_rows,2436000000,2436,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,10,14
+2016,export,Chemicals,,hierarchical_category_do_not_sum_all_rows,1832000000,1832,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,10,15
+2017,export,Chemicals,,hierarchical_category_do_not_sum_all_rows,2052000000,2052,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,10,16
+2018,export,Chemicals,,hierarchical_category_do_not_sum_all_rows,2381000000,2381,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,10,17
+2019,export,Chemicals,,hierarchical_category_do_not_sum_all_rows,2171000000,2171,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,10,18
+2020,export,Chemicals,,hierarchical_category_do_not_sum_all_rows,2308000000,2308,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,10,19
+2021,export,Chemicals,,hierarchical_category_do_not_sum_all_rows,3173000000,3173,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,10,20
+2022,export,Chemicals,,hierarchical_category_do_not_sum_all_rows,1668000000,1668,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,10,21
+2023,export,Chemicals,,hierarchical_category_do_not_sum_all_rows,1328000000,1328,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,10,22
+2024,export,Chemicals,,hierarchical_category_do_not_sum_all_rows,1509000000,1509,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,10,23
+2025,export,Chemicals,,hierarchical_category_do_not_sum_all_rows,1659000000,1659,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,10,24
+2005,export,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,804000000,804,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,11,4
+2006,export,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,980624123.0,980.624123,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,11,5
+2007,export,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1289000000,1289,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,11,6
+2008,export,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1369000000,1369,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,11,7
+2009,export,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1169000000,1169,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,11,8
+2010,export,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1467000000,1467,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,11,9
+2011,export,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1855000000,1855,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,11,10
+2012,export,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1852000000,1852,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,11,11
+2013,export,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,2004000000,2004,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,11,12
+2014,export,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1954000000,1954,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,11,13
+2015,export,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1540000000,1540,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,11,14
+2016,export,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1510000000,1510,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,11,15
+2017,export,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1647000000,1647,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,11,16
+2018,export,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1965000000,1965,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,11,17
+2019,export,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1780000000,1780,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,11,18
+2020,export,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1758000000,1758,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,11,19
+2021,export,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,2491000000,2491,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,11,20
+2022,export,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,2118000000,2118,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,11,21
+2023,export,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1719000000,1719,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,11,22
+2024,export,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1660000000,1660,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,11,23
+2025,export,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1931000000,1931,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,11,24
+2005,export,Industrial goods,,hierarchical_category_do_not_sum_all_rows,399000000,399,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,12,4
+2006,export,Industrial goods,,hierarchical_category_do_not_sum_all_rows,487000000,487,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,12,5
+2007,export,Industrial goods,,hierarchical_category_do_not_sum_all_rows,643000000,643,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,12,6
+2008,export,Industrial goods,,hierarchical_category_do_not_sum_all_rows,771000000,771,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,12,7
+2009,export,Industrial goods,,hierarchical_category_do_not_sum_all_rows,472000000,472,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,12,8
+2010,export,Industrial goods,,hierarchical_category_do_not_sum_all_rows,616000000,616,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,12,9
+2011,export,Industrial goods,,hierarchical_category_do_not_sum_all_rows,795000000,795,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,12,10
+2012,export,Industrial goods,,hierarchical_category_do_not_sum_all_rows,830000000,830,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,12,11
+2013,export,Industrial goods,,hierarchical_category_do_not_sum_all_rows,846000000,846,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,12,12
+2014,export,Industrial goods,,hierarchical_category_do_not_sum_all_rows,704000000,704,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,12,13
+2015,export,Industrial goods,,hierarchical_category_do_not_sum_all_rows,503000000,503,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,12,14
+2016,export,Industrial goods,,hierarchical_category_do_not_sum_all_rows,463000000,463,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,12,15
+2017,export,Industrial goods,,hierarchical_category_do_not_sum_all_rows,575000000,575,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,12,16
+2018,export,Industrial goods,,hierarchical_category_do_not_sum_all_rows,649000000,649,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,12,17
+2019,export,Industrial goods,,hierarchical_category_do_not_sum_all_rows,697000000,697,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,12,18
+2020,export,Industrial goods,,hierarchical_category_do_not_sum_all_rows,722000000,722,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,12,19
+2021,export,Industrial goods,,hierarchical_category_do_not_sum_all_rows,946000000,946,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,12,20
+2022,export,Industrial goods,,hierarchical_category_do_not_sum_all_rows,569000000,569,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,12,21
+2023,export,Industrial goods,,hierarchical_category_do_not_sum_all_rows,557000000,557,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,12,22
+2024,export,Industrial goods,,hierarchical_category_do_not_sum_all_rows,577000000,577,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,12,23
+2025,export,Industrial goods,,hierarchical_category_do_not_sum_all_rows,675000000,675,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,12,24
+2005,export,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,13784000000,13784,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,13,4
+2006,export,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,16262000000,16262,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,13,5
+2007,export,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,20565000000,20565,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,13,6
+2008,export,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,27286000000,27286,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,13,7
+2009,export,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,12605000000,12605,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,13,8
+2010,export,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,17044000000,17044,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,13,9
+2011,export,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,21836000000,21836,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,13,10
+2012,export,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,18490000000,18490,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,13,11
+2013,export,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,16793000000,16793,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,13,12
+2014,export,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,14953000000,14953,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,13,13
+2015,export,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,9164000000,9164,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,13,14
+2016,export,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,8099000000,8099,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,13,15
+2017,export,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,9890000000,9890,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,13,16
+2018,export,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,11402000000,11402,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,13,17
+2019,export,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,9994000000,9994,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,13,18
+2020,export,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,8782000000,8782,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,13,19
+2021,export,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,15719000000,15719,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,13,20
+2022,export,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,5881000000,5881,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,13,21
+2023,export,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,3888000000,3888,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,13,22
+2024,export,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,4421000000,4421,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,13,23
+2025,export,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,4715000000,4715,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,13,24
+2005,export,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,4307000000,4307,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,14,4
+2006,export,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,5107000000,5107,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,14,5
+2007,export,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,7563000000,7563,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,14,6
+2008,export,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,9848000000,9848,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,14,7
+2009,export,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,6007000000,6007,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,14,8
+2010,export,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,8530000000,8530,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,14,9
+2011,export,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,10722000000,10722,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,14,10
+2012,export,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,11181000000,11181,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,14,11
+2013,export,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,8537000000,8537,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,14,12
+2014,export,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,5432000000,5432,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,14,13
+2015,export,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,3339000000,3339,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,14,14
+2016,export,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,2748000000,2748,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,14,15
+2017,export,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,2862000000,2862,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,14,16
+2018,export,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,3002000000,3002,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,14,17
+2019,export,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,3426000000,3426,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,14,18
+2020,export,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,3390000000,3390,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,14,19
+2021,export,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,3819000000,3819,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,14,20
+2022,export,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,2281000000,2281,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,14,21
+2023,export,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,2143000000,2143,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,14,22
+2024,export,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,2034000000,2034,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,14,23
+2025,export,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,2091000000,2091,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,14,24
+2005,export,Other*,,hierarchical_category_do_not_sum_all_rows,1096000000,1096,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,15,4
+2006,export,Other*,,hierarchical_category_do_not_sum_all_rows,1223375876.9999995,1223.3758769999995,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,15,5
+2007,export,Other*,,hierarchical_category_do_not_sum_all_rows,1340000000,1340,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,15,6
+2008,export,Other*,,hierarchical_category_do_not_sum_all_rows,1388000000,1388,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,15,7
+2009,export,Other*,,hierarchical_category_do_not_sum_all_rows,1021000000,1021,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,15,8
+2010,export,Other*,,hierarchical_category_do_not_sum_all_rows,630000000,630,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,15,9
+2011,export,Other*,,hierarchical_category_do_not_sum_all_rows,1379000000,1379,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,15,10
+2012,export,Other*,,hierarchical_category_do_not_sum_all_rows,1836000000,1836,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,15,11
+2013,export,Other*,,hierarchical_category_do_not_sum_all_rows,2510000000,2510,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,15,12
+2014,export,Other*,,hierarchical_category_do_not_sum_all_rows,1818000000,1818,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,15,13
+2015,export,Other*,,hierarchical_category_do_not_sum_all_rows,1288000000,1288,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,15,14
+2016,export,Other*,,hierarchical_category_do_not_sum_all_rows,1267000000,1267,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,15,15
+2017,export,Other*,,hierarchical_category_do_not_sum_all_rows,1419000000,1419,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,15,16
+2018,export,Other*,,hierarchical_category_do_not_sum_all_rows,1465000000,1465,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,15,17
+2019,export,Other*,,hierarchical_category_do_not_sum_all_rows,1495000000,1495,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,15,18
+2020,export,Other*,,hierarchical_category_do_not_sum_all_rows,1295000000,1295,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,15,19
+2021,export,Other*,,hierarchical_category_do_not_sum_all_rows,1673000000,1673,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,15,20
+2022,export,Other*,,hierarchical_category_do_not_sum_all_rows,1051000000,1051,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,15,21
+2023,export,Other*,,hierarchical_category_do_not_sum_all_rows,1072000000,1072,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,15,22
+2024,export,Other*,,hierarchical_category_do_not_sum_all_rows,1149000000,1149,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,15,23
+2025,export,Other*,,hierarchical_category_do_not_sum_all_rows,1490000000,1490,million USD,raw/nbu/Trade_y_en.xlsx,1.1 ,15,24
+2005,import,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,34377000000,34377,million USD,raw/nbu/Trade_y_en.xlsx,1.2,7,4
+2006,import,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,42220000000,42220,million USD,raw/nbu/Trade_y_en.xlsx,1.2,7,5
+2007,import,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,57753000000,57753,million USD,raw/nbu/Trade_y_en.xlsx,1.2,7,6
+2008,import,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,80640000000,80640,million USD,raw/nbu/Trade_y_en.xlsx,1.2,7,7
+2009,import,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,42477000000,42477,million USD,raw/nbu/Trade_y_en.xlsx,1.2,7,8
+2010,import,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,56896000000,56896,million USD,raw/nbu/Trade_y_en.xlsx,1.2,7,9
+2011,import,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,80414000000,80414,million USD,raw/nbu/Trade_y_en.xlsx,1.2,7,10
+2012,import,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,86273000000,86273,million USD,raw/nbu/Trade_y_en.xlsx,1.2,7,11
+2013,import,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,81234000000,81234,million USD,raw/nbu/Trade_y_en.xlsx,1.2,7,12
+2014,import,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,57680000000,57680,million USD,raw/nbu/Trade_y_en.xlsx,1.2,7,13
+2015,import,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,38875000000,38875,million USD,raw/nbu/Trade_y_en.xlsx,1.2,7,14
+2016,import,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,40502000000,40502,million USD,raw/nbu/Trade_y_en.xlsx,1.2,7,15
+2017,import,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,49364000000,49364,million USD,raw/nbu/Trade_y_en.xlsx,1.2,7,16
+2018,import,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,56055000000,56055,million USD,raw/nbu/Trade_y_en.xlsx,1.2,7,17
+2019,import,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,60352000000,60352,million USD,raw/nbu/Trade_y_en.xlsx,1.2,7,18
+2020,import,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,52614000000,52614,million USD,raw/nbu/Trade_y_en.xlsx,1.2,7,19
+2021,import,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,70825000000,70825,million USD,raw/nbu/Trade_y_en.xlsx,1.2,7,20
+2022,import,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,56215000000,56215,million USD,raw/nbu/Trade_y_en.xlsx,1.2,7,21
+2023,import,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,65012000000,65012,million USD,raw/nbu/Trade_y_en.xlsx,1.2,7,22
+2024,import,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,71187000000,71187,million USD,raw/nbu/Trade_y_en.xlsx,1.2,7,23
+2025,import,"TOTAL, mln USD",,hierarchical_category_do_not_sum_all_rows,84778000000,84778,million USD,raw/nbu/Trade_y_en.xlsx,1.2,7,24
+2005,import,Agricultural products,,hierarchical_category_do_not_sum_all_rows,2635000000,2635,million USD,raw/nbu/Trade_y_en.xlsx,1.2,8,4
+2006,import,Agricultural products,,hierarchical_category_do_not_sum_all_rows,3094000000,3094,million USD,raw/nbu/Trade_y_en.xlsx,1.2,8,5
+2007,import,Agricultural products,,hierarchical_category_do_not_sum_all_rows,3905000000,3905,million USD,raw/nbu/Trade_y_en.xlsx,1.2,8,6
+2008,import,Agricultural products,,hierarchical_category_do_not_sum_all_rows,6203000000,6203,million USD,raw/nbu/Trade_y_en.xlsx,1.2,8,7
+2009,import,Agricultural products,,hierarchical_category_do_not_sum_all_rows,4936000000,4936,million USD,raw/nbu/Trade_y_en.xlsx,1.2,8,8
+2010,import,Agricultural products,,hierarchical_category_do_not_sum_all_rows,5761000000,5761,million USD,raw/nbu/Trade_y_en.xlsx,1.2,8,9
+2011,import,Agricultural products,,hierarchical_category_do_not_sum_all_rows,6347000000,6347,million USD,raw/nbu/Trade_y_en.xlsx,1.2,8,10
+2012,import,Agricultural products,,hierarchical_category_do_not_sum_all_rows,7519000000,7519,million USD,raw/nbu/Trade_y_en.xlsx,1.2,8,11
+2013,import,Agricultural products,,hierarchical_category_do_not_sum_all_rows,8181000000,8181,million USD,raw/nbu/Trade_y_en.xlsx,1.2,8,12
+2014,import,Agricultural products,,hierarchical_category_do_not_sum_all_rows,6025000000,6025,million USD,raw/nbu/Trade_y_en.xlsx,1.2,8,13
+2015,import,Agricultural products,,hierarchical_category_do_not_sum_all_rows,3412000000,3412,million USD,raw/nbu/Trade_y_en.xlsx,1.2,8,14
+2016,import,Agricultural products,,hierarchical_category_do_not_sum_all_rows,3863000000,3863,million USD,raw/nbu/Trade_y_en.xlsx,1.2,8,15
+2017,import,Agricultural products,,hierarchical_category_do_not_sum_all_rows,4267000000,4267,million USD,raw/nbu/Trade_y_en.xlsx,1.2,8,16
+2018,import,Agricultural products,,hierarchical_category_do_not_sum_all_rows,5020000000,5020,million USD,raw/nbu/Trade_y_en.xlsx,1.2,8,17
+2019,import,Agricultural products,,hierarchical_category_do_not_sum_all_rows,5696000000,5696,million USD,raw/nbu/Trade_y_en.xlsx,1.2,8,18
+2020,import,Agricultural products,,hierarchical_category_do_not_sum_all_rows,6465000000,6465,million USD,raw/nbu/Trade_y_en.xlsx,1.2,8,19
+2021,import,Agricultural products,,hierarchical_category_do_not_sum_all_rows,7666000000,7666,million USD,raw/nbu/Trade_y_en.xlsx,1.2,8,20
+2022,import,Agricultural products,,hierarchical_category_do_not_sum_all_rows,6020000000,6020,million USD,raw/nbu/Trade_y_en.xlsx,1.2,8,21
+2023,import,Agricultural products,,hierarchical_category_do_not_sum_all_rows,6939000000,6939,million USD,raw/nbu/Trade_y_en.xlsx,1.2,8,22
+2024,import,Agricultural products,,hierarchical_category_do_not_sum_all_rows,7620000000,7620,million USD,raw/nbu/Trade_y_en.xlsx,1.2,8,23
+2025,import,Agricultural products,,hierarchical_category_do_not_sum_all_rows,8689000000,8689,million USD,raw/nbu/Trade_y_en.xlsx,1.2,8,24
+2005,import,Mineral products,,hierarchical_category_do_not_sum_all_rows,9925000000,9925,million USD,raw/nbu/Trade_y_en.xlsx,1.2,9,4
+2006,import,Mineral products,,hierarchical_category_do_not_sum_all_rows,11145000000,11145,million USD,raw/nbu/Trade_y_en.xlsx,1.2,9,5
+2007,import,Mineral products,,hierarchical_category_do_not_sum_all_rows,14768000000,14768,million USD,raw/nbu/Trade_y_en.xlsx,1.2,9,6
+2008,import,Mineral products,,hierarchical_category_do_not_sum_all_rows,22157000000,22157,million USD,raw/nbu/Trade_y_en.xlsx,1.2,9,7
+2009,import,Mineral products,,hierarchical_category_do_not_sum_all_rows,14306000000,14306,million USD,raw/nbu/Trade_y_en.xlsx,1.2,9,8
+2010,import,Mineral products,,hierarchical_category_do_not_sum_all_rows,19247000000,19247,million USD,raw/nbu/Trade_y_en.xlsx,1.2,9,9
+2011,import,Mineral products,,hierarchical_category_do_not_sum_all_rows,26514000000,26514,million USD,raw/nbu/Trade_y_en.xlsx,1.2,9,10
+2012,import,Mineral products,,hierarchical_category_do_not_sum_all_rows,26286000000,26286,million USD,raw/nbu/Trade_y_en.xlsx,1.2,9,11
+2013,import,Mineral products,,hierarchical_category_do_not_sum_all_rows,21180000000,21180,million USD,raw/nbu/Trade_y_en.xlsx,1.2,9,12
+2014,import,Mineral products,,hierarchical_category_do_not_sum_all_rows,15254000000,15254,million USD,raw/nbu/Trade_y_en.xlsx,1.2,9,13
+2015,import,Mineral products,,hierarchical_category_do_not_sum_all_rows,11186000000,11186,million USD,raw/nbu/Trade_y_en.xlsx,1.2,9,14
+2016,import,Mineral products,,hierarchical_category_do_not_sum_all_rows,8076000000,8076,million USD,raw/nbu/Trade_y_en.xlsx,1.2,9,15
+2017,import,Mineral products,,hierarchical_category_do_not_sum_all_rows,11973000000,11973,million USD,raw/nbu/Trade_y_en.xlsx,1.2,9,16
+2018,import,Mineral products,,hierarchical_category_do_not_sum_all_rows,13587000000,13587,million USD,raw/nbu/Trade_y_en.xlsx,1.2,9,17
+2019,import,Mineral products,,hierarchical_category_do_not_sum_all_rows,12638000000,12638,million USD,raw/nbu/Trade_y_en.xlsx,1.2,9,18
+2020,import,Mineral products,,hierarchical_category_do_not_sum_all_rows,7897000000,7897,million USD,raw/nbu/Trade_y_en.xlsx,1.2,9,19
+2021,import,Mineral products,,hierarchical_category_do_not_sum_all_rows,13999000000,13999,million USD,raw/nbu/Trade_y_en.xlsx,1.2,9,20
+2022,import,Mineral products,,hierarchical_category_do_not_sum_all_rows,12715000000,12715,million USD,raw/nbu/Trade_y_en.xlsx,1.2,9,21
+2023,import,Mineral products,,hierarchical_category_do_not_sum_all_rows,10377000000,10377,million USD,raw/nbu/Trade_y_en.xlsx,1.2,9,22
+2024,import,Mineral products,,hierarchical_category_do_not_sum_all_rows,8932000000,8932,million USD,raw/nbu/Trade_y_en.xlsx,1.2,9,23
+2025,import,Mineral products,,hierarchical_category_do_not_sum_all_rows,10558000000,10558,million USD,raw/nbu/Trade_y_en.xlsx,1.2,9,24
+2005,import,Chemicals,,hierarchical_category_do_not_sum_all_rows,5085000000,5085,million USD,raw/nbu/Trade_y_en.xlsx,1.2,10,4
+2006,import,Chemicals,,hierarchical_category_do_not_sum_all_rows,6464000000,6464,million USD,raw/nbu/Trade_y_en.xlsx,1.2,10,5
+2007,import,Chemicals,,hierarchical_category_do_not_sum_all_rows,8757000000,8757,million USD,raw/nbu/Trade_y_en.xlsx,1.2,10,6
+2008,import,Chemicals,,hierarchical_category_do_not_sum_all_rows,11604000000,11604,million USD,raw/nbu/Trade_y_en.xlsx,1.2,10,7
+2009,import,Chemicals,,hierarchical_category_do_not_sum_all_rows,7969000000,7969,million USD,raw/nbu/Trade_y_en.xlsx,1.2,10,8
+2010,import,Chemicals,,hierarchical_category_do_not_sum_all_rows,10116000000,10116,million USD,raw/nbu/Trade_y_en.xlsx,1.2,10,9
+2011,import,Chemicals,,hierarchical_category_do_not_sum_all_rows,12505000000,12505,million USD,raw/nbu/Trade_y_en.xlsx,1.2,10,10
+2012,import,Chemicals,,hierarchical_category_do_not_sum_all_rows,13155000000,13155,million USD,raw/nbu/Trade_y_en.xlsx,1.2,10,11
+2013,import,Chemicals,,hierarchical_category_do_not_sum_all_rows,13042000000,13042,million USD,raw/nbu/Trade_y_en.xlsx,1.2,10,12
+2014,import,Chemicals,,hierarchical_category_do_not_sum_all_rows,10310000000,10310,million USD,raw/nbu/Trade_y_en.xlsx,1.2,10,13
+2015,import,Chemicals,,hierarchical_category_do_not_sum_all_rows,7541000000,7541,million USD,raw/nbu/Trade_y_en.xlsx,1.2,10,14
+2016,import,Chemicals,,hierarchical_category_do_not_sum_all_rows,8297000000,8297,million USD,raw/nbu/Trade_y_en.xlsx,1.2,10,15
+2017,import,Chemicals,,hierarchical_category_do_not_sum_all_rows,9576000000,9576,million USD,raw/nbu/Trade_y_en.xlsx,1.2,10,16
+2018,import,Chemicals,,hierarchical_category_do_not_sum_all_rows,10438000000,10438,million USD,raw/nbu/Trade_y_en.xlsx,1.2,10,17
+2019,import,Chemicals,,hierarchical_category_do_not_sum_all_rows,10872000000,10872,million USD,raw/nbu/Trade_y_en.xlsx,1.2,10,18
+2020,import,Chemicals,,hierarchical_category_do_not_sum_all_rows,10669000000,10669,million USD,raw/nbu/Trade_y_en.xlsx,1.2,10,19
+2021,import,Chemicals,,hierarchical_category_do_not_sum_all_rows,14392000000,14392,million USD,raw/nbu/Trade_y_en.xlsx,1.2,10,20
+2022,import,Chemicals,,hierarchical_category_do_not_sum_all_rows,9352000000,9352,million USD,raw/nbu/Trade_y_en.xlsx,1.2,10,21
+2023,import,Chemicals,,hierarchical_category_do_not_sum_all_rows,11157000000,11157,million USD,raw/nbu/Trade_y_en.xlsx,1.2,10,22
+2024,import,Chemicals,,hierarchical_category_do_not_sum_all_rows,11914000000,11914,million USD,raw/nbu/Trade_y_en.xlsx,1.2,10,23
+2025,import,Chemicals,,hierarchical_category_do_not_sum_all_rows,12824000000,12824,million USD,raw/nbu/Trade_y_en.xlsx,1.2,10,24
+2005,import,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1132000000,1132,million USD,raw/nbu/Trade_y_en.xlsx,1.2,11,4
+2006,import,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1356000000,1356,million USD,raw/nbu/Trade_y_en.xlsx,1.2,11,5
+2007,import,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1791000000,1791,million USD,raw/nbu/Trade_y_en.xlsx,1.2,11,6
+2008,import,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,2264000000,2264,million USD,raw/nbu/Trade_y_en.xlsx,1.2,11,7
+2009,import,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1545000000,1545,million USD,raw/nbu/Trade_y_en.xlsx,1.2,11,8
+2010,import,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1877000000,1877,million USD,raw/nbu/Trade_y_en.xlsx,1.2,11,9
+2011,import,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,2094000000,2094,million USD,raw/nbu/Trade_y_en.xlsx,1.2,11,10
+2012,import,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,2071000000,2071,million USD,raw/nbu/Trade_y_en.xlsx,1.2,11,11
+2013,import,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,2199000000,2199,million USD,raw/nbu/Trade_y_en.xlsx,1.2,11,12
+2014,import,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1466000000,1466,million USD,raw/nbu/Trade_y_en.xlsx,1.2,11,13
+2015,import,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,934000000,934,million USD,raw/nbu/Trade_y_en.xlsx,1.2,11,14
+2016,import,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1032000000,1032,million USD,raw/nbu/Trade_y_en.xlsx,1.2,11,15
+2017,import,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1147000000,1147,million USD,raw/nbu/Trade_y_en.xlsx,1.2,11,16
+2018,import,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1322000000,1322,million USD,raw/nbu/Trade_y_en.xlsx,1.2,11,17
+2019,import,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1253000000,1253,million USD,raw/nbu/Trade_y_en.xlsx,1.2,11,18
+2020,import,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1347000000,1347,million USD,raw/nbu/Trade_y_en.xlsx,1.2,11,19
+2021,import,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1484000000,1484,million USD,raw/nbu/Trade_y_en.xlsx,1.2,11,20
+2022,import,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,906000000,906,million USD,raw/nbu/Trade_y_en.xlsx,1.2,11,21
+2023,import,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,969000000,969,million USD,raw/nbu/Trade_y_en.xlsx,1.2,11,22
+2024,import,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1105000000,1105,million USD,raw/nbu/Trade_y_en.xlsx,1.2,11,23
+2025,import,Timber and wood products,,hierarchical_category_do_not_sum_all_rows,1140000000,1140,million USD,raw/nbu/Trade_y_en.xlsx,1.2,11,24
+2005,import,Industrial goods,,hierarchical_category_do_not_sum_all_rows,1650000000,1650,million USD,raw/nbu/Trade_y_en.xlsx,1.2,12,4
+2006,import,Industrial goods,,hierarchical_category_do_not_sum_all_rows,1838000000,1838,million USD,raw/nbu/Trade_y_en.xlsx,1.2,12,5
+2007,import,Industrial goods,,hierarchical_category_do_not_sum_all_rows,2129000000,2129,million USD,raw/nbu/Trade_y_en.xlsx,1.2,12,6
+2008,import,Industrial goods,,hierarchical_category_do_not_sum_all_rows,3370000000,3370,million USD,raw/nbu/Trade_y_en.xlsx,1.2,12,7
+2009,import,Industrial goods,,hierarchical_category_do_not_sum_all_rows,1894000000,1894,million USD,raw/nbu/Trade_y_en.xlsx,1.2,12,8
+2010,import,Industrial goods,,hierarchical_category_do_not_sum_all_rows,2880000000,2880,million USD,raw/nbu/Trade_y_en.xlsx,1.2,12,9
+2011,import,Industrial goods,,hierarchical_category_do_not_sum_all_rows,2951000000,2951,million USD,raw/nbu/Trade_y_en.xlsx,1.2,12,10
+2012,import,Industrial goods,,hierarchical_category_do_not_sum_all_rows,3982000000,3982,million USD,raw/nbu/Trade_y_en.xlsx,1.2,12,11
+2013,import,Industrial goods,,hierarchical_category_do_not_sum_all_rows,3881000000,3881,million USD,raw/nbu/Trade_y_en.xlsx,1.2,12,12
+2014,import,Industrial goods,,hierarchical_category_do_not_sum_all_rows,2615000000,2615,million USD,raw/nbu/Trade_y_en.xlsx,1.2,12,13
+2015,import,Industrial goods,,hierarchical_category_do_not_sum_all_rows,1749000000,1749,million USD,raw/nbu/Trade_y_en.xlsx,1.2,12,14
+2016,import,Industrial goods,,hierarchical_category_do_not_sum_all_rows,1957000000,1957,million USD,raw/nbu/Trade_y_en.xlsx,1.2,12,15
+2017,import,Industrial goods,,hierarchical_category_do_not_sum_all_rows,2127000000,2127,million USD,raw/nbu/Trade_y_en.xlsx,1.2,12,16
+2018,import,Industrial goods,,hierarchical_category_do_not_sum_all_rows,2575000000,2575,million USD,raw/nbu/Trade_y_en.xlsx,1.2,12,17
+2019,import,Industrial goods,,hierarchical_category_do_not_sum_all_rows,3108000000,3108,million USD,raw/nbu/Trade_y_en.xlsx,1.2,12,18
+2020,import,Industrial goods,,hierarchical_category_do_not_sum_all_rows,3008000000,3008,million USD,raw/nbu/Trade_y_en.xlsx,1.2,12,19
+2021,import,Industrial goods,,hierarchical_category_do_not_sum_all_rows,3671000000,3671,million USD,raw/nbu/Trade_y_en.xlsx,1.2,12,20
+2022,import,Industrial goods,,hierarchical_category_do_not_sum_all_rows,3301000000,3301,million USD,raw/nbu/Trade_y_en.xlsx,1.2,12,21
+2023,import,Industrial goods,,hierarchical_category_do_not_sum_all_rows,3185000000,3185,million USD,raw/nbu/Trade_y_en.xlsx,1.2,12,22
+2024,import,Industrial goods,,hierarchical_category_do_not_sum_all_rows,3237000000,3237,million USD,raw/nbu/Trade_y_en.xlsx,1.2,12,23
+2025,import,Industrial goods,,hierarchical_category_do_not_sum_all_rows,3401000000,3401,million USD,raw/nbu/Trade_y_en.xlsx,1.2,12,24
+2005,import,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,2407000000,2407,million USD,raw/nbu/Trade_y_en.xlsx,1.2,13,4
+2006,import,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,3260000000,3260,million USD,raw/nbu/Trade_y_en.xlsx,1.2,13,5
+2007,import,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,4662000000,4662,million USD,raw/nbu/Trade_y_en.xlsx,1.2,13,6
+2008,import,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,6280000000,6280,million USD,raw/nbu/Trade_y_en.xlsx,1.2,13,7
+2009,import,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,2587000000,2587,million USD,raw/nbu/Trade_y_en.xlsx,1.2,13,8
+2010,import,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,3988000000,3988,million USD,raw/nbu/Trade_y_en.xlsx,1.2,13,9
+2011,import,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,5522000000,5522,million USD,raw/nbu/Trade_y_en.xlsx,1.2,13,10
+2012,import,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,5079000000,5079,million USD,raw/nbu/Trade_y_en.xlsx,1.2,13,11
+2013,import,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,4552000000,4552,million USD,raw/nbu/Trade_y_en.xlsx,1.2,13,12
+2014,import,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,3208000000,3208,million USD,raw/nbu/Trade_y_en.xlsx,1.2,13,13
+2015,import,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,1897000000,1897,million USD,raw/nbu/Trade_y_en.xlsx,1.2,13,14
+2016,import,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,2192000000,2192,million USD,raw/nbu/Trade_y_en.xlsx,1.2,13,15
+2017,import,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,2878000000,2878,million USD,raw/nbu/Trade_y_en.xlsx,1.2,13,16
+2018,import,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,3431000000,3431,million USD,raw/nbu/Trade_y_en.xlsx,1.2,13,17
+2019,import,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,3516000000,3516,million USD,raw/nbu/Trade_y_en.xlsx,1.2,13,18
+2020,import,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,3008000000,3008,million USD,raw/nbu/Trade_y_en.xlsx,1.2,13,19
+2021,import,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,4221000000,4221,million USD,raw/nbu/Trade_y_en.xlsx,1.2,13,20
+2022,import,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,2487000000,2487,million USD,raw/nbu/Trade_y_en.xlsx,1.2,13,21
+2023,import,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,3276000000,3276,million USD,raw/nbu/Trade_y_en.xlsx,1.2,13,22
+2024,import,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,3798000000,3798,million USD,raw/nbu/Trade_y_en.xlsx,1.2,13,23
+2025,import,Ferrrous and nonferrous metals,,hierarchical_category_do_not_sum_all_rows,4400000000,4400,million USD,raw/nbu/Trade_y_en.xlsx,1.2,13,24
+2005,import,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,9903000000,9903,million USD,raw/nbu/Trade_y_en.xlsx,1.2,14,4
+2006,import,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,13402000000,13402,million USD,raw/nbu/Trade_y_en.xlsx,1.2,14,5
+2007,import,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,19079000000,19079,million USD,raw/nbu/Trade_y_en.xlsx,1.2,14,6
+2008,import,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,25863000000,25863,million USD,raw/nbu/Trade_y_en.xlsx,1.2,14,7
+2009,import,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,8453000000,8453,million USD,raw/nbu/Trade_y_en.xlsx,1.2,14,8
+2010,import,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,11799000000,11799,million USD,raw/nbu/Trade_y_en.xlsx,1.2,14,9
+2011,import,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,19208000000,19208,million USD,raw/nbu/Trade_y_en.xlsx,1.2,14,10
+2012,import,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,21012000000,21012,million USD,raw/nbu/Trade_y_en.xlsx,1.2,14,11
+2013,import,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,18154000000,18154,million USD,raw/nbu/Trade_y_en.xlsx,1.2,14,12
+2014,import,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,10724000000,10724,million USD,raw/nbu/Trade_y_en.xlsx,1.2,14,13
+2015,import,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,7504000000,7504,million USD,raw/nbu/Trade_y_en.xlsx,1.2,14,14
+2016,import,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,10353000000,10353,million USD,raw/nbu/Trade_y_en.xlsx,1.2,14,15
+2017,import,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,13569000000,13569,million USD,raw/nbu/Trade_y_en.xlsx,1.2,14,16
+2018,import,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,15992000000,15992,million USD,raw/nbu/Trade_y_en.xlsx,1.2,14,17
+2019,import,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,19361000000,19361,million USD,raw/nbu/Trade_y_en.xlsx,1.2,14,18
+2020,import,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,17408000000,17408,million USD,raw/nbu/Trade_y_en.xlsx,1.2,14,19
+2021,import,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,21845000000,21845,million USD,raw/nbu/Trade_y_en.xlsx,1.2,14,20
+2022,import,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,14827000000,14827,million USD,raw/nbu/Trade_y_en.xlsx,1.2,14,21
+2023,import,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,19613000000,19613,million USD,raw/nbu/Trade_y_en.xlsx,1.2,14,22
+2024,import,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,24564000000,24564,million USD,raw/nbu/Trade_y_en.xlsx,1.2,14,23
+2025,import,Machinery and equipment,,hierarchical_category_do_not_sum_all_rows,33651000000,33651,million USD,raw/nbu/Trade_y_en.xlsx,1.2,14,24
+2005,import,Other*,,hierarchical_category_do_not_sum_all_rows,1640000000,1640,million USD,raw/nbu/Trade_y_en.xlsx,1.2,15,4
+2006,import,Other*,,hierarchical_category_do_not_sum_all_rows,1661000000,1661,million USD,raw/nbu/Trade_y_en.xlsx,1.2,15,5
+2007,import,Other*,,hierarchical_category_do_not_sum_all_rows,2662000000,2662,million USD,raw/nbu/Trade_y_en.xlsx,1.2,15,6
+2008,import,Other*,,hierarchical_category_do_not_sum_all_rows,2899000000,2899,million USD,raw/nbu/Trade_y_en.xlsx,1.2,15,7
+2009,import,Other*,,hierarchical_category_do_not_sum_all_rows,787000000,787,million USD,raw/nbu/Trade_y_en.xlsx,1.2,15,8
+2010,import,Other*,,hierarchical_category_do_not_sum_all_rows,1228000000,1228,million USD,raw/nbu/Trade_y_en.xlsx,1.2,15,9
+2011,import,Other*,,hierarchical_category_do_not_sum_all_rows,5273000000,5273,million USD,raw/nbu/Trade_y_en.xlsx,1.2,15,10
+2012,import,Other*,,hierarchical_category_do_not_sum_all_rows,7169000000,7169,million USD,raw/nbu/Trade_y_en.xlsx,1.2,15,11
+2013,import,Other*,,hierarchical_category_do_not_sum_all_rows,10045000000,10045,million USD,raw/nbu/Trade_y_en.xlsx,1.2,15,12
+2014,import,Other*,,hierarchical_category_do_not_sum_all_rows,8078000000,8078,million USD,raw/nbu/Trade_y_en.xlsx,1.2,15,13
+2015,import,Other*,,hierarchical_category_do_not_sum_all_rows,4652000000,4652,million USD,raw/nbu/Trade_y_en.xlsx,1.2,15,14
+2016,import,Other*,,hierarchical_category_do_not_sum_all_rows,4732000000,4732,million USD,raw/nbu/Trade_y_en.xlsx,1.2,15,15
+2017,import,Other*,,hierarchical_category_do_not_sum_all_rows,3827000000,3827,million USD,raw/nbu/Trade_y_en.xlsx,1.2,15,16
+2018,import,Other*,,hierarchical_category_do_not_sum_all_rows,3690000000,3690,million USD,raw/nbu/Trade_y_en.xlsx,1.2,15,17
+2019,import,Other*,,hierarchical_category_do_not_sum_all_rows,3908000000,3908,million USD,raw/nbu/Trade_y_en.xlsx,1.2,15,18
+2020,import,Other*,,hierarchical_category_do_not_sum_all_rows,2812000000,2812,million USD,raw/nbu/Trade_y_en.xlsx,1.2,15,19
+2021,import,Other*,,hierarchical_category_do_not_sum_all_rows,3547000000,3547,million USD,raw/nbu/Trade_y_en.xlsx,1.2,15,20
+2022,import,Other*,,hierarchical_category_do_not_sum_all_rows,6607000000,6607,million USD,raw/nbu/Trade_y_en.xlsx,1.2,15,21
+2023,import,Other*,,hierarchical_category_do_not_sum_all_rows,9496000000,9496,million USD,raw/nbu/Trade_y_en.xlsx,1.2,15,22
+2024,import,Other*,,hierarchical_category_do_not_sum_all_rows,10017000000,10017,million USD,raw/nbu/Trade_y_en.xlsx,1.2,15,23
+2025,import,Other*,,hierarchical_category_do_not_sum_all_rows,10115000000,10115,million USD,raw/nbu/Trade_y_en.xlsx,1.2,15,24

@@ -18,20 +18,36 @@
 .reveal .chart .html-widget { width: 100% !important; max-width: 100%; }
 .reveal .chart svg { max-width: none; max-height: none; }
 .reveal .full-chart .chart { width: 1150px; max-width: 100%; align-self: center; }
+.reveal #output .chart { width: 1488px; }
+.reveal .macro-panels { display: flex; flex-direction: column; justify-content: center; gap: 8px; }
+.reveal .macro-panel { width: 100%; min-width: 0; }
+.reveal .macro-title { font-size: 23px; font-weight: 700; margin: 0 0 2px; }
+.reveal .macro-selection { display: flex; align-items: center; gap: 14px; font-size: 20px; }
+.reveal .macro-selection input { width: 260px; accent-color: #e3b522; }
+.reveal .macro-takeaway { margin-top: 8px; padding-top: 8px; font-size: 21px; }
 .reveal .placebo-countries { font-size: 25px; line-height: 1.8; }
+.reveal .formula-content { gap: 24px; }
+.reveal .formula-line { font-size: 42px; padding: 22px 28px; background: #edf4f7; border-left: 5px solid #1675ae; }
+.reveal .formula-explain { color: #587181; font-size: 24px; }
+.reveal .formula-step { font-size: 30px; line-height: 1.35; }
+.reveal .formula-step p + p { color: #587181; font-size: 24px; }
 .reveal .population-fact strong { font-family: Barlow, sans-serif; font-size: 84px; }
 .reveal .split .slide-content, .reveal .weights .slide-content, .reveal .placebos .slide-content, .reveal .intro .slide-content { display: grid; grid-template-columns: 1.55fr 1fr; align-items: center; gap: 48px; }
 .reveal .intro .slide-content { grid-template-columns: 1fr 1.2fr; }
+.reveal .weights .slide-content { grid-template-columns: minmax(0, 2.3fr) minmax(0, 1fr); gap: 36px; }
+.reveal .weights .weight-note { margin-top: 14px; font-size: 22px; line-height: 1.3; }
+.reveal .weights .central-asia { margin-top: 18px; border-top: 1px solid #a9b8bf; padding-top: 6px; font-size: 18px; }
 .reveal .takeaway { border-top: 3px solid #f5cc41; padding-top: 16px; margin-top: 20px; font-size: 27px; line-height: 1.3; }
 .reveal .source-links { font-size: 14px; line-height: 1.4; color: #587181; margin-top: 12px; }
 .reveal .source-links a { color: #587181; }
 .reveal .under-chart { display: flex; gap: 32px; justify-content: space-between; font-size: 22px; margin-top: 8px; }
 .reveal .two-stats, .reveal .paper-design, .reveal .method-steps, .reveal .replication-columns { display: flex; gap: 40px; justify-content: space-between; }
 .reveal .two-stats { justify-content: flex-start; gap: 60px; }
-.reveal .method-steps article, .reveal .replication-columns > div, .reveal .paper-design > div { flex: 1; }
-.reveal .method-steps { font-size: 26px; }
-.reveal .method-steps article { border-top: 3px solid #1675ae; padding-top: 16px; }
-.reveal .method-steps article > span { color: #1675ae; font-size: 20px; }
+.reveal .method-step, .reveal .replication-columns > div, .reveal .paper-design > div { flex: 1; min-width: 0; }
+.reveal .method-steps { font-size: 24px; line-height: 1.35; }
+.reveal .method-step { border-top: 3px solid #1675ae; padding-top: 16px; }
+.reveal .method-stage { color: #1675ae; font-size: 20px; }
+.reveal .method-step strong { display: block; font-size: 29px; line-height: 1.2; margin: 12px 0; }
 .reveal h3 { font-size: 34px; line-height: 1.1; margin: 10px 0; }
 .reveal .method-chart { max-width: 1050px; align-self: center; margin-top: 24px; }
 .reveal .big-stat, .reveal .two-stats b, .reveal .design-number { font-family: Barlow, sans-serif; font-size: 84px; line-height: 1.1; font-weight: 600; }
@@ -94,7 +110,7 @@
 
 .lecture-dark .reveal .backgrounds, .lecture-dark .reveal .slide-background { background-color: #101e29; }
 
-.lecture-dark .reveal .chapter, .lecture-dark .reveal #about-me h2, .lecture-dark .reveal #agenda h2, .lecture-dark .reveal #agenda li::before, .lecture-dark .reveal .bio-contact, .lecture-dark .reveal .timeline-card h3, .lecture-dark .reveal .method-steps article > span, .lecture-dark .reveal a { color: #79c9f5; }
+.lecture-dark .reveal .chapter, .lecture-dark .reveal #about-me h2, .lecture-dark .reveal #agenda h2, .lecture-dark .reveal #agenda li::before, .lecture-dark .reveal .bio-contact, .lecture-dark .reveal .timeline-card h3, .lecture-dark .reveal .method-stage, .lecture-dark .reveal a { color: #79c9f5; }
 
 .lecture-dark .reveal .kicker, .lecture-dark .reveal .source-links, .lecture-dark .reveal .source-links a, .lecture-dark .reveal .stat-caption, .lecture-dark .reveal .population-fact p, .lecture-dark .reveal .warning, .lecture-dark .reveal .unit-note, .lecture-dark .reveal .status-label, .lecture-dark .reveal .bio-affiliation { color: #b3c9d6; }
 
@@ -108,11 +124,15 @@
 
 .lecture-dark .highcharts-axis-labels text, .lecture-dark .highcharts-axis-title, .lecture-dark .highcharts-legend-item text, .lecture-dark .highcharts-data-label text { fill: #e2edf3 !important; }
 
+.lecture-dark .highcharts-data-label .highcharts-text-outline { fill: #101e29; stroke: #101e29; }
+.lecture-dark .highcharts-plot-band-label { fill: #e2edf3 !important; }
 .lecture-dark .highcharts-map-series .highcharts-data-label text { fill: #163c55 !important; }
+.lecture-dark #weights .highcharts-data-label .highcharts-text-outline { fill: #fff; stroke: #fff; }
 
 .lecture-dark .highcharts-series [stroke="#163c55"] { stroke: #a6d8f2; }
+.lecture-dark .highcharts-series [stroke="#198a84"] { stroke: #64d6c8; }
 
-.lecture-dark .highcharts-series [fill="#163c55"] { fill: #a6d8f2; }
+.lecture-dark .highcharts-series [fill="#163c55"], .lecture-dark .highcharts-legend-item [fill="#163c55"] { fill: #a6d8f2; }
 
 .lecture-dark .highcharts-grid-line { stroke: #415767; }
 
